@@ -1,0 +1,265 @@
+{
+  "cycles": {
+    "SATURN_1": {
+      "name": "Premier Retour de Saturne",
+      "theme": "Maturité et responsabilité",
+      "description": "Le Premier Retour de Saturne est l'un des passages les plus importants de votre vie. Entre 28 et 30 ans, Saturne revient à la position qu'il occupait le jour de votre naissance — et il vous demande des comptes. C'est le moment où l'adolescence prolongée se termine vraiment. La vie vous invite à prendre vos responsabilités, à choisir consciemment votre direction et à construire des bases solides pour les 29 années à venir. En Human Design, ce cycle active votre stratégie de vie de façon particulièrement intense. Si vous avez vécu contre votre nature profonde, Saturne vous le rappellera avec insistance. Si vous avez suivi votre vérité, ce passage sera une confirmation puissante.",
+      "invitation": "Prenez vos responsabilités avec confiance. Ce que vous bâtissez maintenant durera 29 ans."
+    },
+    "CHIRON_OPP": {
+      "name": "Opposition de Chiron",
+      "theme": "Guérison des blessures",
+      "description": "Entre 38 et 42 ans, Chiron — l'astéroïde du Guérisseur Blessé — se trouve exactement à l'opposé de sa position natale. C'est l'un des passages les plus profonds et les plus transformateurs de l'existence humaine. Cette période remonte à la surface vos blessures les plus anciennes — celles que vous pensiez avoir dépassées, ou celles que vous n'avez jamais osé regarder en face. Ce n'est pas une punition — c'est une invitation à guérir en profondeur. En Human Design, l'opposition de Chiron révèle les centres indéfinis de votre Bodygraph avec une clarté particulière. C'est souvent à ce moment que les gens découvrent leur Design et comprennent enfin pourquoi certaines choses ont toujours été difficiles pour eux.",
+      "invitation": "Regardez vos blessures avec douceur. Ce qui vous a fait souffrir porte votre plus grand don."
+    },
+    "URANUS_OPP": {
+      "name": "Opposition d'Uranus",
+      "theme": "Révolution intérieure",
+      "description": "Uranus met 84 ans pour faire le tour du zodiaque. À mi-chemin — vers 38 à 42 ans — il se retrouve à l'opposé de sa position natale. C'est ce qu'on appelle communément la \"crise de la quarantaine\" — mais c'est en réalité bien plus profond. Uranus est la planète de l'éveil, de la liberté et de la révolution. Son opposition secoue tout ce qui dans votre vie n'est pas authentiquement vous — les rôles joués pour plaire, les chemins empruntés par obligation, les identités héritées plutôt que choisies. En Human Design, c'est souvent le moment où les gens commencent à vivre vraiment selon leur Type et leur Stratégie. La révolution intérieure d'Uranus vous libère pour être pleinement vous-même.",
+      "invitation": "Osez être vraiment vous-même. La révolution intérieure est une libération, pas une crise."
+    },
+    "CHIRON_RET": {
+      "name": "Retour de Chiron",
+      "theme": "Accomplissement et guérison",
+      "description": "Entre 50 et 51 ans, Chiron revient exactement à sa position natale pour la première fois de votre vie. C'est le Retour de Chiron — un passage de guérison et d'accomplissement. Si vous avez traversé l'opposition de Chiron (38-42 ans) avec conscience et courage, ce retour est une récompense : une capacité de guérison profonde, une sagesse née de vos blessures transformées, et un don naturel pour aider les autres à traverser ce que vous avez vous-même traversé. En Human Design, le Retour de Chiron marque souvent l'entrée dans la maturité spirituelle. Votre Design commence à s'exprimer avec une aisance et une profondeur nouvelles.",
+      "invitation": "Votre blessure transformée est devenue votre plus grand cadeau. Partagez-le."
+    },
+    "SATURN_2": {
+      "name": "Deuxième Retour de Saturne",
+      "theme": "Sagesse et transmission",
+      "description": "Le Deuxième Retour de Saturne, entre 56 et 60 ans, est moins connu que le premier mais tout aussi important. Saturne vous invite cette fois non plus à construire, mais à transmettre. C'est le passage de l'action à la sagesse, du faire à l'être. La vie vous demande de partager ce que vous avez appris, de simplifier ce qui peut l'être, et de vous concentrer sur ce qui compte vraiment dans le temps qu'il vous reste. En Human Design, ce cycle active souvent le désir de vivre de façon plus authentique et alignée. Beaucoup de gens changent de direction professionnelle ou de vie à ce moment — non par crise, mais par clarté.",
+      "invitation": "Transmettez ce que vous savez. Votre sagesse a de la valeur pour ceux qui viennent après vous."
+    },
+    "SATURN_OPP": {
+      "name": "Opposition de Saturne",
+      "theme": "Sagesse mise à l'épreuve",
+      "description": "Vers 72 à 74 ans, Saturne se retrouve à l'opposé de sa position natale pour la troisième fois de votre vie — un écho plus doux du grand chapitre ouvert au Premier Retour (28-30 ans) et refermé au Deuxième Retour (56-60 ans). Ce n'est plus un moment de construction ni de transmission, mais un moment de vérification : ce que vous avez bâti et transmis tient-il encore debout, à vos propres yeux et non plus à ceux des autres ? En Human Design, cette période met à l'épreuve la solidité de votre stratégie de Type sur la durée — pas pour vous faire douter, mais pour confirmer, une dernière fois, que vous vivez bien selon votre nature et non selon une image à préserver.",
+      "invitation": "Vérifiez, sans crainte, que votre vie tient toujours debout selon vos propres critères."
+    },
+    "NODE_RETURN": {
+      "name": "Retour des Nœuds Lunaires",
+      "theme": "Rappel de votre mission de vie",
+      "description": "Vers 74 à 75 ans, les Nœuds Lunaires reviennent exactement à la position qu'ils occupaient le jour de votre naissance — un cycle de 18,6 ans qui, à cet âge, boucle sa quatrième révolution complète depuis votre venue au monde. En Human Design, les Nœuds sont au cœur même de votre Croix d'Incarnation, celle qui décrit le sens profond de votre vie. Ce retour n'est pas un simple jalon astrologique emprunté : c'est un rappel direct de la mission que votre Design porte depuis le premier jour — l'occasion de reconnaître, avec le recul de toute une vie, à quel point vous l'avez déjà accomplie.",
+      "invitation": "Reconnaissez, avec gratitude, à quel point vous avez déjà incarné votre mission."
+    },
+    "URANUS_RET": {
+      "name": "Retour d'Uranus",
+      "theme": "Libération totale",
+      "description": "Le Retour d'Uranus à 84 ans est le cycle le plus rare de tous. Peu d'êtres humains y arrivent — et ceux qui y parviennent portent une sagesse et une liberté intérieure exceptionnelles. Uranus revient exactement à sa position natale pour la première et unique fois de votre vie. C'est une libération totale — de toutes les peurs, de tous les conditionnements, de tout ce qui n'était pas vraiment vous. En Human Design, ce cycle représente l'accomplissement complet de votre Design. Vous êtes devenu(e) pleinement ce que vous étiez destiné(e) à être.",
+      "invitation": "Vous êtes libre. Pleinement, totalement libre d'être vous-même."
+    }
+  },
+  "personalYears": {
+    "1": {
+      "theme": "Nouveau départ",
+      "hdTheme": "Initiation de votre Design",
+      "description": "Cette année marque le début d'un nouveau cycle de 9 ans dans votre vie. En Human Design, c'est l'année où votre énergie naturelle cherche à s'exprimer dans une direction nouvelle et authentique. Si vous êtes Générateur ou Générateur Manifestant : c'est le moment d'attendre les nouvelles opportunités qui résonnent vraiment dans votre ventre avant d'agir. Si vous êtes Manifesteur : une nouvelle impulsion créatrice cherche à se manifester, informez votre entourage de vos intentions. Si vous êtes Projecteur : attendez une invitation dans un nouveau domaine, elle viendra si vous restez visible et disponible. Si vous êtes Réflecteur : observez les nouvelles directions qui s'offrent à vous, prenez votre temps.",
+      "strategy": "Suivez votre stratégie de vie avec une attention particulière cette année.",
+      "affirmation": "Je commence ce nouveau cycle en étant pleinement fidèle à ma nature profonde."
+    },
+    "2": {
+      "theme": "Patience et relations",
+      "hdTheme": "Approfondissement des connexions",
+      "description": "Cette année est placée sous le signe de la patience et des relations authentiques. En Human Design, c'est une période où la qualité de vos connexions humaines est primordiale. Vos centres indéfinis sont particulièrement actifs cette année — vous absorbez et amplifiez l'énergie des autres avec plus d'intensité. Choisissez soigneusement votre entourage : les personnes qui vous entourent conditionnent profondément votre expérience. C'est aussi une année où votre autorité intérieure se développe. Apprenez à distinguer ce qui vous appartient vraiment de ce que vous absorbez des autres.",
+      "strategy": "Restez fidèle à votre autorité intérieure dans vos relations.",
+      "affirmation": "Je construis des liens authentiques qui honorent ma vraie nature."
+    },
+    "3": {
+      "theme": "Expression créatrice",
+      "hdTheme": "Manifestation de votre voix unique",
+      "description": "Cette année porte une énergie d'expression et de créativité particulièrement forte. En Human Design, c'est l'année où votre Gorge — centre de l'expression et de la manifestation — est activée de façon intensive. Si votre Gorge est définie : votre expression naturelle trouve une nouvelle richesse et une nouvelle portée, partagez ce que vous avez à dire, votre voix est particulièrement puissante. Si votre Gorge est indéfinie : soyez attentif(ve) à ne pas parler pour attirer l'attention, exprimez-vous quand c'est juste, pas par pression. C'est une excellente année pour tout projet créatif, artistique ou communicatif.",
+      "strategy": "Exprimez-vous selon votre stratégie — répondez, informez, ou attendez l'invitation.",
+      "affirmation": "Ma voix unique est un cadeau que je partage avec le monde."
+    },
+    "4": {
+      "theme": "Construction et fondations",
+      "hdTheme": "Ancrage de votre Design dans le concret",
+      "description": "Cette année demande effort, méthode et persévérance. En Human Design, c'est l'année où vous êtes invité(e) à ancrer votre Design dans des réalisations concrètes et durables. C'est particulièrement une année favorable pour travailler sur vos centres indéfinis — comprendre comment ils fonctionnent, identifier vos conditionnements et développer la sagesse qui y est associée. Votre stratégie de Type est particulièrement importante cette année. Si vous la respectez, ce que vous construisez sera solide et durable. Si vous la négligez, vous risquez de construire sur des fondations qui ne sont pas les vôtres.",
+      "strategy": "Construisez selon votre nature — pas selon les attentes des autres.",
+      "affirmation": "Je construis ma vie sur les fondations authentiques de mon Design."
+    },
+    "5": {
+      "theme": "Changement et transformation",
+      "hdTheme": "Libération des conditionnements",
+      "description": "Cette année apporte des changements souvent inattendus qui remettent en question vos certitudes. En Human Design, c'est une année de déconditionnement puissant. Le déconditionnement est le processus par lequel vous libérez les influences extérieures qui ont coloré vos centres indéfinis depuis l'enfance. Cette année, des situations vont surgir pour vous aider à voir clairement ce qui est vraiment vous et ce qui ne l'est pas. C'est parfois inconfortable — mais c'est toujours libérateur. Chaque changement cette année vous rapproche d'une version plus authentique et plus libre de vous-même.",
+      "strategy": "Accueillez les changements — ils vous libèrent de ce qui n'était pas vous.",
+      "affirmation": "Je me libère avec grâce de tout ce qui m'empêche d'être pleinement moi."
+    },
+    "6": {
+      "theme": "Relations et responsabilités",
+      "hdTheme": "Le Design dans vos relations",
+      "description": "Cette année place vos relations au cœur de votre expérience. En Human Design, c'est l'année où la dynamique entre votre Design et celui des autres devient particulièrement visible et significative. Vous commencez peut-être à comprendre pourquoi certaines personnes vous épuisent et d'autres vous revitalisent — c'est l'énergie des centres définis et indéfinis à l'œuvre dans vos relations. Cette année vous invite à créer des relations basées sur votre vraie nature — non sur ce que vous croyez devoir être pour les autres. L'amour de soi est la base de tout amour authentique.",
+      "strategy": "Choisissez vos relations selon votre stratégie — pas par peur ou obligation.",
+      "affirmation": "Mes relations reflètent et honorent qui je suis vraiment."
+    },
+    "7": {
+      "theme": "Introspection et sagesse",
+      "hdTheme": "Approfondissement de votre connaissance du Design",
+      "description": "Cette année est l'une des plus importantes pour votre parcours Human Design. C'est une année d'approfondissement, d'introspection et de compréhension plus fine de votre propre Design. Vous pourriez ressentir le besoin de vous retirer du monde, d'étudier, de méditer — écoutez ce besoin, il est juste. Les réponses que vous cherchez sur vous-même viendront dans le calme et la solitude choisie. C'est aussi une excellente année pour approfondir votre compréhension du Human Design — explorer vos portes, vos canaux, vos circuits. Plus vous vous connaissez, plus vous vivez votre Design avec aisance.",
+      "strategy": "Accordez-vous du temps seul(e) pour approfondir votre connaissance de vous-même.",
+      "affirmation": "Ma sagesse intérieure me guide vers ma vérité la plus profonde."
+    },
+    "8": {
+      "theme": "Accomplissement et récolte",
+      "hdTheme": "La puissance de votre Design en action",
+      "description": "Cette année porte une énergie d'accomplissement et de réalisation concrète. En Human Design, c'est l'année où votre Design s'exprime avec une puissance et une clarté particulières. Si vous avez respecté votre stratégie et votre autorité ces dernières années, vous récoltez maintenant les fruits de cette authenticité — les bons résultats viennent naturellement quand on vit selon son Design. C'est aussi l'année où le karma de vos interactions est particulièrement visible — ce que vous avez donné vous revient, sous une forme ou une autre. Agissez avec intégrité et selon votre vraie nature.",
+      "strategy": "Récoltez avec grâce ce que votre authenticité a semé.",
+      "affirmation": "Je vis mon Design avec puissance et intégrité, et j'accueille l'abondance."
+    },
+    "9": {
+      "theme": "Bilan et lâcher prise",
+      "hdTheme": "Clôture d'un cycle de déconditionnement",
+      "description": "Cette dernière année du cycle est une année de bilan et de lâcher prise profond. En Human Design, c'est le moment de clôturer tout un cycle de déconditionnement et de vous préparer à une nouvelle façon d'être. Qu'avez-vous appris sur votre Design ces 9 dernières années ? Quels conditionnements avez-vous libérés ? Qu'est-ce qui reste encore à travailler ? Cette année vous invite à lâcher tout ce qui appartient au passé — les anciens schémas, les vieilles croyances sur vous-même, les relations qui ne correspondent plus à qui vous êtes devenu(e). Faites de la place pour le nouveau cycle qui commence.",
+      "strategy": "Lâchez ce cycle avec gratitude. Votre Design vous a amené(e) plus loin que vous ne le pensez.",
+      "affirmation": "Je clôture ce cycle avec sagesse et gratitude, prêt(e) pour ma prochaine évolution."
+    },
+    "11": {
+      "theme": "Vision et éveil intuitif",
+      "hdTheme": "Amplification de votre perception au-delà du Design connu",
+      "description": "Cette année porte l'intensité d'un nombre maître : tout ce que le 2 explore en douceur (patience, relations, sensibilité aux autres) se vit ici à un niveau plus vif, presque électrique. En Human Design, c'est une année où votre perception s'aiguise au-delà de ce que votre Design habituel révèle — vos centres indéfinis captent avec une acuité inhabituelle, et cette sensibilité accrue, bien canalisée, devient une véritable intuition. Ce n'est pas un fardeau à porter seul(e) : c'est une invitation à faire confiance à ce que vous percevez, même quand vous ne pouvez pas encore l'expliquer.",
+      "strategy": "Faites confiance aux signaux subtils que vous captez cette année — ils viennent d'une perception élargie, pas d'un excès d'imagination.",
+      "affirmation": "Je fais confiance à ma perception élargie et je l'utilise avec discernement."
+    },
+    "22": {
+      "theme": "Le bâtisseur",
+      "hdTheme": "Manifester à grande échelle selon votre stratégie",
+      "description": "Le 22 est appelé le nombre du \"bâtisseur maître\" : ce que le 4 construit patiemment à son échelle, le 22 peut le porter à une envergure bien plus large. En Human Design, cette année amplifie fortement votre capacité à ancrer votre Design dans le concret — mais l'ampleur de ce nombre ne dispense en rien de votre stratégie de Type. Au contraire : plus le projet est grand, plus il est essentiel d'attendre le bon signal (réponse, invitation, information) avant d'agir, pour que ce que vous bâtissez repose sur des fondations qui sont vraiment les vôtres.",
+      "strategy": "Ne laissez pas l'ampleur du 22 vous pousser à agir plus vite que votre stratégie ne le permet.",
+      "affirmation": "Je construis grand, mais je construis selon ma vraie nature, un pas juste à la fois."
+    }
+  },
+  "personalMonths": {
+    "1": {
+      "theme": "Initiation",
+      "hdFocus": "Votre stratégie de Type",
+      "description": "Ce mois active votre énergie d'initiation. En Human Design, c'est le moment de mettre votre stratégie de Type en action — commencez quelque chose de nouveau en respectant votre façon naturelle d'agir.",
+      "practicalTip": "Générateur : attendez de ressentir un vrai 'oui' avant de commencer. Manifesteur : informez avant d'agir. Projecteur : attendez l'invitation. Réflecteur : observez."
+    },
+    "2": {
+      "theme": "Relations",
+      "hdFocus": "Vos centres indéfinis dans les relations",
+      "description": "Ce mois met l'accent sur vos relations et vos connexions. En Human Design, c'est le moment de prendre conscience de ce que vous absorbez des autres dans vos centres indéfinis.",
+      "practicalTip": "Observez comment votre énergie change selon les personnes que vous fréquentez. Choisissez votre entourage avec soin ce mois-ci."
+    },
+    "3": {
+      "theme": "Expression",
+      "hdFocus": "Votre centre de la Gorge",
+      "description": "Ce mois favorise l'expression et la communication. En Human Design, votre centre de la Gorge est particulièrement actif — exprimez-vous selon votre stratégie.",
+      "practicalTip": "Si votre Gorge est définie : exprimez-vous librement. Si elle est indéfinie : attendez d'être interrogé(e) avant de parler plutôt que de parler pour remplir le silence."
+    },
+    "4": {
+      "theme": "Fondations",
+      "hdFocus": "Votre autorité intérieure",
+      "description": "Ce mois invite à ancrer votre Design dans des fondations concrètes. C'est un excellent mois pour renforcer votre connexion à votre autorité intérieure — la boussole unique qui vous guide vers les bonnes décisions.",
+      "practicalTip": "Pratiquez l'écoute de votre autorité intérieure dans chaque décision de ce mois, grande ou petite."
+    },
+    "5": {
+      "theme": "Changement",
+      "hdFocus": "Déconditionnement",
+      "description": "Ce mois apporte des changements qui vous invitent à vous libérer de vos conditionnements. En Human Design, c'est une période de déconditionnement accéléré — ce qui n'est pas vraiment vous cherche à partir.",
+      "practicalTip": "Observez vos réactions automatiques ce mois-ci. Demandez-vous : 'Est-ce vraiment moi, ou est-ce un conditionnement hérité ?'"
+    },
+    "6": {
+      "theme": "Harmonie",
+      "hdFocus": "Votre Design dans votre foyer",
+      "description": "Ce mois place l'harmonie au cœur de votre vie. En Human Design, c'est le moment de créer un environnement qui soutient vraiment votre Design — votre espace de vie influence profondément votre énergie.",
+      "practicalTip": "Aménagez votre espace de vie pour soutenir votre nature. Un Générateur a besoin d'espace pour bouger. Un Projecteur a besoin de calme."
+    },
+    "7": {
+      "theme": "Introspection",
+      "hdFocus": "Approfondissement de votre Design",
+      "description": "Ce mois invite à l'approfondissement intérieur. C'est un excellent mois pour étudier votre Human Design plus en profondeur — explorer vos portes, vos canaux, vos circuits.",
+      "practicalTip": "Consacrez du temps ce mois-ci à mieux comprendre un aspect de votre Design que vous ne connaissez pas encore bien."
+    },
+    "8": {
+      "theme": "Accomplissement",
+      "hdFocus": "La puissance de votre Design en action",
+      "description": "Ce mois porte une énergie d'accomplissement et de puissance. En Human Design, c'est le moment où votre Design s'exprime avec le plus de force et d'efficacité. Agissez selon votre stratégie avec confiance.",
+      "practicalTip": "C'est le mois pour faire avancer vos projets importants en suivant votre stratégie de Type avec une attention particulière."
+    },
+    "9": {
+      "theme": "Intégration",
+      "hdFocus": "Bilan de votre parcours HD",
+      "description": "Ce mois invite à l'intégration et au bilan. En Human Design, c'est le moment de faire le point sur votre parcours de déconditionnement — qu'avez-vous libéré ? Qu'avez-vous intégré de votre Design ?",
+      "practicalTip": "Prenez le temps ce mois-ci de noter ce que vous avez appris sur votre Design et comment votre vie a changé depuis que vous le connaissez."
+    },
+    "11": {
+      "theme": "Intuition amplifiée",
+      "hdFocus": "Vos perceptions subtiles",
+      "description": "Ce mois porte la même intensité que l'Année 11 mais à l'échelle d'un mois : vos perceptions s'aiguisent, particulièrement dans vos centres indéfinis. C'est un mois pour observer plutôt que pour agir vite — les signaux que vous captez ce mois-ci méritent d'être écoutés avec attention avant d'être traduits en décisions.",
+      "practicalTip": "Notez vos intuitions ce mois-ci sans chercher à les justifier tout de suite — leur sens s'éclaircira avec le temps."
+    },
+    "22": {
+      "theme": "Construction à grande échelle",
+      "hdFocus": "Ancrer un projet ambitieux selon votre stratégie",
+      "description": "Ce mois porte une énergie de bâtisseur : l'occasion de poser une pierre importante dans un projet qui compte pour vous. Mais comme pour l'Année 22, l'ampleur ne remplace jamais votre stratégie de Type — laissez le bon signal se présenter avant d'investir votre énergie.",
+      "practicalTip": "Avant de vous engager dans quelque chose de grand ce mois-ci, vérifiez que vous suivez bien votre stratégie, pas seulement votre enthousiasme."
+    }
+  },
+  "dailyGates": {
+    "1": { "yiKingName": "L'Élan créateur", "description": "L'énergie du jour invite à l'expression authentique et créatrice. C'est une journée pour laisser parler votre voix unique sans vous censurer. Ce que vous créez aujourd'hui porte une empreinte particulière.", "invitation": "Exprimez quelque chose d'authentique aujourd'hui — même un petit geste créatif a de la valeur." },
+    "2": { "yiKingName": "La Réceptivité", "description": "L'énergie du jour est receptive et orientée vers l'intérieur. C'est une journée pour écouter votre sens de la direction profond — pas ce que les autres attendent de vous, mais ce vers quoi vous vous sentez naturellement attiré(e).", "invitation": "Faites confiance à votre boussole intérieure aujourd'hui." },
+    "3": { "yiKingName": "La Difficulté initiale", "description": "L'énergie du jour porte la vibration de la mutation et du commencement difficile. Ce qui semble chaotique aujourd'hui est en train de trouver son ordre. Faites confiance au processus.", "invitation": "Accueillez le désordre apparent — il prépare quelque chose de nouveau." },
+    "4": { "yiKingName": "La Jeunesse insouciante", "description": "L'énergie du jour favorise la résolution de problèmes et la formulation de nouvelles idées. Votre esprit est particulièrement apte à trouver des solutions créatives aujourd'hui.", "invitation": "Posez vos questions importantes aujourd'hui — les réponses sont accessibles." },
+    "5": { "yiKingName": "L'Attente", "description": "L'énergie du jour honore les rythmes fixes et les habitudes saines. C'est une journée pour respecter vos routines et faire confiance au pouvoir de la régularité.", "invitation": "Honorez vos rituels quotidiens — ils sont la fondation de votre bien-être." },
+    "6": { "yiKingName": "Le Conflit", "description": "L'énergie du jour touche aux relations et aux frictions naturelles entre les êtres. Ce n'est pas une journée à éviter les tensions — c'est une journée à les traverser avec conscience pour trouver une vraie intimité.", "invitation": "Regardez vos tensions relationnelles comme des portes vers plus d'intimité authentique." },
+    "7": { "yiKingName": "L'Armée", "description": "L'énergie du jour porte une vibration de leadership naturel et de direction collective. C'est une journée où votre capacité à guider les autres avec sagesse est particulièrement visible.", "invitation": "Guidez par l'exemple aujourd'hui — votre direction naturelle inspire les autres." },
+    "8": { "yiKingName": "L'Union", "description": "L'énergie du jour honore la contribution unique de chaque individu. C'est une journée pour apporter votre touche personnelle à ce qui vous entoure — votre singularité est votre plus belle contribution.", "invitation": "Apportez votre touche unique aujourd'hui — le monde a besoin de ce que vous seul(e) pouvez offrir." },
+    "9": { "yiKingName": "La Force dompteuse du Petit", "description": "L'énergie du jour favorise la concentration et l'attention aux détails. C'est une journée pour travailler avec précision et patience sur ce qui demande votre attention soutenue.", "invitation": "Concentrez-vous sur un seul sujet important aujourd'hui — la profondeur vaut mieux que la largeur." },
+    "10": { "yiKingName": "La Conduite", "description": "L'énergie du jour invite à vous comporter de façon authentiquement alignée avec qui vous êtes. C'est une journée pour honorer votre propre nature dans chacun de vos actes.", "invitation": "Agissez aujourd'hui exactement comme vous êtes — sans masque, sans performance." },
+    "11": { "yiKingName": "La Paix", "description": "L'énergie du jour déborde d'idées et de possibilités imaginatives. C'est une journée fertile pour la créativité mentale — notez tout ce qui vous vient, sans juger si c'est réalisable.", "invitation": "Laissez vos idées couler librement aujourd'hui — ne filtrez pas, notez tout." },
+    "12": { "yiKingName": "La Stagnation", "description": "L'énergie du jour invite à la prudence dans l'expression. Ce n'est pas toujours le bon moment de tout dire — choisissez vos mots avec soin et exprimez-vous quand c'est juste.", "invitation": "Parlez moins, écoutez plus aujourd'hui. Ce qui n'est pas dit a aussi sa valeur." },
+    "13": { "yiKingName": "La Communion", "description": "L'énergie du jour honore les histoires partagées et la mémoire collective. C'est une journée pour écouter les récits des autres avec une attention profonde — chaque histoire porte une sagesse.", "invitation": "Écoutez les histoires des autres aujourd'hui avec une ouverture totale." },
+    "14": { "yiKingName": "La Grande Possession", "description": "L'énergie du jour porte une vibration d'abondance et de ressources disponibles. C'est une journée où vous avez accès à plus d'énergie, de créativité et de ressources que d'habitude.", "invitation": "Utilisez vos ressources d'aujourd'hui au service de ce qui vous allume vraiment." },
+    "15": { "yiKingName": "La Modestie", "description": "L'énergie du jour touche à la diversité des rythmes humains. C'est une journée pour accepter que chaque être a son propre tempo — ni trop vite, ni trop lentement. La tolérance est le don du jour.", "invitation": "Acceptez le rythme des autres avec bienveillance — chacun avance à sa façon." },
+    "16": { "yiKingName": "L'Enthousiasme", "description": "L'énergie du jour rayonne d'enthousiasme et de maîtrise. C'est une journée pour exprimer vos talents avec joie et pour vous connecter à ce que vous faites avec une véritable passion.", "invitation": "Exprimez votre talent avec enthousiasme aujourd'hui — votre passion est contagieuse." },
+    "17": { "yiKingName": "Le Suivi", "description": "L'énergie du jour favorise les échanges d'opinions et d'idées organisées. C'est une journée pour partager votre point de vue avec clarté — mais aussi pour rester ouvert(e) à celui des autres.", "invitation": "Partagez votre opinion avec clarté, puis écoutez celle des autres avec la même ouverture." },
+    "18": { "yiKingName": "Le Travail sur ce qui est gâté", "description": "L'énergie du jour invite à corriger, améliorer et perfectionner. C'est une journée pour regarder ce qui peut être mieux fait — avec bienveillance envers vous-même et les autres.", "invitation": "Améliorez quelque chose aujourd'hui — mais faites-le avec douceur, pas avec exigence." },
+    "19": { "yiKingName": "L'Approche", "description": "L'énergie du jour touche à la sensibilité et aux besoins fondamentaux. C'est une journée pour reconnaître et honorer vos besoins — et ceux des autres — avec une attention particulière.", "invitation": "Reconnaissez vos besoins aujourd'hui et demandez ce dont vous avez besoin." },
+    "20": { "yiKingName": "La Contemplation", "description": "L'énergie du jour invite à la pleine présence dans l'instant. C'est une journée pour être pleinement là — pas dans le passé ni dans le futur — mais ici, maintenant, dans ce moment vivant.", "invitation": "Soyez pleinement présent(e) dans chaque moment d'aujourd'hui." },
+    "21": { "yiKingName": "La Morsure décisive", "description": "L'énergie du jour porte une vibration de contrôle et de maîtrise de soi. C'est une journée pour exercer votre autorité avec sagesse — d'abord sur vous-même, avant de chercher à influencer les autres.", "invitation": "Maîtrisez votre propre énergie aujourd'hui avant de chercher à contrôler quoi que ce soit d'autre." },
+    "22": { "yiKingName": "La Grâce", "description": "L'énergie du jour rayonne d'une grâce naturelle et d'une ouverture du cœur. C'est une journée pour traverser les interactions sociales avec élégance et pour laisser votre présence apporter de la légèreté.", "invitation": "Apportez de la grâce dans chacune de vos interactions aujourd'hui." },
+    "23": { "yiKingName": "La Désagrégation", "description": "L'énergie du jour invite à intégrer et assimiler ce que vous avez vécu. C'est une journée pour digérer les expériences récentes — laisser le nouveau s'installer avant d'aller plus loin.", "invitation": "Prenez le temps d'intégrer ce que vous avez vécu récemment avant d'avancer." },
+    "24": { "yiKingName": "Le Retour", "description": "L'énergie du jour favorise la réflexion et le retour sur soi. C'est une journée pour retourner mentalement sur vos expériences, trouver le sens de ce qui s'est passé et intégrer les leçons.", "invitation": "Revenez sur une expérience récente avec un regard nouveau — que vous enseigne-t-elle ?" },
+    "25": { "yiKingName": "L'Innocence", "description": "L'énergie du jour touche à l'innocence et à l'amour universel. C'est une journée pour aimer sans condition — les autres, vous-même, la vie — avec la pureté d'un cœur ouvert.", "invitation": "Aimez simplement aujourd'hui — sans raison, sans condition, sans attente." },
+    "26": { "yiKingName": "La Force dompteuse du Grand", "description": "L'énergie du jour invite à utiliser votre influence avec intégrité. C'est une journée pour être honnête dans vos motivations — agissez pour les bonnes raisons, pas pour l'image.", "invitation": "Agissez avec une totale intégrité aujourd'hui — vos motivations comptent autant que vos actes." },
+    "27": { "yiKingName": "Les Commissures des lèvres", "description": "L'énergie du jour porte une vibration de soin et de nourriture — physique, émotionnelle et spirituelle. C'est une journée pour prendre soin de vous et des autres avec une attention tendre.", "invitation": "Nourrissez quelque chose aujourd'hui — votre corps, votre âme, une relation, un projet." },
+    "28": { "yiKingName": "La Prépondérance du Grand", "description": "L'énergie du jour touche à la lutte pour ce qui a du sens. C'est une journée pour vous demander : pour quoi vaut-il vraiment la peine de se battre ? Concentrez votre énergie sur ce qui compte vraiment.", "invitation": "Choisissez vos batailles avec sagesse aujourd'hui — tout ne mérite pas votre énergie." },
+    "29": { "yiKingName": "L'Insondable", "description": "L'énergie du jour honore la persévérance et l'engagement profond. C'est une journée pour rester fidèle à ce à quoi vous vous êtes engagé(e) — même quand c'est difficile.", "invitation": "Tenez votre engagement le plus important aujourd'hui avec constance et foi." },
+    "30": { "yiKingName": "Le Feu clairant", "description": "L'énergie du jour brûle des désirs intenses et des passions profondes. C'est une journée pour reconnaître ce que vous désirez vraiment — et pour ne pas vous perdre dans des désirs qui ne sont pas les vôtres.", "invitation": "Identifiez votre désir le plus authentique aujourd'hui. Est-il vraiment le vôtre ?" },
+    "31": { "yiKingName": "L'Influence", "description": "L'énergie du jour porte une vibration d'influence naturelle et de leadership démocratique. C'est une journée où votre voix peut avoir un impact particulier sur votre entourage.", "invitation": "Utilisez votre influence aujourd'hui au service du bien commun — pas de votre seul intérêt." },
+    "32": { "yiKingName": "La Durée", "description": "L'énergie du jour honore ce qui dure dans le temps. C'est une journée pour valoriser la constance, la fiabilité et les engagements à long terme — contre la tentation de tout changer sous l'impulsion du moment.", "invitation": "Honorez vos engagements de long terme aujourd'hui — ce qui dure a une valeur particulière." },
+    "33": { "yiKingName": "Le Retrait", "description": "L'énergie du jour invite au retrait et à la préservation. C'est une journée pour vous retirer du bruit du monde, protéger votre espace intérieur et réfléchir à ce que vous souhaitez partager ou garder pour vous.", "invitation": "Retirez-vous du bruit aujourd'hui — votre espace intérieur mérite d'être protégé." },
+    "34": { "yiKingName": "La Puissance du Grand", "description": "L'énergie du jour rayonne d'une puissance vitale particulièrement forte. C'est une journée pour agir avec force — mais seulement sur ce qui vous répond vraiment. La puissance sans direction est de l'énergie gâchée.", "invitation": "Utilisez votre puissance d'aujourd'hui au service de ce qui vous allume vraiment." },
+    "35": { "yiKingName": "Le Progrès", "description": "L'énergie du jour porte le mouvement et le progrès. C'est une journée dynamique où les avancées sont possibles — mais choisissez bien dans quelle direction vous souhaitez progresser.", "invitation": "Avancez d'un pas dans une direction qui compte vraiment pour vous aujourd'hui." },
+    "36": { "yiKingName": "L'Obscurcissement de la lumière", "description": "L'énergie du jour touche à la profondeur des expériences émotionnelles. C'est une journée pour traverser les émotions avec courage — même les plus sombres — car elles portent une sagesse précieuse.", "invitation": "Traversez vos émotions d'aujourd'hui avec courage — elles vous révèlent quelque chose d'essentiel." },
+    "37": { "yiKingName": "La Famille", "description": "L'énergie du jour honore les liens familiaux et amicaux profonds. C'est une journée pour investir dans vos relations les plus proches — un geste de soin, une parole sincère, une présence attentive.", "invitation": "Investissez dans une relation importante aujourd'hui — une attention sincère change tout." },
+    "38": { "yiKingName": "L'Opposition", "description": "L'énergie du jour porte la vibration du combat pour ce qui a du sens. C'est une journée pour tenir bon sur ce qui est important pour vous — mais choisissez bien vos batailles.", "invitation": "Défendez ce qui compte vraiment pour vous aujourd'hui — avec calme et détermination." },
+    "39": { "yiKingName": "L'Obstruction", "description": "L'énergie du jour invite à utiliser les obstacles comme des catalyseurs. Ce qui bloque votre chemin aujourd'hui n'est peut-être pas un obstacle — c'est peut-être une redirection vers quelque chose de mieux.", "invitation": "Regardez vos obstacles d'aujourd'hui comme des redirections bienveillantes." },
+    "40": { "yiKingName": "La Délivrance", "description": "L'énergie du jour honore le besoin de solitude et de récupération. C'est une journée pour recharger vos batteries loin des sollicitations — la solitude choisie est une forme de sagesse.", "invitation": "Accordez-vous de la solitude aujourd'hui — votre énergie a besoin de se ressourcer." },
+    "41": { "yiKingName": "La Diminution", "description": "L'énergie du jour porte la vibration du commencement imaginaire — le rêve avant la réalité. C'est une journée fertile pour imaginer de nouvelles expériences que vous souhaitez vivre.", "invitation": "Imaginez une nouvelle expérience que vous souhaitez créer dans votre vie." },
+    "42": { "yiKingName": "L'Augmentation", "description": "L'énergie du jour favorise la croissance et l'accomplissement des cycles. C'est une journée pour mener à terme ce qui a été commencé — les projets inachevés demandent votre attention.", "invitation": "Terminez quelque chose aujourd'hui — l'accomplissement apporte une satisfaction profonde." },
+    "43": { "yiKingName": "La Percée", "description": "L'énergie du jour porte des insights soudains et des percées de compréhension. C'est une journée où des éclairages importants peuvent surgir — soyez attentif(ve) aux intuitions qui émergent.", "invitation": "Notez les insights qui surgissent aujourd'hui — ils peuvent changer votre perspective." },
+    "44": { "yiKingName": "La Venue à la rencontre", "description": "L'énergie du jour invite à la vigilance intuitive. C'est une journée pour faire confiance à vos instincts — particulièrement dans vos rencontres et interactions. Votre flair est aiguisé.", "invitation": "Faites confiance à votre instinct dans vos rencontres d'aujourd'hui." },
+    "45": { "yiKingName": "Le Rassemblement", "description": "L'énergie du jour honore la communauté et le rassemblement. C'est une journée pour créer du lien, rassembler les personnes autour d'un projet commun ou d'une vision partagée.", "invitation": "Rassemblez des personnes autour de quelque chose qui vous tient à cœur aujourd'hui." },
+    "46": { "yiKingName": "La Poussée en avant", "description": "L'énergie du jour invite à honorer votre corps et à vous sentir bien dans votre incarnation physique. C'est une journée pour prendre soin de votre enveloppe corporelle avec amour et gratitude.", "invitation": "Prenez soin de votre corps aujourd'hui avec amour — il est votre véhicule sacré." },
+    "47": { "yiKingName": "L'Épuisement", "description": "L'énergie du jour touche à la compréhension profonde qui émerge des périodes difficiles. Ce qui semble sans solution aujourd'hui porte peut-être une réalisation importante en gestation.", "invitation": "Faites confiance au processus — la compréhension viendra au bon moment." },
+    "48": { "yiKingName": "Le Puits", "description": "L'énergie du jour invite à plonger en profondeur. C'est une journée pour aller au fond des choses — ne restez pas en surface. La vraie richesse est dans la profondeur.", "invitation": "Allez en profondeur aujourd'hui — dans une conversation, une réflexion, une pratique." },
+    "49": { "yiKingName": "La Révolution", "description": "L'énergie du jour porte une vibration de changement radical et de révolution intérieure. C'est une journée pour remettre en question ce qui ne vous correspond plus et oser un tournant courageux.", "invitation": "Questionnez un principe que vous tenez pour acquis — est-il vraiment le vôtre ?" },
+    "50": { "yiKingName": "Le Chaudron", "description": "L'énergie du jour honore les valeurs profondes et la sagesse transmise. C'est une journée pour agir en accord avec vos valeurs les plus fondamentales — même quand c'est difficile.", "invitation": "Identifiez votre valeur la plus importante et agissez en accord avec elle aujourd'hui." },
+    "51": { "yiKingName": "L'Ébranlement", "description": "L'énergie du jour peut apporter des surprises et des éveils soudains. Ce qui vous choque ou vous surprend aujourd'hui cherche peut-être à vous réveiller à quelque chose d'important.", "invitation": "Accueillez les surprises d'aujourd'hui avec curiosité — elles portent peut-être un éveil." },
+    "52": { "yiKingName": "L'Immobilisation", "description": "L'énergie du jour invite à l'immobilité et à la méditation. C'est une journée pour arrêter de faire et simplement être. Dans le calme total, la clarté émerge.", "invitation": "Arrêtez-vous complètement pendant quelques minutes aujourd'hui — juste être, sans faire." },
+    "53": { "yiKingName": "Le Développement graduel", "description": "L'énergie du jour honore les commencements graduels et la croissance lente. C'est une journée pour démarrer quelque chose de nouveau — pas dans la précipitation, mais dans la patience du développement naturel.", "invitation": "Commencez quelque chose de nouveau aujourd'hui — même un tout petit premier pas." },
+    "54": { "yiKingName": "La Jeune fille qui se marie", "description": "L'énergie du jour porte l'ambition et le désir d'ascension. C'est une journée pour viser plus haut — mais avec discernement. L'ambition alignée avec votre nature profonde est une force. L'ambition conditionnée par le regard des autres est un piège.", "invitation": "Visez plus haut aujourd'hui — mais assurez-vous que c'est votre propre ambition, pas celle des autres." },
+    "55": { "yiKingName": "L'Abondance", "description": "L'énergie du jour rayonne d'une abondance spirituelle profonde. C'est une journée pour reconnaître et célébrer tout ce que vous avez — l'abondance commence toujours par la gratitude.", "invitation": "Comptez vos richesses d'aujourd'hui avec gratitude — l'abondance est plus grande que vous ne le pensez." },
+    "56": { "yiKingName": "Le Voyageur", "description": "L'énergie du jour invite au voyage et à la stimulation nouvelle. C'est une journée pour sortir de votre routine, explorer de nouveaux territoires — physiques, mentaux ou émotionnels.", "invitation": "Explorez quelque chose de nouveau aujourd'hui — même une petite découverte nourrit l'âme." },
+    "57": { "yiKingName": "Le Doux", "description": "L'énergie du jour affine votre intuition dans le moment présent. C'est une journée pour faire confiance aux impressions subtiles qui émergent — ce que vous sentez instinctivement maintenant est fiable.", "invitation": "Faites confiance à votre intuition aujourd'hui — particulièrement dans les petites décisions." },
+    "58": { "yiKingName": "Le Joyeux", "description": "L'énergie du jour rayonne de vitalité et de joie de vivre. C'est une journée pour laisser votre enthousiasme naturel s'exprimer et pour partager cette énergie joyeuse avec ceux qui vous entourent.", "invitation": "Laissez votre vitalité naturelle rayonner aujourd'hui — votre joie est un cadeau." },
+    "59": { "yiKingName": "La Dissolution", "description": "L'énergie du jour invite à une intimité authentique — la dissolution des barrières qui nous séparent des autres. C'est une journée pour vous montrer tel(le) que vous êtes vraiment dans vos relations proches.", "invitation": "Montrez-vous tel(le) que vous êtes vraiment dans une relation importante aujourd'hui." },
+    "60": { "yiKingName": "La Limitation", "description": "L'énergie du jour invite à accepter les limites avec sagesse. Ce n'est pas une journée pour forcer contre les obstacles — c'est une journée pour travailler avec intelligence à l'intérieur de vos contraintes actuelles.", "invitation": "Acceptez vos limites d'aujourd'hui avec sagesse — elles définissent l'espace de votre création." },
+    "61": { "yiKingName": "La Vérité intérieure", "description": "L'énergie du jour touche au mystère et à la vérité intérieure profonde. C'est une journée pour accueillir ce que vous ne pouvez pas expliquer — le mystère de la vie est une invitation à l'émerveillement.", "invitation": "Accueillez le mystère aujourd'hui — tout n'a pas besoin d'être expliqué pour être vrai." },
+    "62": { "yiKingName": "La Prépondérance du Petit", "description": "L'énergie du jour honore les petits détails et la précision. C'est une journée pour prêter attention aux détails — ils font toute la différence. La qualité vit dans les petites choses.", "invitation": "Prenez soin des détails aujourd'hui — la précision est une forme d'amour." },
+    "63": { "yiKingName": "Après l'accomplissement", "description": "L'énergie du jour touche au doute naturel qui suit l'accomplissement. C'est une journée pour questionner avec sagesse — pas pour paralyser, mais pour affiner et améliorer ce qui a été réalisé.", "invitation": "Questionnez avec sagesse aujourd'hui — le doute sain est le gardien de la qualité." },
+    "64": { "yiKingName": "Avant l'accomplissement", "description": "L'énergie du jour porte la confusion créatrice qui précède la clarté. Ce qui semble sans solution aujourd'hui est en train de se réorganiser à un niveau plus profond. Faites confiance au processus.", "invitation": "Faites confiance à la confusion d'aujourd'hui — la clarté est en train de naître." }
+  }
+}

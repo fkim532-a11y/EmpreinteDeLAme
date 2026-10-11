@@ -1,0 +1,704 @@
+{
+  "1-1": {
+    "score": 72,
+    "nature": "harmonieux",
+    "love": "Deux forces de caractère qui se reconnaissent et s'admirent, mais qui doivent apprendre à céder du terrain l'une à l'autre. La relation avance vite quand les deux tirent dans la même direction, plus difficilement quand chacun veut mener seul.",
+    "friendship": "Une amitié stimulante, faite de défis et de projets communs. Le respect mutuel de l'indépendance de l'autre est la clé pour que ça dure.",
+    "family": "Des liens marqués par une volonté commune, parfois des affrontements de caractère, mais une loyauté profonde une fois la confiance établie.",
+    "work": "Duo puissant pour lancer des projets, à condition de bien répartir les rôles pour éviter la compétition inutile.",
+    "chemistry": "Attraction magnétique entre deux tempéraments affirmés, une rencontre qui a du panache, mais qui demande à ce que chacun laisse à l'autre sa place de leader à tour de rôle."
+  },
+  "1-2": {
+    "score": 82,
+    "nature": "complementaire",
+    "love": "Le 1 apporte l'élan et la direction, le 2 apporte l'écoute et la douceur. Cette union fonctionne bien quand le 1 apprend à ralentir et le 2 à s'affirmer davantage.",
+    "friendship": "Une amitié équilibrée où le 1 entraîne le 2 vers l'action, et le 2 aide le 1 à voir les autres points de vue.",
+    "family": "Bonne entente si les rôles sont clairs, le 1 initie, le 2 harmonise et apaise les tensions.",
+    "work": "Excellent duo professionnel, le 1 décide, le 2 exécute avec soin et diplomatie.",
+    "chemistry": "Attraction naturelle entre l'énergie affirmée du 1 et la sensibilité réceptive du 2, tant que le 1 reste attentif aux besoins émotionnels de l'autre."
+  },
+  "1-3": {
+    "score": 85,
+    "nature": "complementaire",
+    "love": "Une relation vive et joyeuse, le 1 apporte la structure, le 3 apporte la légèreté et la créativité. Ensemble, ils avancent avec enthousiasme, à condition que le 1 laisse de la place à la spontanéité du 3.",
+    "friendship": "Une amitié pleine d'énergie et de projets, le 3 inspire, le 1 concrétise.",
+    "family": "Des échanges vivants et stimulants, parfois du désordre créatif que le 1 aime remettre en ordre.",
+    "work": "Association efficace, le 1 fixe le cap, le 3 apporte des idées neuves et de la communication.",
+    "chemistry": "Une attirance ludique et dynamique, le charme du 3 séduit le 1, qui apprécie d'être surpris et amusé."
+  },
+  "1-4": {
+    "score": 70,
+    "nature": "tension",
+    "love": "Le 1 veut avancer vite, le 4 veut construire solidement, ce qui peut créer de l'impatience de part et d'autre. La relation demande de la patience mutuelle, mais gagne en profondeur avec le temps.",
+    "friendship": "Une amitié loyale mais qui peut manquer de souplesse si aucun des deux ne cède sur sa façon de faire.",
+    "family": "Des liens solides sur le long terme, avec parfois des désaccords sur le rythme à donner aux choses.",
+    "work": "Bon équilibre entre vision (1) et exécution rigoureuse (4), à condition d'accepter des méthodes différentes.",
+    "chemistry": "Une attraction qui met du temps à se révéler, le 4 rassure le 1 par sa stabilité, mais doit veiller à ne pas freiner son élan."
+  },
+  "1-5": {
+    "score": 78,
+    "nature": "harmonieux",
+    "love": "Deux esprits libres qui se comprennent instinctivement sur le besoin d'indépendance. La relation vit bien tant qu'elle laisse de l'espace à chacun.",
+    "friendship": "Une amitié pleine de mouvement et d'aventures partagées, jamais ennuyeuse.",
+    "family": "Des liens dynamiques, parfois dispersés, mais une vraie complicité dans le goût du changement.",
+    "work": "Duo innovant, rapide à s'adapter, à condition de garder un minimum de structure pour ne pas se disperser.",
+    "chemistry": "Une attirance électrique entre deux natures indépendantes, l'alchimie fonctionne d'autant mieux qu'aucun des deux ne cherche à retenir l'autre."
+  },
+  "1-6": {
+    "score": 76,
+    "nature": "complementaire",
+    "love": "Le 1 apporte l'ambition et l'indépendance, le 6 apporte la chaleur et le sens du foyer. Le 6 aime prendre soin, le 1 doit veiller à ne pas se sentir étouffé par cette attention.",
+    "friendship": "Une amitié fidèle où le 6 soutient sans réserve les projets du 1, en échange d'une vraie présence affective.",
+    "family": "Des liens chaleureux, le 6 fédère et rassure, le 1 impulse les décisions et les initiatives.",
+    "work": "Bonne association, le 1 dirige, le 6 veille au bien-être de l'équipe et à l'harmonie du groupe.",
+    "chemistry": "Une attraction où le 6 séduit par sa douceur protectrice, le 1 par son assurance, à condition que le 6 ne cherche pas à contrôler l'indépendance du 1."
+  },
+  "1-7": {
+    "score": 75,
+    "nature": "harmonieux",
+    "love": "Le 1 avance vers l'action, le 7 vers l'introspection. Cette relation trouve son équilibre dans le respect du besoin de solitude du 7 et du besoin d'action du 1.",
+    "friendship": "Une amitié faite de longues discussions et de silences complices, deux natures indépendantes qui se comprennent sans trop se dire.",
+    "family": "Des liens discrets mais profonds, chacun respectant l'espace intérieur de l'autre.",
+    "work": "Le 1 lance et décide, le 7 apporte la réflexion et l'analyse en profondeur avant d'agir.",
+    "chemistry": "Une attirance intrigante entre l'assurance du 1 et le mystère du 7, une alchimie qui se construit dans la durée plus que dans l'instantané."
+  },
+  "1-8": {
+    "score": 65,
+    "nature": "tension",
+    "love": "Deux fortes personnalités avec un besoin similaire de contrôle, ce qui peut créer des rapports de force. La relation demande un partage clair du pouvoir décisionnel.",
+    "friendship": "Une amitié respectueuse mais parfois compétitive, chacun voulant démontrer sa réussite à l'autre.",
+    "family": "Des liens marqués par l'ambition commune, avec un risque de rivalité s'il n'y a pas de rôles distincts.",
+    "work": "Duo puissant pour de grands projets, à condition de définir clairement qui décide quoi.",
+    "chemistry": "Une attraction intense et magnétique entre deux tempéraments dominants, électrique mais qui peut vite tourner à l'épreuve de force si l'ego prend le dessus."
+  },
+  "1-9": {
+    "score": 80,
+    "nature": "complementaire",
+    "love": "Le 1 agit avec détermination, le 9 apporte une vision plus large et généreuse. Le 9 aide le 1 à voir au-delà de ses propres intérêts, le 1 aide le 9 à concrétiser ses idéaux.",
+    "friendship": "Une amitié inspirante, le 9 élargit les horizons du 1, qui en retour aide le 9 à passer à l'action.",
+    "family": "Des liens portés par des valeurs communes et un sens du dépassement, avec une belle complémentarité des rôles.",
+    "work": "Bonne synergie entre l'énergie de lancement du 1 et la vision globale du 9.",
+    "chemistry": "Une attirance nourrie par l'admiration mutuelle, le 1 est touché par la générosité du 9, qui apprécie la force tranquille du 1."
+  },
+  "2-2": {
+    "score": 80,
+    "nature": "harmonieux",
+    "love": "Deux natures sensibles qui se comprennent intuitivement, avec une grande douceur dans les échanges. Le risque est de manquer d'initiative à deux, chacun attendant que l'autre décide.",
+    "friendship": "Une amitié tout en écoute et en délicatesse, un vrai soutien émotionnel mutuel.",
+    "family": "Des liens harmonieux, portés par l'attention à l'autre et le besoin de paix familiale.",
+    "work": "Collaboration fluide et diplomate, efficace tant qu'il y a un troisième élément moteur pour impulser les décisions.",
+    "chemistry": "Une tendresse profonde et une grande intuition l'un de l'autre, une alchimie douce qui se construit dans la confiance plus que dans l'intensité."
+  },
+  "2-3": {
+    "score": 78,
+    "nature": "complementaire",
+    "love": "Le 2 apporte l'écoute et la sensibilité, le 3 apporte la légèreté et l'expression. Le 3 égaie le quotidien du 2, qui en retour lui offre une présence rassurante.",
+    "friendship": "Une amitié joyeuse où le 2 est souvent le confident attentif du 3, plus expansif et sociable.",
+    "family": "Des liens chaleureux et communicatifs, le 2 apaise, le 3 anime.",
+    "work": "Bonne complémentarité, le 2 soigne les relations et les détails, le 3 porte la créativité et la communication.",
+    "chemistry": "Une attirance légère et complice, le charme communicatif du 3 touche la sensibilité du 2."
+  },
+  "2-4": {
+    "score": 80,
+    "nature": "harmonieux",
+    "love": "Une relation stable et rassurante, le 2 et le 4 partagent le même besoin de sécurité et d'harmonie durable.",
+    "friendship": "Une amitié fiable et constante, sur laquelle on peut compter dans la durée.",
+    "family": "Des liens solides, portés par le sens du devoir et de l'engagement partagé par les deux nombres.",
+    "work": "Duo méthodique et fiable, le 2 soigne les relations, le 4 structure le travail.",
+    "chemistry": "Une attirance calme et sécurisante, sans grands éclats mais avec une profondeur qui s'installe dans la durée."
+  },
+  "2-5": {
+    "score": 73,
+    "nature": "complementaire",
+    "love": "Le 2 recherche la stabilité, le 5 a besoin de mouvement et de liberté, un équilibre à trouver entre sécurité et changement.",
+    "friendship": "Une amitié vivifiante pour le 2, qui découvre de nouvelles choses grâce au 5, en échange d'une oreille attentive.",
+    "family": "Des liens marqués par un rythme différent, le 2 stabilise ce que le 5 a tendance à disperser.",
+    "work": "Le 5 apporte les idées et le changement, le 2 apporte le soin du suivi et des relations.",
+    "chemistry": "Une attraction stimulante entre la douceur du 2 et l'énergie changeante du 5, qui demande au 2 d'accepter une part d'imprévisibilité."
+  },
+  "2-6": {
+    "score": 85,
+    "nature": "harmonieux",
+    "love": "Une des combinaisons les plus harmonieuses, les deux nombres partagent le goût du soin, de l'écoute et de l'engagement affectif profond.",
+    "friendship": "Une amitié fusionnelle et généreuse, portée par une attention constante l'un envers l'autre.",
+    "family": "Des liens très forts, centrés sur le foyer et le bien-être commun.",
+    "work": "Excellente entente, les deux nombres valorisent l'harmonie du groupe et le soin du détail relationnel.",
+    "chemistry": "Une tendresse profonde et naturelle, une des alchimies les plus douces et enveloppantes du tableau."
+  },
+  "2-7": {
+    "score": 77,
+    "nature": "complementaire",
+    "love": "Le 2 offre une présence chaleureuse et attentive, le 7 apporte la profondeur et le besoin de retrait. Le 2 apprend à respecter les silences du 7, qui en retour s'ouvre peu à peu à cette douceur.",
+    "friendship": "Une amitié discrète mais sincère, faite de confidences et d'une écoute mutuelle rare.",
+    "family": "Des liens calmes et respectueux, où chacun laisse à l'autre son espace intérieur.",
+    "work": "Le 2 facilite les relations d'équipe, le 7 apporte la réflexion et l'analyse en profondeur.",
+    "chemistry": "Une attirance faite de délicatesse et de mystère, une alchimie qui se dévoile lentement mais avec une belle intensité."
+  },
+  "2-8": {
+    "score": 72,
+    "nature": "harmonieux",
+    "love": "Le 2 apporte la douceur et l'écoute, le 8 apporte l'ambition et le sens du concret. Le 8 doit veiller à ne pas dominer la relation, le 2 à s'affirmer davantage.",
+    "friendship": "Une amitié où le 2 soutient discrètement les projets ambitieux du 8, dans une confiance réciproque.",
+    "family": "Des liens marqués par un bon équilibre entre autorité (8) et harmonie relationnelle (2).",
+    "work": "Duo efficace, le 8 porte la vision et les objectifs, le 2 soigne les relations et la cohésion d'équipe.",
+    "chemistry": "Une attraction où la force tranquille du 8 rassure le 2, qui en retour lui offre une tendresse apaisante."
+  },
+  "2-9": {
+    "score": 83,
+    "nature": "complementaire",
+    "love": "Le 2 offre une présence aimante et dévouée, le 9 apporte une générosité et une vision large du monde. Une union portée par l'empathie et le don de soi partagés.",
+    "friendship": "Une amitié généreuse et profonde, où l'écoute du 2 nourrit les idéaux du 9.",
+    "family": "Des liens chaleureux, portés par des valeurs communes de solidarité et de soin.",
+    "work": "Bonne complémentarité, le 2 gère les relations avec soin, le 9 porte une vision humaniste du projet.",
+    "chemistry": "Une attirance douce et sincère, nourrie par une compassion mutuelle rare, l'une des unions les plus altruistes du tableau."
+  },
+  "3-3": {
+    "score": 78,
+    "nature": "harmonieux",
+    "love": "Une relation légère et expressive, portée par le rire et la spontanéité. Le défi est d'apporter assez de constance dans une relation où les deux préfèrent l'insouciance à la structure.",
+    "friendship": "Une amitié pétillante, faite de sorties, de créativité partagée et de conversations sans fin.",
+    "family": "Des liens joyeux et communicatifs, une ambiance vivante mais qui gagne à être ancrée par un peu de routine.",
+    "work": "Bonne créativité à deux, à condition qu'un cadre extérieur vienne canaliser les idées en projets concrets.",
+    "chemistry": "Une attraction ludique et pleine de charme, une complicité facile mais qui demande de la profondeur pour durer."
+  },
+  "3-4": {
+    "score": 68,
+    "nature": "tension",
+    "love": "Le 3 aime l'imprévu et la légèreté, le 4 a besoin de cadre et de constance, ce qui peut créer des frictions sur le rythme de vie à deux.",
+    "friendship": "Une amitié qui demande des ajustements, le 4 apprécie la joie de vivre du 3 mais peut se lasser de son manque de rigueur.",
+    "family": "Des liens qui gagnent en solidité si le 3 respecte le besoin d'ordre du 4, et si le 4 laisse de la place à la fantaisie.",
+    "work": "Le 3 apporte les idées, le 4 la méthode, une association efficace si chacun accepte le rythme de l'autre.",
+    "chemistry": "Une attirance qui contraste, la légèreté du 3 attire le 4 vers plus de spontanéité, mais l'alchimie demande de la patience pour s'installer."
+  },
+  "3-5": {
+    "score": 79,
+    "nature": "complementaire",
+    "love": "Deux natures qui aiment le mouvement, la nouveauté et la liberté d'expression, une relation vivante et rarement ennuyeuse.",
+    "friendship": "Une amitié pleine d'aventures et de découvertes partagées, portée par une même soif de nouveauté.",
+    "family": "Des liens dynamiques et changeants, une belle complicité dans le goût de la vie.",
+    "work": "Duo créatif et adaptable, riche en idées, qui gagne à être structuré par un tiers pour aboutir.",
+    "chemistry": "Une attraction spontanée et joyeuse, pleine d'étincelles, portée par le goût commun de la liberté."
+  },
+  "3-6": {
+    "score": 80,
+    "nature": "complementaire",
+    "love": "Le 3 apporte la joie et la légèreté, le 6 apporte la chaleur et le sens du foyer. Une relation où l'on rit et où l'on prend soin l'un de l'autre.",
+    "friendship": "Une amitié affectueuse, où le 6 veille sur le 3 avec bienveillance, et le 3 apporte de la légèreté au 6.",
+    "family": "Des liens chaleureux et vivants, portés par le goût du partage et de la convivialité.",
+    "work": "Bonne entente, le 3 anime et communique, le 6 veille à l'harmonie et au soin du groupe.",
+    "chemistry": "Une attirance tendre et joyeuse, le 6 séduit par sa douceur protectrice, le 3 par son entrain communicatif."
+  },
+  "3-7": {
+    "score": 72,
+    "nature": "complementaire",
+    "love": "Le 3 aime s'exprimer et échanger, le 7 a besoin de silence et d'introspection, un équilibre à trouver entre partage et retrait.",
+    "friendship": "Une amitié contrastée mais enrichissante, le 3 sort le 7 de sa réserve, le 7 apporte de la profondeur aux échanges.",
+    "family": "Des liens qui demandent de la tolérance mutuelle face à des besoins sociaux très différents.",
+    "work": "Le 3 communique et anime, le 7 analyse et approfondit, une bonne complémentarité si les rythmes sont respectés.",
+    "chemistry": "Une attirance intrigante entre la légèreté du 3 et le mystère du 7, qui demande du temps pour trouver son rythme."
+  },
+  "3-8": {
+    "score": 70,
+    "nature": "complementaire",
+    "love": "Le 3 privilégie la spontanéité, le 8 privilégie l'ambition et la structure, une relation qui gagne à trouver un juste milieu entre légèreté et sérieux.",
+    "friendship": "Une amitié où le 8 admire l'aisance sociale du 3, qui en retour apprécie l'assurance du 8.",
+    "family": "Des liens qui fonctionnent bien si chacun respecte le rythme et les priorités de l'autre.",
+    "work": "Bonne association, le 3 communique et inspire, le 8 structure et concrétise les projets.",
+    "chemistry": "Une attraction faite de contraste, le charisme du 8 séduit le 3, qui apporte en retour de la légèreté à cette relation."
+  },
+  "3-9": {
+    "score": 82,
+    "nature": "harmonieux",
+    "love": "Une relation généreuse et inspirante, le 3 exprime avec joie ce que le 9 ressent en profondeur, une belle harmonie de valeurs et de sensibilité.",
+    "friendship": "Une amitié riche en échanges et en idéaux partagés, portée par la même ouverture au monde.",
+    "family": "Des liens chaleureux et porteurs de sens, une belle entente sur les valeurs essentielles.",
+    "work": "Duo inspirant, le 3 communique avec aisance, le 9 porte une vision généreuse et fédératrice.",
+    "chemistry": "Une attirance sincère et profonde, nourrie par une même joie de vivre tournée vers les autres."
+  },
+  "4-4": {
+    "score": 82,
+    "nature": "harmonieux",
+    "love": "Une relation solide et rassurante, portée par les mêmes valeurs de sérieux et d'engagement. Le risque est de tomber dans une routine trop rigide si aucun des deux n'apporte de fantaisie.",
+    "friendship": "Une amitié fiable et durable, sur laquelle on peut vraiment compter dans le temps.",
+    "family": "Des liens très stables, portés par un fort sens du devoir et de la loyauté familiale.",
+    "work": "Duo méthodique et efficace, très bon pour mener des projets de longue haleine avec rigueur.",
+    "chemistry": "Une attirance calme qui s'installe dans la durée, sécurisante, à condition de veiller à entretenir la flamme."
+  },
+  "4-5": {
+    "score": 62,
+    "nature": "tension",
+    "love": "Le 4 a besoin de stabilité et de routine, le 5 a besoin de changement et de liberté, ce qui peut créer de vraies incompréhensions sur le rythme de vie souhaité.",
+    "friendship": "Une amitié qui demande beaucoup de tolérance, le 4 pouvant trouver le 5 imprévisible, le 5 trouvant le 4 trop rigide.",
+    "family": "Des liens qui gagnent à être basés sur des compromis clairs entre besoin de sécurité et besoin de liberté.",
+    "work": "Le 5 innove et propose, le 4 structure et exécute, une bonne complémentarité si les désaccords de rythme sont bien gérés.",
+    "chemistry": "Une attraction qui fonctionne comme un aimant d'opposés, stimulante mais qui demande beaucoup d'ajustements pour durer."
+  },
+  "4-6": {
+    "score": 83,
+    "nature": "harmonieux",
+    "love": "Une relation stable et chaleureuse, les deux nombres partagent un fort attachement au foyer et à l'engagement durable.",
+    "friendship": "Une amitié fidèle et rassurante, portée par un sens du soin et de la responsabilité partagé.",
+    "family": "Des liens très forts, centrés sur la construction d'un cadre familial solide et harmonieux.",
+    "work": "Bonne association, le 4 structure, le 6 veille à l'harmonie et au bien-être de l'équipe.",
+    "chemistry": "Une attirance rassurante et enveloppante, une des unions les plus stables et affectueuses du tableau."
+  },
+  "4-7": {
+    "score": 75,
+    "nature": "complementaire",
+    "love": "Le 4 apporte la structure et la fiabilité, le 7 apporte la profondeur et la réflexion. Une relation calme, qui gagne en intensité avec le temps.",
+    "friendship": "Une amitié discrète et solide, faite de respect mutuel et de peu de mots superflus.",
+    "family": "Des liens stables, où chacun respecte le besoin de retrait ou de structure de l'autre.",
+    "work": "Le 4 organise, le 7 analyse en profondeur, une association rigoureuse et réfléchie.",
+    "chemistry": "Une attirance discrète mais profonde, qui se construit dans la durée plus que dans l'instantané."
+  },
+  "4-8": {
+    "score": 79,
+    "nature": "harmonieux",
+    "love": "Deux nombres orientés vers la construction et la réussite, une relation solide portée par des ambitions communes et un grand sens du concret.",
+    "friendship": "Une amitié respectueuse et constructive, où chacun admire la détermination de l'autre.",
+    "family": "Des liens stables, portés par le sens du devoir et l'envie de bâtir quelque chose de durable ensemble.",
+    "work": "Excellent duo pour des projets ambitieux et structurés, le 4 organise, le 8 vise grand.",
+    "chemistry": "Une attirance sérieuse et solide, portée par le respect mutuel de l'ambition et du travail accompli."
+  },
+  "4-9": {
+    "score": 75,
+    "nature": "complementaire",
+    "love": "Le 4 apporte la stabilité, le 9 apporte une vision généreuse et ouverte sur le monde. Le 9 aide le 4 à s'ouvrir davantage, le 4 aide le 9 à concrétiser ses idéaux.",
+    "friendship": "Une amitié où le 4 apporte du concret aux idéaux du 9, dans un respect mutuel sincère.",
+    "family": "Des liens portés par des valeurs solides et un sens du don, un bel équilibre entre ancrage et ouverture.",
+    "work": "Bonne complémentarité, le 4 structure les projets, le 9 leur donne du sens et une portée plus large.",
+    "chemistry": "Une attirance calme et sincère, portée par un respect profond des valeurs de l'autre."
+  },
+  "5-5": {
+    "score": 60,
+    "nature": "tension",
+    "love": "Deux natures libres et changeantes, une relation pleine de vie mais qui peut manquer d'ancrage si personne n'apporte de stabilité.",
+    "friendship": "Une amitié pleine d'aventures et de rebondissements, jamais monotone, mais parfois instable.",
+    "family": "Des liens vivants et mouvementés, qui gagnent à être ancrés par des rituels communs.",
+    "work": "Duo plein d'idées et d'énergie, mais qui a besoin d'un cadre extérieur pour rester concentré sur un objectif.",
+    "chemistry": "Une attraction électrique et imprévisible, intense mais qui demande à ce que l'un des deux pose un peu de stabilité pour que ça dure."
+  },
+  "5-6": {
+    "score": 71,
+    "nature": "complementaire",
+    "love": "Le 5 a besoin de liberté et de mouvement, le 6 a besoin de sécurité et d'engagement, un équilibre à négocier entre indépendance et attachement.",
+    "friendship": "Une amitié où le 6 s'inquiète parfois du côté imprévisible du 5, qui en retour apporte du renouveau dans la vie du 6.",
+    "family": "Des liens qui demandent des compromis clairs entre besoin de stabilité et besoin de liberté.",
+    "work": "Le 5 propose et innove, le 6 veille à la cohésion et au soin du groupe, une bonne complémentarité si les rôles sont clairs.",
+    "chemistry": "Une attraction contrastée, la douceur protectrice du 6 attire le 5, qui doit veiller à ne pas se sentir enfermé."
+  },
+  "5-7": {
+    "score": 76,
+    "nature": "harmonieux",
+    "love": "Deux natures indépendantes qui respectent instinctivement le besoin d'espace de l'autre, une relation qui vit bien sans être fusionnelle.",
+    "friendship": "Une amitié faite de liberté mutuelle, avec de belles conversations quand les deux se retrouvent.",
+    "family": "Des liens respectueux de l'autonomie de chacun, sans attentes excessives de présence constante.",
+    "work": "Bonne association, le 5 apporte l'adaptabilité, le 7 la réflexion et l'analyse en profondeur.",
+    "chemistry": "Une attirance mystérieuse et libre, qui fonctionne d'autant mieux qu'aucun des deux ne cherche à retenir l'autre."
+  },
+  "5-8": {
+    "score": 68,
+    "nature": "tension",
+    "love": "Le 5 recherche la liberté et le changement, le 8 recherche le contrôle et la stabilité matérielle, ce qui peut créer des tensions sur les priorités de vie.",
+    "friendship": "Une amitié qui demande de la souplesse de part et d'autre, le 8 pouvant trouver le 5 instable, le 5 trouvant le 8 trop rigide.",
+    "family": "Des liens qui gagnent à clarifier les attentes de chacun en matière d'engagement et de liberté.",
+    "work": "Le 5 innove, le 8 structure et vise le résultat, une association possible si les rôles sont bien définis.",
+    "chemistry": "Une attraction intense mais instable, faite d'un mélange de fascination et de désaccords sur le rythme à donner à la relation."
+  },
+  "5-9": {
+    "score": 74,
+    "nature": "complementaire",
+    "love": "Le 5 aime la liberté et la découverte, le 9 apporte une vision généreuse et ouverte sur le monde. Une relation qui respire, portée par une même curiosité pour la vie.",
+    "friendship": "Une amitié riche en échanges et en voyages, portée par une même ouverture d'esprit.",
+    "family": "Des liens souples et tolérants, qui laissent à chacun sa liberté tout en partageant des valeurs communes.",
+    "work": "Bonne association, le 5 apporte l'adaptabilité, le 9 la vision d'ensemble et le sens du collectif.",
+    "chemistry": "Une attirance libre et généreuse, nourrie par une même soif de découverte et d'ouverture aux autres."
+  },
+  "6-6": {
+    "score": 85,
+    "nature": "harmonieux",
+    "love": "Une relation très harmonieuse, portée par un fort attachement au foyer, à la famille et au soin mutuel. Les deux nombres partagent une même vision de l'engagement affectif.",
+    "friendship": "Une amitié fusionnelle et dévouée, où chacun veille sur le bien-être de l'autre avec attention.",
+    "family": "Des liens très forts, l'une des combinaisons les plus propices à construire un foyer stable et chaleureux.",
+    "work": "Excellente entente, les deux nombres valorisent l'harmonie de l'équipe et le soin apporté au travail bien fait.",
+    "chemistry": "Une tendresse profonde et enveloppante, une des unions les plus douces et rassurantes du tableau."
+  },
+  "6-7": {
+    "score": 73,
+    "nature": "complementaire",
+    "love": "Le 6 offre chaleur et présence, le 7 a besoin de retrait et de réflexion. Le 6 doit apprendre à respecter le besoin de solitude du 7, sans le prendre pour un manque d'amour.",
+    "friendship": "Une amitié où le 6 apporte de la chaleur au 7, qui en retour offre une écoute rare et profonde.",
+    "family": "Des liens qui gagnent en profondeur si le 6 accepte les moments de silence du 7 sans les interpréter comme un rejet.",
+    "work": "Le 6 veille à l'harmonie du groupe, le 7 apporte la réflexion et l'analyse en profondeur.",
+    "chemistry": "Une attirance douce et mystérieuse, la chaleur du 6 apaise le 7, qui offre en retour une intensité rare une fois la confiance installée."
+  },
+  "6-8": {
+    "score": 77,
+    "nature": "harmonieux",
+    "love": "Le 6 apporte le soin et l'attachement au foyer, le 8 apporte l'ambition et le sens du concret. Une relation où l'un construit la réussite matérielle, l'autre l'harmonie du quotidien.",
+    "friendship": "Une amitié loyale, le 6 soutient les ambitions du 8, qui en retour protège et valorise le 6.",
+    "family": "Des liens stables, portés par un bon équilibre entre ambition et sens du foyer.",
+    "work": "Bonne association, le 8 vise grand, le 6 veille à la cohésion et au bien-être de l'équipe.",
+    "chemistry": "Une attraction solide et rassurante, portée par un respect mutuel entre force tranquille et douceur protectrice."
+  },
+  "6-9": {
+    "score": 84,
+    "nature": "complementaire",
+    "love": "Le 6 offre un amour dévoué et attentif, le 9 apporte une générosité tournée vers un idéal plus large. Une union portée par un même goût du don de soi.",
+    "friendship": "Une amitié généreuse et sincère, où le soin du 6 rejoint les idéaux humanistes du 9.",
+    "family": "Des liens très chaleureux, portés par des valeurs de solidarité et d'entraide partagées.",
+    "work": "Duo porteur de sens, le 6 veille au bien-être de l'équipe, le 9 porte une vision généreuse et fédératrice.",
+    "chemistry": "Une attirance tendre et généreuse, l'une des unions les plus altruistes et harmonieuses du tableau."
+  },
+  "7-7": {
+    "score": 74,
+    "nature": "harmonieux",
+    "love": "Une relation intense et discrète, portée par un profond respect mutuel de l'espace intérieur de l'autre. Le défi est de ne pas se replier chacun de son côté au point de perdre le lien.",
+    "friendship": "Une amitié rare et précieuse, faite de peu de mots mais d'une compréhension profonde.",
+    "family": "Des liens respectueux et discrets, où chacun laisse à l'autre son besoin de retrait.",
+    "work": "Duo réfléchi et analytique, excellent pour les projets qui demandent profondeur et rigueur intellectuelle.",
+    "chemistry": "Une attirance mystérieuse et profonde, qui se construit lentement mais avec une intensité rare une fois la confiance établie."
+  },
+  "7-8": {
+    "score": 66,
+    "nature": "tension",
+    "love": "Le 7 recherche l'introspection et le retrait, le 8 recherche l'action et la reconnaissance extérieure, deux besoins qui peuvent sembler incompatibles au premier abord.",
+    "friendship": "Une amitié qui demande des efforts de compréhension mutuelle, le 8 pouvant trouver le 7 trop distant, le 7 trouvant le 8 trop dans le paraître.",
+    "family": "Des liens qui gagnent à respecter les besoins très différents de chacun en matière de présence et de reconnaissance.",
+    "work": "Le 7 apporte la réflexion stratégique, le 8 la mise en œuvre ambitieuse, une bonne complémentarité si la confiance est établie.",
+    "chemistry": "Une attraction faite de contraste et de fascination réciproque, qui demande du temps pour dépasser les malentendus initiaux."
+  },
+  "7-9": {
+    "score": 81,
+    "nature": "complementaire",
+    "love": "Le 7 apporte la profondeur et la quête de sens, le 9 apporte la générosité et une vision universelle. Une relation nourrie par une même quête intérieure.",
+    "friendship": "Une amitié profonde et inspirante, portée par des échanges riches sur le sens de la vie.",
+    "family": "Des liens marqués par des valeurs communes et un profond respect mutuel.",
+    "work": "Bonne association, le 7 analyse en profondeur, le 9 porte une vision généreuse et fédératrice.",
+    "chemistry": "Une attirance profonde et habitée, portée par une même quête de sens qui dépasse le simple attrait physique."
+  },
+  "8-8": {
+    "score": 63,
+    "nature": "tension",
+    "love": "Deux fortes ambitions qui peuvent se heurter dans une lutte de pouvoir, sauf si chacun apprend à reconnaître la réussite de l'autre sans compétition.",
+    "friendship": "Une amitié respectueuse mais parfois rivale, chacun mesurant sa réussite à celle de l'autre.",
+    "family": "Une famille où la réussite matérielle tient une grande place et où chacun veut avoir le dernier mot sur les décisions importantes. L'attachement est réel, mais il s'exprime plus par ce qui est bâti et transmis que par les mots.",
+    "work": "Duo redoutable pour de grands projets, à condition de bien partager le pouvoir décisionnel.",
+    "chemistry": "Une attirance magnétique entre deux forces de même nature : chacun reconnaît chez l'autre sa propre puissance, ce qui fascine autant que cela met au défi. L'alchimie tient tant qu'aucun des deux ne cherche à dominer."
+  },
+  "8-9": {
+    "score": 72,
+    "nature": "complementaire",
+    "love": "Le 8 vise la réussite matérielle, le 9 vise un idéal plus large et désintéressé, un équilibre à trouver entre ambition personnelle et générosité.",
+    "friendship": "Une amitié où le 9 aide le 8 à donner du sens à sa réussite, et le 8 aide le 9 à concrétiser ses idéaux.",
+    "family": "Des liens qui gagnent à trouver un équilibre entre réussite personnelle et valeurs de partage.",
+    "work": "Bonne complémentarité, le 8 structure et vise le résultat, le 9 donne une portée plus large et humaniste au projet.",
+    "chemistry": "Une attirance faite de respect mutuel, la force du 8 impressionne le 9, qui en retour élève les ambitions du 8 vers plus de sens."
+  },
+  "9-9": {
+    "score": 80,
+    "nature": "harmonieux",
+    "love": "Une relation portée par un idéal commun et une grande générosité mutuelle, où l'amour se vit aussi à travers l'engagement envers les autres et le monde.",
+    "friendship": "Une amitié profonde et généreuse, nourrie par des valeurs et une vision du monde partagées.",
+    "family": "Des liens marqués par la solidarité, le don de soi et une grande ouverture d'esprit.",
+    "work": "Excellente entente, les deux nombres portent une vision fédératrice et humaniste des projets communs.",
+    "chemistry": "Une attirance profonde et généreuse, l'une des unions les plus idéalistes et altruistes du tableau."
+  },
+  "11-1": {
+    "score": 79,
+    "nature": "complementaire",
+    "love": "Le 11 apporte une intuition et une sensibilité intenses, le 1 apporte l'action et la détermination. Le 1 aide le 11 à concrétiser ses inspirations, le 11 aide le 1 à se connecter à une dimension plus intuitive.",
+    "friendship": "Une amitié stimulante où l'inspiration du 11 rejoint l'énergie d'action du 1.",
+    "family": "Des liens marqués par une belle complémentarité entre vision intuitive et sens de l'initiative.",
+    "work": "Bonne association, le 11 inspire, le 1 met en mouvement les idées.",
+    "chemistry": "Une attirance magnétique, l'intensité du 11 fascine le 1, qui apporte en retour de l'ancrage à cette relation."
+  },
+  "11-2": {
+    "score": 84,
+    "nature": "harmonieux",
+    "love": "Deux natures très sensibles et intuitives, une relation empreinte de douceur et de compréhension profonde, presque sans besoin de mots.",
+    "friendship": "Une amitié faite d'une grande complicité émotionnelle et d'une écoute mutuelle rare.",
+    "family": "Des liens tissés dans la finesse et l'empathie, une belle harmonie sensible.",
+    "work": "Excellente entente intuitive, le 2 apaise, le 11 inspire, un duo tout en subtilité.",
+    "chemistry": "Une tendresse presque télépathique, une des alchimies les plus fines et intuitives du tableau."
+  },
+  "11-3": {
+    "score": 80,
+    "nature": "complementaire",
+    "love": "Le 11 apporte l'intensité et l'intuition, le 3 apporte la légèreté et l'expression joyeuse. Une union qui allie profondeur et plaisir de vivre.",
+    "friendship": "Une amitié riche en inspiration et en échanges créatifs.",
+    "family": "Des liens vivants, portés par la sensibilité du 11 et l'entrain communicatif du 3.",
+    "work": "Bonne complémentarité, le 11 inspire des idées fortes, le 3 les exprime avec aisance.",
+    "chemistry": "Une attirance intense et créative, où l'intuition du 11 nourrit l'expressivité du 3."
+  },
+  "11-4": {
+    "score": 71,
+    "nature": "tension",
+    "love": "Le 11 vit dans l'intuition et l'inspiration du moment, le 4 a besoin de structure et de constance, un écart de rythme qui demande des ajustements.",
+    "friendship": "Une amitié qui gagne à trouver un terrain d'entente entre inspiration libre et besoin de cadre.",
+    "family": "Des liens qui se stabilisent quand le 4 apporte un ancrage bienvenu à l'intensité du 11.",
+    "work": "Le 11 propose des visions inspirées, le 4 les structure et les concrétise avec méthode.",
+    "chemistry": "Une attraction qui contraste fortement, fascinante mais qui demande du temps pour trouver un équilibre stable."
+  },
+  "11-5": {
+    "score": 77,
+    "nature": "harmonieux",
+    "love": "Deux natures vibrantes et changeantes, une relation intense et jamais monotone, portée par une même soif de vivre pleinement.",
+    "friendship": "Une amitié électrique, faite de découvertes et d'échanges inspirés.",
+    "family": "Des liens vivants, parfois instables, mais portés par une belle complicité d'énergie.",
+    "work": "Duo créatif et inspiré, à condition de canaliser cette énergie vers des objectifs clairs.",
+    "chemistry": "Une attirance intense et imprévisible, portée par une même vibration énergétique forte."
+  },
+  "11-6": {
+    "score": 81,
+    "nature": "complementaire",
+    "love": "Le 11 apporte l'intuition et la profondeur, le 6 apporte la chaleur et le sens du soin. Une relation empreinte de douceur et d'une belle sensibilité partagée.",
+    "friendship": "Une amitié affectueuse, où le 6 rassure le 11 dans ses intensités émotionnelles.",
+    "family": "Des liens chaleureux et sensibles, portés par un profond attachement mutuel.",
+    "work": "Bonne entente, le 11 inspire, le 6 veille à l'harmonie et au bien-être du groupe.",
+    "chemistry": "Une tendresse intense et enveloppante, une belle rencontre entre intuition et douceur protectrice."
+  },
+  "11-7": {
+    "score": 82,
+    "nature": "harmonieux",
+    "love": "Deux natures profondes et intuitives, une relation habitée par une grande compréhension mutuelle, presque au-delà des mots.",
+    "friendship": "Une amitié rare et profonde, faite d'échanges intenses sur le sens de la vie.",
+    "family": "Des liens marqués par une sensibilité partagée et un profond respect de l'espace intérieur de l'autre.",
+    "work": "Duo réfléchi et inspiré, excellent pour les projets qui demandent intuition et profondeur d'analyse.",
+    "chemistry": "Une attirance intense et habitée, l'une des unions les plus profondes et mystérieuses du tableau."
+  },
+  "11-8": {
+    "score": 69,
+    "nature": "tension",
+    "love": "Le 11 vit dans l'intuition et la sensibilité, le 8 vise le concret et la réussite matérielle, deux mondes qui demandent un vrai effort de compréhension mutuelle.",
+    "friendship": "Une amitié qui gagne à valoriser ce que chacun apporte, l'inspiration du 11 et la détermination du 8.",
+    "family": "Des liens qui demandent des ajustements entre besoin d'intensité émotionnelle et besoin de résultats concrets.",
+    "work": "Le 11 inspire des visions fortes, le 8 les structure en objectifs concrets et ambitieux.",
+    "chemistry": "Une attraction intense mais qui demande du temps pour harmoniser deux natures très différentes dans leur rapport au monde."
+  },
+  "11-9": {
+    "score": 85,
+    "nature": "complementaire",
+    "love": "Une union portée par une grande intensité spirituelle, le 11 apporte l'intuition, le 9 la générosité et la vision universelle. Une des combinaisons les plus habitées du tableau.",
+    "friendship": "Une amitié profonde et inspirante, nourrie par une même quête de sens.",
+    "family": "Des liens marqués par des valeurs élevées et une grande sensibilité partagée.",
+    "work": "Duo visionnaire et inspiré, porté par une même volonté de servir une cause plus grande qu'eux.",
+    "chemistry": "Une attirance profonde et habitée, l'une des rencontres les plus intenses et spirituelles du tableau."
+  },
+  "22-1": {
+    "score": 80,
+    "nature": "complementaire",
+    "love": "Le 22 apporte une vision ambitieuse et bâtisseuse, le 1 apporte l'élan et l'initiative. Une union puissante, tournée vers de grandes réalisations communes.",
+    "friendship": "Une amitié stimulante, où les projets d'envergure du 22 rejoignent l'énergie d'action du 1.",
+    "family": "Des liens marqués par une ambition commune de construire quelque chose de durable et de grand.",
+    "work": "Duo redoutable pour des projets ambitieux, le 22 conçoit à grande échelle, le 1 initie et impulse.",
+    "chemistry": "Une attraction forte entre deux natures bâtisseuses, portée par une vision commune de grandeur."
+  },
+  "22-2": {
+    "score": 83,
+    "nature": "harmonieux",
+    "love": "Le 22 apporte la vision et la capacité de construire à grande échelle, le 2 apporte la sensibilité et le soin des détails relationnels, un bel équilibre entre grandeur et douceur.",
+    "friendship": "Une amitié où la puissance de vision du 22 est accueillie et soutenue par l'écoute attentive du 2.",
+    "family": "Des liens solides et harmonieux, portés par un sens du devoir partagé.",
+    "work": "Excellente entente, le 22 bâtit de grands projets, le 2 en soigne la dimension humaine.",
+    "chemistry": "Une attirance rassurante, la force tranquille du 22 est adoucie par la sensibilité du 2."
+  },
+  "22-3": {
+    "score": 75,
+    "nature": "complementaire",
+    "love": "Le 22 vise grand et construit méthodiquement, le 3 privilégie la légèreté et la spontanéité, un contraste qui demande de trouver un juste équilibre.",
+    "friendship": "Une amitié où le 3 apporte de la légèreté aux ambitions sérieuses du 22.",
+    "family": "Des liens qui gagnent à intégrer un peu de fantaisie dans la construction de projets communs.",
+    "work": "Le 22 structure de grands projets, le 3 y apporte créativité et communication.",
+    "chemistry": "Une attraction où le sérieux du 22 est réchauffé par l'entrain du 3, un contraste qui peut séduire s'il est bien dosé."
+  },
+  "22-4": {
+    "score": 85,
+    "nature": "harmonieux",
+    "love": "Deux nombres profondément bâtisseurs, une relation d'une grande solidité, tournée vers la construction méthodique d'un projet de vie commun.",
+    "friendship": "Une amitié fiable et durable, portée par un même goût du travail bien fait et de l'engagement.",
+    "family": "L'une des combinaisons les plus stables pour bâtir un foyer solide et pérenne.",
+    "work": "Duo redoutable d'efficacité, le 22 vise grand, le 4 structure chaque étape avec rigueur.",
+    "chemistry": "Une attirance sérieuse et profonde, portée par un profond respect mutuel de la capacité de l'autre à construire durablement."
+  },
+  "22-5": {
+    "score": 68,
+    "nature": "tension",
+    "love": "Le 22 a besoin de constance pour mener à bien ses grands projets, le 5 a besoin de changement et de liberté, un écart de rythme qui demande des ajustements.",
+    "friendship": "Une amitié qui gagne à respecter les besoins différents de structure et de liberté de chacun.",
+    "family": "Des liens qui se stabilisent si le 5 accepte de s'ancrer un peu et le 22 d'assouplir son cadre.",
+    "work": "Le 22 construit à grande échelle, le 5 apporte des idées neuves, une association possible avec de la souplesse mutuelle.",
+    "chemistry": "Une attraction contrastée entre la solidité du 22 et le besoin de mouvement du 5, stimulante mais exigeante à équilibrer."
+  },
+  "22-6": {
+    "score": 84,
+    "nature": "complementaire",
+    "love": "Le 22 bâtit avec ambition, le 6 apporte le soin et la chaleur du foyer, une union qui allie grandeur des projets et douceur de vie quotidienne.",
+    "friendship": "Une amitié fidèle, où le 6 soutient avec dévouement les grandes ambitions du 22.",
+    "family": "Des liens très solides, portés par un désir commun de bâtir un foyer stable et chaleureux.",
+    "work": "Bonne association, le 22 vise grand, le 6 veille à l'harmonie et au bien-être de l'équipe.",
+    "chemistry": "Une attirance solide et chaleureuse, portée par un profond respect mutuel des valeurs de construction et de soin."
+  },
+  "22-7": {
+    "score": 78,
+    "nature": "complementaire",
+    "love": "Le 22 construit à grande échelle avec méthode, le 7 apporte la réflexion et la profondeur d'analyse. Une union sérieuse, tournée vers des réalisations qui ont du sens.",
+    "friendship": "Une amitié discrète mais solide, faite de respect mutuel des projets et des besoins de retrait de chacun.",
+    "family": "Des liens stables, où chacun respecte le rythme de réflexion ou d'action de l'autre.",
+    "work": "Duo redoutable, le 7 analyse en profondeur, le 22 construit et met en œuvre à grande échelle.",
+    "chemistry": "Une attirance sérieuse et habitée, qui se construit dans la durée avec une belle profondeur."
+  },
+  "22-8": {
+    "score": 76,
+    "nature": "complementaire",
+    "love": "Deux nombres tournés vers la réussite et la construction, une relation ambitieuse qui gagne à ne pas tomber dans la rivalité de pouvoir.",
+    "friendship": "Une amitié respectueuse, portée par une admiration mutuelle de la capacité de chacun à bâtir et réussir.",
+    "family": "Des liens marqués par une forte ambition commune, à condition de bien répartir les rôles.",
+    "work": "Duo très puissant pour de grands projets ambitieux, à condition de clarifier qui décide de quoi.",
+    "chemistry": "Une attraction intense entre deux bâtisseurs, stimulante mais qui demande de canaliser les egos respectifs."
+  },
+  "22-9": {
+    "score": 82,
+    "nature": "harmonieux",
+    "love": "Le 22 bâtit de grandes réalisations concrètes, le 9 y insuffle une dimension généreuse et universelle. Une union qui allie ambition et sens du service aux autres.",
+    "friendship": "Une amitié inspirante, où les grands projets du 22 rejoignent les idéaux du 9.",
+    "family": "Des liens portés par des valeurs élevées et un désir commun de laisser une trace positive.",
+    "work": "Excellente synergie, le 22 construit à grande échelle, le 9 donne du sens et une portée humaniste au projet.",
+    "chemistry": "Une attirance profonde, portée par un respect mutuel de la grandeur de vision de l'autre."
+  },
+  "33-1": {
+    "score": 81,
+    "nature": "complementaire",
+    "love": "Le 33 apporte un amour dévoué et un sens du service élevé, le 1 apporte l'action et la détermination. Le 1 aide le 33 à poser des limites saines à son dévouement.",
+    "friendship": "Une amitié où le 1 est touché par la générosité du 33, qui admire en retour sa force d'initiative.",
+    "family": "Des liens marqués par un profond dévouement, à condition que le 33 ne s'oublie pas dans le don de soi.",
+    "work": "Bonne complémentarité, le 1 initie, le 33 porte une attention généreuse à l'équipe.",
+    "chemistry": "Une attirance touchante, la générosité du 33 émeut le 1, qui lui offre en retour de l'assurance."
+  },
+  "33-2": {
+    "score": 86,
+    "nature": "harmonieux",
+    "love": "Deux natures profondément dévouées et sensibles, une union empreinte d'un amour attentionné et d'une grande douceur mutuelle.",
+    "friendship": "Une amitié d'une grande profondeur affective, faite d'écoute et de soin réciproque.",
+    "family": "Des liens très forts, l'une des combinaisons les plus douces et dévouées du tableau.",
+    "work": "Excellente entente humaine, les deux nombres placent le soin des autres au cœur du travail.",
+    "chemistry": "Une tendresse rare et profonde, une des alchimies les plus douces et généreuses du tableau."
+  },
+  "33-3": {
+    "score": 79,
+    "nature": "complementaire",
+    "love": "Le 33 apporte un amour dévoué et profond, le 3 apporte la joie et la légèreté d'expression. Une union qui allie profondeur du cœur et plaisir de vivre.",
+    "friendship": "Une amitié chaleureuse, où la légèreté du 3 allège le sens du devoir du 33.",
+    "family": "Des liens vivants et affectueux, portés par le dévouement du 33 et l'entrain du 3.",
+    "work": "Bonne complémentarité, le 33 veille au bien-être humain, le 3 anime et communique.",
+    "chemistry": "Une attirance tendre et joyeuse, la générosité profonde du 33 rencontre la légèreté séduisante du 3."
+  },
+  "33-4": {
+    "score": 83,
+    "nature": "harmonieux",
+    "love": "Deux nombres portés par le sens du devoir et de l'engagement, une relation stable où le dévouement du 33 trouve dans le 4 un socle solide.",
+    "friendship": "Une amitié fiable et loyale, portée par des valeurs communes de service et de constance.",
+    "family": "Des liens très stables, où le 4 apporte l'ancrage dont le 33 a besoin pour ne pas s'épuiser dans le don de soi.",
+    "work": "Duo efficace et dévoué, le 4 structure, le 33 veille au bien-être humain du projet.",
+    "chemistry": "Une attirance sereine et profonde, portée par un profond respect mutuel de l'engagement de l'autre."
+  },
+  "33-5": {
+    "score": 70,
+    "nature": "tension",
+    "love": "Le 33 a besoin de constance dans son dévouement, le 5 a besoin de liberté et de changement, un écart qui demande de vrais ajustements mutuels.",
+    "friendship": "Une amitié qui gagne à respecter les besoins différents de stabilité affective et de liberté de mouvement.",
+    "family": "Des liens qui se stabilisent si le 5 apprend à s'ancrer un peu et le 33 à ne pas trop en attendre.",
+    "work": "Le 33 veille au bien-être du groupe, le 5 apporte du renouveau, une association possible avec souplesse.",
+    "chemistry": "Une attraction contrastée, touchante mais exigeante, entre un besoin de dévouement stable et un besoin de liberté."
+  },
+  "33-6": {
+    "score": 87,
+    "nature": "harmonieux",
+    "love": "L'une des combinaisons les plus harmonieuses du tableau, deux nombres portés par un amour profondément dévoué et un fort sens du foyer.",
+    "friendship": "Une amitié d'un dévouement rare, où chacun veille sincèrement sur le bonheur de l'autre.",
+    "family": "Des liens exceptionnellement chaleureux, tournés vers le soin et le bien-être de tous.",
+    "work": "Excellente entente humaine, les deux nombres placent le soin des autres au centre de tout.",
+    "chemistry": "Une tendresse profonde et enveloppante, l'une des alchimies les plus douces et généreuses du tableau."
+  },
+  "33-7": {
+    "score": 80,
+    "nature": "complementaire",
+    "love": "Le 33 offre un amour dévoué et présent, le 7 a besoin de retrait et de réflexion. Le 33 doit apprendre à ne pas prendre le besoin de solitude du 7 pour un manque d'amour.",
+    "friendship": "Une amitié profonde, où le dévouement du 33 rencontre la sagesse réfléchie du 7.",
+    "family": "Des liens qui gagnent en profondeur si le 33 respecte le rythme intérieur du 7.",
+    "work": "Bonne association, le 33 veille au bien-être humain, le 7 apporte la réflexion en profondeur.",
+    "chemistry": "Une attirance habitée et profonde, qui se construit lentement mais avec une belle intensité."
+  },
+  "33-8": {
+    "score": 74,
+    "nature": "complementaire",
+    "love": "Le 33 privilégie le dévouement et le service, le 8 privilégie l'ambition et la réussite matérielle, un équilibre à trouver entre don de soi et accomplissement personnel.",
+    "friendship": "Une amitié où le 33 admire la détermination du 8, qui en retour respecte le dévouement du 33.",
+    "family": "Des liens qui gagnent à équilibrer ambition personnelle et sens du service partagé.",
+    "work": "Bonne complémentarité, le 8 vise le résultat, le 33 veille à la dimension humaine du projet.",
+    "chemistry": "Une attirance faite de contraste, la force du 8 rassure le 33, qui adoucit en retour son ambition."
+  },
+  "33-9": {
+    "score": 88,
+    "nature": "complementaire",
+    "love": "Une des combinaisons les plus généreuses et idéalistes du tableau, le 33 et le 9 partagent un même désir profond de servir et d'aimer sans compter.",
+    "friendship": "Une amitié d'une grande profondeur, nourrie par des valeurs humanistes partagées.",
+    "family": "Des liens marqués par une générosité et une solidarité exceptionnelles.",
+    "work": "Duo porteur de sens, entièrement tourné vers le service et le bien-être collectif.",
+    "chemistry": "Une attirance profonde et généreuse, l'une des unions les plus altruistes et habitées de tout le tableau."
+  },
+  "11-11": {
+    "score": 76,
+    "nature": "harmonieux",
+    "love": "Une relation d'une intensité rare, portée par une intuition et une sensibilité communes très fortes. Le défi est de ne pas amplifier mutuellement l'instabilité émotionnelle propre à ce nombre.",
+    "friendship": "Une amitié presque télépathique, faite d'une compréhension immédiate et profonde.",
+    "family": "Des liens intenses et vibrants, qui gagnent à être ancrés par des routines stabilisantes.",
+    "work": "Duo très inspiré, riche en intuitions fortes, à condition qu'un cadre extérieur canalise cette énergie.",
+    "chemistry": "Une attirance électrique et habitée, l'une des rencontres les plus intenses du tableau, à condition que les deux sachent aussi s'ancrer."
+  },
+  "11-22": {
+    "score": 82,
+    "nature": "complementaire",
+    "love": "Le 11 apporte l'intuition et l'inspiration, le 22 apporte la capacité à bâtir concrètement à grande échelle. Une union puissante qui allie vision et réalisation.",
+    "friendship": "Une amitié inspirante, où les intuitions du 11 trouvent dans le 22 la force de se concrétiser.",
+    "family": "Des liens marqués par une ambition élevée et une belle capacité à transformer les rêves en projets réels.",
+    "work": "Duo redoutable, le 11 inspire, le 22 construit et structure à grande échelle.",
+    "chemistry": "Une attirance intense et habitée, portée par un profond respect mutuel du pouvoir de création de l'autre."
+  },
+  "11-33": {
+    "score": 85,
+    "nature": "complementaire",
+    "love": "Le 11 apporte l'intuition profonde, le 33 apporte un amour dévoué et un sens du service élevé. Une union spirituelle intense, portée par une grande sensibilité partagée.",
+    "friendship": "Une amitié habitée, nourrie par une même profondeur d'âme et un désir de servir quelque chose de plus grand.",
+    "family": "Des liens marqués par une sensibilité et une générosité exceptionnelles.",
+    "work": "Duo inspiré et dévoué, porté par une même volonté de servir une cause qui les dépasse.",
+    "chemistry": "Une attirance profonde et rare, l'une des rencontres les plus intenses et spirituelles du tableau."
+  },
+  "22-22": {
+    "score": 80,
+    "nature": "harmonieux",
+    "love": "Deux bâtisseurs ambitieux, une relation d'une grande solidité tournée vers de grandes réalisations communes, à condition de ne pas se perdre dans le travail au détriment de l'intimité.",
+    "friendship": "Une amitié fiable et puissante, portée par des projets d'envergure partagés.",
+    "family": "Des liens très stables, tournés vers la construction d'un héritage durable.",
+    "work": "Duo extrêmement efficace pour mener de grands projets à terme.",
+    "chemistry": "Une attirance solide et ambitieuse, portée par un profond respect mutuel de la capacité de l'autre à bâtir grand."
+  },
+  "22-33": {
+    "score": 84,
+    "nature": "complementaire",
+    "love": "Le 22 bâtit à grande échelle, le 33 y insuffle un amour dévoué et un sens profond du service aux autres. Une union puissante et généreuse à la fois.",
+    "friendship": "Une amitié portée par de grands idéaux, où l'ambition constructive du 22 rejoint le dévouement du 33.",
+    "family": "Des liens marqués par une volonté commune de bâtir quelque chose de grand et de généreux.",
+    "work": "Duo exceptionnel, le 22 structure de grands projets, le 33 veille à leur portée humaine.",
+    "chemistry": "Une attirance profonde et généreuse, portée par un respect mutuel de la grandeur de vision et de cœur de l'autre."
+  },
+  "33-33": {
+    "score": 83,
+    "nature": "harmonieux",
+    "love": "Une relation d'un dévouement exceptionnel, portée par un amour profond et un sens du service partagé, à condition que les deux veillent à ne pas s'oublier l'un pour l'autre.",
+    "friendship": "Une amitié d'une générosité rare, où chacun veille sincèrement sur le bien-être de l'autre.",
+    "family": "Des liens exceptionnellement chaleureux et dévoués, tournés vers le soin des autres.",
+    "work": "Duo entièrement tourné vers le service et le bien-être collectif.",
+    "chemistry": "Une tendresse profonde et rare, l'une des alchimies les plus généreuses et habitées de tout le tableau."
+  }
+}

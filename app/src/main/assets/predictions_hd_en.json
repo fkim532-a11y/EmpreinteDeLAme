@@ -1,0 +1,265 @@
+{
+  "cycles": {
+    "SATURN_1": {
+      "name": "First Saturn Return",
+      "theme": "Maturity and responsibility",
+      "description": "The First Saturn Return is one of the most important passages of your life. Between ages 28 and 30, Saturn returns to the position it occupied on the day you were born — and it holds you accountable. This is when prolonged adolescence truly ends. Life invites you to take responsibility, consciously choose your direction, and build solid foundations for the 29 years ahead. In Human Design, this cycle activates your life strategy with particular intensity. If you have lived against your deeper nature, Saturn will insist on reminding you. If you have followed your truth, this passage will be a powerful confirmation.",
+      "invitation": "Take on your responsibilities with confidence. What you build now will last 29 years."
+    },
+    "CHIRON_OPP": {
+      "name": "Chiron Opposition",
+      "theme": "Healing old wounds",
+      "description": "Between ages 38 and 42, Chiron — the asteroid of the Wounded Healer — sits exactly opposite its natal position. This is one of the deepest and most transformative passages of human life. This period brings your oldest wounds back to the surface — the ones you thought you had moved past, or the ones you never dared to face. This is not a punishment — it is an invitation to heal deeply. In Human Design, the Chiron Opposition reveals the undefined centers of your Bodygraph with particular clarity. This is often when people discover their Design and finally understand why certain things have always been difficult for them.",
+      "invitation": "Look at your wounds with tenderness. What made you suffer carries your greatest gift."
+    },
+    "URANUS_OPP": {
+      "name": "Uranus Opposition",
+      "theme": "Inner revolution",
+      "description": "Uranus takes 84 years to travel the zodiac. Halfway through — around age 38 to 42 — it sits exactly opposite its natal position. This is commonly called the \"midlife crisis\" — but it is actually far deeper. Uranus is the planet of awakening, freedom, and revolution. Its opposition shakes everything in your life that is not authentically you — the roles played to please, the paths taken out of obligation, the identities inherited rather than chosen. In Human Design, this is often when people begin to truly live according to their Type and Strategy. Uranus's inner revolution frees you to be fully yourself.",
+      "invitation": "Dare to be truly yourself. The inner revolution is a liberation, not a crisis."
+    },
+    "CHIRON_RET": {
+      "name": "Chiron Return",
+      "theme": "Fulfillment and healing",
+      "description": "Between ages 50 and 51, Chiron returns exactly to its natal position for the first time in your life. This is the Chiron Return — a passage of healing and fulfillment. If you moved through the Chiron Opposition (ages 38-42) with awareness and courage, this return is a reward: a deep capacity for healing, a wisdom born from your transformed wounds, and a natural gift for helping others through what you yourself have been through. In Human Design, the Chiron Return often marks the entry into spiritual maturity. Your Design begins to express itself with new ease and depth.",
+      "invitation": "Your transformed wound has become your greatest gift. Share it."
+    },
+    "SATURN_2": {
+      "name": "Second Saturn Return",
+      "theme": "Wisdom and transmission",
+      "description": "The Second Saturn Return, between ages 56 and 60, is less known than the first but just as important. This time Saturn invites you not to build, but to transmit. This is the passage from action to wisdom, from doing to being. Life asks you to share what you have learned, to simplify what can be simplified, and to focus on what truly matters in the time you have left. In Human Design, this cycle often activates a desire to live in a more authentic and aligned way. Many people change professional or life direction at this point — not out of crisis, but out of clarity.",
+      "invitation": "Pass on what you know. Your wisdom holds value for those who come after you."
+    },
+    "SATURN_OPP": {
+      "name": "Saturn Opposition",
+      "theme": "Wisdom put to the test",
+      "description": "Around ages 72 to 74, Saturn sits opposite its natal position for the third time in your life — a gentler echo of the great chapter opened at the First Return (ages 28-30) and closed at the Second Return (ages 56-60). This is no longer a time of building or of passing things on, but a time of checking: does what you built and shared still stand, in your own eyes rather than others'? In Human Design, this period tests the solidity of your Type strategy over the long run — not to make you doubt, but to confirm, one last time, that you are living according to your true nature and not an image to maintain.",
+      "invitation": "Check, without fear, that your life still stands on your own terms."
+    },
+    "NODE_RETURN": {
+      "name": "Lunar Node Return",
+      "theme": "A reminder of your life's mission",
+      "description": "Around ages 74 to 75, the Lunar Nodes return exactly to the position they occupied on the day you were born — an 18.6-year cycle completing its fourth full revolution since your birth. In Human Design, the Nodes sit at the very heart of your Incarnation Cross, the placement that describes the deep purpose of your life. This return is not just a borrowed astrological milestone: it is a direct reminder of the mission your Design has carried since day one — a chance to recognize, with the perspective of a whole lifetime, just how much of it you have already fulfilled.",
+      "invitation": "Recognize, with gratitude, just how much of your mission you have already lived."
+    },
+    "URANUS_RET": {
+      "name": "Uranus Return",
+      "theme": "Total liberation",
+      "description": "The Uranus Return at age 84 is the rarest cycle of all. Few human beings reach it — and those who do carry exceptional wisdom and inner freedom. Uranus returns exactly to its natal position for the first and only time in your life. This is a total liberation — from every fear, every conditioning, everything that was never truly you. In Human Design, this cycle represents the complete fulfillment of your Design. You have fully become what you were destined to be.",
+      "invitation": "You are free. Fully, totally free to be yourself."
+    }
+  },
+  "personalYears": {
+    "1": {
+      "theme": "New beginning",
+      "hdTheme": "Initiation of your Design",
+      "description": "This year marks the start of a new 9-year cycle in your life. In Human Design, this is the year when your natural energy seeks to express itself in a new, authentic direction. If you are a Generator or Manifesting Generator: it's time to wait for new opportunities that truly resonate in your gut before acting. If you are a Manifestor: a new creative impulse is seeking to manifest, inform those around you of your intentions. If you are a Projector: wait for an invitation into a new area, it will come if you stay visible and available. If you are a Reflector: observe the new directions opening up to you, take your time.",
+      "strategy": "Follow your life strategy with particular attention this year.",
+      "affirmation": "I begin this new cycle by being fully true to my deepest nature."
+    },
+    "2": {
+      "theme": "Patience and relationships",
+      "hdTheme": "Deepening connections",
+      "description": "This year is marked by patience and authentic relationships. In Human Design, this is a period when the quality of your human connections is paramount. Your undefined centers are particularly active this year — you absorb and amplify the energy of others more intensely. Choose your circle carefully: the people around you deeply condition your experience. This is also a year when your inner authority develops. Learn to distinguish what truly belongs to you from what you absorb from others.",
+      "strategy": "Stay true to your inner authority in your relationships.",
+      "affirmation": "I build authentic bonds that honor my true nature."
+    },
+    "3": {
+      "theme": "Creative expression",
+      "hdTheme": "Manifesting your unique voice",
+      "description": "This year carries a particularly strong energy of expression and creativity. In Human Design, this is the year when your Throat — the center of expression and manifestation — is activated intensively. If your Throat is defined: your natural expression finds new richness and reach, share what you have to say, your voice is particularly powerful. If your Throat is undefined: be mindful not to speak to get attention, express yourself when it's right, not out of pressure. This is an excellent year for any creative, artistic, or communicative project.",
+      "strategy": "Express yourself according to your strategy — respond, inform, or wait for the invitation.",
+      "affirmation": "My unique voice is a gift I share with the world."
+    },
+    "4": {
+      "theme": "Building and foundations",
+      "hdTheme": "Grounding your Design in the concrete",
+      "description": "This year calls for effort, method, and perseverance. In Human Design, this is the year when you are invited to ground your Design in concrete, lasting achievements. It is a particularly favorable year to work on your undefined centers — understanding how they function, identifying your conditioning, and developing the wisdom that comes with it. Your Type strategy is especially important this year. If you honor it, what you build will be solid and lasting. If you neglect it, you risk building on foundations that are not truly yours.",
+      "strategy": "Build according to your nature — not according to others' expectations.",
+      "affirmation": "I build my life on the authentic foundations of my Design."
+    },
+    "5": {
+      "theme": "Change and transformation",
+      "hdTheme": "Releasing conditioning",
+      "description": "This year brings often unexpected changes that challenge your certainties. In Human Design, this is a year of powerful deconditioning. Deconditioning is the process by which you release the outside influences that have colored your undefined centers since childhood. This year, situations will arise to help you see clearly what is truly you and what is not. It can be uncomfortable at times — but it is always liberating. Every change this year brings you closer to a more authentic, freer version of yourself.",
+      "strategy": "Welcome the changes — they free you from what was never you.",
+      "affirmation": "I gracefully release everything that keeps me from being fully myself."
+    },
+    "6": {
+      "theme": "Relationships and responsibilities",
+      "hdTheme": "Your Design within your relationships",
+      "description": "This year places your relationships at the heart of your experience. In Human Design, this is the year when the dynamic between your Design and that of others becomes particularly visible and meaningful. You may start to understand why certain people drain you and others revitalize you — this is the energy of defined and undefined centers at work in your relationships. This year invites you to build relationships based on your true nature — not on what you believe you should be for others. Self-love is the foundation of all authentic love.",
+      "strategy": "Choose your relationships according to your strategy — not out of fear or obligation.",
+      "affirmation": "My relationships reflect and honor who I truly am."
+    },
+    "7": {
+      "theme": "Introspection and wisdom",
+      "hdTheme": "Deepening your knowledge of your Design",
+      "description": "This is one of the most important years for your Human Design journey. It is a year of deepening, introspection, and a finer understanding of your own Design. You may feel the need to withdraw from the world, to study, to meditate — listen to that need, it is right. The answers you seek about yourself will come in chosen calm and solitude. It is also an excellent year to deepen your understanding of Human Design — exploring your gates, your channels, your circuits. The more you know yourself, the more ease you live your Design with.",
+      "strategy": "Give yourself time alone to deepen your knowledge of yourself.",
+      "affirmation": "My inner wisdom guides me toward my deepest truth."
+    },
+    "8": {
+      "theme": "Achievement and harvest",
+      "hdTheme": "The power of your Design in action",
+      "description": "This year carries an energy of achievement and concrete realization. In Human Design, this is the year when your Design expresses itself with particular power and clarity. If you have honored your strategy and authority in recent years, you now reap the fruits of that authenticity — good results come naturally when you live according to your Design. This is also a year when the karma of your interactions is particularly visible — what you have given comes back to you, in one form or another. Act with integrity and according to your true nature.",
+      "strategy": "Harvest with grace what your authenticity has sown.",
+      "affirmation": "I live my Design with power and integrity, and I welcome abundance."
+    },
+    "9": {
+      "theme": "Review and letting go",
+      "hdTheme": "Closing a cycle of deconditioning",
+      "description": "This final year of the cycle is one of deep review and letting go. In Human Design, this is the moment to close out an entire cycle of deconditioning and prepare for a new way of being. What have you learned about your Design over these past 9 years? What conditioning have you released? What still remains to be worked on? This year invites you to let go of everything that belongs to the past — old patterns, old beliefs about yourself, relationships that no longer match who you have become. Make room for the new cycle beginning.",
+      "strategy": "Let go of this cycle with gratitude. Your Design has brought you further than you think.",
+      "affirmation": "I close this cycle with wisdom and gratitude, ready for my next evolution."
+    },
+    "11": {
+      "theme": "Vision and intuitive awakening",
+      "hdTheme": "Amplifying your perception beyond your known Design",
+      "description": "This year carries the intensity of a master number: everything the 2 explores gently (patience, relationships, sensitivity to others) is lived here at a sharper, almost electric level. In Human Design, this is a year when your perception sharpens beyond what your usual Design reveals — your undefined centers pick up on things with unusual acuity, and this heightened sensitivity, well channeled, becomes real intuition. This is not a burden to carry alone: it is an invitation to trust what you perceive, even when you can't yet explain it.",
+      "strategy": "Trust the subtle signals you pick up this year — they come from expanded perception, not from overactive imagination.",
+      "affirmation": "I trust my expanded perception and use it with discernment."
+    },
+    "22": {
+      "theme": "The builder",
+      "hdTheme": "Manifesting on a large scale according to your strategy",
+      "description": "The 22 is called the \"master builder\" number: what the 4 builds patiently on its own scale, the 22 can carry to a much larger scope. In Human Design, this year strongly amplifies your ability to ground your Design into the concrete — but the scale of this number in no way excuses you from your Type strategy. On the contrary: the bigger the project, the more essential it is to wait for the right signal (response, invitation, information) before acting, so that what you build rests on foundations that are truly your own.",
+      "strategy": "Don't let the scale of the 22 push you to act faster than your strategy allows.",
+      "affirmation": "I build big, but I build according to my true nature, one right step at a time."
+    }
+  },
+  "personalMonths": {
+    "1": {
+      "theme": "Initiation",
+      "hdFocus": "Your Type strategy",
+      "description": "This month activates your energy of initiation. In Human Design, it's time to put your Type strategy into action — start something new while honoring your natural way of acting.",
+      "practicalTip": "Generator: wait to feel a true 'yes' before starting. Manifestor: inform before acting. Projector: wait for the invitation. Reflector: observe."
+    },
+    "2": {
+      "theme": "Relationships",
+      "hdFocus": "Your undefined centers in relationships",
+      "description": "This month puts the focus on your relationships and connections. In Human Design, it's time to become aware of what you absorb from others in your undefined centers.",
+      "practicalTip": "Notice how your energy changes depending on the people you spend time with. Choose your circle carefully this month."
+    },
+    "3": {
+      "theme": "Expression",
+      "hdFocus": "Your Throat center",
+      "description": "This month favors expression and communication. In Human Design, your Throat center is particularly active — express yourself according to your strategy.",
+      "practicalTip": "If your Throat is defined: express yourself freely. If it's undefined: wait to be asked before speaking, rather than speaking to fill the silence."
+    },
+    "4": {
+      "theme": "Foundations",
+      "hdFocus": "Your inner authority",
+      "description": "This month invites you to ground your Design in concrete foundations. It's an excellent month to strengthen your connection to your inner authority — the unique compass that guides you toward the right decisions.",
+      "practicalTip": "Practice listening to your inner authority in every decision this month, big or small."
+    },
+    "5": {
+      "theme": "Change",
+      "hdFocus": "Deconditioning",
+      "description": "This month brings changes that invite you to release your conditioning. In Human Design, this is a period of accelerated deconditioning — what isn't truly you is seeking to leave.",
+      "practicalTip": "Watch your automatic reactions this month. Ask yourself: 'Is this really me, or is it an inherited conditioning?'"
+    },
+    "6": {
+      "theme": "Harmony",
+      "hdFocus": "Your Design in your home",
+      "description": "This month places harmony at the heart of your life. In Human Design, it's time to create an environment that truly supports your Design — your living space deeply influences your energy.",
+      "practicalTip": "Arrange your living space to support your nature. A Generator needs room to move. A Projector needs calm."
+    },
+    "7": {
+      "theme": "Introspection",
+      "hdFocus": "Deepening your Design",
+      "description": "This month invites inner deepening. It's an excellent month to study your Human Design more deeply — exploring your gates, your channels, your circuits.",
+      "practicalTip": "Spend time this month better understanding one aspect of your Design you don't yet know well."
+    },
+    "8": {
+      "theme": "Achievement",
+      "hdFocus": "The power of your Design in action",
+      "description": "This month carries an energy of achievement and power. In Human Design, this is when your Design expresses itself with the most strength and effectiveness. Act according to your strategy with confidence.",
+      "practicalTip": "This is the month to move your important projects forward by following your Type strategy with particular attention."
+    },
+    "9": {
+      "theme": "Integration",
+      "hdFocus": "Review of your HD journey",
+      "description": "This month invites integration and review. In Human Design, it's time to take stock of your deconditioning journey — what have you released? What have you integrated of your Design?",
+      "practicalTip": "Take time this month to note what you've learned about your Design and how your life has changed since you discovered it."
+    },
+    "11": {
+      "theme": "Amplified intuition",
+      "hdFocus": "Your subtle perceptions",
+      "description": "This month carries the same intensity as the Year 11 but on a monthly scale: your perceptions sharpen, particularly in your undefined centers. This is a month to observe rather than act quickly — the signals you pick up this month deserve careful attention before being turned into decisions.",
+      "practicalTip": "Note your intuitions this month without rushing to justify them — their meaning will become clear with time."
+    },
+    "22": {
+      "theme": "Large-scale building",
+      "hdFocus": "Grounding an ambitious project according to your strategy",
+      "description": "This month carries a builder's energy: a chance to lay an important stone in a project that matters to you. But just like the Year 22, scale never replaces your Type strategy — let the right signal show up before investing your energy.",
+      "practicalTip": "Before committing to something big this month, check that you're following your strategy, not just your enthusiasm."
+    }
+  },
+  "dailyGates": {
+    "1": { "yiKingName": "The Creative", "description": "Today's energy invites authentic, creative expression. It's a day to let your unique voice speak without self-censorship. What you create today carries a particular imprint.", "invitation": "Express something authentic today — even a small creative gesture has value." },
+    "2": { "yiKingName": "The Receptive", "description": "Today's energy is receptive and inward-facing. It's a day to listen to your deep sense of direction — not what others expect of you, but what you're naturally drawn toward.", "invitation": "Trust your inner compass today." },
+    "3": { "yiKingName": "Difficulty at the Beginning", "description": "Today's energy carries the vibration of mutation and difficult beginnings. What seems chaotic today is finding its order. Trust the process.", "invitation": "Welcome the apparent disorder — it's preparing something new." },
+    "4": { "yiKingName": "Youthful Folly", "description": "Today's energy favors problem-solving and the formulation of new ideas. Your mind is particularly apt at finding creative solutions today.", "invitation": "Ask your important questions today — the answers are within reach." },
+    "5": { "yiKingName": "Waiting", "description": "Today's energy honors fixed rhythms and healthy habits. It's a day to respect your routines and trust the power of regularity.", "invitation": "Honor your daily rituals — they're the foundation of your wellbeing." },
+    "6": { "yiKingName": "Conflict", "description": "Today's energy touches on relationships and the natural friction between people. This is not a day to avoid tension — it's a day to move through it consciously to find true intimacy.", "invitation": "Look at your relational tensions as doorways to more authentic intimacy." },
+    "7": { "yiKingName": "The Army", "description": "Today's energy carries a vibration of natural leadership and collective direction. It's a day when your ability to guide others with wisdom is particularly visible.", "invitation": "Lead by example today — your natural direction inspires others." },
+    "8": { "yiKingName": "Holding Together", "description": "Today's energy honors each individual's unique contribution. It's a day to bring your personal touch to what surrounds you — your uniqueness is your finest contribution.", "invitation": "Bring your unique touch today — the world needs what only you can offer." },
+    "9": { "yiKingName": "The Taming Power of the Small", "description": "Today's energy favors focus and attention to detail. It's a day to work with precision and patience on what requires your sustained attention.", "invitation": "Focus on one important subject today — depth beats breadth." },
+    "10": { "yiKingName": "Treading", "description": "Today's energy invites you to behave in a way that's authentically aligned with who you are. It's a day to honor your own nature in every single action.", "invitation": "Act today exactly as you are — no mask, no performance." },
+    "11": { "yiKingName": "Peace", "description": "Today's energy overflows with ideas and imaginative possibilities. It's a fertile day for mental creativity — write down everything that comes, without judging whether it's feasible.", "invitation": "Let your ideas flow freely today — don't filter, write it all down." },
+    "12": { "yiKingName": "Standstill", "description": "Today's energy calls for caution in expression. It's not always the right moment to say everything — choose your words carefully and speak when it's right.", "invitation": "Speak less, listen more today. What's left unsaid also has value." },
+    "13": { "yiKingName": "Fellowship with Men", "description": "Today's energy honors shared stories and collective memory. It's a day to listen to others' stories with deep attention — every story carries wisdom.", "invitation": "Listen to others' stories today with total openness." },
+    "14": { "yiKingName": "Possession in Great Measure", "description": "Today's energy carries a vibration of abundance and available resources. It's a day when you have access to more energy, creativity, and resources than usual.", "invitation": "Use today's resources in service of what truly lights you up." },
+    "15": { "yiKingName": "Modesty", "description": "Today's energy touches on the diversity of human rhythms. It's a day to accept that every being has their own pace — neither too fast nor too slow. Tolerance is today's gift.", "invitation": "Accept others' pace with kindness today — everyone moves in their own way." },
+    "16": { "yiKingName": "Enthusiasm", "description": "Today's energy radiates enthusiasm and mastery. It's a day to express your talents with joy and to connect with what you do through genuine passion.", "invitation": "Express your talent with enthusiasm today — your passion is contagious." },
+    "17": { "yiKingName": "Following", "description": "Today's energy favors exchanges of opinions and organized ideas. It's a day to share your point of view with clarity — while staying open to others'.", "invitation": "Share your opinion clearly, then listen to others' with the same openness." },
+    "18": { "yiKingName": "Work on What Has Been Spoiled", "description": "Today's energy invites correction, improvement, and refinement. It's a day to look at what could be done better — with kindness toward yourself and others.", "invitation": "Improve something today — but do it gently, not out of demand." },
+    "19": { "yiKingName": "Approach", "description": "Today's energy touches on sensitivity and fundamental needs. It's a day to recognize and honor your needs — and those of others — with particular attention.", "invitation": "Recognize your needs today and ask for what you need." },
+    "20": { "yiKingName": "Contemplation", "description": "Today's energy invites full presence in the moment. It's a day to be fully here — not in the past nor the future — but here, now, in this living moment.", "invitation": "Be fully present in every moment today." },
+    "21": { "yiKingName": "Biting Through", "description": "Today's energy carries a vibration of control and self-mastery. It's a day to exercise your authority wisely — first over yourself, before seeking to influence others.", "invitation": "Master your own energy today before trying to control anything else." },
+    "22": { "yiKingName": "Grace", "description": "Today's energy radiates natural grace and an open heart. It's a day to move through social interactions with elegance and let your presence bring lightness.", "invitation": "Bring grace into every interaction today." },
+    "23": { "yiKingName": "Splitting Apart", "description": "Today's energy invites you to integrate and assimilate what you've experienced. It's a day to digest recent experiences — let the new settle in before moving further.", "invitation": "Take time to integrate a recent experience before moving on." },
+    "24": { "yiKingName": "Return", "description": "Today's energy favors reflection and self-review. It's a day to mentally revisit your experiences, find meaning in what happened, and integrate the lessons.", "invitation": "Revisit a recent experience with fresh eyes — what does it teach you?" },
+    "25": { "yiKingName": "Innocence", "description": "Today's energy touches on innocence and universal love. It's a day to love unconditionally — others, yourself, life — with the purity of an open heart.", "invitation": "Simply love today — without reason, without condition, without expectation." },
+    "26": { "yiKingName": "The Taming Power of the Great", "description": "Today's energy invites you to use your influence with integrity. It's a day to be honest about your motives — act for the right reasons, not for image.", "invitation": "Act with total integrity today — your motives matter as much as your actions." },
+    "27": { "yiKingName": "The Corners of the Mouth", "description": "Today's energy carries a vibration of care and nourishment — physical, emotional, and spiritual. It's a day to take tender care of yourself and others.", "invitation": "Nourish something today — your body, your soul, a relationship, a project." },
+    "28": { "yiKingName": "Preponderance of the Great", "description": "Today's energy touches on the struggle for what has meaning. It's a day to ask yourself: what's truly worth fighting for? Focus your energy on what really matters.", "invitation": "Choose your battles wisely today — not everything deserves your energy." },
+    "29": { "yiKingName": "The Abysmal", "description": "Today's energy honors perseverance and deep commitment. It's a day to stay true to what you've committed to — even when it's hard.", "invitation": "Honor your most important commitment today with consistency and faith." },
+    "30": { "yiKingName": "The Clinging Fire", "description": "Today's energy burns with intense desires and deep passions. It's a day to recognize what you truly desire — and not lose yourself in desires that aren't your own.", "invitation": "Identify your most authentic desire today. Is it really yours?" },
+    "31": { "yiKingName": "Influence", "description": "Today's energy carries a vibration of natural influence and democratic leadership. It's a day when your voice can have a particular impact on those around you.", "invitation": "Use your influence today in service of the common good — not just your own interest." },
+    "32": { "yiKingName": "Duration", "description": "Today's energy honors what lasts through time. It's a day to value consistency, reliability, and long-term commitments — against the temptation to change everything on impulse.", "invitation": "Honor your long-term commitments today — what lasts holds a particular value." },
+    "33": { "yiKingName": "Retreat", "description": "Today's energy invites withdrawal and preservation. It's a day to step back from the world's noise, protect your inner space, and reflect on what you want to share or keep for yourself.", "invitation": "Withdraw from the noise today — your inner space deserves protection." },
+    "34": { "yiKingName": "The Power of the Great", "description": "Today's energy radiates particularly strong vital power. It's a day to act with force — but only on what truly responds to you. Power without direction is wasted energy.", "invitation": "Use today's power in service of what truly lights you up." },
+    "35": { "yiKingName": "Progress", "description": "Today's energy carries movement and progress. It's a dynamic day when advances are possible — but choose carefully which direction you want to progress in.", "invitation": "Take one step today in a direction that truly matters to you." },
+    "36": { "yiKingName": "Darkening of the Light", "description": "Today's energy touches on the depth of emotional experience. It's a day to move through emotions with courage — even the darkest ones — for they carry precious wisdom.", "invitation": "Move through today's emotions with courage — they reveal something essential to you." },
+    "37": { "yiKingName": "The Family", "description": "Today's energy honors deep family and friendship bonds. It's a day to invest in your closest relationships — a caring gesture, a sincere word, an attentive presence.", "invitation": "Invest in an important relationship today — sincere attention changes everything." },
+    "38": { "yiKingName": "Opposition", "description": "Today's energy carries the vibration of fighting for what has meaning. It's a day to hold your ground on what matters to you — but choose your battles well.", "invitation": "Defend what truly matters to you today — with calm and determination." },
+    "39": { "yiKingName": "Obstruction", "description": "Today's energy invites you to use obstacles as catalysts. What blocks your path today may not be an obstacle — it may be a redirection toward something better.", "invitation": "Look at today's obstacles as kind redirections." },
+    "40": { "yiKingName": "Deliverance", "description": "Today's energy honors the need for solitude and recovery. It's a day to recharge away from demands — chosen solitude is a form of wisdom.", "invitation": "Give yourself some solitude today — your energy needs to recharge." },
+    "41": { "yiKingName": "Decrease", "description": "Today's energy carries the vibration of imaginative beginnings — the dream before the reality. It's a fertile day to imagine new experiences you want to live.", "invitation": "Imagine a new experience you want to create in your life." },
+    "42": { "yiKingName": "Increase", "description": "Today's energy favors growth and the completion of cycles. It's a day to bring what was started to completion — unfinished projects need your attention.", "invitation": "Finish something today — completion brings deep satisfaction." },
+    "43": { "yiKingName": "Breakthrough", "description": "Today's energy carries sudden insights and breakthroughs of understanding. It's a day when important realizations can arise — pay attention to the intuitions that emerge.", "invitation": "Note down the insights that arise today — they may change your perspective." },
+    "44": { "yiKingName": "Coming to Meet", "description": "Today's energy invites intuitive alertness. It's a day to trust your instincts — particularly in your encounters and interactions. Your instinct is sharp.", "invitation": "Trust your instinct in today's encounters." },
+    "45": { "yiKingName": "Gathering Together", "description": "Today's energy honors community and gathering. It's a day to create connection, bring people together around a shared project or vision.", "invitation": "Gather people around something that matters to you today." },
+    "46": { "yiKingName": "Pushing Upward", "description": "Today's energy invites you to honor your body and feel good in your physical incarnation. It's a day to care for your body with love and gratitude.", "invitation": "Take care of your body today with love — it's your sacred vehicle." },
+    "47": { "yiKingName": "Oppression", "description": "Today's energy touches on the deep understanding that emerges from difficult periods. What seems unsolvable today may carry an important realization in the making.", "invitation": "Trust the process — understanding will come at the right time." },
+    "48": { "yiKingName": "The Well", "description": "Today's energy invites you to dive deep. It's a day to get to the bottom of things — don't stay on the surface. True richness lies in depth.", "invitation": "Go deep today — in a conversation, a reflection, a practice." },
+    "49": { "yiKingName": "Revolution", "description": "Today's energy carries a vibration of radical change and inner revolution. It's a day to question what no longer fits you and dare a courageous turn.", "invitation": "Question a principle you take for granted — is it truly your own?" },
+    "50": { "yiKingName": "The Cauldron", "description": "Today's energy honors deep values and transmitted wisdom. It's a day to act in accordance with your most fundamental values — even when it's hard.", "invitation": "Identify your most important value and act in accordance with it today." },
+    "51": { "yiKingName": "The Arousing", "description": "Today's energy may bring surprises and sudden awakenings. What shocks or surprises you today may be trying to wake you up to something important.", "invitation": "Welcome today's surprises with curiosity — they may carry an awakening." },
+    "52": { "yiKingName": "Keeping Still", "description": "Today's energy invites stillness and meditation. It's a day to stop doing and simply be. In total calm, clarity emerges.", "invitation": "Stop completely for a few minutes today — just be, without doing." },
+    "53": { "yiKingName": "Development", "description": "Today's energy honors gradual beginnings and slow growth. It's a day to start something new — not in a rush, but with the patience of natural development.", "invitation": "Start something new today — even a small first step." },
+    "54": { "yiKingName": "The Marrying Maiden", "description": "Today's energy carries ambition and the desire to rise. It's a day to aim higher — but with discernment. Ambition aligned with your deeper nature is a strength. Ambition conditioned by others' opinions is a trap.", "invitation": "Aim higher today — but make sure it's your own ambition, not someone else's." },
+    "55": { "yiKingName": "Abundance", "description": "Today's energy radiates deep spiritual abundance. It's a day to recognize and celebrate everything you have — abundance always begins with gratitude.", "invitation": "Count today's riches with gratitude — abundance is greater than you think." },
+    "56": { "yiKingName": "The Wanderer", "description": "Today's energy invites travel and new stimulation. It's a day to step out of your routine, explore new territories — physical, mental, or emotional.", "invitation": "Explore something new today — even a small discovery nourishes the soul." },
+    "57": { "yiKingName": "The Gentle", "description": "Today's energy refines your intuition in the present moment. It's a day to trust the subtle impressions that arise — what you sense instinctively right now is reliable.", "invitation": "Trust your intuition today — particularly in small decisions." },
+    "58": { "yiKingName": "The Joyous", "description": "Today's energy radiates vitality and joy of living. It's a day to let your natural enthusiasm express itself and share that joyful energy with those around you.", "invitation": "Let your natural vitality shine today — your joy is a gift." },
+    "59": { "yiKingName": "Dispersion", "description": "Today's energy invites authentic intimacy — the dissolving of barriers that separate us from others. It's a day to show yourself as you truly are in your close relationships.", "invitation": "Show yourself as you truly are in an important relationship today." },
+    "60": { "yiKingName": "Limitation", "description": "Today's energy invites you to accept limits with wisdom. This is not a day to force against obstacles — it's a day to work intelligently within your current constraints.", "invitation": "Accept today's limits with wisdom — they define the space of your creation." },
+    "61": { "yiKingName": "Inner Truth", "description": "Today's energy touches on mystery and deep inner truth. It's a day to welcome what you cannot explain — the mystery of life is an invitation to wonder.", "invitation": "Welcome mystery today — not everything needs to be explained to be true." },
+    "62": { "yiKingName": "Preponderance of the Small", "description": "Today's energy honors small details and precision. It's a day to pay attention to details — they make all the difference. Quality lives in small things.", "invitation": "Take care of the details today — precision is a form of love." },
+    "63": { "yiKingName": "After Completion", "description": "Today's energy touches on the natural doubt that follows achievement. It's a day to question wisely — not to paralyze, but to refine and improve what has been accomplished.", "invitation": "Question wisely today — healthy doubt is the guardian of quality." },
+    "64": { "yiKingName": "Before Completion", "description": "Today's energy carries the creative confusion that precedes clarity. What seems unsolvable today is reorganizing itself at a deeper level. Trust the process.", "invitation": "Trust today's confusion — clarity is being born." }
+  }
+}

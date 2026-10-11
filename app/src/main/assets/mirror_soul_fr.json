@@ -1,0 +1,1610 @@
+{
+  "1": [
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui, en moi, a envie d'être vu aujourd'hui ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce que j'ai envie de créer ou de commencer, là, maintenant ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle petite victoire ai-je vécue récemment sans vraiment m'en féliciter ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui me donne envie d'avancer, aujourd'hui, avec confiance ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel élan intérieur ai-je envie de suivre, même timidement ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce que je fais de mieux quand je m'accorde le droit d'être moi-même ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle direction nouvelle me fait doucement envie ces temps-ci ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce que j'ai envie d'oser aujourd'hui, à mon propre rythme ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel talent en moi mérite d'être un peu plus mis en lumière ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui me rend fier, simplement, sans avoir besoin de le prouver à quiconque ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel espace ai-je envie de me donner pour avancer à ma façon aujourd'hui ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce que je ressens quand je fais confiance à mon premier élan ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle qualité aimerais-je m'accorder plus souvent : audace, patience, ou douceur envers moi-même ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui, en moi, sait déjà où aller, même si le chemin n'est pas encore clair ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel petit pas ai-je envie de faire aujourd'hui vers quelque chose qui me tient à cœur ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce que je fais bien, naturellement, sans même y penser ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel moment récent m'a fait sentir vraiment vivant et en mouvement ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui m'aide à me sentir en confiance quand j'avance seul ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle intention simple ai-je envie de poser pour cette journée ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce que je choisis, aujourd'hui, de faire avec légèreté plutôt qu'avec pression ?"
+    },
+    {
+      "type": "energie",
+      "texte": "Aujourd'hui, une part de toi sait exactement où aller. Fais-lui confiance."
+    },
+    {
+      "type": "energie",
+      "texte": "Tu n'as rien à prouver aujourd'hui. Avance simplement, à ton rythme."
+    },
+    {
+      "type": "energie",
+      "texte": "Quelque chose de neuf est déjà en train de naître en toi."
+    },
+    {
+      "type": "energie",
+      "texte": "Ton élan n'a pas besoin d'être parfait pour être juste."
+    },
+    {
+      "type": "energie",
+      "texte": "Il y a en toi une force tranquille qui sait commencer les choses. Laisse-la agir."
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui me donne envie d'avancer sans attendre le feu vert de personne ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel rêve, même ancien, mérite que j'y repense aujourd'hui ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce que je ressens quand je choisis pour moi-même, simplement ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle graine ai-je envie de planter aujourd'hui, sans savoir encore ce qu'elle donnera ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui m'aide à croire en mes propres capacités ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel premier pas, même minuscule, ai-je envie de faire aujourd'hui ?"
+    },
+    {
+      "type": "energie",
+      "texte": "Tu es exactement là où tu dois être pour commencer."
+    },
+    {
+      "type": "energie",
+      "texte": "Ta façon d'avancer, même différente des autres, est la bonne pour toi."
+    }
+  ],
+  "2": [
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui, aujourd'hui, m'invite à ralentir et à écouter ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel lien, dans ma vie, mérite un peu plus de douceur de ma part ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui me fait me sentir en paix quand je suis avec quelqu'un ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle qualité d'écoute ai-je envie de m'offrir à moi-même aujourd'hui ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce que je ressens quand je laisse quelqu'un d'autre prendre les devants ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel petit geste de gentillesse ai-je envie de poser aujourd'hui, pour moi ou pour un proche ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui m'aide à me sentir accordé avec les autres en ce moment ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle part sensible de moi mérite d'être accueillie sans jugement ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce que je ressens quand je prends le temps de vraiment écouter quelqu'un ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel équilibre ai-je envie de trouver aujourd'hui entre donner et recevoir ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui me fait sentir soutenu, en ce moment, dans ma vie ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle collaboration récente m'a apporté de la joie ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce que je pourrais offrir aujourd'hui à quelqu'un, simplement par attention ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel moment de calme partagé avec un proche ai-je envie de savourer aujourd'hui ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui m'aide à faire confiance, doucement, dans une relation ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle harmonie ai-je envie de cultiver autour de moi aujourd'hui ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce que je ressens quand je m'autorise à demander de l'aide ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel geste d'attention ai-je reçu récemment, et qu'est-ce que ça m'a fait ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui, en moi, sait déjà accueillir l'autre avec bienveillance ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle intention douce ai-je envie de poser pour mes relations aujourd'hui ?"
+    },
+    {
+      "type": "energie",
+      "texte": "Ta douceur est une force, pas une faiblesse. Aujourd'hui, laisse-la rayonner."
+    },
+    {
+      "type": "energie",
+      "texte": "Quelqu'un, quelque part, a besoin de ta présence attentive. Tu le sais déjà."
+    },
+    {
+      "type": "energie",
+      "texte": "Tu n'as pas à porter tout le monde pour être aimé. Reçois aussi, aujourd'hui."
+    },
+    {
+      "type": "energie",
+      "texte": "Ton cœur sait créer des ponts là où d'autres voient des différences."
+    },
+    {
+      "type": "energie",
+      "texte": "Il est bon, parfois, de simplement être là. C'est déjà beaucoup."
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui m'aide à me sentir en confiance dans le silence partagé avec quelqu'un ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle petite attention ai-je envie de recevoir aujourd'hui, sans avoir à la demander ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce que je ressens quand une relation me nourrit sans effort ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel pardon doux ai-je envie de m'offrir, à moi ou à quelqu'un d'autre ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui m'aide à ne pas m'oublier dans une relation qui compte pour moi ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle complicité récente ai-je envie de savourer encore un peu aujourd'hui ?"
+    },
+    {
+      "type": "energie",
+      "texte": "Ta sensibilité perçoit des choses que d'autres ne remarquent même pas. C'est précieux."
+    },
+    {
+      "type": "energie",
+      "texte": "Tu n'as pas à faire de bruit pour être présent. Ta présence suffit déjà."
+    }
+  ],
+  "3": [
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui, aujourd'hui, me donne envie de sourire ou de rire ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle idée ou pensée ai-je envie d'exprimer aujourd'hui, simplement ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui nourrit ma joie de vivre en ce moment ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel moment léger ai-je envie de m'offrir aujourd'hui ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce que j'ai envie de créer, même petit, aujourd'hui ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle conversation récente m'a fait du bien ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui, en moi, a besoin de s'exprimer plus librement ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle couleur ou image représente mon humeur du jour ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce que j'ai envie de partager avec quelqu'un aujourd'hui ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel souvenir joyeux ai-je envie de revisiter aujourd'hui ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui m'inspire, là, maintenant ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle légèreté ai-je envie de m'accorder aujourd'hui ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce que j'aime chez moi quand je suis pleinement moi-même ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel petit plaisir simple ai-je envie de savourer aujourd'hui ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui me fait sentir vivant et inspiré ces temps-ci ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle idée nouvelle a envie de germer en moi ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce que j'ai envie de célébrer aujourd'hui, même modestement ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel mot ou quelle phrase ai-je envie de m'offrir comme intention du jour ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui m'aide à me sentir libre d'être expressif aujourd'hui ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle rencontre ou échange ai-je hâte de vivre aujourd'hui ?"
+    },
+    {
+      "type": "energie",
+      "texte": "Ta joie a le droit de prendre toute la place aujourd'hui."
+    },
+    {
+      "type": "energie",
+      "texte": "Ce que tu as à dire mérite d'être entendu. Ose le dire, à ta façon."
+    },
+    {
+      "type": "energie",
+      "texte": "Il y a en toi une lumière qui aime être partagée. Laisse-la sortir aujourd'hui."
+    },
+    {
+      "type": "energie",
+      "texte": "Tu n'as pas besoin d'une raison pour créer. L'envie suffit."
+    },
+    {
+      "type": "energie",
+      "texte": "Ton rire a le pouvoir d'alléger une journée entière, y compris la tienne."
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui me fait sentir pleinement moi-même quand je m'exprime librement ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel talent créatif ai-je envie de laisser respirer aujourd'hui ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce que je ressens quand je partage ce qui me tient à cœur ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle légèreté ai-je envie d'apporter à quelqu'un aujourd'hui ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui me fait sourire, simplement, en ce moment ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle idée ai-je envie de laisser éclore aujourd'hui, sans la juger tout de suite ?"
+    },
+    {
+      "type": "energie",
+      "texte": "Ta joie n'a besoin d'aucune justification pour exister aujourd'hui."
+    },
+    {
+      "type": "energie",
+      "texte": "Ce que tu exprimes, même imparfaitement, touche plus de monde que tu ne le crois."
+    }
+  ],
+  "4": [
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui, aujourd'hui, me donne un sentiment de stabilité ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle petite habitude ai-je envie de consolider en ce moment ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce que je construis, patiemment, qui me tient à cœur ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel espace de ma vie ai-je envie de rendre plus ordonné ou apaisant ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui m'aide à me sentir en sécurité intérieurement ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle étape simple ai-je envie de franchir aujourd'hui vers un projet qui compte pour moi ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce que j'apprécie dans la régularité de mes journées ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel effort discret ai-je fourni récemment, sans qu'on le remarque ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui mérite ma patience aujourd'hui ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle fondation ai-je envie de renforcer dans ma vie en ce moment ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce que je ressens quand je prends le temps de bien faire les choses ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel petit rituel du quotidien m'apporte du réconfort ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui, en moi, sait construire solidement, pas à pas ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle valeur ai-je envie d'honorer aujourd'hui par mes actes ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce que je peux simplifier aujourd'hui pour respirer un peu plus ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel engagement tenu récemment me rend fier de moi ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui m'aide à rester ancré quand tout va vite autour de moi ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle organisation simple ai-je envie de mettre en place aujourd'hui ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce que je fais aujourd'hui qui aura de la valeur demain ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle intention de constance ai-je envie de poser pour cette journée ?"
+    },
+    {
+      "type": "energie",
+      "texte": "Ce que tu construis, pierre après pierre, tient bon même quand tu ne le vois pas."
+    },
+    {
+      "type": "energie",
+      "texte": "Ta patience est en train de porter ses fruits, doucement."
+    },
+    {
+      "type": "energie",
+      "texte": "Tu n'as pas besoin d'aller vite pour aller loin."
+    },
+    {
+      "type": "energie",
+      "texte": "Chaque petit pas régulier que tu poses compte plus que tu ne le crois."
+    },
+    {
+      "type": "energie",
+      "texte": "Ta fiabilité est un cadeau, pour toi comme pour ceux qui t'entourent."
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui me fait sentir fier du travail accompli, même invisible pour les autres ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle base ai-je posée récemment qui me sert encore aujourd'hui ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce que je ressens quand je tiens un engagement jusqu'au bout ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel petit rangement, intérieur ou extérieur, me ferait du bien aujourd'hui ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui m'aide à faire confiance au temps long plutôt qu'à la précipitation ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle constance ai-je envie de m'offrir aujourd'hui, sans pression ?"
+    },
+    {
+      "type": "energie",
+      "texte": "Ce que tu bâtis lentement est en train de devenir solide, même si tu ne le vois pas encore."
+    },
+    {
+      "type": "energie",
+      "texte": "Ta rigueur discrète est une forme de générosité envers toi-même et les autres."
+    }
+  ],
+  "5": [
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui, aujourd'hui, me donne envie de bouger ou de changer d'air ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle liberté simple ai-je envie de m'accorder aujourd'hui ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce que j'ai envie de découvrir ou d'explorer en ce moment ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel petit imprévu récent m'a finalement fait du bien ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui me fait sentir vivant quand les choses bougent ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle nouveauté ai-je envie d'accueillir aujourd'hui, même modeste ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce que j'apprends de moi-même quand je change mes habitudes ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel espace de liberté ai-je envie de me créer aujourd'hui ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui m'attire, en ce moment, vers l'inconnu ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle aventure, même petite, ai-je envie de vivre aujourd'hui ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce que je ressens quand je me laisse porter par le mouvement de la vie ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel changement récent m'a finalement apporté quelque chose de bon ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui m'aide à rester léger face à l'imprévu ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle curiosité ai-je envie de suivre aujourd'hui ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce que j'ai envie d'essayer pour la première fois, même petit ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel élan de liberté ai-je envie de savourer aujourd'hui ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui, en moi, aime s'adapter et rebondir ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle routine ai-je envie d'égayer aujourd'hui d'un peu de nouveauté ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce que je ressens quand je dis oui à quelque chose d'imprévu ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle intention de liberté ai-je envie de poser pour cette journée ?"
+    },
+    {
+      "type": "energie",
+      "texte": "Le mouvement fait partie de qui tu es. Aujourd'hui, laisse-le t'emporter un peu."
+    },
+    {
+      "type": "energie",
+      "texte": "Tu as le droit de changer d'avis, de direction, de rythme."
+    },
+    {
+      "type": "energie",
+      "texte": "Quelque chose d'imprévu aujourd'hui pourrait bien être une belle surprise."
+    },
+    {
+      "type": "energie",
+      "texte": "Ta liberté n'a pas besoin d'être justifiée."
+    },
+    {
+      "type": "energie",
+      "texte": "Ce qui te semble instable aujourd'hui est peut-être simplement en train de se transformer."
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui me fait sentir vraiment libre en ce moment ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle habitude ai-je envie de secouer un peu aujourd'hui ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce que je ressens quand je m'autorise à changer d'avis ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel horizon nouveau ai-je envie de regarder aujourd'hui ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui m'aide à transformer l'incertitude en curiosité ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle petite liberté, même symbolique, ai-je envie de m'offrir aujourd'hui ?"
+    },
+    {
+      "type": "energie",
+      "texte": "Ton besoin de mouvement n'est pas de l'instabilité, c'est ta façon de rester vivant."
+    },
+    {
+      "type": "energie",
+      "texte": "Ce qui semble incertain aujourd'hui prépare peut-être une belle surprise demain."
+    }
+  ],
+  "6": [
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui, aujourd'hui, me donne envie de prendre soin de quelqu'un ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel proche ai-je envie de contacter simplement pour prendre de ses nouvelles ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui rend mon foyer ou mon espace de vie accueillant en ce moment ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel geste d'attention ai-je envie d'offrir aujourd'hui ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui me fait me sentir entouré et aimé ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle harmonie ai-je envie de cultiver dans mes relations aujourd'hui ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce que je fais, naturellement, pour prendre soin des autres ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel moment de tendresse récent ai-je envie de revisiter ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui m'aide à me sentir apaisé dans mes relations proches ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle responsabilité que je porte me tient particulièrement à cœur ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce que je ressens quand je prends soin de moi-même avec autant de soin que je le fais pour les autres ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel équilibre ai-je envie de trouver aujourd'hui entre me donner et me préserver ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui, en moi, sait accueillir et rassurer ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle petite douceur ai-je envie de m'offrir aujourd'hui ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce que je peux faire aujourd'hui pour rendre la vie plus douce autour de moi ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel lien familial ou amical ai-je envie de nourrir aujourd'hui ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui m'aide à me sentir en confiance dans mon rôle auprès des autres ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle intention de soin ai-je envie de poser pour cette journée ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce que je ressens quand je suis reconnu pour ma bienveillance ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel espace de tendresse ai-je envie de créer aujourd'hui, pour moi ou pour un proche ?"
+    },
+    {
+      "type": "energie",
+      "texte": "Prendre soin des autres commence par prendre soin de toi. Aujourd'hui, souviens-t'en."
+    },
+    {
+      "type": "energie",
+      "texte": "Ton amour a une portée que tu ne mesures pas toujours."
+    },
+    {
+      "type": "energie",
+      "texte": "Il est permis, aujourd'hui, de simplement recevoir la douceur qu'on t'offre."
+    },
+    {
+      "type": "energie",
+      "texte": "Ta présence est un refuge pour ceux qui t'entourent."
+    },
+    {
+      "type": "energie",
+      "texte": "Ce que tu donnes avec le cœur revient toujours, d'une façon ou d'une autre."
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui me fait sentir utile aux personnes que j'aime ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel équilibre ai-je envie de créer entre m'occuper des autres et de moi-même ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce que je ressens quand je reçois autant que je donne ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel foyer, intérieur ou réel, ai-je envie de rendre plus doux aujourd'hui ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui m'aide à poser des limites tout en restant aimant ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle personne ai-je envie de remercier aujourd'hui, même simplement dans mes pensées ?"
+    },
+    {
+      "type": "energie",
+      "texte": "Prendre soin de toi n'enlève rien à l'amour que tu donnes aux autres, il en fait partie."
+    },
+    {
+      "type": "energie",
+      "texte": "Ta capacité à créer de l'harmonie autour de toi est un vrai don."
+    }
+  ],
+  "7": [
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui, aujourd'hui, m'invite au silence et à la réflexion ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel moment de solitude ai-je envie de m'accorder aujourd'hui ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui nourrit ma quête de sens en ce moment ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle question intérieure ai-je envie de laisser mûrir aujourd'hui ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui m'aide à me sentir connecté à quelque chose de plus grand que moi ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel espace de calme ai-je envie de me créer aujourd'hui ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce que j'apprends de moi-même dans les moments de retrait ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle intuition récente ai-je envie d'honorer davantage ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui, en moi, aime observer avant d'agir ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel livre, idée ou pensée m'accompagne particulièrement en ce moment ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce que je ressens quand je prends le temps de vraiment réfléchir avant de répondre ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle vérité intérieure ai-je envie d'écouter aujourd'hui ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui m'aide à me sentir en paix avec mes propres mystères ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel moment de contemplation récent m'a nourri ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce que je découvre quand je m'accorde de la tranquillité ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle question ai-je envie de me poser, sans chercher à y répondre tout de suite ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui, en moi, sait attendre le bon moment ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel espace intérieur ai-je envie d'explorer aujourd'hui ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce que le silence m'apprend, quand je lui laisse une vraie place ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle intention de calme ai-je envie de poser pour cette journée ?"
+    },
+    {
+      "type": "energie",
+      "texte": "Le silence d'aujourd'hui n'est pas un vide, c'est un espace qui se remplit doucement."
+    },
+    {
+      "type": "energie",
+      "texte": "Tes doutes ne sont pas des faiblesses, ce sont des questions qui cherchent leur réponse."
+    },
+    {
+      "type": "energie",
+      "texte": "Il y a une sagesse en toi qui n'a pas besoin de se presser."
+    },
+    {
+      "type": "energie",
+      "texte": "Ce que tu ressens sans pouvoir l'expliquer mérite d'être écouté."
+    },
+    {
+      "type": "energie",
+      "texte": "Ta solitude choisie est parfois le plus beau cadeau que tu puisses te faire."
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui m'aide à faire la paix avec ce que je ne comprends pas encore ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel espace de silence ai-je envie de préserver aujourd'hui ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce que je ressens quand je fais confiance à mon propre rythme de compréhension ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle question, sans réponse immédiate, ai-je envie de simplement accueillir ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui m'aide à me sentir relié à quelque chose de plus vaste que le quotidien ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel moment de recueillement ai-je envie de m'offrir aujourd'hui ?"
+    },
+    {
+      "type": "energie",
+      "texte": "Tu n'as pas besoin de toutes les réponses pour avancer avec justesse."
+    },
+    {
+      "type": "energie",
+      "texte": "Ta profondeur intérieure est une richesse, même quand elle te semble solitaire."
+    }
+  ],
+  "8": [
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui, aujourd'hui, me donne un sentiment d'accomplissement ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle réussite récente, même modeste, ai-je envie de savourer ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce que je construis en ce moment qui a de la valeur pour moi ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel objectif ai-je envie d'honorer aujourd'hui par une action concrète ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui m'aide à me sentir puissant et capable ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle abondance, sous quelque forme que ce soit, ai-je envie de reconnaître aujourd'hui ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce que je fais bien quand je me fais confiance dans mes capacités ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel effort investi récemment commence à porter ses fruits ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui, en moi, sait mener les choses à terme ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle ambition ai-je envie de nourrir aujourd'hui, à mon rythme ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce que je ressens quand je reconnais ma propre valeur ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel équilibre ai-je envie de trouver aujourd'hui entre ambition et sérénité ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui m'aide à rester généreux même quand je vise haut ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle décision concrète ai-je envie de prendre aujourd'hui pour avancer ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce que je fais aujourd'hui qui construit ma réussite de demain ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle force intérieure ai-je envie de reconnaître en moi aujourd'hui ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui, en moi, sait transformer les efforts en résultats ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel projet mérite toute ma détermination aujourd'hui ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce que je ressens quand je célèbre mes propres réussites ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle intention de confiance ai-je envie de poser pour cette journée ?"
+    },
+    {
+      "type": "energie",
+      "texte": "Ce que tu as accompli jusqu'ici mérite d'être reconnu, y compris par toi."
+    },
+    {
+      "type": "energie",
+      "texte": "Ta force n'a pas besoin d'être dure pour être puissante."
+    },
+    {
+      "type": "energie",
+      "texte": "Aujourd'hui, la réussite peut aussi ressembler à un moment de calme mérité."
+    },
+    {
+      "type": "energie",
+      "texte": "Tu as le droit de viser haut sans jamais perdre ton cœur."
+    },
+    {
+      "type": "energie",
+      "texte": "Ce que tu bâtis a une valeur qui dépasse largement ce que tu vois aujourd'hui."
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui me fait sentir aligné entre mes ambitions et mes valeurs ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle reconnaissance ai-je envie de m'accorder à moi-même aujourd'hui ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce que je ressens quand je mesure le chemin parcouru plutôt que ce qu'il reste à faire ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle décision concrète ai-je envie de prendre aujourd'hui pour me rapprocher de mes objectifs ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui m'aide à rester généreux même en visant haut ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle abondance, même discrète, ai-je envie de remarquer aujourd'hui ?"
+    },
+    {
+      "type": "energie",
+      "texte": "Ta réussite ne se mesure pas qu'en résultats, elle se voit aussi dans ta constance."
+    },
+    {
+      "type": "energie",
+      "texte": "Tu as le droit d'être ambitieux et bienveillant à la fois."
+    }
+  ],
+  "9": [
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui, aujourd'hui, me donne envie de donner sans compter ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel geste généreux ai-je envie de poser aujourd'hui ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui nourrit mon sentiment d'appartenir à quelque chose de plus grand ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle cause ou valeur ai-je envie d'honorer aujourd'hui ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui m'aide à me sentir relié aux autres et au monde ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel pardon ou lâcher-prise ai-je envie de m'accorder aujourd'hui ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce que je ressens quand j'aide quelqu'un sans rien attendre en retour ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle sagesse ai-je acquise récemment, même à travers une difficulté ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui, en moi, sait accueillir la fin d'un cycle avec douceur ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel élan de compassion ai-je envie de suivre aujourd'hui ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce que je peux offrir aujourd'hui, même simplement mon écoute ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle gratitude ai-je envie d'exprimer aujourd'hui ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui m'aide à voir la beauté dans ce qui m'entoure ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel chapitre de ma vie ai-je envie de clore avec bienveillance envers moi-même ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce que je ressens quand je contribue à quelque chose qui dépasse mes propres intérêts ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle générosité ai-je reçue récemment, et qu'est-ce que ça m'a fait ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui, en moi, aime servir une cause plus grande ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel espace ai-je envie de laisser à l'amour universel aujourd'hui ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce que je ressens quand je regarde le chemin parcouru avec indulgence ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle intention de générosité ai-je envie de poser pour cette journée ?"
+    },
+    {
+      "type": "energie",
+      "texte": "Ce que tu donnes sans compter revient toujours, sous une forme ou une autre."
+    },
+    {
+      "type": "energie",
+      "texte": "Ton cœur généreux a le droit, lui aussi, d'être rempli."
+    },
+    {
+      "type": "energie",
+      "texte": "Il y a en toi une sagesse qui vient d'avoir beaucoup aimé et beaucoup traversé."
+    },
+    {
+      "type": "energie",
+      "texte": "Lâcher prise n'est pas un abandon, c'est parfois le plus bel acte d'amour envers soi."
+    },
+    {
+      "type": "energie",
+      "texte": "Ta compassion change des choses que tu ne verras peut-être jamais. Continue."
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui me fait sentir connecté à une cause plus grande que moi ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel geste de compassion ai-je envie de poser aujourd'hui, même envers moi-même ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce que je ressens quand je lâche ce qui n'a plus besoin d'être porté ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle leçon récente, même difficile, ai-je envie de remercier aujourd'hui ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui m'aide à voir la fin d'un cycle comme un nouveau départ ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle générosité simple ai-je envie d'offrir aujourd'hui, sans attendre de retour ?"
+    },
+    {
+      "type": "energie",
+      "texte": "Ce que tu as traversé fait aujourd'hui partie de ta sagesse, pas seulement de ton passé."
+    },
+    {
+      "type": "energie",
+      "texte": "Ton cœur généreux mérite, lui aussi, d'être accueilli avec douceur."
+    }
+  ],
+  "11": [
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui, aujourd'hui, résonne particulièrement en moi sans que je sache pourquoi ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle intuition récente ai-je envie d'honorer davantage ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui nourrit ma sensibilité en ce moment ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel message subtil ai-je envie d'écouter aujourd'hui ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui m'aide à me sentir inspiré et connecté à quelque chose de plus vaste ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle inspiration récente ai-je envie de laisser s'exprimer ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce que je ressens quand je fais confiance à ce que je perçois sans l'expliquer ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel rêve ou signe récent m'a particulièrement touché ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui, en moi, capte ce que d'autres ne voient pas ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle vision ai-je envie de laisser mûrir aujourd'hui ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui m'aide à rester ancré malgré mon intensité intérieure ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel moment de connexion profonde ai-je vécu récemment ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce que je ressens quand j'accueille pleinement ma sensibilité ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle inspiration ai-je envie de transformer en quelque chose de concret aujourd'hui ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui, en moi, sait voir au-delà des apparences ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel espace ai-je envie de créer pour laisser parler mon intuition aujourd'hui ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce que je ressens quand je m'autorise à être différent ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle lumière ai-je envie de partager autour de moi aujourd'hui ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui m'aide à transformer mon intensité en une force douce ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle intention d'inspiration ai-je envie de poser pour cette journée ?"
+    },
+    {
+      "type": "energie",
+      "texte": "Ce que tu ressens sans pouvoir l'expliquer a souvent raison."
+    },
+    {
+      "type": "energie",
+      "texte": "Ta sensibilité est un instrument rare. Prends-en soin aujourd'hui."
+    },
+    {
+      "type": "energie",
+      "texte": "Quelque chose d'inspiré cherche à passer à travers toi. Laisse-lui de la place."
+    },
+    {
+      "type": "energie",
+      "texte": "Tu n'as pas besoin de tout comprendre pour avancer avec justesse."
+    },
+    {
+      "type": "energie",
+      "texte": "Ta lumière particulière éclaire plus de monde que tu ne l'imagines."
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui me fait sentir aligné entre mon intuition et mes actions ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel message intérieur ai-je envie d'écouter un peu plus aujourd'hui ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce que je ressens quand j'accueille pleinement ma sensibilité, sans la minimiser ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle inspiration récente ai-je envie de laisser infuser encore un peu ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui m'aide à transformer mon intensité intérieure en créativité ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel moment de connexion silencieuse ai-je envie de vivre aujourd'hui ?"
+    },
+    {
+      "type": "energie",
+      "texte": "Ce que tu ressens avant même de comprendre pourquoi mérite ta confiance."
+    },
+    {
+      "type": "energie",
+      "texte": "Ta lumière n'a pas besoin d'être comprise par tout le monde pour être réelle."
+    }
+  ],
+  "22": [
+    {
+      "type": "question",
+      "texte": "Qu'est-ce que je construis aujourd'hui qui aura une valeur durable ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle vision ai-je envie de rendre un peu plus concrète aujourd'hui ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui nourrit mon sentiment de bâtir quelque chose de grand ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel petit pas ai-je envie de poser aujourd'hui vers un projet ambitieux ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui m'aide à garder confiance dans mes grandes idées ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle réalisation récente me montre que je peux bâtir de belles choses ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce que je ressens quand je vois une idée devenir réalité, pas à pas ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel héritage ai-je envie de laisser, à mon échelle ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui, en moi, sait allier grande vision et travail patient ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle structure ai-je envie de poser aujourd'hui pour soutenir mes projets ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui m'aide à rester méthodique sans perdre ma vision d'ensemble ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel projet ambitieux ai-je envie de nourrir aujourd'hui, même modestement ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce que je ressens quand je mesure le chemin déjà parcouru ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle collaboration ai-je envie de renforcer pour bâtir quelque chose ensemble ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui, en moi, transforme les idées en actions durables ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel objectif de grande envergure mérite mon attention aujourd'hui ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce que je ressens quand je vois la portée de ce que je construis ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle pierre ai-je envie de poser aujourd'hui à l'édifice de ma vie ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui m'aide à rester patient face à un projet qui prend du temps ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle intention de construction ai-je envie de poser pour cette journée ?"
+    },
+    {
+      "type": "energie",
+      "texte": "Ce que tu bâtis aujourd'hui aura une portée que tu ne mesures pas encore."
+    },
+    {
+      "type": "energie",
+      "texte": "Ta vision est grande, et tes petits pas d'aujourd'hui la rendent réelle."
+    },
+    {
+      "type": "energie",
+      "texte": "Tu n'as pas besoin de tout voir pour continuer à construire."
+    },
+    {
+      "type": "energie",
+      "texte": "Ce qui prend du temps à se bâtir est souvent ce qui dure le plus longtemps."
+    },
+    {
+      "type": "energie",
+      "texte": "Ta capacité à voir grand est un don rare. Fais-lui confiance aujourd'hui."
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui me fait sentir aligné entre ma grande vision et mes actions du jour ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle pierre ai-je envie de poser aujourd'hui à un projet qui compte vraiment pour moi ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce que je ressens quand je vois une idée ambitieuse prendre forme peu à peu ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel soutien ai-je envie de solliciter pour avancer sur ce que je construis ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui m'aide à garder confiance quand un projet prend plus de temps que prévu ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle réalisation, même modeste, mérite d'être célébrée aujourd'hui ?"
+    },
+    {
+      "type": "energie",
+      "texte": "Ce que tu construis aujourd'hui dépasse largement ce que tu peux en voir maintenant."
+    },
+    {
+      "type": "energie",
+      "texte": "Ta capacité à voir grand tout en restant méthodique est rare. Fais-lui confiance."
+    }
+  ],
+  "33": [
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui, aujourd'hui, me donne envie d'aimer sans condition ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel geste de dévouement ai-je envie d'offrir aujourd'hui ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui nourrit mon envie de prendre soin des autres avec tout mon cœur ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle personne ai-je envie d'entourer un peu plus aujourd'hui ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui m'aide à donner sans m'oublier moi-même ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel service simple ai-je envie de rendre aujourd'hui, sans rien attendre en retour ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce que je ressens quand mon cœur se met au service de quelque chose de plus grand ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle limite douce ai-je envie de poser aujourd'hui pour préserver mon énergie ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui, en moi, sait aimer profondément et généreusement ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel élan de compassion ai-je envie de suivre aujourd'hui ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce que je ressens quand je m'accorde autant de soin que j'en donne aux autres ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle présence aimante ai-je envie d'offrir aujourd'hui à quelqu'un qui en a besoin ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui m'aide à rester généreux sans m'épuiser ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel moment de tendresse partagée récent m'a particulièrement touché ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce que je ressens quand je me sens utile à quelque chose qui compte vraiment ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle douceur ai-je envie de m'offrir à moi-même aujourd'hui, en miroir de celle que je donne ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui, en moi, sait servir avec humilité et amour ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel espace ai-je envie de créer aujourd'hui pour que l'amour circule un peu plus autour de moi ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce que je ressens quand je reconnais tout ce que mon cœur a déjà donné ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle intention d'amour inconditionnel ai-je envie de poser pour cette journée ?"
+    },
+    {
+      "type": "energie",
+      "texte": "Ton amour a une portée qui dépasse ce que tu peux imaginer."
+    },
+    {
+      "type": "energie",
+      "texte": "Prendre soin de toi fait partie de ta mission, pas une distraction de celle-ci."
+    },
+    {
+      "type": "energie",
+      "texte": "Ce que tu offres avec le cœur laisse une trace, même invisible."
+    },
+    {
+      "type": "energie",
+      "texte": "Ta générosité n'a pas besoin d'être immense pour être précieuse."
+    },
+    {
+      "type": "energie",
+      "texte": "Aujourd'hui, reçois un peu de la douceur que tu donnes si souvent aux autres."
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui me fait sentir aligné entre mon amour pour les autres et le soin que je m'accorde ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel service discret ai-je envie de rendre aujourd'hui, sans qu'on le sache ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce que je ressens quand je reçois de la tendresse en retour de ce que je donne ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quelle limite douce ai-je envie de poser aujourd'hui, avec amour ?"
+    },
+    {
+      "type": "question",
+      "texte": "Qu'est-ce qui m'aide à me rappeler que je mérite, moi aussi, d'être entouré ?"
+    },
+    {
+      "type": "question",
+      "texte": "Quel moment de grâce simple ai-je envie de savourer aujourd'hui ?"
+    },
+    {
+      "type": "energie",
+      "texte": "Ton dévouement ne doit jamais te faire oublier que tu mérites d'être aimé en retour."
+    },
+    {
+      "type": "energie",
+      "texte": "Ce que ton cœur donne en silence compte tout autant que ce qui se voit."
+    }
+  ]
+}

@@ -1,0 +1,1541 @@
+{
+  "_format_note": "Contenu du module Yi King pour Empreinte de l'Âme. Chaque hexagramme a : numero (1-64), nom, nom_chinois, trigramme_haut, trigramme_bas, image, jugement_general, themes (amour/finance/sante/spirituel/famille), traits (6 textes génériques utilisés uniquement si le trait correspondant est mouvant lors du tirage). Traits indexés 1 (base) à 6 (sommet).",
+  "hexagrammes": [
+    {
+      "numero": 1,
+      "nom": "Le Créateur",
+      "nom_chinois": "Qián",
+      "trigramme_haut": "Ciel",
+      "trigramme_bas": "Ciel",
+      "image": "Le mouvement du ciel est plein de force. Ainsi l'être de bien se rend fort et ne faiblit jamais.",
+      "jugement_general": "Le Créateur porte en lui la réussite suprême. Il est favorable de persévérer avec droiture. Cet hexagramme annonce un temps où l'énergie et l'initiative sont justes — mais la force ne vaut que si elle reste alignée avec le bien commun.",
+      "themes": {
+        "amour": "Une énergie de conquête et d'affirmation. Si vous êtes seul(e), c'est un temps propice pour prendre l'initiative plutôt que d'attendre. En couple, attention à ne pas imposer votre rythme à l'autre : la force doit rester partagée, pas dominante.",
+        "finance": "Période favorable à l'action entrepreneuriale et aux décisions audacieuses. Les projets lancés maintenant portent l'élan du commencement. Évitez cependant la précipitation du dernier trait (l'excès de confiance) qui peut mener à des choix trop risqués.",
+        "sante": "Vitalité et force physique au rendez-vous. C'est un bon moment pour entreprendre un nouveau programme ou une nouvelle discipline corporelle. Restez à l'écoute des signaux de fatigue : la puissance du Créateur s'épuise si elle ne connaît pas de repos.",
+        "spirituel": "Un appel à incarner pleinement son potentiel créateur, sans se cacher ni s'excuser d'être fort. C'est le moment d'oser être soi dans toute sa puissance, avec humilité.",
+        "famille": "Vous pourriez être appelé(e) à prendre un rôle de leader ou de pilier dans votre cercle familial. Cette responsabilité est légitime, mais veillez à écouter aussi les autres membres plutôt que de décider seul(e) pour tous."
+      },
+      "traits": {
+        "1": "Dragon caché, ne pas agir. Le potentiel existe mais n'est pas encore visible. Temps de préparation intérieure.",
+        "2": "Dragon apparaissant dans les champs. Les qualités commencent à se montrer ; cherchez conseil auprès de plus expérimentés.",
+        "3": "Vigilance nuit et jour, danger mais pas de faute. Position instable ; la lucidité évite l'erreur.",
+        "4": "Hésitant au-dessus des profondeurs, pas de faute. Doute légitime avant un saut décisif.",
+        "5": "Dragon volant dans les cieux. L'apogée, l'instant le plus favorable.",
+        "6": "Dragon orgueilleux aura à se repentir. Trop de force, trop haut : l'excès se retourne contre soi."
+      }
+    },
+    {
+      "numero": 2,
+      "nom": "Le Réceptif",
+      "nom_chinois": "Kūn",
+      "trigramme_haut": "Terre",
+      "trigramme_bas": "Terre",
+      "image": "La terre porte tout ce qui existe avec une douceur soutenante. Ainsi l'être de bien accueille et porte les autres avec largeur d'âme.",
+      "jugement_general": "Le Réceptif offre la réussite par la douceur et la persévérance. Ce n'est pas le moment de forcer ni d'initier, mais de suivre, d'accueillir, de laisser mûrir. La force tranquille de la patience porte ses fruits.",
+      "themes": {
+        "amour": "Un temps pour accueillir plutôt que conquérir. Laissez l'autre venir à vous ; la relation se construit dans l'écoute plus que dans l'initiative.",
+        "finance": "Prudence et patience recommandées. Ce n'est pas le moment de lancer, mais de consolider ce qui existe déjà et de laisser mûrir les projets en cours.",
+        "sante": "Besoin de repos et de régénération. Le corps demande à être nourri et non poussé ; écoutez ses rythmes plutôt que de les contraindre.",
+        "spirituel": "Une invitation à la réceptivité et au lâcher-prise. La sagesse ici n'est pas dans l'action mais dans l'accueil de ce qui vient.",
+        "famille": "Rôle de soutien discret et essentiel. Votre présence stable et accueillante porte les autres, sans qu'il soit besoin de diriger."
+      },
+      "traits": {
+        "1": "Sur le givre, la glace solide arrive. Les petits signes annoncent de grands changements ; sachez les lire tôt.",
+        "2": "Droit, carré, grand : sans effort, rien qui ne soit favorable. La simplicité naturelle suffit, sans artifice.",
+        "3": "Beauté cachée, on peut rester ferme. Peut-être au service d'un roi, sans chercher l'œuvre pour soi. La vraie valeur n'a pas besoin d'être exhibée.",
+        "4": "Sac noué : pas de faute, pas de louange. Prudence et discrétion ; ce n'est pas le moment de s'exposer.",
+        "5": "Robe jaune, suprême bonté. La juste mesure dans un rôle de responsabilité modeste et sincère.",
+        "6": "Dragons combattant dans la plaine, leur sang est noir et jaune. Quand le Yin veut rivaliser avec le Yang jusqu'au bout, le conflit devient destructeur pour tous."
+      }
+    },
+    {
+      "numero": 3,
+      "nom": "La Difficulté Initiale",
+      "nom_chinois": "Zhūn",
+      "trigramme_haut": "Eau",
+      "trigramme_bas": "Tonnerre",
+      "image": "Nuages et tonnerre : image de la difficulté initiale. Ainsi l'être de bien organise et structure avant d'agir.",
+      "jugement_general": "Les commencements sont toujours difficiles, comme une plante qui perce la terre dure. La réussite est possible mais demande de ne pas avancer seul : chercher de l'aide et de la structure plutôt que de forcer dans la précipitation.",
+      "themes": {
+        "amour": "Une relation naissante qui demande patience et soutien extérieur. Ne restez pas isolé(e) face aux difficultés du début ; entourez-vous de conseils bienveillants.",
+        "finance": "Un projet en phase de lancement délicate. Les débuts sont chaotiques mais porteurs ; structurez avant d'accélérer, et acceptez l'aide qui se présente.",
+        "sante": "Une période de mise en place, peut-être un nouveau traitement ou une nouvelle routine qui demande du temps pour trouver son rythme. Ne vous découragez pas des premiers obstacles.",
+        "spirituel": "Le chaos du commencement fait partie du chemin. Ce n'est pas un échec, c'est la nature même de toute naissance.",
+        "famille": "Une situation familiale naissante ou instable qui a besoin de structure et de soutien extérieur plutôt que d'y faire face seul(e)."
+      },
+      "traits": {
+        "1": "Hésitation à avancer. Il est profitable de rester ferme, de chercher des aides. La persévérance dans l'immobilité initiale est sage.",
+        "2": "Difficultés qui s'accumulent, mais après un temps, l'union se fait. Ne pas forcer une alliance ; attendre le moment juste.",
+        "3": "Poursuivre le gibier sans guide, on s'enfonce dans la forêt. Mieux vaut renoncer que d'avancer sans direction claire.",
+        "4": "Chercher l'union est favorable ; rien qui ne soit profitable. Le moment est venu de tendre la main vers une alliance.",
+        "5": "Difficulté dans la faveur accordée ; petite persévérance porte chance, grande persévérance porte malheur. Avancer à petits pas plutôt que par grands gestes.",
+        "6": "Larmes de sang qui coulent. Une situation bloquée au point de désespoir ; il faut accepter de lâcher pour que quelque chose bouge enfin."
+      }
+    },
+    {
+      "numero": 4,
+      "nom": "La Folie Juvénile",
+      "nom_chinois": "Méng",
+      "trigramme_haut": "Montagne",
+      "trigramme_bas": "Eau",
+      "image": "Au pied de la montagne jaillit une source : image de la jeunesse inexpérimentée. Ainsi l'être de bien nourrit son caractère par une action décidée.",
+      "jugement_general": "L'inexpérience n'est pas une faute, c'est un état à traverser avec humilité. Ce n'est pas à l'élève de courir après le maître, mais au maître d'être disponible quand l'élève le cherche sincèrement. Un apprentissage véritable demande du respect des deux côtés.",
+      "themes": {
+        "amour": "Une situation encore floue, où vous manquez d'expérience ou de clarté. Acceptez de ne pas tout savoir ; cherchez conseil plutôt que d'avancer à l'aveugle.",
+        "finance": "Un domaine nouveau où vous êtes encore débutant(e). Formez-vous avant d'investir ; l'humilité d'apprendre vaut mieux que la précipitation.",
+        "sante": "Une méconnaissance de son propre corps ou d'une situation médicale. Posez des questions, informez-vous sincèrement plutôt que de rester dans l'incertitude.",
+        "spirituel": "Le débutant sincère avance plus loin que celui qui prétend déjà savoir. Restez ouvert(e) à l'enseignement, sans fausse honte de ne pas savoir.",
+        "famille": "Un rôle d'apprentissage, peut-être face à une situation familiale nouvelle. Cherchez les conseils de ceux qui ont plus d'expérience que vous."
+      },
+      "traits": {
+        "1": "Pour dissiper la folie, il est profitable d'employer la discipline. Une structure claire et ferme, donnée avec bienveillance, aide à grandir.",
+        "2": "Supporter la folie avec bonté porte chance. La patience envers l'inexpérience d'autrui, y compris la sienne, est une vertu.",
+        "3": "Ne pas épouser la femme qui ne voit que l'homme riche : rien de favorable. Attention aux motivations superficielles ou intéressées.",
+        "4": "Folie empêtrée dans ses propres limites : humiliation. S'isoler dans son ignorance par orgueil mène à l'échec.",
+        "5": "Folie enfantine : bonne fortune. L'innocence sincère de celui qui reconnaît humblement son inexpérience est protégée.",
+        "6": "Punir la folie ; il n'est pas profitable de commettre des excès, il est profitable de prévenir les excès. Corriger avec mesure, jamais avec dureté excessive."
+      }
+    },
+    {
+      "numero": 5,
+      "nom": "L'Attente",
+      "nom_chinois": "Xū",
+      "trigramme_haut": "Eau",
+      "trigramme_bas": "Ciel",
+      "image": "Des nuages montent au ciel : image de l'attente. Ainsi l'être de bien mange, boit, et se réjouit paisiblement en attendant son heure.",
+      "jugement_general": "Le moment n'est pas encore venu d'agir. La vraie force ici est la patience confiante, non l'inertie anxieuse. Nourrissez-vous, préparez-vous, et l'occasion favorable se présentera d'elle-même.",
+      "themes": {
+        "amour": "Ce n'est pas le moment de forcer une rencontre ou une décision. Patientez avec confiance ; le bon moment viendra sans qu'il faille précipiter les choses.",
+        "finance": "Un projet qui doit encore mûrir avant de se concrétiser. Utilisez ce temps d'attente pour vous préparer plutôt que pour vous impatienter.",
+        "sante": "Une guérison ou une amélioration qui demande du temps. Prenez soin de vous en attendant, sans anxiété excessive face à la lenteur du processus.",
+        "spirituel": "La patience active est une pratique spirituelle à part entière. Attendre sans angoisse est déjà un accomplissement intérieur.",
+        "famille": "Une situation familiale qui doit se décanter d'elle-même. Évitez de forcer une réconciliation ou une décision avant que le temps ait fait son œuvre."
+      },
+      "traits": {
+        "1": "Attente dans la prairie ; il est profitable de persévérer dans la constance, pas de faute. Rester loin du danger encore lointain, en gardant son calme.",
+        "2": "Attente sur le sable ; quelques paroles de médisance, mais fin heureuse. Des tensions mineures qui ne mettent pas en péril l'issue favorable.",
+        "3": "Attente dans la boue, cela attire l'ennemi. Se rapprocher trop tôt du danger crée des complications évitables.",
+        "4": "Attente dans le sang ; sortir de la caverne. Une situation périlleuse dont on peut encore s'extraire avec prudence.",
+        "5": "Attente au banquet, persévérance porte chance. Un moment de répit mérité au cœur même de l'incertitude.",
+        "6": "On entre dans la caverne ; trois hôtes inattendus arrivent, les traiter avec respect apporte finalement bonne fortune. Une aide imprévue change la donne si on l'accueille bien."
+      }
+    },
+    {
+      "numero": 6,
+      "nom": "Le Conflit",
+      "nom_chinois": "Sòng",
+      "trigramme_haut": "Ciel",
+      "trigramme_bas": "Eau",
+      "image": "Ciel et eau vont en directions opposées : image du conflit. Ainsi l'être de bien, dans toute entreprise, réfléchit soigneusement au commencement.",
+      "jugement_general": "Le conflit est réel, mais s'y engager à fond mène à l'épuisement mutuel. Mieux vaut chercher la médiation qu'aller jusqu'au procès ou à la rupture totale. La sagesse est de couper court avant que la situation ne s'envenime.",
+      "themes": {
+        "amour": "Une tension ou un désaccord qui menace de s'envenimer. Cherchez le dialogue et la médiation plutôt que d'aller jusqu'à la rupture ou l'épreuve de force.",
+        "finance": "Un litige ou différend financier en cours. Une résolution à l'amiable, même imparfaite, vaut mieux qu'un conflit prolongé qui épuise les deux parties.",
+        "sante": "Un conflit intérieur, entre ce que le corps demande et ce que vous lui imposez. Cherchez l'équilibre plutôt que la confrontation avec vous-même.",
+        "spirituel": "Reconnaître qu'on a tort, même partiellement, désamorce plus de souffrance que d'avoir raison à tout prix.",
+        "famille": "Une dispute familiale qui a besoin d'un tiers de confiance pour se résoudre. Ne laissez pas l'orgueil prolonger un conflit évitable."
+      },
+      "traits": {
+        "1": "Ne pas persister dans l'affaire ; quelques paroles de médisance, fin heureuse. Arrêter tôt le désaccord évite qu'il ne s'aggrave.",
+        "2": "Ne peut pas mener le conflit ; il retourne chez lui, se cache, sa communauté échappe au malheur. Reconnaître qu'on n'a pas l'avantage et se retirer sagement.",
+        "3": "Se nourrir des vertus anciennes ; persévérance dans le danger, fin heureuse. S'appuyer sur ses valeurs profondes plutôt que sur la position du moment.",
+        "4": "Ne peut pas mener le conflit ; il revient et accepte le destin, change et trouve la paix dans la persévérance. Accepter de lâcher l'affrontement pour retrouver la sérénité.",
+        "5": "Mener le conflit ; suprême bonne fortune. Une situation où la justice est clairement de son côté et où la clarté du droit résout le différend.",
+        "6": "On peut recevoir une ceinture d'honneur, mais elle sera arrachée trois fois dans la journée. Une victoire de conflit reste instable et finit par se retourner."
+      }
+    },
+    {
+      "numero": 7,
+      "nom": "L'Armée",
+      "nom_chinois": "Shī",
+      "trigramme_haut": "Terre",
+      "trigramme_bas": "Eau",
+      "image": "Au milieu de la terre, l'eau : image de l'armée. Ainsi l'être de bien nourrit son peuple par sa générosité et rassemble les masses.",
+      "jugement_general": "Une entreprise qui demande organisation, discipline collective et un leader expérimenté et respecté. La force du nombre n'a de valeur que dirigée avec justice et clarté d'intention.",
+      "themes": {
+        "amour": "Une relation qui demande de l'organisation et une direction claire, peut-être portée par une personne de confiance qui guide vers l'harmonie.",
+        "finance": "Un projet qui nécessite une équipe organisée et un leadership clair plutôt qu'une action individuelle dispersée. La discipline collective porte ses fruits.",
+        "sante": "Mobiliser toutes ses ressources — médicales, personnelles, relationnelles — de façon organisée plutôt que dispersée, sous la direction d'un professionnel de confiance.",
+        "spirituel": "La discipline intérieure, comme celle d'une armée bien menée, canalise l'énergie dispersée vers un seul but juste.",
+        "famille": "Une situation qui demande qu'une seule personne prenne clairement la direction, avec l'accord et le respect de tous, pour éviter la confusion."
+      },
+      "traits": {
+        "1": "L'armée doit sortir en bon ordre ; sinon, quel que soit son mérite, malheur. La discipline dès le départ conditionne toute la suite.",
+        "2": "Au milieu de l'armée ; bonne fortune, pas de faute, le roi accorde trois décorations. Une position de confiance méritée, reconnue par une autorité légitime.",
+        "3": "L'armée transporte des cadavres dans les chariots ; malheur. Une entreprise mal engagée qui accumule les pertes inutiles.",
+        "4": "L'armée se retire sur son flanc ; pas de faute. Reconnaître le moment de reculer stratégiquement, sans honte, est une sagesse.",
+        "5": "Il y a du gibier dans le champ, il est profitable de le capturer ; pas de faute. Confier le commandement à celui qui a l'autorité légitime, pas au plus jeune sans expérience.",
+        "6": "Le grand souverain émet des ordres, fonde des états, récompense les familles méritantes ; les petits hommes ne doivent pas être employés. Après la victoire, récompenser justement sans donner le pouvoir à qui ne le mérite pas."
+      }
+    },
+    {
+      "numero": 8,
+      "nom": "L'Union",
+      "nom_chinois": "Bǐ",
+      "trigramme_haut": "Eau",
+      "trigramme_bas": "Terre",
+      "image": "Sur la terre, l'eau : image de l'union. Ainsi les anciens rois établissaient les royaumes et entretenaient des relations amicales avec les seigneurs.",
+      "jugement_general": "L'union et l'entraide portent bonne fortune, mais seulement si elle est sincère et vient du cœur. Ceux qui tardent à se joindre au mouvement de fraternité risquent de rester à l'écart de ses bienfaits.",
+      "themes": {
+        "amour": "Une union sincère et profonde se présente ou se consolide. La sincérité mutuelle est la clé ; ne tardez pas à vous engager si le cœur y est.",
+        "finance": "Un partenariat ou une alliance financière prometteuse, à condition qu'elle repose sur une confiance réelle et non sur l'intérêt seul.",
+        "sante": "S'entourer d'un réseau de soutien — famille, amis, soignants — plutôt que d'affronter seul(e) une épreuve de santé.",
+        "spirituel": "La communauté sincère nourrit l'âme davantage que l'isolement, même spirituel. Chercher sa tribu est un acte de sagesse.",
+        "famille": "Un moment propice au resserrement des liens familiaux, à condition que la démarche vienne d'un cœur sincère et non d'une obligation."
+      },
+      "traits": {
+        "1": "Union sincère et loyale, pas de faute ; la sincérité comme une urne pleine, finit par attirer une bonne fortune inattendue. La sincérité authentique attire naturellement ce qui est bon.",
+        "2": "Union qui vient de l'intérieur ; persévérance porte chance. Une alliance fondée sur des valeurs partagées profondes plutôt que sur l'opportunisme.",
+        "3": "Union avec des personnes qui ne conviennent pas. Bien choisir ses alliances évite bien des désillusions.",
+        "4": "Union avec ceux du dehors ; persévérance porte chance. S'ouvrir à des alliances extérieures à son cercle habituel peut être bénéfique.",
+        "5": "Union manifeste : le roi ne rabat le gibier que sur trois côtés, laissant échapper le gibier de face ; les habitants ne sont pas avertis ; bonne fortune. La vraie union laisse la liberté de se joindre sans contrainte.",
+        "6": "Union sans tête ; malheur. Une alliance sans direction claire ni engagement réel ne mène nulle part."
+      }
+    },
+    {
+      "numero": 9,
+      "nom": "La Force Apprivoisante du Petit",
+      "nom_chinois": "Xiǎo Chù",
+      "trigramme_haut": "Vent",
+      "trigramme_bas": "Ciel",
+      "image": "Le vent court dans le ciel : image de la force apprivoisante du petit. Ainsi l'être de bien affine sa nature intérieure.",
+      "jugement_general": "Une influence douce et progressive, comme le vent, prépare le terrain sans forcer. Les grandes actions ne sont pas encore possibles ; c'est un temps pour les ajustements subtils et la patience.",
+      "themes": {
+        "amour": "Une influence discrète et progressive rapproche doucement deux personnes. Ce n'est pas encore le moment des grandes déclarations, mais des petits gestes qui comptent.",
+        "finance": "De petits ajustements portent leurs fruits plus qu'une action d'envergure pour l'instant. La patience dans les détails prépare une réussite plus grande à venir.",
+        "sante": "De petits changements dans les habitudes quotidiennes, appliqués avec constance, valent mieux qu'un bouleversement radical.",
+        "spirituel": "La transformation intérieure se fait souvent par petites touches, invisibles au début, comme le vent qui façonne peu à peu le paysage.",
+        "famille": "De petites attentions et ajustements progressifs apaisent une tension familiale mieux qu'une confrontation directe."
+      },
+      "traits": {
+        "1": "Retour à son propre chemin, quel mal y aurait-il ? Bonne fortune. Revenir à ses valeurs profondes après un écart est toujours juste.",
+        "2": "Ramené en arrière, entraîné par les autres ; bonne fortune. S'inspirer de bons exemples pour revenir sur la bonne voie.",
+        "3": "Les rayons de la roue se détachent ; mari et femme roulent les yeux. Une tension causée par un déséquilibre qui doit être corrigé avec douceur.",
+        "4": "Sincérité ; le sang s'en va, la peur disparaît, pas de faute. La sincérité désamorce une situation qui semblait dangereuse.",
+        "5": "Sincérité qui lie ; richesse grâce au voisin. La force du lien sincère profite mutuellement à ceux qui la partagent.",
+        "6": "La pluie tombe, le repos s'installe ; on honore la vertu accumulée ; persévérance de la femme est périlleuse ; la lune est presque pleine ; l'être de bien qui avance rencontre le malheur. Au sommet de l'accumulation, la prudence évite de gâcher ce qui a été patiemment construit."
+      }
+    },
+    {
+      "numero": 10,
+      "nom": "La Marche",
+      "nom_chinois": "Lǚ",
+      "trigramme_haut": "Ciel",
+      "trigramme_bas": "Lac",
+      "image": "Le ciel en haut, le lac en bas : image de la marche. Ainsi l'être de bien distingue le haut et le bas et affermit le sens juste de son peuple.",
+      "jugement_general": "Marcher sur la queue du tigre sans qu'il morde : avancer avec tact et courtoisie dans une situation délicate. La bonne conduite et le respect permettent de traverser le danger sans dommage.",
+      "themes": {
+        "amour": "Une situation délicate à naviguer avec tact et douceur. La courtoisie et le respect permettent d'avancer même sur un terrain sensible.",
+        "finance": "Une démarche risquée mais réalisable si vous procédez avec prudence et bonnes manières. Le tact ouvre des portes que la force fermerait.",
+        "sante": "Avancer prudemment dans un domaine délicat, en respectant les limites du corps sans les brusquer. La mesure protège du danger.",
+        "spirituel": "La juste conduite, même face à ce qui intimide, est une forme de courage tranquille. Le respect désamorce la menace.",
+        "famille": "Une situation familiale tendue à aborder avec délicatesse. Le bon comportement et le respect des rôles apaisent ce qui pourrait exploser."
+      },
+      "traits": {
+        "1": "Marche simple ; avancer sans faute. La simplicité et la modestie permettent d'avancer sans encombre.",
+        "2": "Marcher sur un chemin uni et tranquille ; l'homme solitaire et constant a de la chance. La constance discrète porte bonheur.",
+        "3": "Un borgne croit voir, un boiteux croit marcher ; il marche sur la queue du tigre qui le mord : malheur. Surestimer ses capacités dans une situation dangereuse mène à l'échec.",
+        "4": "Marcher sur la queue du tigre avec crainte et prudence ; finalement bonne fortune. La prudence attentive dans le danger conduit au succès.",
+        "5": "Marche résolue ; persévérance, même dans le danger. La détermination consciente du risque est parfois nécessaire.",
+        "6": "Observer sa marche et examiner les présages ; si tout est complet, suprême bonne fortune. Revenir sur son parcours pour en tirer les leçons apporte la plus haute réussite."
+      }
+    },
+    {
+      "numero": 11,
+      "nom": "La Paix",
+      "nom_chinois": "Tài",
+      "trigramme_haut": "Terre",
+      "trigramme_bas": "Ciel",
+      "image": "Ciel et terre s'unissent : image de la paix. Ainsi le souverain répartit et parachève le cours du ciel et de la terre.",
+      "jugement_general": "Le ciel et la terre communiquent en harmonie : temps de prospérité, de fluidité et de succès. Les énergies circulent librement, le petit s'en va et le grand arrive. Une période bénie où tout s'accorde.",
+      "themes": {
+        "amour": "Une période d'harmonie et de communication fluide dans la relation. Les cœurs se rencontrent vraiment ; profitez de cette entente précieuse.",
+        "finance": "Prospérité et fluidité dans les affaires. Les circonstances s'alignent favorablement ; c'est un bon moment pour prospérer, tout en restant sage.",
+        "sante": "Équilibre et harmonie retrouvés dans le corps. Une période de bien-être où l'énergie circule bien ; entretenez cet état précieux.",
+        "spirituel": "L'union du ciel et de la terre en soi : un moment de paix intérieure profonde où tout semble à sa juste place.",
+        "famille": "Une harmonie familiale rare et précieuse. Les relations sont fluides et chaleureuses ; savourez et nourrissez cette entente."
+      },
+      "traits": {
+        "1": "Arracher l'herbe entraîne les racines liées entre elles ; entreprendre porte chance. Une bonne initiative en entraîne naturellement d'autres.",
+        "2": "Supporter les incultes, traverser le fleuve à pied, ne pas négliger les lointains, ne pas suivre ses camarades par faveur : ainsi on trouve la voie du milieu. La largeur d'esprit et l'équité en temps de prospérité.",
+        "3": "Pas de plaine sans pente, pas d'aller sans retour ; persévérer dans la difficulté, pas de faute. Tout sommet contient le germe du déclin ; garder sa constance.",
+        "4": "Il descend en voletant, sans se vanter de sa richesse, avec son voisin, en toute sincérité. La simplicité sincère malgré la position élevée.",
+        "5": "Le souverain donne sa fille en mariage, ce qui apporte bénédiction et suprême bonne fortune. Une union noble et sincère qui apporte le bonheur.",
+        "6": "Le rempart retombe dans le fossé ; ne pas employer l'armée ; annoncer ses ordres dans sa propre ville ; persévérance, humiliation. À la fin de la paix, accepter le déclin avec dignité plutôt que de lutter en vain."
+      }
+    },
+    {
+      "numero": 12,
+      "nom": "La Stagnation",
+      "nom_chinois": "Pǐ",
+      "trigramme_haut": "Ciel",
+      "trigramme_bas": "Terre",
+      "image": "Ciel et terre ne s'unissent pas : image de la stagnation. Ainsi l'être de bien se retire dans sa valeur intérieure pour échapper aux difficultés.",
+      "jugement_general": "Les énergies ne communiquent plus, c'est un temps de blocage et de repli. Ce n'est pas le moment d'entreprendre ni de s'exposer. La sagesse est de se retirer, préserver ses valeurs, et attendre que le cours des choses se retourne.",
+      "themes": {
+        "amour": "Une période de blocage ou de distance dans la relation. Ne forcez pas le dialogue maintenant ; préservez-vous et attendez un moment plus propice.",
+        "finance": "Une phase de stagnation où les projets n'avancent pas. Ce n'est pas le moment d'investir ni de forcer ; consolidez et patientez.",
+        "sante": "Une période où rien ne semble progresser. Ne vous épuisez pas à forcer ; préservez votre énergie en attendant que la situation se débloque.",
+        "spirituel": "Le repli intérieur en temps de blocage n'est pas une défaite mais une sagesse. Cultivez votre jardin intérieur en attendant le retournement.",
+        "famille": "Une incommunicabilité temporaire dans la famille. Évitez de forcer les échanges ; le respect de la distance permet parfois le retour de l'harmonie."
+      },
+      "traits": {
+        "1": "Arracher l'herbe entraîne les racines liées ; persévérance porte chance et réussite. Se retirer avec les siens en début de stagnation est sage.",
+        "2": "Ils supportent et endurent ; pour les petits hommes bonne fortune, pour le grand homme la stagnation mène à la réussite. Garder sa dignité intérieure malgré les circonstances défavorables.",
+        "3": "Ils portent leur honte. Reconnaître ses erreurs est le premier pas vers le redressement.",
+        "4": "Celui qui agit sur ordre du ciel reste sans faute ; ses compagnons partagent la bénédiction. Le début d'un retournement favorable, agir en accord avec le moment.",
+        "5": "La stagnation cesse ; bonne fortune pour le grand homme. « Si cela devait échouer ! » Il attache les choses à un bouquet de mûrier. La vigilance prudente au moment où les choses s'améliorent.",
+        "6": "La stagnation prend fin ; d'abord stagnation, ensuite joie. Le blocage se dénoue enfin, laissant place au soulagement."
+      }
+    },
+    {
+      "numero": 13,
+      "nom": "La Communauté",
+      "nom_chinois": "Tóng Rén",
+      "trigramme_haut": "Ciel",
+      "trigramme_bas": "Feu",
+      "image": "Le ciel avec le feu qui monte vers lui : image de la communauté avec les hommes. Ainsi l'être de bien distingue les choses selon leurs espèces et leurs familles.",
+      "jugement_general": "La fraternité et la communauté avec les hommes portent la réussite, surtout si elle s'ouvre largement plutôt que de se replier sur un cercle étroit. L'union sincère au grand jour, fondée sur des valeurs communes, permet de grandes réalisations.",
+      "themes": {
+        "amour": "Une relation fondée sur des valeurs partagées et une compréhension mutuelle profonde. L'ouverture et la sincérité renforcent le lien.",
+        "finance": "Un projet collectif ou un partenariat ouvert et transparent. La collaboration large et sincère porte plus loin que l'intérêt individuel.",
+        "sante": "Le soutien d'une communauté, d'un groupe, dans un parcours de santé. Ne restez pas isolé(e) ; la fraternité soigne aussi.",
+        "spirituel": "L'appartenance à une communauté de cœur nourrit l'âme. Chercher ceux qui partagent vos valeurs profondes est une voie juste.",
+        "famille": "Un esprit de fraternité et d'ouverture au sein de la famille élargie. Les liens se renforcent quand ils s'appuient sur des valeurs partagées."
+      },
+      "traits": {
+        "1": "Communauté à la porte ; pas de faute. Une union ouverte et sans arrière-pensée dès le départ est saine.",
+        "2": "Communauté dans le clan ; humiliation. Se limiter à son propre cercle par exclusivité appauvrit la fraternité.",
+        "3": "Cacher des armes dans les fourrés, gravir la colline élevée ; pendant trois ans il ne se lève pas. La méfiance et l'hostilité cachée empêchent toute vraie union.",
+        "4": "Il monte sur son rempart, mais ne peut attaquer ; bonne fortune. Renoncer à un conflit qu'on ne peut gagner ramène vers la réconciliation.",
+        "5": "Les hommes réunis d'abord pleurent et gémissent, puis rient ; après de grandes luttes ils se rencontrent. Une union vraie qui triomphe finalement des obstacles.",
+        "6": "Communauté dans la prairie ; pas de repentir. Une fraternité paisible mais encore distante, sans regret bien que sans grand accomplissement."
+      }
+    },
+    {
+      "numero": 14,
+      "nom": "Le Grand Avoir",
+      "nom_chinois": "Dà Yǒu",
+      "trigramme_haut": "Feu",
+      "trigramme_bas": "Ciel",
+      "image": "Le feu en haut du ciel : image de la possession en grand. Ainsi l'être de bien réprime le mal et favorise le bien, obéissant à la volonté bienveillante du ciel.",
+      "jugement_general": "Un temps d'abondance et de grande réussite, où l'on possède beaucoup. La clarté rayonnante attire la prospérité. Mais la vraie grandeur consiste à rester humble et généreux au faîte de la réussite.",
+      "themes": {
+        "amour": "Une relation riche et épanouie, un temps d'abondance affective. Partagez cette plénitude avec générosité plutôt que de la garder pour vous.",
+        "finance": "Une période de prospérité et de réussite matérielle. Profitez-en avec sagesse et générosité ; l'abondance partagée se renouvelle.",
+        "sante": "Un temps de pleine vitalité et de ressources abondantes. Utilisez cette énergie pour consolider durablement votre bien-être.",
+        "spirituel": "La vraie richesse spirituelle rayonne et se partage. Au sommet de l'abondance, l'humilité et la gratitude sont les plus belles vertus.",
+        "famille": "Une période d'abondance et de bonheur familial. Partagez généreusement cette prospérité et cette joie avec tous les vôtres."
+      },
+      "traits": {
+        "1": "Pas de relation avec ce qui nuit ; pas de faute ; conscient de la difficulté, on reste sans faute. Rester prudent et intègre même dans l'abondance naissante.",
+        "2": "Un grand chariot pour transporter la charge ; on peut entreprendre, pas de faute. Disposer des moyens solides pour porter de grands projets.",
+        "3": "Un prince l'offre au fils du ciel ; un petit homme ne le pourrait pas. Mettre ses ressources au service d'un but plus grand que soi.",
+        "4": "Il fait la différence entre lui et son voisin ; pas de faute. Ne pas se laisser griser par l'abondance ni rivaliser inutilement.",
+        "5": "Sa sincérité est accessible et pourtant digne ; bonne fortune. Une autorité bienveillante et sincère inspire naturellement le respect.",
+        "6": "Le ciel le bénit ; bonne fortune, rien qui ne soit favorable. Au sommet, l'humilité et l'accord avec le ciel attirent la plus haute bénédiction."
+      }
+    },
+    {
+      "numero": 15,
+      "nom": "L'Humilité",
+      "nom_chinois": "Qiān",
+      "trigramme_haut": "Terre",
+      "trigramme_bas": "Montagne",
+      "image": "Au milieu de la terre, une montagne : image de l'humilité. Ainsi l'être de bien diminue ce qui est en trop et augmente ce qui est trop peu, pesant les choses et rétablissant l'équilibre.",
+      "jugement_general": "L'humilité authentique porte la réussite jusqu'au bout. La montagne cachée au sein de la terre : la vraie grandeur ne s'exhibe pas. C'est l'une des rares situations où tous les traits sont favorables.",
+      "themes": {
+        "amour": "L'humilité et la simplicité du cœur attirent l'amour vrai. Ne cherchez pas à briller ; la modestie sincère est profondément touchante.",
+        "finance": "La modestie et la mesure dans la réussite financière préservent et augmentent ce que vous avez. La discrétion protège.",
+        "sante": "Accepter humblement ses limites et écouter son corps sans orgueil favorise un équilibre durable et une vraie guérison.",
+        "spirituel": "L'humilité est la vertu qui couronne toutes les autres. Se faire petit ouvre paradoxalement à la plus grande élévation intérieure.",
+        "famille": "L'humilité dans les relations familiales — savoir s'effacer, reconnaître ses torts — répare et renforce les liens plus que tout."
+      },
+      "traits": {
+        "1": "Humble sur humble ; l'être de bien peut ainsi traverser les grandes eaux ; bonne fortune. La double humilité permet de franchir les plus grands obstacles.",
+        "2": "Humilité qui s'exprime ; persévérance porte chance. Une modestie sincère qui rayonne naturellement.",
+        "3": "Un être de bien méritant et humble mène les choses à bien ; bonne fortune. Le travail accompli dans l'humilité porte de vrais fruits.",
+        "4": "Rien qui ne soit favorable pour manifester l'humilité. Agir avec modestie en toute circonstance est toujours juste.",
+        "5": "Sans se vanter de sa richesse auprès du voisin ; il est profitable d'agir avec fermeté ; rien qui ne soit favorable. L'humilité n'exclut pas la fermeté quand elle est nécessaire.",
+        "6": "Humilité qui s'exprime ; il est profitable de mettre les armées en marche pour châtier sa propre cité. L'humilité vraie commence par se corriger soi-même avant de vouloir corriger le monde."
+      }
+    },
+    {
+      "numero": 16,
+      "nom": "L'Enthousiasme",
+      "nom_chinois": "Yù",
+      "trigramme_haut": "Tonnerre",
+      "trigramme_bas": "Terre",
+      "image": "Le tonnerre jaillit de la terre avec fracas : image de l'enthousiasme. Ainsi les anciens rois faisaient de la musique pour honorer le mérite.",
+      "jugement_general": "L'enthousiasme partagé mobilise les énergies et entraîne les autres. Quand l'élan est juste et communicatif, il est profitable de mettre les choses en mouvement. Mais gardez-vous de l'ivresse qui fait perdre le sens de la mesure.",
+      "themes": {
+        "amour": "Un élan joyeux et communicatif anime la relation. Laissez-vous porter par cet enthousiasme, tout en gardant les pieds sur terre.",
+        "finance": "Un projet porté par un élan mobilisateur qui entraîne les autres. L'enthousiasme est un atout, à condition de rester lucide sur les réalités.",
+        "sante": "Un regain d'énergie et de motivation. Profitez de cet élan pour lancer de bonnes habitudes, sans tomber dans l'excès enthousiaste.",
+        "spirituel": "La joie enthousiaste, quand elle est juste, élève l'âme et entraîne les autres. Mais méfiez-vous de l'exaltation qui fait perdre le discernement.",
+        "famille": "Un élan de joie partagée qui rassemble la famille. Cultivez ces moments d'enthousiasme collectif qui soudent les liens."
+      },
+      "traits": {
+        "1": "Enthousiasme qui s'exprime bruyamment ; malheur. Un enthousiasme vaniteux et tapageur mène à la chute.",
+        "2": "Ferme comme le roc ; pas un jour entier ; persévérance porte chance. Discerner le bon moment sans se laisser entraîner par l'exaltation collective.",
+        "3": "Enthousiasme qui lève les yeux vers le haut entraîne le repentir ; l'hésitation apporte aussi le repentir. Attendre passivement les faveurs d'en haut mène au regret.",
+        "4": "Source de l'enthousiasme ; grandes choses accomplies ; ne pas douter ; les amis se rassemblent. Un enthousiasme sincère et confiant rassemble et accomplit de grandes choses.",
+        "5": "Persévérant mais malade, et pourtant ne meurt pas. Une contrainte persistante qui, paradoxalement, empêche de sombrer dans l'excès.",
+        "6": "Enthousiasme aveuglé ; mais si après l'accomplissement on change, pas de faute. Se laisser aveugler par l'exaltation, mais pouvoir se ressaisir à temps."
+      }
+    },
+    {
+      "numero": 17,
+      "nom": "La Suite",
+      "nom_chinois": "Suí",
+      "trigramme_haut": "Lac",
+      "trigramme_bas": "Tonnerre",
+      "image": "Le tonnerre au milieu du lac : image de la suite. Ainsi l'être de bien, à la tombée de la nuit, rentre se reposer et se détendre.",
+      "jugement_general": "Suivre le mouvement juste, s'adapter aux circonstances, porte une grande réussite. Mais pour être suivi, il faut soi-même savoir suivre ce qui est juste. L'art de s'ajuster au bon moment, sans rigidité.",
+      "themes": {
+        "amour": "Savoir s'adapter à l'autre et suivre le flux naturel de la relation. La souplesse et l'ajustement mutuel créent l'harmonie.",
+        "finance": "S'adapter aux circonstances changeantes plutôt que de s'accrocher à un plan rigide. La flexibilité intelligente ouvre des opportunités.",
+        "sante": "Suivre les rythmes naturels du corps, se reposer quand il le demande. L'écoute souple vaut mieux que la contrainte rigide.",
+        "spirituel": "Suivre le courant de la vie avec confiance, sans forcer. S'ajuster à ce qui est demande parfois plus de sagesse que de résister.",
+        "famille": "Savoir suivre et s'adapter aux besoins changeants de la famille. La souplesse dans les rôles renforce l'harmonie du foyer."
+      },
+      "traits": {
+        "1": "Le régisseur change ; persévérance porte chance ; sortir de sa porte pour frayer avec les autres apporte des œuvres méritoires. S'ouvrir au changement et aux échanges nouveaux est bénéfique.",
+        "2": "S'attacher au petit garçon fait perdre l'homme fort. Choisir de suivre ce qui est facile fait manquer l'essentiel.",
+        "3": "S'attacher à l'homme fort fait perdre le petit garçon ; en suivant, on trouve ce qu'on cherche ; il est profitable de rester ferme et constant. Choisir de suivre ce qui a de la valeur, quitte à lâcher le superflu.",
+        "4": "La suite conduit à des acquisitions ; persévérance, malheur ; sur le chemin de la sincérité, dans la clarté, quelle faute y aurait-il ? Se faire suivre par intérêt est périlleux ; seule la sincérité justifie l'influence.",
+        "5": "Sincérité dans le bien ; bonne fortune. Suivre ce qui est bon avec un cœur sincère apporte le bonheur.",
+        "6": "Fermement tenu et lié à cela ; le roi le présente à la montagne de l'ouest. Un attachement si fort et sincère qu'il devient consécration."
+      }
+    },
+    {
+      "numero": 18,
+      "nom": "Le Travail sur ce qui est corrompu",
+      "nom_chinois": "Gǔ",
+      "trigramme_haut": "Montagne",
+      "trigramme_bas": "Vent",
+      "image": "Le vent souffle au pied de la montagne : image de la corruption à réparer. Ainsi l'être de bien secoue les hommes et fortifie leur esprit.",
+      "jugement_general": "Ce qui a été gâté ou négligé par le passé peut être réparé. Le désordre présent est le fruit d'anciennes négligences, mais c'est justement l'occasion d'un renouveau. Réparer demande courage, méthode et un temps de réflexion avant et après l'action.",
+      "themes": {
+        "amour": "Une relation où d'anciennes blessures ou négligences demandent à être réparées. Le travail de guérison est possible et porteur de renouveau.",
+        "finance": "Une situation financière détériorée par des négligences passées, qu'il est temps de redresser avec méthode et détermination.",
+        "sante": "Réparer les conséquences d'anciennes négligences envers son corps. Il n'est pas trop tard ; le redressement demande courage et constance.",
+        "spirituel": "Un travail de guérison sur d'anciennes blessures de l'âme. Affronter ce qui a été négligé ouvre la voie à une profonde régénération.",
+        "famille": "D'anciennes tensions ou blessures familiales, souvent héritées, demandent réparation. Ce travail courageux libère les générations."
+      },
+      "traits": {
+        "1": "Réparer ce qui a été gâté par le père ; s'il y a un fils, le père défunt reste sans faute ; danger, mais fin heureuse. Réparer l'héritage du passé avec vigilance mène au bien.",
+        "2": "Réparer ce qui a été gâté par la mère ; ne pas être trop ferme. Corriger d'anciennes erreurs avec douceur et tact.",
+        "3": "Réparer ce qui a été gâté par le père ; un peu de repentir, pas de grande faute. Un excès de zèle dans la réparation, mais sans conséquence grave.",
+        "4": "Tolérer ce qui a été gâté par le père ; en continuant on rencontre l'humiliation. Fermer les yeux sur les problèmes hérités ne fait que les aggraver.",
+        "5": "Réparer ce qui a été gâté par le père ; on rencontre la louange. Redresser une situation héritée avec compétence attire la reconnaissance.",
+        "6": "Il ne sert ni rois ni princes ; il se fixe des buts plus élevés. Se retirer des affaires du monde pour se consacrer à des valeurs supérieures."
+      }
+    },
+    {
+      "numero": 19,
+      "nom": "L'Approche",
+      "nom_chinois": "Lín",
+      "trigramme_haut": "Terre",
+      "trigramme_bas": "Lac",
+      "image": "La terre au-dessus du lac : image de l'approche. Ainsi l'être de bien est inépuisable dans son intention d'enseigner et sans limites dans sa tolérance envers les autres.",
+      "jugement_general": "Quelque chose de grand approche et grandit, porteur de réussite. C'est un temps favorable, mais un avertissement l'accompagne : cette faveur ne durera pas éternellement. Profiter du bon moment tout en se préparant au changement à venir.",
+      "themes": {
+        "amour": "Un rapprochement heureux, une relation qui grandit et s'approfondit. Profitez de cet élan favorable tout en restant conscient(e) qu'il faut l'entretenir.",
+        "finance": "Une période de croissance et d'opportunités qui s'approchent. Saisissez-les maintenant, car ce moment favorable ne durera pas indéfiniment.",
+        "sante": "Une amélioration progressive et encourageante. Profitez de cet élan pour ancrer de bonnes habitudes avant que l'énergie ne fluctue.",
+        "spirituel": "Une ouverture spirituelle qui grandit, un rapprochement avec le sens. Accueillez cette grâce avec gratitude, sans la tenir pour acquise.",
+        "famille": "Un rapprochement familial chaleureux et prometteur. Cultivez ces liens qui se renforcent, en sachant qu'ils demandent un soin continu."
+      },
+      "traits": {
+        "1": "Approche commune ; persévérance porte chance. Avancer de concert avec les autres, dans la constance, apporte le bonheur.",
+        "2": "Approche commune ; bonne fortune, tout est favorable. Un élan partagé qui ne rencontre aucun obstacle.",
+        "3": "Approche confortable ; rien n'est favorable ; mais si l'on s'en afflige, pas de faute. Se reposer trop tôt sur ses acquis, mais pouvoir se corriger.",
+        "4": "Approche complète ; pas de faute. Une ouverture pleine et sincère envers les autres, sans réserve.",
+        "5": "Approche sage ; ce qui convient à un grand prince ; bonne fortune. Diriger avec sagesse en s'entourant des bonnes personnes.",
+        "6": "Approche généreuse et de grand cœur ; bonne fortune, pas de faute. La bienveillance sans calcul, même de la part de qui pourrait se retirer, est bénie."
+      }
+    },
+    {
+      "numero": 20,
+      "nom": "La Contemplation",
+      "nom_chinois": "Guān",
+      "trigramme_haut": "Vent",
+      "trigramme_bas": "Terre",
+      "image": "Le vent souffle sur la terre : image de la contemplation. Ainsi les anciens rois visitaient les régions, observaient le peuple et donnaient l'enseignement.",
+      "jugement_general": "Un temps pour observer, contempler et comprendre en profondeur avant d'agir. Prendre du recul pour voir la vue d'ensemble. La juste compréhension de la situation vaut mieux que l'action précipitée.",
+      "themes": {
+        "amour": "Un temps pour observer et comprendre la relation en profondeur avant de décider. Prenez du recul pour voir clairement ce qui est en jeu.",
+        "finance": "Une période d'observation et d'analyse plutôt que d'action. Étudiez la situation dans son ensemble avant de vous engager.",
+        "sante": "Prendre le temps d'observer et de comprendre ce que le corps exprime, avant toute décision. La contemplation attentive éclaire.",
+        "spirituel": "La contemplation profonde est ici la voie. Observer, méditer, comprendre le sens caché des choses nourrit l'âme.",
+        "famille": "Observer les dynamiques familiales avec recul et compréhension, plutôt que de réagir. La juste vision précède la juste action."
+      },
+      "traits": {
+        "1": "Contemplation d'enfant ; pour un petit homme pas de faute, pour un être de bien humiliation. Une compréhension superficielle, acceptable chez l'ignorant mais indigne du sage.",
+        "2": "Contemplation à travers la fente de la porte ; profitable pour la persévérance d'une femme. Une vue étroite et partielle des choses ; suffisante dans un cadre restreint seulement.",
+        "3": "Contemplation de sa propre vie décide de l'avance ou du recul. S'examiner soi-même honnêtement pour orienter ses choix.",
+        "4": "Contemplation de la lumière du royaume ; il est profitable d'être l'hôte du roi. Comprendre les rouages profonds d'une situation ouvre à un rôle influent.",
+        "5": "Contemplation de sa propre vie ; l'être de bien reste sans faute. L'examen de conscience lucide du sage garde de l'erreur.",
+        "6": "Contemplation de sa vie ; l'être de bien reste sans faute. Voir sa vie de très haut, dans sa portée universelle, en toute sérénité."
+      }
+    },
+    {
+      "numero": 21,
+      "nom": "Mordre au Travers",
+      "nom_chinois": "Shì Kè",
+      "trigramme_haut": "Feu",
+      "trigramme_bas": "Tonnerre",
+      "image": "Tonnerre et éclair : image de mordre au travers. Ainsi les anciens rois affermissaient les lois par des châtiments clairement définis.",
+      "jugement_general": "Un obstacle se dresse entre vous et votre but, comme un objet coincé entre les dents. Il faut le briser avec énergie et détermination. C'est un temps où la justice et la fermeté sont nécessaires pour lever ce qui bloque.",
+      "themes": {
+        "amour": "Un obstacle ou un malentendu bloque la relation. Il faut l'affronter directement et le résoudre franchement plutôt que de le contourner.",
+        "finance": "Un blocage concret à lever avec détermination. Une décision ferme, voire une confrontation nécessaire, débloque la situation.",
+        "sante": "Un problème de santé qui demande d'être traité de front, avec une action décidée, plutôt que d'être ignoré ou toléré.",
+        "spirituel": "Un obstacle intérieur à trancher avec courage. Certaines libérations demandent qu'on morde franchement au travers de ce qui résiste.",
+        "famille": "Un conflit ou un non-dit familial qui bloque tout. Il faut l'aborder directement et fermement, avec justice, pour rétablir la circulation."
+      },
+      "traits": {
+        "1": "Les pieds dans les ceps, les orteils disparaissent ; pas de faute. Une correction précoce et légère évite des maux plus graves.",
+        "2": "Mordre à travers la chair tendre jusqu'à ce que le nez disparaisse ; pas de faute. Une punition sévère mais justifiée face à une résistance.",
+        "3": "Mordre de la viande séchée et rencontrer du poison ; petite humiliation, pas de faute. Affronter un vieux problème plus coriace que prévu, sans grave conséquence.",
+        "4": "Mordre de la viande séchée sur l'os et trouver de l'or ; profitable d'être conscient de la difficulté et ferme ; bonne fortune. Persévérer dans une tâche difficile finit par révéler une vraie valeur.",
+        "5": "Mordre de la viande séchée et trouver de l'or ; persévérance dans la conscience du danger, pas de faute. La fermeté vigilante dans la résolution d'un conflit est récompensée.",
+        "6": "Il porte le carcan de sorte que ses oreilles disparaissent ; malheur. Refuser obstinément d'écouter et de se corriger mène au désastre."
+      }
+    },
+    {
+      "numero": 22,
+      "nom": "La Grâce",
+      "nom_chinois": "Bì",
+      "trigramme_haut": "Montagne",
+      "trigramme_bas": "Feu",
+      "image": "Le feu au pied de la montagne l'illumine : image de la grâce. Ainsi l'être de bien met de l'ordre dans les affaires courantes, mais n'ose pas trancher les grandes questions par la seule beauté des formes.",
+      "jugement_general": "La beauté, la forme et la grâce apportent une réussite dans les petites choses. L'élégance embellit la vie, mais elle ne doit pas masquer le fond ni remplacer la substance. La vraie beauté sert le vrai, elle ne le remplace pas.",
+      "themes": {
+        "amour": "Une relation où la beauté et le raffinement des sentiments comptent. Belle et harmonieuse, elle doit néanmoins s'appuyer sur une substance réelle.",
+        "finance": "Une réussite dans les détails et la présentation, mais attention à ne pas confondre l'apparence de prospérité avec la solidité réelle.",
+        "sante": "Prendre soin de la forme et de l'apparence contribue au bien-être, mais ne néglige pas le fond, la santé profonde.",
+        "spirituel": "La beauté est une voie vers le sacré, mais elle ne doit pas devenir une fin en soi. La forme au service de l'esprit, jamais l'inverse.",
+        "famille": "Les gestes gracieux, les belles traditions embellissent la vie familiale. Veillez à ce qu'ils expriment un amour réel et non une façade."
+      },
+      "traits": {
+        "1": "Il donne de la grâce à ses orteils, quitte le char et marche à pied. Renoncer à la facilité clinquante pour un chemin plus modeste mais authentique.",
+        "2": "Il donne de la grâce à sa barbe. Ne pas confondre l'ornement avec l'essentiel ; le décor suit le fond, il ne le précède pas.",
+        "3": "Gracieux et humide ; persévérance constante porte chance. La grâce durable vient de la sincérité, pas de l'éclat passager.",
+        "4": "Grâce ou simplicité ? Un cheval blanc vient comme sur des ailes. Ce n'est pas un brigand, il cherche à s'unir. Le choix entre l'apparence et la simplicité vraie ; l'authenticité l'emporte.",
+        "5": "Grâce dans les collines et le jardin ; le rouleau de soie est petit et pauvre ; humiliation, mais fin heureuse. La simplicité modeste, d'abord jugée pauvre, se révèle finalement juste.",
+        "6": "Grâce simple et blanche ; pas de faute. La beauté la plus haute est celle du naturel dépouillé de tout ornement."
+      }
+    },
+    {
+      "numero": 23,
+      "nom": "L'Éclatement",
+      "nom_chinois": "Bō",
+      "trigramme_haut": "Montagne",
+      "trigramme_bas": "Terre",
+      "image": "La montagne repose sur la terre : image de l'éclatement. Ainsi ceux d'en haut ne peuvent assurer leur position qu'en étant généreux envers ceux d'en bas.",
+      "jugement_general": "Un temps de déclin et de désagrégation, où les forces négatives érodent ce qui tient encore. Ce n'est pas le moment d'entreprendre ; il faut attendre patiemment que ce cycle s'achève. La sagesse consiste à ne pas résister vainement mais à préserver l'essentiel.",
+      "themes": {
+        "amour": "Une relation qui s'effrite ou traverse une phase d'usure. Ce n'est pas le moment de forcer ; préservez ce qui peut l'être et attendez.",
+        "finance": "Une période de pertes ou d'érosion. Ne lancez rien de nouveau ; protégez vos acquis essentiels et patientez que le cycle se retourne.",
+        "sante": "Une phase d'affaiblissement où il faut préserver ses forces plutôt que de les dépenser. Ménagez-vous et attendez la remontée.",
+        "spirituel": "Même le déclin fait partie du cycle. Ne pas lutter contre l'inévitable, mais préserver la graine intérieure qui renaîtra.",
+        "famille": "Une période de tensions qui érodent les liens. Préservez l'essentiel avec patience plutôt que de vouloir tout réparer d'un coup."
+      },
+      "traits": {
+        "1": "Le lit est brisé au pied ; ceux qui persévèrent sont anéantis ; malheur. La base commence à céder ; s'entêter aggrave la situation.",
+        "2": "Le lit est brisé au bord ; ceux qui persévèrent sont anéantis ; malheur. La dégradation progresse ; l'isolement rend vulnérable.",
+        "3": "Il se sépare d'eux ; pas de faute. Se dissocier d'un mouvement de déclin, même seul, préserve de la faute.",
+        "4": "Le lit est brisé jusqu'à la peau ; malheur. Le danger touche désormais au vif ; le mal est à son comble.",
+        "5": "Un banc de poissons ; la faveur vient à travers les dames de la cour ; tout est favorable. Un retournement s'amorce ; l'ordre commence à se rétablir par le bas.",
+        "6": "Un grand fruit reste non mangé ; l'être de bien reçoit un char, la maison du petit homme est brisée. La graine du renouveau survit au déclin ; le sage est porté tandis que ce qui doit tomber tombe."
+      }
+    },
+    {
+      "numero": 24,
+      "nom": "Le Retour",
+      "nom_chinois": "Fù",
+      "trigramme_haut": "Terre",
+      "trigramme_bas": "Tonnerre",
+      "image": "Le tonnerre au sein de la terre : image du retour. Ainsi les anciens rois fermaient les passages au temps du solstice, pour que la force nouvelle se régénère dans le repos.",
+      "jugement_general": "Après le déclin vient le retour : la lumière renaît, le cycle recommence. C'est le point de retournement, le solstice où le jour reprend sur la nuit. Un temps de renouveau, mais encore fragile : il faut laisser la force nouvelle se fortifier doucement.",
+      "themes": {
+        "amour": "Un renouveau, un retour de l'harmonie ou d'une personne. La flamme renaît, encore fragile ; nourrissez-la avec douceur et patience.",
+        "finance": "Le début d'un redressement après une période difficile. La reprise est réelle mais encore tendre ; ne la brusquez pas.",
+        "sante": "Le retour de l'énergie et de la santé après une épreuve. La convalescence demande de laisser la force renaître sans la précipiter.",
+        "spirituel": "Un retour à soi, à l'essentiel, après l'égarement. Le point de retournement intérieur où la lumière recommence à croître.",
+        "famille": "Un renouveau des liens, peut-être un retour ou une réconciliation. Accueillez-le avec douceur ; ce qui renaît est encore fragile."
+      },
+      "traits": {
+        "1": "Retour de peu de distance ; pas besoin de repentir ; grande bonne fortune. Corriger tôt un petit égarement évite tout regret.",
+        "2": "Retour tranquille ; bonne fortune. Revenir sur le bon chemin avec calme et sans résistance apporte le bonheur.",
+        "3": "Retour répété ; danger, mais pas de faute. Hésiter et revenir plusieurs fois est risqué mais pas fautif si l'intention reste juste.",
+        "4": "Marchant au milieu des autres, on revient seul. Suivre sa voie propre même quand elle diffère de celle du groupe.",
+        "5": "Retour noble et généreux ; pas de repentir. Un retour à soi fait avec grandeur d'âme et sincérité, sans regret.",
+        "6": "Retour manqué ; malheur, infortune. Manquer le moment du retour, s'obstiner dans l'égarement, attire de graves conséquences."
+      }
+    },
+    {
+      "numero": 25,
+      "nom": "L'Innocence",
+      "nom_chinois": "Wú Wàng",
+      "trigramme_haut": "Ciel",
+      "trigramme_bas": "Tonnerre",
+      "image": "Sous le ciel, le tonnerre se meut : toutes choses reçoivent l'innocence naturelle. Ainsi les anciens rois, riches en vertu et en accord avec le temps, nourrissaient tous les êtres.",
+      "jugement_general": "L'innocence et la spontanéité naturelle, agir sans arrière-pensée ni calcul, portent la réussite. Mais l'innocence exige la droiture : ce qui n'est pas dans la voie juste apporte le malheur. Suivre son élan naturel, à condition qu'il soit pur.",
+      "themes": {
+        "amour": "Une relation vécue avec spontanéité et sincérité, sans calcul. La pureté d'intention est ici votre plus grande force.",
+        "finance": "Agir avec droiture et sans arrière-pensée. Ne cherchez pas à manipuler les circonstances ; le naturel et l'honnêteté portent leurs fruits.",
+        "sante": "Faire confiance aux processus naturels du corps, sans interférence anxieuse. La simplicité et le naturel favorisent la guérison.",
+        "spirituel": "L'innocence retrouvée, l'action spontanée en accord avec le juste, est un état de grâce. Agir sans calcul, guidé par la droiture intérieure.",
+        "famille": "La spontanéité sincère dans les relations familiales, sans calcul ni manipulation. La pureté des intentions renforce la confiance."
+      },
+      "traits": {
+        "1": "Action innocente ; bonne fortune. Agir spontanément selon son cœur pur apporte le succès.",
+        "2": "Ne pas compter sur la récolte en labourant, ni sur l'usage en défrichant ; alors il est profitable d'entreprendre. Agir sans obsession du résultat ouvre à la vraie réussite.",
+        "3": "Malheur immérité de l'innocence : la vache attachée par un passant devient sa perte, malheur pour l'habitant. Parfois l'infortune frappe sans faute de notre part ; l'accepter fait partie de la vie.",
+        "4": "Celui qui peut rester ferme reste sans faute. Rester fidèle à sa nature droite, sans se laisser détourner, préserve de l'erreur.",
+        "5": "Maladie de l'innocence : ne pas employer de remède, la joie reviendra. Certains maux passagers se résolvent d'eux-mêmes ; ne pas s'agiter inutilement.",
+        "6": "Action innocente qui apporte le malheur ; rien n'est favorable. Même l'action juste, à contretemps, peut nuire ; savoir aussi ne pas agir."
+      }
+    },
+    {
+      "numero": 26,
+      "nom": "La Force Domptante du Grand",
+      "nom_chinois": "Dà Chù",
+      "trigramme_haut": "Montagne",
+      "trigramme_bas": "Ciel",
+      "image": "Le ciel au sein de la montagne : image de la force domptante du grand. Ainsi l'être de bien étudie les paroles et les actions des anciens pour affermir son caractère.",
+      "jugement_general": "Une grande énergie accumulée et maîtrisée devient une force puissante. Retenir sa puissance, la discipliner, la nourrir de sagesse, permet d'accomplir de grandes choses. C'est le moment de se nourrir de sagesse et d'oser les grandes entreprises.",
+      "themes": {
+        "amour": "Une relation riche d'un potentiel puissant, qui demande de la maîtrise et de la patience pour s'épanouir pleinement. La force contenue prépare de grandes choses.",
+        "finance": "De grandes ressources accumulées, prêtes à être déployées avec sagesse. Le moment approche d'oser de grandes entreprises, avec discipline.",
+        "sante": "Une énergie vitale puissante à canaliser avec discipline. La force bien maîtrisée, nourrie de bonnes habitudes, construit une santé solide.",
+        "spirituel": "La force intérieure accumulée par la discipline et l'étude devient une puissance créatrice. Se nourrir de sagesse ancienne fortifie l'âme.",
+        "famille": "Une famille dont la force réside dans les valeurs accumulées et transmises. S'appuyer sur cette richesse pour de grandes réalisations communes."
+      },
+      "traits": {
+        "1": "Il y a du danger, il est profitable de s'arrêter. Reconnaître le moment où il faut retenir son élan plutôt que de foncer.",
+        "2": "L'essieu est ôté du char. Accepter un arrêt forcé sans frustration ; le blocage protège parfois.",
+        "3": "Bon cheval qui suit d'autres ; profitable d'être conscient du danger et ferme ; s'exercer chaque jour ; il est profitable d'entreprendre. L'élan est là ; la vigilance et l'entraînement constant permettent d'avancer loin.",
+        "4": "La planche protectrice du jeune taureau ; grande bonne fortune. Prévenir un danger à la source, avant qu'il ne se développe, est très favorable.",
+        "5": "La défense du sanglier châtré ; bonne fortune. Neutraliser une force dangereuse à sa racine plutôt que de l'affronter de front.",
+        "6": "On atteint la voie du ciel ; réussite. La force pleinement maîtrisée et libérée au bon moment ouvre les plus grandes voies."
+      }
+    },
+    {
+      "numero": 27,
+      "nom": "Les Commissures des Lèvres",
+      "nom_chinois": "Yí",
+      "trigramme_haut": "Montagne",
+      "trigramme_bas": "Tonnerre",
+      "image": "Sous la montagne, le tonnerre : image de la nourriture. Ainsi l'être de bien est attentif à ses paroles et modéré dans le boire et le manger.",
+      "jugement_general": "L'hexagramme de la nourriture, au sens propre et figuré : ce dont on se nourrit, corps et esprit. La réussite vient de l'attention portée à ce qu'on donne et reçoit comme nourriture. Observez ce qui vous nourrit et ce que vous nourrissez.",
+      "themes": {
+        "amour": "Observez ce qui nourrit vraiment la relation et ce qui l'appauvrit. Une relation saine se nourrit d'attentions justes et de paroles bienveillantes.",
+        "finance": "Être attentif à ce qui alimente vraiment votre prospérité et à ce qui la dilapide. La modération et le discernement dans les dépenses sont clés.",
+        "sante": "Une attention particulière à l'alimentation, au sens large : ce que vous mangez, respirez, laissez entrer en vous. La modération nourrit la santé.",
+        "spirituel": "De quoi nourrissez-vous votre âme ? Les pensées, lectures, fréquentations sont la nourriture de l'esprit. Choisissez-les avec soin.",
+        "famille": "Ce dont on nourrit la famille — attentions, paroles, valeurs — la façonne. Veillez à donner une nourriture affective saine et généreuse."
+      },
+      "traits": {
+        "1": "Tu laisses de côté ta tortue magique et me regardes, les commissures pendantes ; malheur. Envier ce que les autres ont plutôt que d'apprécier ses propres ressources appauvrit.",
+        "2": "Se nourrir en se détournant du chemin, s'adressant à la colline pour être nourri ; continuer ainsi mène au malheur. Chercher sa subsistance dans la mauvaise direction, contre sa nature, échoue.",
+        "3": "Se détourner de la nourriture ; persévérance, malheur ; ne pas agir ainsi dix ans ; rien n'est favorable. Se nourrir de ce qui ne convient pas mène à un long dérèglement.",
+        "4": "Se tourner vers le sommet pour être nourri ; bonne fortune ; le tigre guette d'un regard perçant, son désir est insatiable ; pas de faute. Chercher une nourriture élevée, avec un désir ardent mais juste, est bénéfique.",
+        "5": "S'écarter du chemin ; demeurer ferme porte chance ; on ne doit pas traverser les grandes eaux. Reconnaître ses limites et rester en place plutôt que de se risquer au-delà de ses forces.",
+        "6": "La source de la nourriture ; conscience du danger porte chance ; il est profitable de traverser les grandes eaux. Devenir soi-même source de nourriture pour les autres, avec vigilance, permet les grandes entreprises."
+      }
+    },
+    {
+      "numero": 28,
+      "nom": "La Prépondérance du Grand",
+      "nom_chinois": "Dà Guò",
+      "trigramme_haut": "Lac",
+      "trigramme_bas": "Vent",
+      "image": "Le lac submerge les arbres : image de la prépondérance du grand. Ainsi l'être de bien, quand il est seul, ne connaît pas la crainte, et s'il doit renoncer au monde, il reste sans chagrin.",
+      "jugement_general": "Une charge trop lourde pèse sur des appuis trop faibles, comme une poutre qui ploie. La situation est critique et exceptionnelle, elle demande une action extraordinaire. Un moment de crise qui exige courage et mesures décisives, mais aussi lucidité pour ne pas s'effondrer.",
+      "themes": {
+        "amour": "Une relation sous forte tension, où le poids des choses menace l'équilibre. Un moment critique qui demande des décisions courageuses et sincères.",
+        "finance": "Une situation de surcharge où les fondations sont fragiles. Il faut agir de façon décisive et exceptionnelle pour éviter l'effondrement.",
+        "sante": "Une période où le corps ou l'esprit est soumis à une charge excessive. Ne pas ignorer les signaux ; alléger le fardeau devient urgent.",
+        "spirituel": "Un moment de crise intérieure où l'ancien s'effondre. Traverser ce passage extraordinaire avec courage prépare une profonde transformation.",
+        "famille": "Une famille soumise à une pression exceptionnelle. Le moment demande des choix forts et un soutien mutuel pour ne pas céder sous le poids."
+      },
+      "traits": {
+        "1": "Étendre une natte de roseaux blancs dessous ; pas de faute. Une grande prudence et délicatesse au départ d'une entreprise risquée.",
+        "2": "Un vieux peuplier fait pousser de nouvelles racines ; un homme âgé épouse une jeune femme ; tout est favorable. Une alliance inattendue entre l'ancien et le neuf redonne vie.",
+        "3": "La poutre maîtresse plie jusqu'à rompre ; malheur. S'obstiner sans écouter, sous une charge excessive, mène à la rupture.",
+        "4": "La poutre maîtresse est renforcée ; bonne fortune ; mais d'autres arrière-pensées seraient humiliantes. Consolider ce qui est fragile est bon, à condition de le faire sans calcul égoïste.",
+        "5": "Un vieux peuplier fait des fleurs ; une femme âgée prend un mari ; pas de faute, pas de louange. Un dernier éclat sans vraie fécondité ; ni faute ni gloire.",
+        "6": "Il faut traverser l'eau, elle monte par-dessus la tête ; malheur, mais pas de faute. Se sacrifier pour une cause juste, même au péril extrême, n'est pas une faute."
+      }
+    },
+    {
+      "numero": 29,
+      "nom": "L'Insondable, l'Eau",
+      "nom_chinois": "Kǎn",
+      "trigramme_haut": "Eau",
+      "trigramme_bas": "Eau",
+      "image": "L'eau coule sans interruption et atteint son but : image de l'abîme répété. Ainsi l'être de bien marche dans une vertu constante et poursuit l'œuvre de l'enseignement.",
+      "jugement_general": "Le danger répété, l'abîme, comme l'eau qui s'engouffre. Mais l'eau enseigne : elle traverse le péril en restant fidèle à sa nature, en remplissant chaque creux avant d'avancer. Dans le danger, la sincérité du cœur et la constance permettent de passer.",
+      "themes": {
+        "amour": "Une période difficile, un passage périlleux dans la relation. La sincérité constante du cœur permet de traverser l'épreuve sans s'y noyer.",
+        "finance": "Une situation risquée qu'il faut traverser avec constance et sang-froid. Comme l'eau, avancer méthodiquement sans forcer permet de passer le danger.",
+        "sante": "Une épreuve de santé à traverser. La constance, la fidélité aux soins et le calme intérieur sont vos meilleurs alliés dans ce passage.",
+        "spirituel": "L'abîme est aussi un lieu d'initiation. Rester fidèle à soi et sincère au cœur du danger fait grandir l'âme. L'eau enseigne la persévérance.",
+        "famille": "Une épreuve familiale profonde à traverser ensemble. La sincérité et la constance des liens permettent de passer le danger sans sombrer."
+      },
+      "traits": {
+        "1": "Abîme répété ; on tombe dans la fosse au fond de l'abîme ; malheur. Se laisser happer par l'habitude du danger, sans réagir, enfonce davantage.",
+        "2": "L'abîme est dangereux ; on ne devrait chercher à obtenir que de petites choses. Dans le danger, viser modestement plutôt que de tout risquer.",
+        "3": "En avant et en arrière, abîme sur abîme ; dans un tel danger, arrête-toi d'abord. Face au péril qui se répète, mieux vaut s'immobiliser que de s'agiter.",
+        "4": "Une cruche de vin, un bol de riz en plus ; vases de terre simplement passés par la fenêtre ; pas de faute. La sincérité simple et directe crée un lien vrai même dans l'épreuve.",
+        "5": "L'abîme ne se remplit pas jusqu'au bord, il atteint seulement le niveau ; pas de faute. Ne pas viser l'excès ; atteindre juste ce qui est nécessaire suffit à passer.",
+        "6": "Lié de cordes, enfermé entre des murs épineux ; pendant trois ans on ne trouve pas la voie ; malheur. S'être enfermé si profondément dans le danger qu'on en perd longtemps l'issue."
+      }
+    },
+    {
+      "numero": 30,
+      "nom": "Ce qui s'attache, le Feu",
+      "nom_chinois": "Lí",
+      "trigramme_haut": "Feu",
+      "trigramme_bas": "Feu",
+      "image": "La clarté se lève deux fois : image du feu. Ainsi le grand homme perpétue cette clarté et illumine les quatre points cardinaux.",
+      "jugement_general": "Le feu, la lumière, la clarté qui a besoin d'un support pour briller — comme la flamme s'attache au bois. La réussite vient de la lucidité et de l'attachement à ce qui est juste. Mais la clarté demande de la souplesse et de la douceur pour ne pas se consumer.",
+      "themes": {
+        "amour": "Un attachement lumineux et chaleureux. La relation rayonne, mais comme la flamme, elle a besoin d'un support solide pour durer sans se consumer.",
+        "finance": "La clarté de vision et le discernement éclairent vos décisions. Attachez votre énergie à ce qui est solide et juste pour qu'elle porte.",
+        "sante": "La vitalité rayonne. Prenez soin d'entretenir la source de cette énergie, car la flamme la plus vive a besoin d'être nourrie pour durer.",
+        "spirituel": "La lumière de la conscience s'attache à ce qui l'élève. Cultiver la clarté intérieure, avec douceur, illumine le chemin.",
+        "famille": "Une chaleur lumineuse rayonne dans la famille. Entretenez ce qui nourrit cette flamme — les liens, les rituels — pour qu'elle brille durablement."
+      },
+      "traits": {
+        "1": "Les traces s'entrecroisent ; si l'on est sérieux et respectueux, pas de faute. Aborder chaque jour avec sérieux et respect dès le matin évite l'erreur.",
+        "2": "Lumière jaune ; suprême bonne fortune. La clarté équilibrée, la voie du milieu, apporte le plus grand bonheur.",
+        "3": "À la lumière du soleil couchant, les hommes ou bien tapent sur leur pot en chantant, ou bien se lamentent sur la vieillesse ; malheur. Face au déclin inévitable, choisir la sérénité plutôt que la lamentation.",
+        "4": "Son arrivée est soudaine ; il brûle, meurt, est rejeté. Une ardeur trop brutale et sans support se consume et disparaît vite.",
+        "5": "Des larmes en flots, des soupirs de tristesse ; bonne fortune. Une émotion sincère et profonde qui, en s'exprimant, ouvre finalement au bonheur.",
+        "6": "Le roi s'en sert pour marcher au combat ; il est bon de tuer les chefs et capturer les suivants ; pas de faute. User de sa clarté pour trancher le mal à la racine tout en épargnant ce qui peut l'être."
+      }
+    },
+    {
+      "numero": 31,
+      "nom": "L'Influence",
+      "nom_chinois": "Xián",
+      "trigramme_haut": "Lac",
+      "trigramme_bas": "Montagne",
+      "image": "Le lac au sommet de la montagne : image de l'influence. Ainsi l'être de bien accueille les autres par sa réceptivité intérieure.",
+      "jugement_general": "L'attraction mutuelle, l'influence réciproque qui unit — comme l'attirance entre le jeune homme et la jeune fille. La réussite vient de cette rencontre sincère où chacun reste ouvert à l'autre. Un temps favorable aux unions et aux échanges du cœur.",
+      "themes": {
+        "amour": "L'attirance mutuelle et sincère au cœur de cet hexagramme. Un temps très favorable aux rencontres et aux unions ; laissez votre cœur s'ouvrir.",
+        "finance": "Une influence réciproque favorable, un partenariat attirant. Les échanges fondés sur une attraction sincère et mutuelle sont porteurs.",
+        "sante": "L'harmonie entre le corps et l'esprit, leur influence mutuelle. Écouter les sensations subtiles du corps favorise un mieux-être global.",
+        "spirituel": "L'ouverture réceptive du cœur permet à l'influence subtile du sacré de vous toucher. Rester poreux à ce qui vous appelle.",
+        "famille": "Une belle circulation d'affection et d'influence mutuelle dans la famille. Les cœurs se touchent ; cultivez cette ouverture réciproque."
+      },
+      "traits": {
+        "1": "L'influence se manifeste dans le gros orteil. Un début d'attirance encore léger, sans conséquence tant qu'elle reste superficielle.",
+        "2": "L'influence se manifeste dans les mollets ; malheur ; rester tranquille porte chance. Vouloir avancer trop vite sous l'impulsion ; mieux vaut attendre.",
+        "3": "L'influence se manifeste dans les cuisses, s'accroche à ce qui suit ; continuer ainsi est humiliant. Se laisser mener passivement par ses impulsions ou par autrui appauvrit.",
+        "4": "Persévérance porte chance, le repentir disparaît ; si tu es agité dans tes allées et venues, seuls tes amis suivront tes pensées. Influencer par la sincérité constante du cœur, non par l'agitation calculatrice.",
+        "5": "L'influence se manifeste dans la nuque ; pas de repentir. Une fermeté sincère mais un peu rigide ; sans grand élan mais sans regret.",
+        "6": "L'influence se manifeste dans la mâchoire, les joues et la langue. L'influence par les seules paroles, superficielle, sans engagement réel du cœur."
+      }
+    },
+    {
+      "numero": 32,
+      "nom": "La Durée",
+      "nom_chinois": "Héng",
+      "trigramme_haut": "Tonnerre",
+      "trigramme_bas": "Vent",
+      "image": "Tonnerre et vent : image de la durée. Ainsi l'être de bien demeure ferme et ne change pas de direction.",
+      "jugement_general": "La durée, la constance dans le temps, la persévérance de ce qui dure. La réussite vient de la fidélité à une direction juste, maintenue dans le temps. Non pas l'immobilité, mais un mouvement constant et durable, comme celui des astres.",
+      "themes": {
+        "amour": "La durée et la constance d'un amour installé. La fidélité dans le temps, le renouvellement au sein de la stabilité, font la force de la relation.",
+        "finance": "La persévérance constante dans une direction juste porte ses fruits sur la durée. La régularité vaut mieux que les coups d'éclat.",
+        "sante": "La constance dans les bonnes habitudes construit une santé durable. Ce sont les gestes réguliers, maintenus dans le temps, qui comptent.",
+        "spirituel": "La persévérance dans la pratique, la fidélité à sa voie sur la durée, est la clé de l'approfondissement spirituel. Tenir le cap.",
+        "famille": "La stabilité et la constance des liens familiaux dans le temps. La fidélité durable, sans cesse renouvelée, est le socle du foyer."
+      },
+      "traits": {
+        "1": "Chercher la durée trop vite ; persévérance, malheur ; rien n'est favorable. Vouloir tout de suite une stabilité profonde, sans la construire, échoue.",
+        "2": "Le repentir disparaît. Se tenir dans la juste mesure permet à la constance de s'établir sans regret.",
+        "3": "Celui qui ne donne pas de durée à son caractère rencontre la honte ; persévérance, humiliation. L'inconstance de caractère, l'humeur changeante, mène à l'humiliation.",
+        "4": "Pas de gibier dans le champ. Persévérer là où il n'y a rien à trouver est vain ; la constance doit porter sur ce qui convient.",
+        "5": "Donner de la durée à son caractère par la persévérance ; pour une femme bonne fortune, pour un homme malheur. La fidélité constante convient à qui doit suivre, mais celui qui doit décider ne peut se figer.",
+        "6": "L'agitation comme état durable ; malheur. Faire de l'instabilité une manière d'être permanente conduit au malheur."
+      }
+    },
+    {
+      "numero": 33,
+      "nom": "La Retraite",
+      "nom_chinois": "Dùn",
+      "trigramme_haut": "Ciel",
+      "trigramme_bas": "Montagne",
+      "image": "Sous le ciel, la montagne : image de la retraite. Ainsi l'être de bien tient à distance l'homme vulgaire, non par la colère, mais par la réserve.",
+      "jugement_general": "Le temps de se retirer, de battre en retraite avec dignité face à des forces défavorables qui montent. Ce n'est pas une fuite, mais un repli stratégique et digne. Savoir reculer au bon moment, sans amertume, préserve ses forces pour plus tard.",
+      "themes": {
+        "amour": "Un temps où il vaut mieux prendre de la distance, se retirer dignement d'une situation qui n'est pas favorable, plutôt que de forcer.",
+        "finance": "Un repli stratégique s'impose face à des conditions défavorables. Se retirer à temps, sans amertume, préserve vos ressources pour l'avenir.",
+        "sante": "Le corps demande retrait et repos. Se retirer de l'agitation, se ménager un espace de récupération, est ici la sagesse.",
+        "spirituel": "La retraite intérieure, le retrait du monde agité pour se ressourcer, est parfois nécessaire. Reculer pour mieux se retrouver.",
+        "famille": "Prendre de la distance avec dignité face à une situation familiale tendue. Le repli respectueux vaut mieux qu'une confrontation stérile."
+      },
+      "traits": {
+        "1": "À la queue lors de la retraite ; c'est dangereux ; ne rien entreprendre. Tarder à se retirer place dans une position risquée ; rester immobile alors.",
+        "2": "Il s'accroche avec du cuir de bœuf jaune ; nul ne peut le détacher. Une résolution ferme et sincère qui maintient le lien juste même dans le retrait.",
+        "3": "Retraite entravée par des liens ; c'est pénible et dangereux ; garder des serviteurs porte chance. Un retrait compliqué par les attaches ; s'entourer de soutien fiable aide.",
+        "4": "Retraite volontaire ; bonne fortune pour l'être de bien, chute pour le petit homme. Savoir se retirer par choix, sans s'accrocher, distingue le sage.",
+        "5": "Retraite amicale ; persévérance porte chance. Se retirer au bon moment, avec sérénité et bienveillance, apporte le bonheur.",
+        "6": "Retraite joyeuse ; tout est favorable. Un retrait accompli avec légèreté et sans regret, ouvrant à la liberté."
+      }
+    },
+    {
+      "numero": 34,
+      "nom": "La Puissance du Grand",
+      "nom_chinois": "Dà Zhuàng",
+      "trigramme_haut": "Tonnerre",
+      "trigramme_bas": "Ciel",
+      "image": "Le tonnerre est en haut du ciel : image de la puissance du grand. Ainsi l'être de bien ne marche pas dans les voies qui ne sont pas conformes à l'ordre.",
+      "jugement_general": "Une grande puissance, une force vigoureuse à son apogée. Mais la vraie force n'est pas dans la démonstration brutale : elle réside dans la retenue et l'accord avec ce qui est juste. La puissance mal employée se retourne contre soi.",
+      "themes": {
+        "amour": "Une énergie forte anime la relation. Veillez à ce que cette puissance s'exprime avec respect et retenue, sans jamais devenir domination.",
+        "finance": "Une position de force et de vigueur. Utilisez cette puissance avec mesure et droiture ; la brutalité ou l'excès la retourneraient contre vous.",
+        "sante": "Une grande vitalité, mais qui demande à être canalisée. Évitez la surexploitation de vos forces ; la puissance bien maîtrisée dure.",
+        "spirituel": "La vraie force intérieure ne s'impose pas, elle se maîtrise. La puissance au service du juste, avec retenue, est la marque du sage.",
+        "famille": "Une position d'autorité forte dans la famille. Exercez-la avec justice et retenue plutôt que par la force, pour qu'elle soit respectée."
+      },
+      "traits": {
+        "1": "Puissance dans les orteils ; continuer ainsi apporte le malheur, sûrement. Vouloir avancer par la seule force, dès le bas, mène à l'échec.",
+        "2": "Persévérance porte chance. La force jointe à la mesure et à la constance apporte le succès.",
+        "3": "Le petit homme use de puissance, l'être de bien n'agit pas ainsi ; persévérer est dangereux ; le bouc se prend les cornes dans la haie. Foncer aveuglément comme le bélier, c'est se retrouver coincé ; le sage s'en abstient.",
+        "4": "Persévérance porte chance, le repentir disparaît ; la haie s'ouvre, plus d'empêtrement ; puissance dans le grand essieu du char. Quand la force s'applique au bon endroit, les obstacles cèdent d'eux-mêmes.",
+        "5": "Perdre le bouc avec aisance ; pas de repentir. Renoncer à la fougue butée devient facile et libère sans regret.",
+        "6": "Le bouc butant contre la haie ne peut ni reculer ni avancer ; rien n'est favorable ; mais dans la difficulté surmontée, la fortune arrive. Coincé par son propre entêtement ; reconnaître l'impasse et changer débloque enfin."
+      }
+    },
+    {
+      "numero": 35,
+      "nom": "Le Progrès",
+      "nom_chinois": "Jìn",
+      "trigramme_haut": "Feu",
+      "trigramme_bas": "Terre",
+      "image": "Le soleil s'élève au-dessus de la terre : image du progrès. Ainsi l'être de bien fait lui-même briller sa vertu lumineuse.",
+      "jugement_general": "Le progrès facile et rapide, comme le soleil qui monte et illumine toujours plus. Un temps d'avancement, de reconnaissance et d'épanouissement. Les efforts sont récompensés, l'ascension est favorable et bien accueillie.",
+      "themes": {
+        "amour": "Une relation qui progresse et s'épanouit au grand jour. Un temps favorable où les sentiments avancent avec clarté et reconnaissance mutuelle.",
+        "finance": "Une période d'avancement et de reconnaissance. Vos efforts portent leurs fruits ; c'est un temps propice à la progression et à la réussite.",
+        "sante": "Un progrès net et encourageant vers le mieux-être. L'énergie remonte comme le soleil ; profitez de cet élan ascendant.",
+        "spirituel": "Une progression lumineuse sur le chemin. La clarté grandit, la compréhension s'élève ; laissez rayonner votre vertu intérieure.",
+        "famille": "Un temps d'épanouissement et de reconnaissance dans la famille. Les relations progressent harmonieusement, au grand jour."
+      },
+      "traits": {
+        "1": "Progressant, mais repoussé ; persévérance porte chance ; si l'on ne rencontre pas la confiance, rester serein, pas de faute. Avancer sereinement même sans reconnaissance immédiate.",
+        "2": "Progressant, mais dans le chagrin ; persévérance porte chance ; on reçoit une grande bénédiction de son aïeule. Après une période de peine, une aide bienveillante et inattendue survient.",
+        "3": "Tous sont d'accord ; le repentir disparaît. Avancer avec le soutien et l'assentiment des autres dissipe les regrets.",
+        "4": "Progrès comme un hamster ; persévérance, danger. Progresser par avidité et accumulation cachée est périlleux.",
+        "5": "Le repentir disparaît ; ne pas se soucier de perte ou de gain ; entreprendre porte chance, tout est favorable. Avancer sans s'attacher au résultat ouvre à la pleine réussite.",
+        "6": "Progresser avec les cornes ; seulement bon pour châtier sa propre cité ; conscience du danger porte chance, pas de faute, mais persévérance humiliante. Une avancée agressive, tolérable seulement pour se corriger soi-même, jamais contre autrui."
+      }
+    },
+    {
+      "numero": 36,
+      "nom": "L'Obscurcissement de la Lumière",
+      "nom_chinois": "Míng Yí",
+      "trigramme_haut": "Terre",
+      "trigramme_bas": "Feu",
+      "image": "La lumière s'est enfoncée dans la terre : image de l'obscurcissement de la lumière. Ainsi l'être de bien vit avec la grande foule ; il voile son éclat tout en gardant sa clarté.",
+      "jugement_general": "Un temps où la lumière est cachée, où la valeur et l'intégrité doivent se dissimuler face à l'adversité. Il est sage de voiler sa clarté intérieure, de rester discret et de préserver sa lumière plutôt que de l'exposer à ce qui pourrait l'éteindre.",
+      "themes": {
+        "amour": "Une période où il faut protéger ses sentiments, rester discret face à un environnement peu propice. Préserver sa flamme sans l'exposer.",
+        "finance": "Un temps défavorable où mieux vaut rester discret sur ses ressources et projets. Protéger sa valeur plutôt que de l'exposer aux nuisances.",
+        "sante": "Une phase où il faut se préserver, se protéger, sans se laisser atteindre par un environnement pesant. Garder sa lumière intérieure au chaud.",
+        "spirituel": "Préserver sa lumière intérieure dans un contexte hostile, sans la renier ni l'exposer. La discrétion protège ce qui est précieux.",
+        "famille": "Un climat familial difficile où il faut protéger sa clarté et sa paix intérieure, rester discret plutôt que de se heurter de front."
+      },
+      "traits": {
+        "1": "L'obscurcissement en plein vol, il baisse les ailes ; trois jours sans manger ; qui va quelque part entend son hôte médire. Se retirer dignement face à l'adversité, quitte à souffrir, sans se justifier.",
+        "2": "L'obscurcissement le blesse à la cuisse gauche ; il porte secours avec la force d'un cheval ; bonne fortune. Blessé mais capable d'aider les autres, on transforme l'épreuve en secours.",
+        "3": "L'obscurcissement pendant la chasse au sud ; on prend le grand chef ; ne pas attendre trop vite la persévérance. Frapper la source du mal, mais sans vouloir tout redresser d'un coup.",
+        "4": "Il pénètre le côté gauche du ventre, saisit le cœur de l'obscurcissement, et quitte la porte et la cour. Comprendre de l'intérieur une situation nuisible, puis s'en éloigner à temps.",
+        "5": "L'obscurcissement comme chez le prince Ji ; persévérance profitable. Cacher sa sagesse sous une apparence discrète pour survivre à l'adversité, tout en gardant son intégrité.",
+        "6": "Non lumière, mais obscurité ; d'abord il monte au ciel, puis il s'enfonce dans la terre. Celui qui répand les ténèbres finit par tomber de sa propre hauteur."
+      }
+    },
+    {
+      "numero": 37,
+      "nom": "La Famille",
+      "nom_chinois": "Jiā Rén",
+      "trigramme_haut": "Vent",
+      "trigramme_bas": "Feu",
+      "image": "Le vent sort du feu : image de la famille. Ainsi l'être de bien a une substance dans ses paroles et de la durée dans sa conduite.",
+      "jugement_general": "L'ordre juste au sein de la famille, où chacun tient sa place avec amour et responsabilité. La réussite vient quand les rôles sont clairs et les liens sincères. Ce qui vaut pour la famille vaut pour tout groupe humain : l'harmonie naît de la justesse de chacun.",
+      "themes": {
+        "amour": "L'harmonie fondée sur des rôles clairs et un respect mutuel. Une relation où chacun tient sa juste place avec amour trouve un équilibre durable.",
+        "finance": "La bonne gestion, comme celle d'un foyer bien tenu, apporte stabilité et prospérité. L'ordre et la clarté des responsabilités sont les clés.",
+        "sante": "Le bien-être naît d'un cadre de vie ordonné et harmonieux. Prendre soin de son environnement proche soutient la santé.",
+        "spirituel": "L'harmonie intérieure reflète l'ordre juste, où chaque part de soi tient sa place. Cultiver cette cohérence intérieure nourrit l'âme.",
+        "famille": "Le cœur même de cet hexagramme : l'harmonie familiale fondée sur des rôles clairs, l'amour et la responsabilité de chacun. Un temps favorable au foyer."
+      },
+      "traits": {
+        "1": "Fermeté et retenue au sein de la famille ; le repentir disparaît. Poser des limites claires dès le départ prévient les problèmes.",
+        "2": "Elle ne doit pas suivre ses caprices, mais s'occuper de la nourriture ; persévérance porte chance. Accomplir humblement son rôle nourricier, sans chercher à s'imposer.",
+        "3": "Quand on s'emporte avec sévérité, il y a du repentir, mais bonne fortune ; si femme et enfant plaisantent trop, à la fin l'humiliation. Une fermeté trop dure vaut mieux qu'un laxisme sans limites.",
+        "4": "Elle est le trésor de la maison ; grande bonne fortune. Celui ou celle qui enrichit véritablement le foyer attire le bonheur.",
+        "5": "Comme un roi il s'approche de sa famille ; pas de crainte, bonne fortune. Régner sur son foyer par l'amour et la confiance plutôt que par la crainte.",
+        "6": "Son œuvre inspire le respect ; à la fin bonne fortune. La sincérité et la constance dans la tenue du foyer inspirent naturellement le respect."
+      }
+    },
+    {
+      "numero": 38,
+      "nom": "L'Opposition",
+      "nom_chinois": "Kuí",
+      "trigramme_haut": "Feu",
+      "trigramme_bas": "Lac",
+      "image": "En haut le feu, en bas le lac : image de l'opposition. Ainsi l'être de bien, dans l'accord général, garde son individualité.",
+      "jugement_general": "Un temps de division, de malentendu et de désaccord, où les êtres se tournent le dos. Dans les petites choses, on peut encore réussir. La sagesse est de ne pas forcer l'union, mais de reconnaître que même dans l'opposition subsiste une complémentarité cachée.",
+      "themes": {
+        "amour": "Un temps de malentendus et de désaccords dans la relation. Ne forcez pas ; cherchez les petits terrains d'entente, car l'opposition cache souvent une complémentarité.",
+        "finance": "Des divergences ou des blocages dans les affaires. Avancez sur les petites choses réalisables, sans chercher à tout résoudre d'un coup.",
+        "sante": "Un déséquilibre, une tension entre des forces contraires en vous. Chercher les petits ajustements plutôt que le grand bouleversement.",
+        "spirituel": "Les contradictions intérieures font aussi partie du chemin. Accueillir ses oppositions, y voir une complémentarité cachée, apaise.",
+        "famille": "Des tensions et des incompréhensions familiales. Ne cherchez pas à forcer la réconciliation ; les petits gestes d'ouverture rapprochent peu à peu."
+      },
+      "traits": {
+        "1": "Le repentir disparaît ; si tu perds ton cheval, ne cours pas après, il reviendra de lui-même ; si tu vois des gens méchants, garde-toi de la faute. Ne pas forcer le retour de ce qui s'éloigne ; il revient naturellement.",
+        "2": "On rencontre son maître dans une ruelle ; pas de faute. Une rencontre fortuite qui rétablit un lien perdu, malgré les circonstances.",
+        "3": "On voit le char traîné en arrière, le bœuf arrêté, l'homme les cheveux et le nez coupés ; pas de bon début, mais bonne fin. Des débuts très difficiles et humiliants qui, malgré tout, finissent bien.",
+        "4": "Isolé par l'opposition, on rencontre un homme de même esprit ; on échange dans la confiance ; danger, pas de faute. Dans l'isolement, trouver une âme sœur qui restaure la confiance.",
+        "5": "Le repentir disparaît ; le compagnon mord à travers l'enveloppe ; en allant vers lui, quelle faute ? Retrouver un allié sincère lève le malentendu ; avancer vers lui est juste.",
+        "6": "Isolé par l'opposition, on voit son compagnon comme un porc couvert de boue, un char plein de démons ; d'abord on tend l'arc, puis on le dépose ; ce n'est pas un brigand, il vient s'unir ; en avançant, la pluie tombe et la fortune vient. Dépasser la méfiance illusoire pour reconnaître l'ami ; le malentendu se dissipe et l'union se fait."
+      }
+    },
+    {
+      "numero": 39,
+      "nom": "L'Obstacle",
+      "nom_chinois": "Jiǎn",
+      "trigramme_haut": "Eau",
+      "trigramme_bas": "Montagne",
+      "image": "Sur la montagne, l'eau : image de l'obstacle. Ainsi l'être de bien se retourne vers sa propre personne et forme son caractère.",
+      "jugement_general": "Un obstacle, une difficulté qui barre le chemin, comme l'eau devant la montagne. Face à l'obstacle, il ne sert à rien de foncer : mieux vaut faire une pause, chercher conseil, revenir sur soi. La difficulté est aussi une occasion de croissance intérieure.",
+      "themes": {
+        "amour": "Un obstacle sur le chemin de la relation. Plutôt que de forcer le passage, prenez du recul, réfléchissez, et cherchez éventuellement un soutien.",
+        "finance": "Une difficulté qui bloque l'avancée. Ne vous acharnez pas ; faites une pause, réévaluez, et cherchez de l'aide ou une autre voie.",
+        "sante": "Un obstacle sur le chemin de la guérison. Ne forcez pas ; ce temps d'arrêt invite à revenir sur soi et à ajuster votre approche.",
+        "spirituel": "L'obstacle est une invitation à revenir vers soi, à se transformer intérieurement. La difficulté extérieure devient occasion de croissance.",
+        "famille": "Une difficulté familiale qui semble insurmontable de front. Faire une pause, chercher conseil, revenir sur sa propre attitude ouvre des voies."
+      },
+      "traits": {
+        "1": "Aller mène à l'obstacle, venir mène à la louange. Face à la difficulté, savoir revenir sur ses pas plutôt qu'avancer.",
+        "2": "Le serviteur du roi rencontre obstacle sur obstacle, mais ce n'est pas de sa faute. Affronter les difficultés par devoir, sans qu'on puisse vous en blâmer.",
+        "3": "Aller mène à l'obstacle, donc il revient. Reconnaître qu'avancer est impossible et revenir vers ce qui est sûr.",
+        "4": "Aller mène à l'obstacle, venir mène à l'union. Ne pas affronter seul la difficulté, mais revenir chercher des alliés.",
+        "5": "Au milieu du plus grand obstacle, les amis arrivent. Au cœur de la plus grande épreuve, un soutien décisif se manifeste.",
+        "6": "Aller mène à l'obstacle, venir mène à la grandeur ; bonne fortune ; il est profitable de voir le grand homme. Revenir mettre son expérience de l'épreuve au service des autres apporte la vraie grandeur."
+      }
+    },
+    {
+      "numero": 40,
+      "nom": "La Délivrance",
+      "nom_chinois": "Xiè",
+      "trigramme_haut": "Tonnerre",
+      "trigramme_bas": "Eau",
+      "image": "Tonnerre et pluie se lèvent : image de la délivrance. Ainsi l'être de bien pardonne les fautes et absout les péchés.",
+      "jugement_general": "La tension se dénoue, l'orage éclate et libère : temps de délivrance après la difficulté. Ce qui était bloqué se débloque enfin. Il convient alors de revenir vite à l'ordinaire, de pardonner, et de régler sans tarder ce qui doit l'être.",
+      "themes": {
+        "amour": "Un dénouement, une libération après une période de tension. Le pardon et le retour à la simplicité rétablissent l'harmonie ; ne ressassez pas le passé.",
+        "finance": "Un blocage qui se dénoue enfin. Profitez de cette libération pour régler ce qui traînait et revenir à une gestion sereine et normale.",
+        "sante": "Un soulagement, une délivrance après une épreuve. Profitez de ce mieux pour retrouver un rythme paisible, sans replonger dans la tension.",
+        "spirituel": "Une libération intérieure, le dénouement d'un nœud ancien. Le pardon — envers soi et les autres — est la clé de cette délivrance.",
+        "famille": "Un apaisement après une période de conflit. Le pardon et le retour à la vie simple referment les blessures ; tournez la page sans ressasser."
+      },
+      "traits": {
+        "1": "Sans faute. Après la délivrance, le repos ; nul besoin d'agir, le calme suffit.",
+        "2": "On tue trois renards dans les champs et reçoit une flèche jaune ; persévérance porte chance. Écarter les influences trompeuses avec droiture rétablit l'équilibre.",
+        "3": "Celui qui porte un fardeau sur le dos et voyage pourtant en char attire les brigands ; persévérance, humiliation. Afficher ce qu'on a obtenu, hors de sa juste place, attire les ennuis.",
+        "4": "Délivre-toi de ton gros orteil ; alors vient l'ami en qui tu peux avoir confiance. Se libérer de mauvaises attaches ouvre à des relations sincères.",
+        "5": "L'être de bien seul peut se délivrer ; bonne fortune ; il prouve aux petits hommes son sérieux. Se libérer intérieurement d'abord, ce qui éloigne naturellement les influences néfastes.",
+        "6": "Le prince tire sur un faucon au sommet d'un haut rempart ; il l'atteint ; tout est favorable. Éliminer d'un geste décisif et bien préparé l'obstacle majeur qui restait."
+      }
+    },
+    {
+      "numero": 41,
+      "nom": "La Diminution",
+      "nom_chinois": "Sǔn",
+      "trigramme_haut": "Montagne",
+      "trigramme_bas": "Lac",
+      "image": "Au pied de la montagne, le lac : image de la diminution. Ainsi l'être de bien dompte sa colère et refrène ses instincts.",
+      "jugement_general": "Diminuer, réduire, simplifier : parfois enlever vaut mieux qu'ajouter. Ce qui semble une perte peut être une purification bénéfique. La sincérité simple vaut plus que les offrandes riches. Un temps pour se contenter de peu et maîtriser ses excès.",
+      "themes": {
+        "amour": "Un temps de simplification, où alléger la relation de ce qui pèse la renforce. La sincérité simple vaut mieux que les grandes démonstrations.",
+        "finance": "Une période de restriction ou de réduction. Accepter de diminuer, de simplifier, peut être une purification qui prépare une meilleure santé financière.",
+        "sante": "Réduire, alléger, se contenter de moins — dans l'alimentation, les excès — peut être profondément bénéfique. Moins, mais mieux.",
+        "spirituel": "Le dépouillement volontaire, se défaire du superflu, élève l'âme. Maîtriser ses excès et ses passions est une voie de purification.",
+        "famille": "Simplifier, alléger les attentes et les tensions au sein de la famille. Parfois, en demander moins et donner plus sincèrement renforce les liens."
+      },
+      "traits": {
+        "1": "Aller vite quand l'affaire est finie n'est pas une faute ; mais réfléchis à combien tu peux diminuer les autres. Aider les autres promptement, mais sans les priver de leur nécessaire.",
+        "2": "Il est profitable de persévérer ; entreprendre apporte le malheur ; on peut augmenter les autres sans se diminuer soi-même. Garder sa propre intégrité tout en aidant ; ne pas se sacrifier à l'excès.",
+        "3": "Quand trois personnes voyagent ensemble, leur nombre diminue d'une ; un homme seul en voyage trouve un compagnon. L'équilibre juste se trouve à deux ; le surplus se réduit naturellement.",
+        "4": "Si l'on diminue ses défauts, l'autre se hâte d'apporter sa joie ; pas de faute. Réduire ses propres travers attire vite l'aide et la joie des autres.",
+        "5": "Quelqu'un l'enrichit, dix paires de tortues ne peuvent s'y opposer ; suprême bonne fortune. Une bénédiction si évidente qu'aucun doute ne peut la contester.",
+        "6": "S'il est augmenté sans être diminué, pas de faute ; persévérance porte chance ; il est profitable d'entreprendre ; on obtient des serviteurs, mais on n'a plus de maison séparée. Enrichir les autres sans s'appauvrir soi-même : l'abondance vraie profite à tous."
+      }
+    },
+    {
+      "numero": 42,
+      "nom": "L'Augmentation",
+      "nom_chinois": "Yì",
+      "trigramme_haut": "Vent",
+      "trigramme_bas": "Tonnerre",
+      "image": "Vent et tonnerre : image de l'augmentation. Ainsi l'être de bien, s'il voit le bien, l'imite ; s'il a des défauts, il s'en corrige.",
+      "jugement_general": "L'augmentation, l'accroissement, le temps où l'on donne d'en haut vers le bas et où tout prospère. Un moment favorable aux grandes entreprises et aux actions généreuses. Ce qui est donné avec générosité revient multiplié. Il est profitable d'entreprendre.",
+      "themes": {
+        "amour": "Un temps de croissance et d'enrichissement mutuel dans la relation. La générosité et le don de soi font grandir l'amour ; c'est un moment favorable.",
+        "finance": "Une période de croissance et d'opportunités favorables. C'est le bon moment pour entreprendre et investir avec générosité et vision.",
+        "sante": "Un accroissement de vitalité et d'énergie. Profitez de cet élan pour renforcer votre bien-être et cultiver de bonnes habitudes.",
+        "spirituel": "Un temps d'accroissement intérieur, d'enrichissement de l'âme. Donner généreusement, s'améliorer en imitant le bien, fait croître la lumière.",
+        "famille": "Une période d'enrichissement des liens familiaux. La générosité, le don réciproque et l'entraide font prospérer l'harmonie du foyer."
+      },
+      "traits": {
+        "1": "Il est profitable d'accomplir de grandes œuvres ; suprême bonne fortune, pas de faute. L'élan favorable permet d'entreprendre de grandes choses avec succès.",
+        "2": "Quelqu'un l'enrichit, dix paires de tortues ne peuvent s'y opposer ; persévérance constante porte chance ; le roi le présente à Dieu ; bonne fortune. Une bénédiction indéniable qui, reçue avec constance et humilité, s'élève au sacré.",
+        "3": "On est enrichi par des événements malheureux ; pas de faute si l'on est sincère et marche dans la voie du milieu. Même l'épreuve peut enrichir celui qui reste sincère et juste.",
+        "4": "Si tu marches dans la voie du milieu et informes le prince, il te suivra ; il est profitable d'être utilisé pour déplacer la capitale. Servir de médiateur juste et digne de confiance pour de grandes décisions.",
+        "5": "La bonté sincère du cœur ; ne pas questionner, suprême bonne fortune ; la bonté reconnaîtra ta bonté. La bienveillance vraie, sans calcul, est reconnue et récompensée.",
+        "6": "Il n'enrichit personne, quelqu'un le frappe même ; il ne donne pas de constance à son cœur ; malheur. L'égoïsme et l'inconstance du cœur qui ne donne rien attirent l'infortune."
+      }
+    },
+    {
+      "numero": 43,
+      "nom": "La Percée",
+      "nom_chinois": "Guài",
+      "trigramme_haut": "Lac",
+      "trigramme_bas": "Ciel",
+      "image": "Le lac est monté jusqu'au ciel : image de la percée. Ainsi l'être de bien répand ses richesses vers le bas et se garde de reposer sur sa vertu.",
+      "jugement_general": "Une percée décisive, le moment de trancher et de dénoncer résolument ce qui doit l'être. Mais la résolution doit s'appuyer sur la sincérité et non sur la force brutale. Il faut annoncer clairement sa position, sans recourir aux armes, avec une détermination fondée sur le juste.",
+      "themes": {
+        "amour": "Le moment de clarifier, de dire les choses ouvertement, de trancher une situation ambiguë. La franchise sincère, non la brutalité, débloque.",
+        "finance": "Le moment de prendre une décision ferme, de trancher résolument. Agissez avec détermination, mais sur des bases justes et transparentes.",
+        "sante": "Le moment de rompre résolument avec une mauvaise habitude ou d'affronter franchement un problème. La décision ferme et claire libère.",
+        "spirituel": "Trancher avec détermination ce qui doit l'être en soi. La percée intérieure demande courage et sincérité, non violence contre soi.",
+        "famille": "Le moment de clarifier ouvertement une situation familiale, de dire les choses avec franchise. La transparence sincère résout ce qui pourrit dans le non-dit."
+      },
+      "traits": {
+        "1": "Puissant dans les orteils qui avancent ; aller sans être à la hauteur devient une faute. Se lancer avec force sans être prêt mène à l'échec.",
+        "2": "Cri d'alarme ; armes le soir et la nuit ; ne rien craindre. La vigilance prudente écarte le danger sans qu'il soit besoin de s'affoler.",
+        "3": "Puissant dans les pommettes ; malheur ; l'être de bien est résolu, marche seul, est surpris par la pluie, souillé, on murmure, mais pas de faute. Garder sa résolution intérieure malgré les apparences et les critiques.",
+        "4": "Pas de peau sur les cuisses, on marche avec peine ; si l'on se laissait mener comme un mouton, le repentir disparaîtrait ; mais on n'écoute pas ces paroles. L'entêtement à avancer seul quand il faudrait se laisser guider.",
+        "5": "Contre les mauvaises herbes, la résolution ferme est nécessaire ; marcher au milieu, pas de faute. Éliminer résolument ce qui nuit, en restant dans la juste mesure.",
+        "6": "Pas de cri ; à la fin vient le malheur. Croire le mal éliminé et relâcher sa vigilance trop tôt laisse revenir le danger."
+      }
+    },
+    {
+      "numero": 44,
+      "nom": "La Venue à la Rencontre",
+      "nom_chinois": "Gòu",
+      "trigramme_haut": "Ciel",
+      "trigramme_bas": "Vent",
+      "image": "Sous le ciel, le vent : image de la venue à la rencontre. Ainsi le prince répand ses ordres et les fait connaître aux quatre points cardinaux.",
+      "jugement_general": "Une rencontre imprévue, une influence qui s'insinue discrètement. Un élément apparemment faible s'introduit et pourrait, si on n'y prend garde, prendre de l'ampleur. Prudence face à ce qui séduit ou s'insinue : tout ce qui vient à la rencontre n'est pas bon à accueillir.",
+      "themes": {
+        "amour": "Une rencontre inattendue, une tentation ou une influence qui s'insinue. Restez lucide : tout ce qui séduit n'est pas forcément bon pour vous.",
+        "finance": "Une opportunité ou une influence qui se présente discrètement. Examinez-la avec prudence ; ce qui paraît anodin peut cacher un piège.",
+        "sante": "Une petite influence néfaste qui pourrait s'installer si l'on n'y prête pas attention. Rester vigilant aux mauvaises habitudes naissantes.",
+        "spirituel": "Une tentation subtile ou une influence qui cherche à s'insinuer. Le discernement vigilant protège l'intégrité intérieure.",
+        "famille": "Une influence extérieure qui s'introduit dans la famille. Accueillez avec prudence et discernement, sans laisser s'installer ce qui pourrait diviser."
+      },
+      "traits": {
+        "1": "Il faut le freiner avec un frein de bronze ; persévérance porte chance ; laisser aller mène au malheur. Arrêter fermement dès le début une influence néfaste naissante.",
+        "2": "Un poisson dans le sac ; pas de faute ; mais pas favorable pour les hôtes. Contenir discrètement une influence sans la laisser se propager aux autres.",
+        "3": "Pas de peau sur les cuisses, on marche avec peine ; conscience du danger, pas de grande faute. Hésiter, entravé, mais la prudence évite le pire.",
+        "4": "Pas de poisson dans le sac ; cela provoque le malheur. Négliger ou repousser ce qui devait être maintenu près de soi crée l'infortune.",
+        "5": "Un melon couvert de feuilles de saule ; qualités cachées ; alors il tombe du ciel. La vertu discrète et patiente finit par recevoir sa récompense d'en haut.",
+        "6": "Il vient à la rencontre avec les cornes ; humiliation, mais pas de faute. Une fierté hautaine qui isole ; humiliante, mais sans grande conséquence."
+      }
+    },
+    {
+      "numero": 45,
+      "nom": "Le Rassemblement",
+      "nom_chinois": "Cuì",
+      "trigramme_haut": "Lac",
+      "trigramme_bas": "Terre",
+      "image": "Le lac au-dessus de la terre : image du rassemblement. Ainsi l'être de bien renouvelle ses armes pour parer à l'imprévu.",
+      "jugement_general": "Le rassemblement, la réunion des êtres et des énergies autour d'un centre commun. Un temps favorable à l'union des forces, aux grandes assemblées, aux causes communes. Mais tout rassemblement demande un centre clair et sincère pour ne pas dégénérer en confusion.",
+      "themes": {
+        "amour": "Un temps de réunion et de rapprochement profond. Les cœurs se rassemblent autour d'un sentiment sincère ; un moment favorable à l'engagement.",
+        "finance": "Un moment propice à rassembler les ressources et les forces autour d'un projet commun. L'union fait la force, à condition d'un but clair.",
+        "sante": "Rassembler ses forces et son entourage autour de son bien-être. Ne pas rester isolé ; le soutien collectif renforce.",
+        "spirituel": "Se rassembler autour de ce qui a du sens, rejoindre une communauté de cœur. L'union spirituelle autour d'un centre sincère élève.",
+        "famille": "Un temps de réunion et de rassemblement familial, chaleureux et fédérateur. Ces retrouvailles autour de valeurs communes renforcent profondément les liens."
+      },
+      "traits": {
+        "1": "Sincérité qui ne dure pas ; parfois rassemblement, parfois confusion ; si tu appelles, une poignée de main suffit à retrouver le rire ; ne t'inquiète pas, avance sans faute. Une hésitation initiale que la sincérité et l'appel à l'aide dissipent.",
+        "2": "Se laisser attirer apporte la bonne fortune, pas de faute ; la sincérité rend profitable même une petite offrande. Se joindre au rassemblement de bon cœur, avec une sincérité même modeste.",
+        "3": "Rassemblement dans les soupirs ; rien n'est favorable ; aller ne fait pas de faute, petite humiliation. Se sentir exclu du groupe ; chercher ailleurs une union, avec un léger inconfort.",
+        "4": "Grande bonne fortune, pas de faute. Rassembler les autres au service d'un bien plus grand que soi, sans arrière-pensée.",
+        "5": "Rassemblement autour d'une position ; pas de faute ; mais ceux qui ne sont pas encore sincèrement acquis... constance durable fait disparaître le repentir. Rassembler par la position officielle, en gagnant peu à peu les cœurs par la constance.",
+        "6": "Lamentations et soupirs, flots de larmes ; pas de faute. Une détresse sincère qui, en s'exprimant, ouvre finalement la voie à l'union et n'est pas une faute."
+      }
+    },
+    {
+      "numero": 46,
+      "nom": "La Poussée vers le Haut",
+      "nom_chinois": "Shēng",
+      "trigramme_haut": "Terre",
+      "trigramme_bas": "Vent",
+      "image": "Au sein de la terre pousse le bois : image de la poussée vers le haut. Ainsi l'être de bien, avec une vertu attentive, accumule le petit pour aboutir au grand et au haut.",
+      "jugement_general": "Une ascension progressive et régulière, comme l'arbre qui croît lentement mais sûrement vers le haut. La réussite vient d'un effort constant, sans à-coups. C'est un temps favorable pour progresser vers ses buts, à condition d'avancer étape par étape, sans se précipiter.",
+      "themes": {
+        "amour": "Une relation qui grandit progressivement, s'élève doucement vers plus de profondeur. La patience et la constance dans les petits pas portent leurs fruits.",
+        "finance": "Une progression régulière et prometteuse. Avancez étape par étape vers vos objectifs ; l'effort constant et patient mène à l'élévation.",
+        "sante": "Une amélioration progressive et durable. Comme l'arbre qui croît, votre mieux-être se construit patiemment, geste après geste.",
+        "spirituel": "Une élévation intérieure progressive. L'accumulation patiente de petits efforts spirituels mène, avec le temps, à une grande hauteur d'âme.",
+        "famille": "Une croissance harmonieuse et régulière des liens familiaux. La constance dans les petites attentions élève peu à peu toute la famille."
+      },
+      "traits": {
+        "1": "Poussée vers le haut accueillie avec confiance ; grande bonne fortune. Un départ soutenu par la confiance des autres promet une belle ascension.",
+        "2": "Si l'on est sincère, même une petite offrande est acceptée ; pas de faute. La sincérité authentique compte plus que l'ampleur des moyens.",
+        "3": "On monte vers une ville vide. Une ascension sans résistance, presque trop facile ; avancer sans se poser de fausses questions.",
+        "4": "Le roi l'introduit à la montagne sacrée ; bonne fortune, pas de faute. Atteindre une position élevée en accord avec ce qui est sacré et juste.",
+        "5": "Persévérance porte chance ; on monte les marches. Progresser posément, marche après marche, sans brûler les étapes, apporte le succès.",
+        "6": "Poussée vers le haut dans l'obscurité ; il est profitable de persévérer sans relâche. Au sommet, ne plus pousser aveuglément ; c'est le moment de la constance vigilante, non de l'ambition brute."
+      }
+    },
+    {
+      "numero": 47,
+      "nom": "L'Accablement",
+      "nom_chinois": "Kùn",
+      "trigramme_haut": "Lac",
+      "trigramme_bas": "Eau",
+      "image": "Le lac sans eau : image de l'accablement. Ainsi l'être de bien engage sa vie pour suivre sa volonté.",
+      "jugement_general": "L'épuisement, l'accablement, un temps d'adversité où l'énergie et les ressources semblent taries. Mais c'est justement dans l'épreuve que se révèle la vraie force du caractère. Rester fidèle à soi et garder sa sérénité intérieure, même sans être entendu, est ici la voie du grand homme.",
+      "themes": {
+        "amour": "Une période éprouvante où la relation semble à sec, où l'on se sent incompris. Garder sa dignité et sa foi intérieure, sans se répandre en reproches.",
+        "finance": "Un temps de restriction et de manque. L'épreuve teste votre résilience ; restez fidèle à vos valeurs et patientez, car ce creux passera.",
+        "sante": "Une période d'épuisement où les forces manquent. Ménagez-vous, ne vous acharnez pas, et gardez confiance : cette phase difficile est passagère. (Sujet sensible : si vous traversez un moment personnellement difficile, n'hésitez pas à en parler à un proche ou un professionnel.)",
+        "spirituel": "L'épreuve de l'aridité intérieure, la traversée du désert. C'est dans ce dépouillement que la foi véritable se forge. Rester fidèle sans être vu.",
+        "famille": "Un temps d'épreuve où le soutien semble absent. Garder sa sérénité et sa dignité, sans reproches, préserve l'essentiel jusqu'au retournement."
+      },
+      "traits": {
+        "1": "On est assis accablé sous un arbre mort, on s'enfonce dans une vallée sombre ; pendant trois ans on ne voit rien. Se laisser sombrer dans le découragement prolonge l'obscurité.",
+        "2": "Accablé en mangeant et buvant ; les insignes royaux arrivent ; profitable d'offrir un sacrifice ; partir apporte le malheur, pas de faute. Même dans l'aisance apparente, un accablement intérieur ; la patience sincère finit par être reconnue.",
+        "3": "Accablé par la pierre, s'appuyant sur des épines ; il entre dans sa maison et ne voit pas sa femme ; malheur. S'obstiner sur des appuis qui blessent et négliger l'essentiel mène au malheur.",
+        "4": "Il vient très lentement, accablé dans un char doré ; humiliation, mais fin heureuse. Une aide qui tarde à cause d'entraves matérielles, mais qui finit par arriver.",
+        "5": "Le nez et les pieds coupés ; accablé par l'homme aux genouillères pourpres ; la joie vient lentement ; il est profitable d'offrir des sacrifices. Une épreuve sévère traversée avec foi finit par se dénouer peu à peu.",
+        "6": "Accablé par des lianes, sur un terrain instable ; si l'on se dit que le mouvement apporte le repentir et qu'on se repent, alors avancer porte chance. Reconnaître qu'on est prisonnier de ses propres hésitations, se décider enfin à bouger, libère."
+      }
+    },
+    {
+      "numero": 48,
+      "nom": "Le Puits",
+      "nom_chinois": "Jǐng",
+      "trigramme_haut": "Eau",
+      "trigramme_bas": "Vent",
+      "image": "L'eau au-dessus du bois : image du puits. Ainsi l'être de bien encourage le peuple au travail et l'exhorte à s'entraider.",
+      "jugement_general": "Le puits, source inépuisable qui nourrit tous ceux qui viennent y puiser. Les villes changent, mais le puits demeure : image de ce qui est essentiel et permanent. La vraie nourriture, spirituelle et matérielle, est toujours disponible ; encore faut-il aller la puiser et entretenir la source.",
+      "themes": {
+        "amour": "Une source d'amour profonde et durable, à condition d'aller y puiser et de l'entretenir. Ce qui nourrit vraiment la relation est permanent et accessible.",
+        "finance": "Les ressources fondamentales sont là, comme un puits ; encore faut-il les exploiter et les entretenir. Ne négligez pas ce qui est votre source durable.",
+        "sante": "Votre vitalité profonde est une source inépuisable, à condition d'y puiser et d'entretenir la source. Prenez soin de vos fondamentaux.",
+        "spirituel": "La source intérieure, le puits de l'âme, est toujours là, inépuisable. Il faut apprendre à y descendre et à en remonter l'eau vive.",
+        "famille": "La famille comme puits nourricier commun, ressource permanente pour tous. Entretenir cette source et y puiser ensemble maintient sa richesse."
+      },
+      "traits": {
+        "1": "On ne boit pas la boue du puits ; aucun animal ne vient à un vieux puits. Ce qui est négligé et laissé à l'abandon perd toute valeur nourricière.",
+        "2": "Au fond du puits on ne prend que les poissons ; la cruche est brisée et fuit. Un potentiel gâché par le manque d'entretien et de soin.",
+        "3": "Le puits est nettoyé mais on n'en boit pas ; le cœur en est affligé, car on pourrait y puiser ; si le roi était clairvoyant, tous en recevraient le bienfait. Une ressource précieuse restaurée mais ignorée ; la tristesse du bien non reconnu.",
+        "4": "Le puits est maçonné ; pas de faute. Prendre le temps de réparer et consolider la source avant d'en profiter.",
+        "5": "Le puits a une eau claire et fraîche dont on boit. La source est pure et nourricière, offrant ses bienfaits à qui vient y puiser.",
+        "6": "On puise dans le puits sans l'entraver ; en toute sincérité, suprême bonne fortune. Une source accessible à tous, sans réserve : la générosité inépuisable est la plus haute fortune."
+      }
+    },
+    {
+      "numero": 49,
+      "nom": "La Révolution",
+      "nom_chinois": "Gé",
+      "trigramme_haut": "Lac",
+      "trigramme_bas": "Feu",
+      "image": "Dans le lac il y a le feu : image de la révolution. Ainsi l'être de bien met de l'ordre dans le calendrier et clarifie les temps et les saisons.",
+      "jugement_general": "Le changement radical, la mue, la transformation profonde — comme la peau qui se renouvelle. Un temps de bouleversement nécessaire, mais qui ne réussit que s'il vient au bon moment et pour de justes raisons. La confiance ne s'établit qu'une fois le changement accompli et justifié.",
+      "themes": {
+        "amour": "Une transformation profonde de la relation, un changement de cycle. Si elle vient au bon moment et pour de bonnes raisons, cette mue est libératrice.",
+        "finance": "Un changement radical s'impose ou s'annonce. Assurez-vous qu'il vient au bon moment et pour de justes raisons avant de tout bouleverser.",
+        "sante": "Un renouvellement en profondeur, un changement de mode de vie. La transformation est bénéfique si elle est mûrie et menée au bon moment.",
+        "spirituel": "Une mue intérieure, une transformation profonde de l'être. Comme le serpent qui change de peau, laisser mourir l'ancien pour renaître.",
+        "famille": "Un changement important dans la dynamique familiale. Bien mené et justifié, ce renouvellement peut assainir et régénérer les liens."
+      },
+      "traits": {
+        "1": "Enveloppé dans la peau d'une vache jaune. Au début, ne pas agir ; consolider sa position avant tout changement.",
+        "2": "Le jour venu, alors on peut faire la révolution ; entreprendre porte chance, pas de faute. Quand le moment est mûr, agir résolument pour le changement.",
+        "3": "Entreprendre apporte le malheur ; persévérance dans le danger ; quand les paroles de changement reviennent trois fois, on peut avoir confiance. Ni précipitation ni entêtement ; le changement doit être mûrement pesé et confirmé.",
+        "4": "Le repentir disparaît ; les hommes ont confiance ; changer l'ordre établi porte chance. Un changement fondé sur la confiance sincère et le juste moment réussit.",
+        "5": "Le grand homme change comme le tigre ; avant même l'oracle, il a la confiance. Une transformation si claire et éclatante qu'elle emporte naturellement l'adhésion.",
+        "6": "L'être de bien change comme la panthère ; le petit homme mue de visage ; entreprendre apporte le malheur ; demeurer ferme porte chance. Après le grand changement, se contenter d'un ajustement de surface et se stabiliser, sans en rajouter."
+      }
+    },
+    {
+      "numero": 50,
+      "nom": "Le Chaudron",
+      "nom_chinois": "Dǐng",
+      "trigramme_haut": "Feu",
+      "trigramme_bas": "Vent",
+      "image": "Au-dessus du bois, le feu : image du chaudron. Ainsi l'être de bien consolide son destin en rendant droite sa position.",
+      "jugement_general": "Le chaudron sacré, qui transforme les aliments crus en nourriture raffinée : image de la culture, du raffinement et de la nourriture spirituelle. Un temps de grande réussite, propice à nourrir et à élever, à transformer la matière brute en quelque chose de noble et de nourrissant.",
+      "themes": {
+        "amour": "Une relation qui nourrit et élève, transforme et raffine les êtres. Un temps favorable où l'amour devient source de croissance mutuelle.",
+        "finance": "Un temps propice à la transformation et au raffinement de vos ressources. Ce qui est brut peut devenir précieux ; cultivez et nourrissez vos projets.",
+        "sante": "Une bonne nourriture, au sens noble : ce qui vous transforme et vous élève. Un temps favorable pour raffiner votre hygiène de vie.",
+        "spirituel": "Le chaudron alchimique de la transformation intérieure. Un temps propice à raffiner son être, à transformer le brut en or spirituel.",
+        "famille": "La famille comme chaudron nourricier qui transforme et élève chacun. Un temps favorable pour cultiver et raffiner les liens et les valeurs communes."
+      },
+      "traits": {
+        "1": "Un chaudron aux pieds renversés ; profitable pour évacuer le mauvais ; on prend une concubine pour son fils ; pas de faute. Renverser pour vider l'ancien et faire place au bon est parfois nécessaire au départ.",
+        "2": "Il y a de la nourriture dans le chaudron ; mes compagnons sont envieux, mais ne peuvent me nuire ; bonne fortune. Une richesse réelle qui, bien gardée, résiste à l'envie des autres.",
+        "3": "L'anse du chaudron est changée, on est entravé dans sa marche ; la graisse du faisan n'est pas mangée ; la pluie va tomber, le repentir s'épuise, finalement bonne fortune. Un talent temporairement inutilisé qui finit par être reconnu et employé.",
+        "4": "Les pieds du chaudron cassent, le repas du prince est renversé, sa personne souillée ; malheur. Une responsabilité trop lourde pour des appuis fragiles mène à l'échec et à la honte.",
+        "5": "Le chaudron a des anses jaunes, des anneaux d'or ; persévérance profitable. Une position juste et solide, alliant valeur intérieure et ouverture, apporte le succès.",
+        "6": "Le chaudron a des anneaux de jade ; grande bonne fortune, tout est favorable. La plus haute réussite, alliant fermeté et douceur, noblesse et accessibilité."
+      }
+    },
+    {
+      "numero": 51,
+      "nom": "L'Éveilleur, le Tonnerre",
+      "nom_chinois": "Zhèn",
+      "trigramme_haut": "Tonnerre",
+      "trigramme_bas": "Tonnerre",
+      "image": "Le tonnerre répété : image du choc. Ainsi l'être de bien, dans la crainte et le tremblement, met de l'ordre dans sa vie et s'examine.",
+      "jugement_general": "Le choc, l'ébranlement soudain, comme le coup de tonnerre qui fait trembler. Un événement brusque qui secoue et réveille. Celui qui garde son calme intérieur au milieu de la commotion, qui ne perd pas la cuillère sacrificielle, traverse l'épreuve et en sort grandi.",
+      "themes": {
+        "amour": "Un choc, un événement soudain qui secoue la relation. Garder son calme intérieur au milieu de la commotion permet d'en ressortir plus lucide et plus fort.",
+        "finance": "Un bouleversement soudain et imprévu. Ne paniquez pas ; celui qui garde son sang-froid dans le choc traverse la secousse sans tout perdre.",
+        "sante": "Une secousse, un signal d'alarme du corps qui réveille. Prenez-le au sérieux comme une invitation à revoir votre équilibre, sans céder à la panique.",
+        "spirituel": "Un choc salutaire qui réveille et pousse à l'examen de soi. Garder la paix intérieure au cœur de l'ébranlement est la marque d'une âme solide.",
+        "famille": "Un événement soudain qui secoue la famille. Garder son calme et son centre au milieu de la commotion aide à rassurer et à traverser l'épreuve ensemble."
+      },
+      "traits": {
+        "1": "Le choc arrive : oh, oh ! puis des paroles riantes : ha, ha ! bonne fortune. La frayeur initiale suivie du soulagement ; l'épreuve rend finalement joyeux et prudent.",
+        "2": "Le choc vient avec danger ; on perd de grandes valeurs et on doit gravir neuf collines ; ne pas courir après, dans sept jours on les retrouve. Face à une perte brutale, ne pas s'acharner à poursuivre ; ce qui est juste revient en son temps.",
+        "3": "Le choc rend hébété ; si le choc pousse à agir, pas de malheur. Se laisser secouer au point d'agir enfin permet d'éviter le pire.",
+        "4": "Le choc s'enlise dans la boue. Se laisser paralyser et enfoncer par le choc, incapable de réagir.",
+        "5": "Le choc va et vient, danger ; mais rien n'est perdu, il y a des choses à faire. Des secousses répétées, mais en gardant son centre, on préserve l'essentiel et on garde le cap.",
+        "6": "Le choc apporte la ruine et le regard terrifié ; entreprendre apporte le malheur ; si le choc atteint le voisin et non soi-même, pas de faute ; les proches murmurent. Rester lucide quand le choc frappe autour de soi, tirer la leçon avant d'être touché soi-même."
+      }
+    },
+    {
+      "numero": 52,
+      "nom": "L'Immobilisation, la Montagne",
+      "nom_chinois": "Gèn",
+      "trigramme_haut": "Montagne",
+      "trigramme_bas": "Montagne",
+      "image": "Des montagnes l'une sur l'autre : image de l'immobilisation. Ainsi l'être de bien ne laisse pas ses pensées aller au-delà de sa situation.",
+      "jugement_general": "L'arrêt, le repos, l'immobilité — comme la montagne stable et silencieuse. Un temps pour s'arrêter, faire le calme intérieur, méditer. Savoir s'arrêter au bon moment, apaiser l'agitation du mental, trouver le repos du cœur. Le vrai repos naît de la quiétude intérieure.",
+      "themes": {
+        "amour": "Un temps de pause et de recul dans la relation. Le calme et l'immobilité permettent de retrouver la sérénité et de voir clair, sans agitation.",
+        "finance": "Un temps d'arrêt et de consolidation plutôt que d'action. Savoir s'immobiliser, ne rien précipiter, laisser les choses reposer est ici sage.",
+        "sante": "Le repos, l'arrêt, le calme dont le corps et l'esprit ont besoin. La méditation et l'immobilité régénèrent en profondeur.",
+        "spirituel": "La quiétude méditative, l'immobilité de la montagne intérieure. Savoir arrêter le flot des pensées pour trouver la paix profonde du cœur.",
+        "famille": "Un temps d'apaisement et de calme au foyer. Laisser reposer les tensions, cultiver la tranquillité, permet à l'harmonie de se rétablir d'elle-même."
+      },
+      "traits": {
+        "1": "Immobiliser ses orteils ; pas de faute ; profitable de persévérer constamment. S'arrêter dès le tout début, avant de s'engager, préserve de l'erreur.",
+        "2": "Immobiliser ses mollets ; il ne peut sauver celui qu'il suit ; son cœur n'est pas content. Devoir s'arrêter alors qu'on voudrait aider autrui ; frustration mais nécessité.",
+        "3": "Immobiliser ses reins, raidir le dos ; danger, le cœur suffoque. Une immobilisation forcée et rigide, contre nature, crée une tension pénible.",
+        "4": "Immobiliser son tronc ; pas de faute. Parvenir à la maîtrise et au repos de tout son être, dans la sérénité.",
+        "5": "Immobiliser ses mâchoires ; les paroles ont de l'ordre, le repentir disparaît. Maîtriser ses paroles, ne dire que ce qui est juste, dissipe les regrets.",
+        "6": "Immobilisation généreuse et accomplie ; bonne fortune. Le repos parfait, la paix intérieure pleinement atteinte, apporte le bonheur."
+      }
+    },
+    {
+      "numero": 53,
+      "nom": "Le Développement Progressif",
+      "nom_chinois": "Jiàn",
+      "trigramme_haut": "Vent",
+      "trigramme_bas": "Montagne",
+      "image": "Sur la montagne, un arbre : image du développement progressif. Ainsi l'être de bien demeure dans la vertu et la sagesse pour améliorer les mœurs.",
+      "jugement_general": "Le développement lent et graduel, comme l'arbre qui pousse sur la montagne ou le vol régulier des oies sauvages. Le progrès véritable et durable se fait par étapes, sans brûler les étapes. C'est particulièrement favorable aux unions et aux engagements qui se construisent dans la durée.",
+      "themes": {
+        "amour": "Une relation qui se construit progressivement, étape par étape, dans la durée. C'est un temps très favorable aux engagements mûris et solides.",
+        "finance": "Une croissance lente mais sûre. Le succès durable se construit par étapes patientes ; résistez à la tentation des raccourcis.",
+        "sante": "Une amélioration graduelle et solide. Les progrès durables en matière de santé se font pas à pas, dans la patience et la constance.",
+        "spirituel": "Le cheminement spirituel se fait par étapes progressives, sans précipitation. Chaque palier prépare le suivant ; honorez le rythme naturel de la croissance.",
+        "famille": "Les liens familiaux se développent et se renforcent progressivement. La construction patiente, étape par étape, crée une harmonie durable."
+      },
+      "traits": {
+        "1": "Les oies sauvages s'approchent peu à peu de la rive ; le jeune est en danger, on murmure, pas de faute. Les débuts prudents et exposés à la critique, mais sans faute réelle.",
+        "2": "Les oies s'approchent peu à peu du rocher ; elles mangent et boivent en paix ; bonne fortune. Atteindre un lieu sûr et partager la tranquillité avec les siens.",
+        "3": "Les oies s'approchent peu à peu du plateau ; l'homme part et ne revient pas, la femme porte mais n'élève pas ; malheur ; profitable de repousser les brigands. S'aventurer trop loin trop vite rompt l'harmonie ; il faut se protéger.",
+        "4": "Les oies s'approchent peu à peu de l'arbre ; peut-être trouvent-elles une branche plate ; pas de faute. Trouver un appui provisoire mais sûr dans une position inconfortable.",
+        "5": "Les oies s'approchent peu à peu du sommet ; pendant trois ans la femme n'a pas d'enfant, mais à la fin rien ne peut l'empêcher ; bonne fortune. Malgré les obstacles et les malentendus prolongés, la juste union finit par s'accomplir.",
+        "6": "Les oies s'approchent peu à peu des hauteurs du ciel ; leurs plumes peuvent servir pour la danse sacrée ; bonne fortune. Le plus haut accomplissement, dont l'exemple devient inspiration pour tous."
+      }
+    },
+    {
+      "numero": 54,
+      "nom": "L'Épousée",
+      "nom_chinois": "Guī Mèi",
+      "trigramme_haut": "Tonnerre",
+      "trigramme_bas": "Lac",
+      "image": "Le tonnerre au-dessus du lac : image de l'épousée. Ainsi l'être de bien comprend le transitoire à la lumière de la fin éternelle.",
+      "jugement_general": "Une union ou une situation où l'on occupe une position subordonnée, dépendante ou irrégulière. Entreprendre dans cet esprit peut apporter le malheur. C'est un rappel à la lucidité : comprendre sa vraie place dans une relation, ne pas se bercer d'illusions, et voir au-delà du transitoire.",
+      "themes": {
+        "amour": "Une relation où votre position est peut-être déséquilibrée ou dépendante. Restez lucide sur les dynamiques réelles, sans vous bercer d'illusions.",
+        "finance": "Une situation subordonnée ou irrégulière. Ne vous engagez pas aveuglément ; comprenez votre vraie position avant d'agir, sans illusions.",
+        "sante": "Accepter avec lucidité une situation transitoire, sans en attendre plus qu'elle ne peut donner. La clairvoyance sur ses limites protège.",
+        "spirituel": "Comprendre le transitoire à la lumière de l'éternel. Voir au-delà des apparences d'une situation, accepter sa juste place avec sagesse.",
+        "famille": "Une dynamique familiale déséquilibrée ou délicate. La lucidité sur les rôles réels, sans illusion ni idéalisation, permet de trouver la juste attitude."
+      },
+      "traits": {
+        "1": "L'épousée comme suivante ; le boiteux peut marcher ; entreprendre porte chance. Accepter humblement une position modeste et l'accomplir bien apporte le bonheur.",
+        "2": "Le borgne peut voir ; profitable pour la persévérance d'un homme solitaire. Rester fidèle et constant même dans une situation limitée ou décevante.",
+        "3": "L'épousée comme esclave ; elle se marie comme concubine. Accepter une position indigne par impatience ; mieux vaut attendre une place plus juste.",
+        "4": "L'épousée dépasse le terme ; un mariage tardif vient en son temps. Ne pas se précipiter ; attendre la juste union, même si elle tarde, est sage.",
+        "5": "Le souverain donne sa fille en mariage ; les parures de la princesse ne sont pas aussi belles que celles de la suivante ; la lune presque pleine ; bonne fortune. La vraie noblesse intérieure surpasse l'apparat ; la modestie sincère est la plus belle parure.",
+        "6": "La femme tient le panier, mais il n'y a pas de fruits ; l'homme éventre le mouton, mais sans sang ; rien n'est favorable. Une union ou un engagement vide de substance réelle ne mène nulle part."
+      }
+    },
+    {
+      "numero": 55,
+      "nom": "L'Abondance",
+      "nom_chinois": "Fēng",
+      "trigramme_haut": "Tonnerre",
+      "trigramme_bas": "Feu",
+      "image": "Tonnerre et éclair arrivent ensemble : image de l'abondance. Ainsi l'être de bien décide les procès et exécute les peines.",
+      "jugement_general": "L'abondance, la plénitude, le point culminant où tout est à son apogée. Un temps de grande richesse et de rayonnement, comme le soleil à midi. Mais l'apogée contient déjà le déclin : il faut savoir jouir de cette plénitude sans tristesse, tout en sachant qu'elle est passagère.",
+      "themes": {
+        "amour": "Un temps de plénitude et d'abondance affective, un sommet dans la relation. Savourez pleinement ce moment de rayonnement sans anxiété sur l'avenir.",
+        "finance": "Une période d'abondance et de réussite à son apogée. Profitez-en avec sagesse tout en sachant que tout sommet appelle un jour un ajustement.",
+        "sante": "Une pleine vitalité, un sommet d'énergie. Profitez de cette plénitude tout en l'entretenant, car les cycles de la vie sont mouvants.",
+        "spirituel": "Un moment de plénitude et d'illumination intérieure. Vivre pleinement cet apogée avec gratitude, sans s'y accrocher, car tout est mouvement.",
+        "famille": "Un temps de bonheur familial à son comble, une abondance de joie partagée. Savourez ces moments précieux sans les ternir d'inquiétude."
+      },
+      "traits": {
+        "1": "On rencontre le maître qui nous convient ; bien que ce soit à égalité, pas de faute ; aller a de la valeur. Une rencontre entre égaux au début de l'abondance, source d'accomplissement.",
+        "2": "L'abondance est si grande que le boisseau voile le soleil à midi ; si l'on avance, on rencontre méfiance et haine ; la sincérité l'ouvre ; bonne fortune. Quand l'obscurité voile la clarté, la sincérité intérieure finit par percer.",
+        "3": "L'abondance est telle que la petite pluie voile le soleil ; on voit les petites étoiles à midi ; le bras droit se brise ; pas de faute. Une occultation si complète qu'on est paralysé ; ce n'est pas une faute, mais un temps d'impuissance.",
+        "4": "L'abondance est si grande que le boisseau voile le soleil à midi ; on rencontre le maître qui nous ressemble ; bonne fortune. Après l'obscurité, retrouver une âme qui partage sa lumière ramène le bonheur.",
+        "5": "Des lignes viennent, bénédiction et gloire arrivent ; bonne fortune. S'entourer de personnes de valeur et écouter les conseils sages attire la reconnaissance.",
+        "6": "Sa maison est dans l'abondance, mais il calfeutre sa famille ; il regarde par la porte, tout est tranquille, personne ; pendant trois ans il ne voit personne ; malheur. S'isoler orgueilleusement dans son abondance mène à la solitude et au déclin."
+      }
+    },
+    {
+      "numero": 56,
+      "nom": "Le Voyageur",
+      "nom_chinois": "Lǚ",
+      "trigramme_haut": "Feu",
+      "trigramme_bas": "Montagne",
+      "image": "Le feu sur la montagne : image du voyageur. Ainsi l'être de bien est clair et prudent dans l'application des peines et ne traîne pas les procès en longueur.",
+      "jugement_general": "Le voyageur, l'étranger de passage, qui n'est nulle part chez lui et doit avancer avec prudence et réserve. Dans les petites choses, la réussite est possible. La sagesse du voyageur est de rester modeste, courtois, de ne pas s'attacher, et de garder sa dignité intérieure loin de ses repères.",
+      "themes": {
+        "amour": "Une situation de passage, une relation transitoire ou éloignée de vos repères. Avancez avec prudence et sans trop vous attacher précipitamment.",
+        "finance": "Une situation instable ou de transition, hors de votre terrain habituel. Restez prudent et modeste ; ne vous engagez pas comme si vous étiez en terrain conquis.",
+        "sante": "Une période de transition, de déplacement, hors de vos repères habituels. Prenez soin de vous avec prudence dans ce contexte mouvant.",
+        "spirituel": "Le voyageur intérieur, l'âme de passage sur terre. Cultiver le détachement, la modestie et la dignité intérieure loin de tout ancrage.",
+        "famille": "Une situation où vous vous sentez de passage ou étranger, peut-être loin des vôtres. Garder sa dignité et sa courtoisie tout en cherchant des appuis sûrs."
+      },
+      "traits": {
+        "1": "Si le voyageur s'occupe de vétilles mesquines, il attire sur lui le malheur. Se perdre dans des préoccupations mesquines dégrade la position du voyageur.",
+        "2": "Le voyageur arrive à une auberge, il a ses biens sur lui, il gagne la fidélité d'un jeune serviteur. Trouver un abri, garder ses ressources et s'attacher un soutien fidèle.",
+        "3": "L'auberge du voyageur brûle, il perd la fidélité de son serviteur ; persévérance, danger. L'imprudence ou la dureté fait perdre son refuge et ses appuis.",
+        "4": "Le voyageur trouve un abri, ses biens et une hache ; mais son cœur n'est pas content. Trouver de quoi subsister et se défendre, sans pour autant se sentir chez soi.",
+        "5": "Il abat un faisan ; une flèche s'y perd, mais finalement cela apporte louange et charge. Un effort qui semble d'abord perdu finit par apporter reconnaissance et honneur.",
+        "6": "L'oiseau brûle son nid ; le voyageur rit d'abord, puis gémit et pleure ; il perd sa vache avec insouciance ; malheur. L'insouciance et l'arrogance du voyageur qui néglige son abri mènent à la perte."
+      }
+    },
+    {
+      "numero": 57,
+      "nom": "Le Doux, le Vent",
+      "nom_chinois": "Xùn",
+      "trigramme_haut": "Vent",
+      "trigramme_bas": "Vent",
+      "image": "Les vents qui se suivent : image de la douce pénétration. Ainsi l'être de bien répand ses ordres et fait exécuter ses affaires.",
+      "jugement_general": "La douce pénétration, l'influence subtile et persévérante, comme le vent qui pénètre partout sans violence. Le succès vient non par la force, mais par une action douce, constante et discrète qui finit par tout imprégner. La constance dans la douceur est plus puissante que la contrainte.",
+      "themes": {
+        "amour": "Une influence douce et persévérante rapproche les cœurs. La tendresse constante et discrète pénètre plus profondément que les grands gestes.",
+        "finance": "Le succès par une action douce, constante et persévérante plutôt que par la force. L'influence patiente et discrète finit par porter ses fruits.",
+        "sante": "Des changements doux et progressifs, appliqués avec constance, transforment durablement. La régularité subtile vaut mieux que les efforts brutaux.",
+        "spirituel": "L'influence subtile du souffle, la pénétration douce de la sagesse. La transformation intérieure se fait par imprégnation patiente, non par la force.",
+        "famille": "Une influence douce et persévérante apaise et harmonise la famille. Agir avec constance et délicatesse pénètre les cœurs plus sûrement que l'autorité."
+      },
+      "traits": {
+        "1": "En avançant et en reculant ; profitable la persévérance d'un guerrier. L'hésitation excessive appelle une résolution ferme et disciplinée.",
+        "2": "Pénétration sous le lit ; on emploie prêtres et magiciens en grand nombre ; bonne fortune, pas de faute. Débusquer les influences cachées avec l'aide qu'il faut, sans excès.",
+        "3": "Pénétration répétée ; humiliation. Réfléchir sans fin sans jamais se décider devient stérile et humiliant.",
+        "4": "Le repentir disparaît ; à la chasse on prend trois sortes de gibier. Une action juste et bien menée apporte un triple succès sans regret.",
+        "5": "Persévérance porte chance, le repentir disparaît ; rien qui ne soit favorable ; pas de bon début, mais bonne fin ; avant le changement trois jours, après le changement trois jours ; bonne fortune. Un changement bien préparé et bien suivi, malgré des débuts difficiles, réussit.",
+        "6": "Pénétration sous le lit ; il perd ses biens et sa hache ; persévérance, malheur. Pousser l'investigation ou la soumission trop loin fait perdre ses moyens et sa force."
+      }
+    },
+    {
+      "numero": 58,
+      "nom": "Le Joyeux, le Lac",
+      "nom_chinois": "Duì",
+      "trigramme_haut": "Lac",
+      "trigramme_bas": "Lac",
+      "image": "Les lacs reposant l'un sur l'autre : image du joyeux. Ainsi l'être de bien se réunit avec ses amis pour discuter et s'exercer.",
+      "jugement_general": "La joie, le contentement, l'échange heureux — comme deux lacs qui se nourrissent l'un l'autre. La vraie joie vient de l'intérieur et se partage. Elle porte la réussite quand elle s'accompagne de fermeté intérieure et de sincérité. La joie partagée avec droiture rend fort et encourage à surmonter les difficultés.",
+      "themes": {
+        "amour": "Un temps de joie partagée et d'échanges heureux dans la relation. La gaieté sincère et la complicité nourrissent profondément le lien.",
+        "finance": "Une période favorable où le plaisir de collaborer et d'échanger porte ses fruits. La joie sincère au travail attire la réussite.",
+        "sante": "La joie et le contentement intérieur nourrissent la santé. Cultiver le plaisir sain, les échanges heureux, revitalise le corps et l'esprit.",
+        "spirituel": "La joie profonde qui vient de l'intérieur, sereine et rayonnante. Le partage joyeux avec d'autres âmes sincères élève et fortifie.",
+        "famille": "Un temps de joie et de complicité familiale. Les moments heureux partagés, les échanges chaleureux, renforcent et réjouissent les liens."
+      },
+      "traits": {
+        "1": "Joie sereine ; bonne fortune. Une joie tranquille et sans dépendance, source de vrai bonheur.",
+        "2": "Joie sincère ; bonne fortune, le repentir disparaît. La joie fondée sur la sincérité intérieure dissipe tout regret.",
+        "3": "Joie qui vient de l'extérieur ; malheur. Chercher son bonheur dans les distractions extérieures et les plaisirs superficiels déçoit.",
+        "4": "Joie pesée et non encore paisible ; après réflexion vient la joie. Après avoir tranché entre plaisirs supérieurs et inférieurs, on trouve la vraie joie.",
+        "5": "Sincérité envers ce qui désagrège ; danger. Rester lucide face aux influences séduisantes mais corruptrices qui minent en douceur.",
+        "6": "Joie séductrice. La joie qui cherche seulement à séduire et à entraîner, sans fond, reste creuse."
+      }
+    },
+    {
+      "numero": 59,
+      "nom": "La Dissolution",
+      "nom_chinois": "Huàn",
+      "trigramme_haut": "Vent",
+      "trigramme_bas": "Eau",
+      "image": "Le vent souffle au-dessus de l'eau : image de la dissolution. Ainsi les anciens rois offraient des sacrifices au Seigneur et bâtissaient des temples.",
+      "jugement_general": "La dissolution, la dispersion de ce qui s'était durci et figé — comme le vent qui dissout la glace ou disperse les brumes. Un temps pour dénouer les rigidités, faire fondre les blocages, réunir ce qui était divisé. Ce qui bloquait le cœur se dissout ; l'égoïsme se dissipe au profit d'un élan plus vaste.",
+      "themes": {
+        "amour": "Un temps où les rigidités et les rancœurs se dissolvent. Les blocages du cœur fondent, permettant de réunir ce qui était divisé et de retrouver la fluidité.",
+        "finance": "Une dispersion nécessaire, ou la dissolution de blocages anciens. Ce qui était figé se dénoue ; c'est un temps pour fluidifier et réorganiser.",
+        "sante": "La dissolution des tensions et des blocages accumulés. Laisser fondre les crispations, retrouver la fluidité, favorise la guérison.",
+        "spirituel": "La dissolution de l'ego rigide, la dispersion des illusions qui séparent. S'ouvrir à un élan plus vaste que soi dissout les barrières intérieures.",
+        "famille": "Un temps où les rigidités et les malentendus familiaux se dissolvent. Les cœurs endurcis s'ouvrent, permettant de réunir ce qui était séparé."
+      },
+      "traits": {
+        "1": "Il apporte secours avec la force d'un cheval ; bonne fortune. Agir vite et vigoureusement pour dissoudre un malentendu naissant.",
+        "2": "Dans la dissolution, il court vers son appui ; le repentir disparaît. Au moment de la dispersion, se rapprocher de ce qui soutient dissipe les regrets.",
+        "3": "Il dissout son propre moi ; pas de repentir. Se défaire de son égoïsme, se dépasser soi-même, ne laisse aucun regret.",
+        "4": "Il dissout ses liens avec son groupe ; suprême bonne fortune ; la dissolution mène à l'amoncellement ; ce à quoi les gens ordinaires ne pensent pas. Se détacher des clans étroits pour une union plus vaste : une sagesse rare et féconde.",
+        "5": "La dissolution : de grands cris comme dans la sueur ; dissoudre, un roi demeure sans faute. Une parole juste et forte qui rassemble à nouveau ce qui se dispersait.",
+        "6": "Il dissout son sang, s'éloigne, se tient au loin, sort ; pas de faute. S'éloigner du danger et de ce qui blesse, se mettre à distance, préserve du mal."
+      }
+    },
+    {
+      "numero": 60,
+      "nom": "La Limitation",
+      "nom_chinois": "Jié",
+      "trigramme_haut": "Eau",
+      "trigramme_bas": "Lac",
+      "image": "Au-dessus du lac il y a l'eau : image de la limitation. Ainsi l'être de bien crée le nombre et la mesure et examine ce qu'est la vertu et la juste conduite.",
+      "jugement_general": "La limitation, la juste mesure, les bornes qui structurent et donnent forme — comme les berges qui contiennent le lac. Des limites justes apportent la réussite ; mais une limitation trop dure et amère ne peut durer. La sagesse est de trouver la mesure équilibrée, ni excès ni restriction excessive.",
+      "themes": {
+        "amour": "L'importance de limites justes et saines dans la relation. Des bornes équilibrées structurent et protègent le lien ; mais une rigidité excessive l'étouffe.",
+        "finance": "La discipline et la mesure dans la gestion. Des limites raisonnables apportent l'ordre et la sécurité ; mais une restriction excessive devient contre-productive.",
+        "sante": "La modération et la juste mesure dans les habitudes de vie. Des limites saines protègent, mais une restriction trop sévère est intenable et nuisible.",
+        "spirituel": "La discipline juste comme cadre de la vie intérieure. Des limites choisies structurent l'âme ; mais l'ascèse excessive et amère dessèche.",
+        "famille": "Des limites et des règles justes structurent harmonieusement la vie familiale. La juste mesure protège, sans tomber dans une rigidité étouffante."
+      },
+      "traits": {
+        "1": "Ne pas sortir de sa cour et de son enclos ; pas de faute. Savoir rester dans ses limites au bon moment, sans forcer le passage.",
+        "2": "Ne pas sortir de la porte et de la cour ; malheur. À l'inverse, hésiter et rester enfermé quand il faudrait agir fait manquer l'occasion.",
+        "3": "Celui qui ne connaît pas de limites aura à s'en lamenter ; pas de faute. L'absence de mesure conduit au regret ; le reconnaître évite d'en blâmer autrui.",
+        "4": "Limitation contente et acceptée ; réussite. Accepter sereinement de justes limites, en accord avec la nature des choses, apporte le succès.",
+        "5": "Douce limitation ; bonne fortune ; aller apporte l'estime. Pratiquer soi-même la juste mesure avec douceur inspire et attire le respect.",
+        "6": "Limitation amère ; persévérance, malheur ; mais le repentir disparaît. Une discipline trop dure ne peut durer, mais reconnaître son excès évite le pire."
+      }
+    },
+    {
+      "numero": 61,
+      "nom": "La Vérité Intérieure",
+      "nom_chinois": "Zhōng Fú",
+      "trigramme_haut": "Vent",
+      "trigramme_bas": "Lac",
+      "image": "Au-dessus du lac il y a le vent : image de la vérité intérieure. Ainsi l'être de bien examine les affaires criminelles pour surseoir aux exécutions.",
+      "jugement_general": "La vérité intérieure, la sincérité profonde du cœur qui touche et transforme, même les êtres les plus rétifs. Quand la sincérité est totale, elle rayonne et influence jusqu'aux cochons et aux poissons. C'est la force qui permet de traverser les grandes eaux : la confiance née d'un cœur vrai.",
+      "themes": {
+        "amour": "La sincérité profonde du cœur au centre de la relation. Une confiance vraie et mutuelle touche et transforme ; c'est le fondement le plus solide.",
+        "finance": "La sincérité et la confiance authentiques dans les affaires. C'est en agissant depuis un cœur vrai que l'on inspire confiance et que l'on réussit.",
+        "sante": "L'écoute sincère et profonde de soi, de sa vérité intérieure. Être vrai avec soi-même sur ses besoins réels est source de guérison.",
+        "spirituel": "La vérité intérieure, la sincérité absolue du cœur, est ici la voie royale. Cette authenticité profonde rayonne et transforme tout autour de soi.",
+        "famille": "La sincérité profonde au cœur des liens familiaux. La confiance vraie, sans masque ni calcul, touche les cœurs et unit durablement la famille."
+      },
+      "traits": {
+        "1": "Être prêt apporte la fortune ; s'il y a des arrière-pensées, on perd la paix intérieure. La sincérité tranquille suffit ; les calculs cachés troublent le cœur.",
+        "2": "Une grue qui chante dans l'ombre, son petit lui répond ; j'ai une bonne coupe, je la partage avec toi. La résonance secrète des cœurs sincères qui s'appellent et se répondent à distance.",
+        "3": "Il trouve un compagnon ; tantôt il bat du tambour, tantôt il s'arrête, tantôt il pleure, tantôt il chante. Une joie dépendante d'autrui, qui suit les hauts et les bas de la relation.",
+        "4": "La lune presque pleine ; le cheval d'attelage s'échappe ; pas de faute. Se détacher de ses attaches partisanes pour se tourner vers ce qui est plus haut.",
+        "5": "Il possède la vérité qui lie ; pas de faute. Une sincérité rayonnante qui relie les cœurs et maintient l'union.",
+        "6": "Le chant du coq qui monte au ciel ; persévérance, malheur. Vouloir que les belles paroles s'élèvent plus haut que la réalité intérieure ne le permet sonne creux."
+      }
+    },
+    {
+      "numero": 62,
+      "nom": "La Prépondérance du Petit",
+      "nom_chinois": "Xiǎo Guò",
+      "trigramme_haut": "Tonnerre",
+      "trigramme_bas": "Montagne",
+      "image": "Sur la montagne, le tonnerre : image de la prépondérance du petit. Ainsi l'être de bien, dans sa conduite, donne prépondérance au respect ; dans le deuil, à la douleur ; dans la dépense, à l'économie.",
+      "jugement_general": "La prépondérance du petit : un temps où il faut se contenter des petites choses et des ajustements modestes, non des grandes ambitions. Comme l'oiseau qui ne doit pas voler trop haut, la sagesse est de rester humble, attentif aux détails, et de ne pas viser au-dessus de ses moyens.",
+      "themes": {
+        "amour": "Un temps pour les petites attentions plutôt que les grands gestes. La modestie, le soin des détails et la retenue conviennent mieux que les ambitions démesurées.",
+        "finance": "Un temps pour l'économie, la prudence et les petits pas, non pour les grandes entreprises. Restez modeste et attentif aux détails pour éviter les revers.",
+        "sante": "L'attention aux petits ajustements du quotidien plutôt qu'aux bouleversements. Les petits soins constants font ici toute la différence.",
+        "spirituel": "L'humilité et l'attention aux petites choses sont la voie du moment. Ne pas viser trop haut, mais soigner le détail sincère du quotidien intérieur.",
+        "famille": "Un temps pour les petits gestes attentionnés et la modestie. Les grandes ambitions familiales sont à différer ; le soin des détails du quotidien prime."
+      },
+      "traits": {
+        "1": "L'oiseau vole et rencontre le malheur. Vouloir s'élever trop haut trop vite, hors de sa mesure, attire l'infortune.",
+        "2": "Elle passe devant son aïeul et rencontre son aïeule ; il n'atteint pas son prince et rencontre le fonctionnaire ; pas de faute. Se contenter avec justesse de ce qui est accessible, sans viser au-dessus.",
+        "3": "S'il n'est pas extrêmement prudent, quelqu'un pourrait le frapper par-derrière ; malheur. Négliger la prudence en temps de faiblesse expose au danger.",
+        "4": "Pas de faute ; il le rencontre sans le dépasser ; aller est dangereux, il faut être sur ses gardes ; ne pas agir, être constamment persévérant. Rester dans la juste mesure sans forcer, en gardant sa vigilance.",
+        "5": "Nuages denses sans pluie venant des confins de l'ouest ; le prince tire et atteint celui qui est dans la caverne. Un potentiel qui ne se réalise pas encore pleinement ; agir avec précision sur ce qui est à portée.",
+        "6": "Il le dépasse sans le rencontrer ; l'oiseau qui vole s'éloigne ; malheur, c'est infortune et calamité. L'excès et la démesure, aller trop loin au-delà de toute mesure, mènent au désastre."
+      }
+    },
+    {
+      "numero": 63,
+      "nom": "Après l'Accomplissement",
+      "nom_chinois": "Jì Jì",
+      "trigramme_haut": "Eau",
+      "trigramme_bas": "Feu",
+      "image": "L'eau au-dessus du feu : image de l'état après l'accomplissement. Ainsi l'être de bien réfléchit au malheur et s'en prémunit à l'avance.",
+      "jugement_general": "L'accomplissement, l'œuvre achevée, l'ordre parfait où chaque chose est à sa place. Mais cet état de perfection est instable : dès qu'un sommet est atteint, le déclin guette. Le succès est là dans les petites choses, mais il faut rester vigilant, car après l'ordre parfait vient inévitablement le désordre.",
+      "themes": {
+        "amour": "Un accomplissement, un équilibre atteint dans la relation. Savourez cette harmonie tout en restant attentif, car tout équilibre parfait demande à être entretenu.",
+        "finance": "Un objectif atteint, un ordre établi. Mais ne relâchez pas la vigilance : c'est justement au sommet qu'il faut anticiper et prévenir le déclin.",
+        "sante": "Un équilibre retrouvé, un mieux-être accompli. Restez vigilant pour maintenir cet état, car il demande un entretien constant pour ne pas se défaire.",
+        "spirituel": "Un accomplissement intérieur, un ordre atteint. Mais le chemin ne s'arrête jamais ; rester vigilant et humble empêche de retomber dans le désordre.",
+        "famille": "Une harmonie familiale accomplie, un équilibre atteint. Savourez-le tout en restant attentif, car cet ordre précieux demande un soin continu pour durer."
+      },
+      "traits": {
+        "1": "Il freine ses roues, il mouille sa queue ; pas de faute. Savoir retenir son élan juste après le succès, par prudence, évite l'erreur.",
+        "2": "La femme perd le rideau de son char ; ne cours pas après, dans sept jours tu le retrouveras. Ne pas s'affoler d'une perte passagère ; ce qui est juste revient en son temps.",
+        "3": "Le grand ancêtre châtie le pays des démons ; en trois ans il le vainc ; les petits hommes ne doivent pas être employés. Les grandes entreprises demandent endurance et de bons collaborateurs, non des gens médiocres.",
+        "4": "Les beaux habits deviennent des haillons ; sois prudent tout le jour. Même dans la réussite, garder la conscience de la fragilité des choses et rester vigilant.",
+        "5": "Le voisin de l'est qui tue un bœuf n'obtient pas autant de bénédiction réelle que le voisin de l'ouest par sa petite offrande ; la sincérité reçoit la bénédiction. La sincérité modeste vaut mieux que le faste sans cœur.",
+        "6": "Il a la tête dans l'eau ; danger. S'attarder et s'appesantir au terme d'un cycle achevé, sans savoir passer à autre chose, devient périlleux."
+      }
+    },
+    {
+      "numero": 64,
+      "nom": "Avant l'Accomplissement",
+      "nom_chinois": "Wèi Jì",
+      "trigramme_haut": "Feu",
+      "trigramme_bas": "Eau",
+      "image": "Le feu au-dessus de l'eau : image de l'état avant l'accomplissement. Ainsi l'être de bien est prudent dans la distinction des choses, afin que chacune trouve sa place.",
+      "jugement_general": "Avant l'accomplissement : la transition, le moment juste avant que l'ordre ne s'établisse, quand tout est encore en devenir. Dernier hexagramme, il ne clôt pas mais rouvre : la fin d'un cycle est le seuil d'un nouveau. La réussite est proche, mais il faut franchir la dernière étape avec la prudence du vieux renard qui traverse la glace.",
+      "themes": {
+        "amour": "Une relation en devenir, au seuil d'un accomplissement encore à venir. Tout est possible ; franchissez cette dernière étape avec soin et discernement.",
+        "finance": "Un projet proche de l'aboutissement mais pas encore réalisé. La réussite est à portée ; la dernière étape demande prudence et discernement pour bien conclure.",
+        "sante": "Une transition, un mieux-être en devenir mais pas encore établi. Vous êtes sur la bonne voie ; franchissez les dernières étapes avec attention et patience.",
+        "spirituel": "Le seuil d'un nouveau cycle, l'éternel renouvellement. Rien n'est jamais définitivement achevé ; chaque fin ouvre un nouveau commencement à aborder avec soin.",
+        "famille": "Une harmonie familiale en construction, proche mais pas encore aboutie. Franchissez les dernières étapes avec soin ; le renouveau est à portée de main."
+      },
+      "traits": {
+        "1": "Il mouille sa queue ; humiliation. Vouloir avancer trop vite avant d'être prêt conduit à un revers embarrassant.",
+        "2": "Il freine ses roues ; persévérance porte chance. Savoir retenir son élan et attendre le bon moment apporte le succès.",
+        "3": "Avant l'accomplissement, entreprendre apporte le malheur ; profitable de traverser les grandes eaux. Le moment n'est pas encore mûr pour l'action décisive, mais il faut se préparer au grand passage.",
+        "4": "Persévérance porte chance, le repentir disparaît ; ébranlement pour châtier le pays des démons ; en trois ans, de grandes récompenses. Un effort long et vigoureux, mené avec constance, finit par être grandement récompensé.",
+        "5": "Persévérance porte chance, pas de repentir ; la lumière de l'être de bien est vraie ; bonne fortune. La clarté et la sincérité au moment de l'aboutissement rayonnent et attirent le bonheur.",
+        "6": "En toute confiance on boit du vin ; pas de faute ; mais si l'on se mouille la tête, on perd cela dans la vérité. Célébrer sincèrement le succès est juste, mais l'excès et la démesure gâchent tout, même à la fin."
+      }
+    }
+  ]
+}

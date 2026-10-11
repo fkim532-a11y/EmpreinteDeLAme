@@ -1,0 +1,47 @@
+{
+  "HEAD": {
+    "DEFINED_DEFINED": "Both share the same way of generating questions and inspiration, a lovely mutual intellectual stimulation, but with the risk of going in circles on the same ideas without feeding on outside perspectives.",
+    "DEFINED_UNDEFINED": "One carries constant questions and inspiration, the other amplifies and explores them from every angle without ever settling on them. A lovely dynamic as long as the undefined one doesn't feel overwhelmed by too much mental noise.",
+    "UNDEFINED_UNDEFINED": "Neither has fixed mental pressure on this theme, which leaves great freedom of thought, but also a risk of being swept up together by the questions of those around them, without a stable inner reference point."
+  },
+  "AJNA": {
+    "DEFINED_DEFINED": "Two well-grounded, confident ways of thinking, a lovely intellectual closeness, provided each accepts that the other may hold certainties sometimes different from their own, without trying to impose them.",
+    "DEFINED_UNDEFINED": "One has a fixed, confident way of thinking, the other explores many ways of seeing things with flexibility. The undefined one benefits from not adopting the other's certainties as if they were their own.",
+    "UNDEFINED_UNDEFINED": "Great open-mindedness together, no fixed certainty to defend, but a risk of drifting together without ever settling on a clear way of thinking about a given subject."
+  },
+  "THROAT": {
+    "DEFINED_DEFINED": "Two natures who know how to express and manifest themselves consistently, lively and direct exchanges, provided care is taken to also leave the other room to speak.",
+    "DEFINED_UNDEFINED": "One has a consistent way of expressing and acting, the other amplifies that expression depending on context, sometimes brilliantly, sometimes trying at all costs to be heard. Mutual listening is key.",
+    "UNDEFINED_UNDEFINED": "Neither has a constant need to express themselves, which can make for calm, low-pressure exchanges, but also a risk of prolonged silence if neither takes the initiative to speak."
+  },
+  "G": {
+    "DEFINED_DEFINED": "A very stable sense of identity and life direction in both, a grounded relationship, provided each leaves the other to their own path without trying to make it perfectly match their own.",
+    "DEFINED_UNDEFINED": "One has a stable identity and direction, the other searches for and defines itself through the people and places it encounters, sometimes even through this very relationship. A lovely dynamic if the defined one doesn't try to fix the other's identity in place.",
+    "UNDEFINED_UNDEFINED": "Neither has a fixed identity on this level, which can make for a relationship where both search together, rich in evolution, but one that benefits from finding stable outside reference points so as not to get lost in one another."
+  },
+  "SACRAL": {
+    "DEFINED_DEFINED": "Strong, consistent life force energy on both sides, a lovely shared capacity to work and respond to life with enthusiasm, as long as each person's rhythm is respected.",
+    "DEFINED_UNDEFINED": "One has consistent, generous life force energy, the other amplifies it and can wear itself out if it doesn't take time to rest at its own pace rather than the other's.",
+    "UNDEFINED_UNDEFINED": "Neither has consistent life force energy on this level, which can create a relationship where commitment and endurance in shared effort require particular care, each having to learn to respect their own limits."
+  },
+  "HEART": {
+    "DEFINED_DEFINED": "Very strong willpower and capacity for commitment on both sides, a relationship carried by shared determination, with the risk of competing over who proves their worth more.",
+    "DEFINED_UNDEFINED": "One has consistent willpower and natural confidence in their given word, the other may feel pushed to prove their worth to earn their place. A lovely balance if the defined one values the other without requiring them to justify themselves.",
+    "UNDEFINED_UNDEFINED": "Neither has a constant need to prove their worth, which can ease the relationship of ego stakes, but requires that commitments made be honestly reassessed rather than kept on principle."
+  },
+  "SPLEEN": {
+    "DEFINED_DEFINED": "Strong, immediate instinctive intuition present in both, a relationship guided by a keen sense of the present moment and safety, provided each also listens to the other's signals and not only their own.",
+    "DEFINED_UNDEFINED": "One intuitively senses what is healthy or not in the moment, the other absorbs those perceptions and can develop fears that aren't really their own. A lovely mutual protection if the defined one shares their intuitions without imposing them.",
+    "UNDEFINED_UNDEFINED": "Neither has a fixed instinct for safety, which can make the relationship sensitive to ambient outside fears, but can also open up a lovely shared capacity to learn new ways of feeling safe together."
+  },
+  "SOLAR_PLEXUS": {
+    "DEFINED_DEFINED": "Two emotional natures with their own waves, which requires real care not to amplify each other's ups and downs, but in return offers a deep understanding of shared moods.",
+    "DEFINED_UNDEFINED": "One experiences natural emotional waves that are part of its clarity to come, the other feels and amplifies them without them truly belonging to it. The undefined one benefits from not taking the other's emotions as their own.",
+    "UNDEFINED_UNDEFINED": "Neither has fixed emotion on this level, which can make for a relationship that seems calmer emotionally, but also a great shared sensitivity to the emotional atmosphere around them."
+  },
+  "ROOT": {
+    "DEFINED_DEFINED": "Consistent, well-grounded handling of pressure and stress in both, a relationship that moves forward with a lovely shared endurance in the face of everyday challenges.",
+    "DEFINED_UNDEFINED": "One handles pressure in a steady, regular way, the other absorbs it and can feel rushed by a sense of urgency that isn't truly its own. A lovely balance if the defined one stays mindful not to unknowingly pass on its stress.",
+    "UNDEFINED_UNDEFINED": "Neither has a fixed relationship to pressure, which can make the relationship sensitive to ambient outside stress, but can also allow them to learn together a healthier, calmer relationship with time and urgency."
+  }
+}

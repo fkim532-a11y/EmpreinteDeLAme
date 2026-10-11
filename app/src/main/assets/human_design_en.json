@@ -1,0 +1,295 @@
+{
+  "types": {
+    "MANIFESTOR": {
+      "name": "Manifestor",
+      "keyword": "Initiate",
+      "strategy": "Inform before acting",
+      "notSelfTheme": "Anger",
+      "description": "You belong to a rare group (about 9% of the population) able to initiate on your own, without waiting for an outside signal. Your energy is built to start things and set movement into motion around you. Your challenge isn't acting — you're already capable of that — but informing those around you before you do, to defuse the resistance your natural independence tends to provoke. Informing instead of imposing clears most obstacles from your path."
+    },
+    "GENERATOR": {
+      "name": "Generator",
+      "keyword": "Respond",
+      "strategy": "Wait to respond",
+      "notSelfTheme": "Frustration",
+      "description": "You carry the most abundant and sustainable sacral energy of all Types (about 37% of the population). This life force isn't built to initiate, but to respond to what shows up in front of you. Your satisfaction and effectiveness come from engaging with what lights up a real \"yes\" in you, rather than forcing projects that don't truly call you. Respond, and your energy becomes inexhaustible; force it, and frustration sets in."
+    },
+    "MANIFESTING_GENERATOR": {
+      "name": "Manifesting Generator",
+      "keyword": "Respond, then inform",
+      "strategy": "Wait to respond, then inform before acting",
+      "notSelfTheme": "Frustration",
+      "description": "You combine the Generator's responding energy with the Manifestor's capacity to initiate (about 33% of the population). Fast, multi-passionate, you happily skip steps others consider essential — and that's often the right move for you. Your point of attention: respond first to what truly calls you, then inform those around you before changing course, to avoid the friction your speed can cause for others."
+    },
+    "PROJECTOR": {
+      "name": "Projector",
+      "keyword": "Be invited",
+      "strategy": "Wait for the invitation",
+      "notSelfTheme": "Bitterness",
+      "description": "About 20% of the population shares this Type, built to guide and to see deeply what others can't see about themselves — not to produce continuously like Generators. Without sustainable sacral energy, you burn out imitating other Types' pace. Your success depends on recognition and invitation: waiting to be seen and asked into the areas where your insight matters most, rather than pushing yourself forward, changes everything."
+    },
+    "REFLECTOR": {
+      "name": "Reflector",
+      "keyword": "Reflect",
+      "strategy": "Wait a full lunar cycle",
+      "notSelfTheme": "Disappointment",
+      "description": "Very rare (about 1% of the population), you have no center consistently defined: your BodyGraph reflects and amplifies the energy of your environment and the people around you, much like the Moon reflects the Sun's light. You're a precious barometer of a community's health. For big decisions, letting a full lunar cycle pass (about 28 days) while sampling different environments lets a clarity that truly belongs to you emerge, rather than acting on a passing impression."
+    }
+  },
+  "authorities": {
+    "EMOTIONAL": {
+      "name": "Emotional Authority",
+      "keyword": "The wave",
+      "description": "Your clarity doesn't exist in the present moment: it builds over time, through an emotional wave made of highs and lows. There's no truth in the \"now\" for you — the right decision only reveals itself after moving through several different emotional states. Always give yourself that time before deciding what truly matters."
+    },
+    "SACRAL": {
+      "name": "Sacral Authority",
+      "keyword": "The present moment",
+      "description": "Your body responds instantly, often before your mind has even finished forming the question — a visceral \"yes\" or \"no\", sometimes just a sound. This immediate sacral response is your most reliable compass: it isn't debated or anticipated, it's felt in the present moment."
+    },
+    "SPLENIC": {
+      "name": "Splenic Authority",
+      "keyword": "Instinct",
+      "description": "Your authority speaks only once, quietly, in the moment — an ancient, silent survival intuition, easy to miss if you're not paying attention. It doesn't repeat itself and doesn't always explain itself logically. Trust that first quiet signal rather than waiting for a confirmation that won't come."
+    },
+    "EGO": {
+      "name": "Ego Authority",
+      "keyword": "Willpower",
+      "description": "Your decisions rest on what you genuinely have the willpower and desire to commit to — not on what you \"should\" do. Talking out loud with someone you trust helps you hear clearly what your willpower truly wants to carry, and what it prefers to leave aside."
+    },
+    "SELF_PROJECTED": {
+      "name": "Self-Projected Authority",
+      "keyword": "Hearing your own voice",
+      "description": "Your clarity emerges through talking, not through thinking alone inside your head. By speaking out loud to someone you trust who simply listens, you hear in the sound of your own voice what's right for you or not — the answer was already there, it just needed to be said."
+    },
+    "MENTAL": {
+      "name": "Mental (Environmental) Authority",
+      "keyword": "The right environment",
+      "description": "Rare, and specific to certain Projectors, this authority doesn't come from an inner feeling but from the right environment and the right people around you. Clarity takes shape by thinking out loud, in a setting where you feel safe — never in isolation or in a rush."
+    },
+    "LUNAR": {
+      "name": "Lunar Authority",
+      "keyword": "The Moon's cycle",
+      "description": "Specific to Reflectors, this authority belongs to no fixed center: it reveals itself over a full lunar cycle (about 28 days), by noticing how the same question resonates differently across different days and environments. Patience isn't optional here — it's the mechanism itself."
+    }
+  },
+  "profiles": {
+    "1/3": {
+      "name": "1/3 — Investigator/Martyr",
+      "description": "You seek a solid foundation of knowledge before acting (line 1), then test it concretely through direct experience, including through mistakes (line 3). This blend makes you someone who learns as much from failure as from research — every failed attempt becomes a sturdier foundation for what comes next."
+    },
+    "1/4": {
+      "name": "1/4 — Investigator/Opportunist",
+      "description": "You need a deep, personal understanding of things (line 1) before passing it on to your close circle, where your influence and opportunities rest (line 4). Your knowledge naturally spreads through a network of loyal relationships rather than among strangers."
+    },
+    "2/4": {
+      "name": "2/4 — Hermit/Opportunist",
+      "description": "A natural talent develops in quiet and solitude (line 2), before being called upon and recognized by your close circle (line 4). You need alone time to recharge, and your opportunities almost always come from people who already know you well."
+    },
+    "2/5": {
+      "name": "2/5 — Hermit/Heretic",
+      "description": "A natural gift, often developed in retreat (line 2), ends up projected onto a wider stage where strangers expect concrete solutions from you (line 5). This contrast between the need to withdraw and public projection is central to your profile — learn to balance both."
+    },
+    "3/5": {
+      "name": "3/5 — Martyr/Heretic",
+      "description": "You learn through direct trial and error (line 3), which makes you pragmatic and resilient — then that lived knowledge gets projected onto you by strangers expecting solutions (line 5). You're sometimes idealized unfairly; staying transparent about your own trial-and-error defuses that pressure."
+    },
+    "3/6": {
+      "name": "3/6 — Martyr/Role Model",
+      "description": "The first part of your life is marked by experimentation and adjusting through mistakes (line 3); over time, you become an example others watch and model themselves on (line 6). The Role Model's well-known \"rooftop\" period (a phase of observation, around age 30) is especially pronounced for this profile."
+    },
+    "4/6": {
+      "name": "4/6 — Opportunist/Role Model",
+      "description": "Your influence and opportunities flow through a network of close, loyal relationships (line 4), and with maturity you become a trustworthy example watched by a wider circle (line 6). Loyalty is a core value for you at every stage of life."
+    },
+    "4/1": {
+      "name": "4/1 — Opportunist/Investigator",
+      "description": "You radiate and influence through your close relationships (line 4), while having a deep need to solidly understand things before committing (line 1). Your network rests as much on trust as on respect for your personal knowledge."
+    },
+    "5/1": {
+      "name": "5/1 — Heretic/Investigator",
+      "description": "Strangers turn to you expecting practical, universal solutions (line 5), while internally you need a solid, verified foundation of knowledge before exposing yourself (line 1). This profile often carries a strong sense of responsibility projected by others — learn not to let others' projections define you entirely."
+    },
+    "5/2": {
+      "name": "5/2 — Heretic/Hermit",
+      "description": "A natural talent, developed in withdrawal (line 2), ends up sought after by strangers looking for solutions (line 5). You swing between a strong need for solitude and pressing outside calls — learning to balance both prevents burnout."
+    },
+    "6/2": {
+      "name": "6/2 — Role Model/Hermit",
+      "description": "After a more experimental period of life, maturity turns you into a watched and respected example (line 6), while you keep a natural need for withdrawal and solitary recharging (line 2). This profile often experiences a clear shift between a more turbulent youth and a calmer maturity."
+    },
+    "6/3": {
+      "name": "6/3 — Role Model/Martyr",
+      "description": "You go through a life phase full of trial, error, and concrete adjustment (line 3), before becoming, with time, a role model whose lived experience inspires others (line 6). Your own owned failures are, with maturity, exactly what makes your example most credible."
+    }
+  },
+  "definitions": {
+    "SINGLE": {
+      "name": "Single Definition",
+      "description": "All your defined centers form a single connected circuit: your energy flows freely internally, without needing another person to feel complete. You're built to function autonomously — which doesn't exempt you from following your Strategy and Authority."
+    },
+    "SPLIT": {
+      "name": "Split Definition",
+      "description": "Your defined centers form two groups separated by an undefined bridge. You often feel more complete around people or circumstances that naturally fill that gap — a kind of magnetic pull toward what's missing is built into your design."
+    },
+    "TRIPLE_SPLIT": {
+      "name": "Triple Split Definition",
+      "description": "Your defined centers form three separate groups, linked by several undefined bridges. This makes you adaptable and able to connect different worlds, at the cost of a stronger need for varied relationships or contexts to feel fully connected to yourself."
+    },
+    "QUADRUPLE_SPLIT": {
+      "name": "Quadruple Split Definition",
+      "description": "Rare, this configuration splits your defined centers into four separate groups. You're highly selective in your deep relationships, since it takes several different bridges to feel complete — a quality that can feel like independence or like isolation depending on context."
+    }
+  },
+  "centers": {
+    "HEAD": {
+      "name": "Head (Crown)",
+      "definedDescription": "You have a fixed, reliable way of pressuring yourself into inspiration and asking the right questions — a steady source of ideas for yourself and those around you.",
+      "undefinedDescription": "You have no fixed mental pressure: you take in and amplify the questions and inspiration of your environment, with a risk of feeling overwhelmed by questions that aren't truly your own."
+    },
+    "AJNA": {
+      "name": "Ajna",
+      "definedDescription": "Your way of thinking and forming certainty is fixed and reliable: you hold firm opinions, easy to voice and defend.",
+      "undefinedDescription": "Your mind is open and flexible, with no fixed way of thinking: you absorb and amplify others' thoughts and doubts, making you excellent at exploring multiple viewpoints, less so at settling on certainty."
+    },
+    "THROAT": {
+      "name": "Throat",
+      "definedDescription": "You have a reliable, consistent channel for communicating and acting, a voice that naturally finds the right words and timing.",
+      "undefinedDescription": "You have no fixed way to communicate or act: you adapt your style to whoever is around you, with the risk of speaking or acting under pressure when it isn't truly your moment."
+    },
+    "G": {
+      "name": "G Center (Identity)",
+      "definedDescription": "You have a stable sense of your identity and direction in life, a form of self-love that doesn't depend on others.",
+      "undefinedDescription": "Your identity and direction shift with the people and environments you move through: you sometimes look for love and direction outside yourself, while being able to adapt to many different roles."
+    },
+    "HEART": {
+      "name": "Heart (Ego/Willpower)",
+      "definedDescription": "Your willpower is consistent and reliable: you naturally keep your commitments and promises.",
+      "undefinedDescription": "Your willpower is inconsistent: you may feel the need to prove your worth to others, with the risk of over-promising to be loved or recognized."
+    },
+    "SACRAL": {
+      "name": "Sacral",
+      "definedDescription": "You carry a consistent, reliable life force, capable of sustaining steady work when it responds to what truly lights it up.",
+      "undefinedDescription": "You have no stable sacral energy: you feel and amplify other people's, with a risk of exhausting yourself trying to match their pace."
+    },
+    "SOLAR_PLEXUS": {
+      "name": "Solar Plexus (Emotional)",
+      "definedDescription": "You experience an emotional wave that's truly your own: your truth reveals itself over time, never in the moment.",
+      "undefinedDescription": "You have no emotions that truly belong to you: you feel and amplify others', making you a sensitive barometer of the surrounding mood, with a risk of avoiding conflict at all costs."
+    },
+    "SPLEEN": {
+      "name": "Spleen",
+      "definedDescription": "Your instinct and body awareness are stable and reliable: a natural sense of what is or isn't healthy for you.",
+      "undefinedDescription": "You have no fixed instinctive compass: you absorb and amplify others' fears, with a risk of staying too long in situations or relationships that no longer serve you, out of fear of change."
+    },
+    "ROOT": {
+      "name": "Root",
+      "definedDescription": "You carry a steady, manageable pressure that naturally pushes you forward without overwhelming you.",
+      "undefinedDescription": "You absorb and amplify others' stress and pressure, with a risk of rushing or working under an urgency that isn't your own — learning to release pressure rather than absorb it is essential."
+    }
+  },
+  "channels": {
+    "1-8": { "name": "Channel of Inspiration", "keyword": "Creative inspiration", "description": "A soulful self-expression that makes others want to follow and create in turn." },
+    "2-14": { "name": "Channel of the Beat", "keyword": "Keeper of the keys", "description": "A clear sense of direction carried by a powerful energy able to grow resources and projects." },
+    "3-60": { "name": "Channel of Mutation", "keyword": "The energy of change", "description": "The ability to initiate and move through deep change, accepting the chaos that precedes a new order." },
+    "4-63": { "name": "Channel of Logic", "keyword": "Formal logic", "description": "A mind that doubts and questions in order to build reliable logical solutions from repeated patterns." },
+    "5-15": { "name": "Channel of Rhythm", "keyword": "Fixed rhythms", "description": "A need for steady rhythm and flow, paired with a wide tolerance for other people's differences." },
+    "6-59": { "name": "Channel of Mating", "keyword": "Bonding and reproduction", "description": "Intimacy is built here in two movements: a barrier that comes down, then the friction that inevitably follows closeness. It is this alternation of opening and clashing that makes closeness real rather than polite." },
+    "7-31": { "name": "Channel of the Alpha", "keyword": "The role of leadership", "description": "Leading cannot be self-declared here: the role stands on one side, the carrying voice on the other, but nothing works without the consent of those who follow. Direction is offered to the group, never imposed on it." },
+    "9-52": { "name": "Channel of Concentration", "keyword": "Focus", "description": "The ability to concentrate steadily on one precise detail until it's fully mastered." },
+    "10-20": { "name": "Channel of Awakening", "keyword": "Awakening to the now", "description": "The courage to be authentically yourself, expressed immediately in the present moment." },
+    "10-34": { "name": "Channel of Exploration", "keyword": "The power of exploration", "description": "A powerful capacity for action placed in service of strong, authentic personal convictions." },
+    "10-57": { "name": "Channel of Perfected Form", "keyword": "Survival through form", "description": "A refined instinctive intuition in service of behavior that's correct and adapted to the moment." },
+    "11-56": { "name": "Channel of Curiosity", "keyword": "The search for ideas", "description": "Ideas find their audience here: what is thought becomes story, and the story feeds on what has been lived. The value of this channel lies in the stimulation it brings to others, not in putting what is told into practice." },
+    "12-22": { "name": "Channel of Openness", "keyword": "Social openness", "description": "A reserved kind of expression that, once the right emotion is found, moves others deeply." },
+    "13-33": { "name": "Channel of the Prodigal", "keyword": "The witness and the secret", "description": "What is gathered from others needs a time of withdrawal before being handed back. This channel makes its bearer a keeper of memory: collecting experiences, letting them settle, then passing them on when the moment is right." },
+    "16-48": { "name": "Channel of Talent", "keyword": "Mastery through repetition", "description": "A talent refined through repeated practice, until it becomes a deep, reliable skill." },
+    "17-62": { "name": "Channel of Acceptance", "keyword": "Logical organization", "description": "Opinions built on precise details, able to reassure and organize a group." },
+    "18-58": { "name": "Channel of Judgment", "keyword": "Corrective dissatisfaction", "description": "A need to fix what isn't working, carried by a life force devoted to improvement." },
+    "19-49": { "name": "Channel of Synthesis", "keyword": "Sensitivity to needs", "description": "Sensing what a group needs leads here to questioning the rules that hold it together. When principles no longer answer real needs, this channel pushes to renegotiate them — or to break away if they are flatly refused." },
+    "20-34": { "name": "Channel of Charisma", "keyword": "Charisma", "description": "A powerful sacral energy put immediately into motion and speech, with no detour through reflection." },
+    "20-57": { "name": "Channel of the Brainwave", "keyword": "Immediate intuition", "description": "A rare capacity to act correctly in the present moment, guided by sharpened instinctive intuition." },
+    "21-45": { "name": "Channel of Money", "keyword": "Material control", "description": "Individual command of resources is placed here at the service of a group: it is no longer only about holding your own territory, but about organizing and redistributing what is pooled. The authority is accepted only as long as everyone benefits." },
+    "23-43": { "name": "Channel of Structuring", "keyword": "Conceptual individualism", "description": "Insight arrives here all at once, bypassing reasoning, and must then be translated into words others can receive. Between inner certainty and understandable expression, everything happens in that crossing." },
+    "24-61": { "name": "Channel of Awareness", "keyword": "Introspective thought", "description": "A deep need to understand and rationalize what stirs inside you, until it becomes clear thought." },
+    "25-51": { "name": "Channel of Initiation", "keyword": "The need to initiate", "description": "A spirit ready to go first, carried by a selfless, universal love for the experience itself." },
+    "26-44": { "name": "Channel of Surrender", "keyword": "The past passed on", "description": "An instinctive sense for what should be preserved or transmitted, often with a gift for persuasion." },
+    "27-50": { "name": "Channel of Preservation", "keyword": "Care and preservation", "description": "An instinct to care for others while preserving the values and rules that protect the group." },
+    "28-38": { "name": "Channel of Struggle", "keyword": "The fight for meaning", "description": "A taste for risk meets stubbornness here: you take on struggles nothing forces you into, simply because they give life meaning. The trap is fighting for the sake of fighting, once the meaning has been lost from sight." },
+    "29-46": { "name": "Channel of Discovery", "keyword": "Bodily commitment", "description": "An energy ready to fully commit to experience, often rewarded with a kind of embodied luck." },
+    "30-41": { "name": "Channel of Recognition", "keyword": "Feelings and desires", "description": "Desire arises here before the experience itself: an inner pressure imagines what could be lived, then feeling seizes on it with intensity. The whole difficulty is to dream without rushing, waiting for the right occasion." },
+    "32-54": { "name": "Channel of Transformation", "keyword": "Instinctive ambition", "description": "An ambition driven by survival instinct and social recognition, a motor for transforming one's condition." },
+    "34-57": { "name": "Channel of Power", "keyword": "Archetypal power", "description": "Instinctive power combined with sacral energy, capable of correct, immediate action." },
+    "35-36": { "name": "Channel of Transitoriness", "keyword": "A taste for experience", "description": "A deep desire to live varied, intense experiences, even through emotional highs and lows." },
+    "37-40": { "name": "Channel of Community", "keyword": "Community and loyalty", "description": "Belonging rests here on a demanding balance: the warmth of the bond on one side, the need to withdraw and recover on the other. The bargain holds as long as what is given and what is received stay level." },
+    "39-55": { "name": "Channel of Emoting", "keyword": "Emotional provocation", "description": "Provocation meets deep mood here: what is stirred in others feeds back into a rich emotional life, swinging between abundance and lack. A movement that seeks true feeling rather than surface harmony." },
+    "42-53": { "name": "Channel of Maturation", "keyword": "Cycles reaching completion", "description": "An energy that pushes cycles through to their end, the condition for real maturity and growth." },
+    "47-64": { "name": "Channel of Abstraction", "keyword": "Clarity after confusion", "description": "A mind that digests sometimes-confusing impressions from the past, until it draws clear abstract understanding from them." }
+  },
+  "gates": {
+    "1": { "name": "Gate of Self-Expression", "keyword": "Creative self-expression", "description": "The deep need to create and express yourself in an authentic, original way." },
+    "2": { "name": "Gate of the Direction of the Self", "keyword": "Receptive direction", "description": "A natural sense of the direction to follow, received more than imposed." },
+    "3": { "name": "Gate of Ordering", "keyword": "Order out of chaos", "description": "The ability to create new order out of a difficult, chaotic beginning." },
+    "4": { "name": "Gate of Formulization", "keyword": "Logical answers", "description": "The need to formulate logical answers, even provisional ones, in the face of uncertainty." },
+    "5": { "name": "Gate of Fixed Rhythms", "keyword": "Regular habits", "description": "A need for fixed rhythms and habits in order to feel secure." },
+    "6": { "name": "Gate of Conflict", "keyword": "Necessary friction", "description": "A sensitivity to relational friction, necessary for building real intimacy." },
+    "7": { "name": "Gate of the Role of the Self", "keyword": "The role in interaction", "description": "An aptitude for taking on a guiding role within collective interactions." },
+    "8": { "name": "Gate of Contribution", "keyword": "Personal contribution", "description": "The need to contribute, by example, to something bigger than yourself." },
+    "9": { "name": "Gate of Focus", "keyword": "Attention to detail", "description": "The ability to focus on the small details that make all the difference." },
+    "10": { "name": "Gate of Behavior", "keyword": "Self-love", "description": "The authentic behavior of someone who loves and accepts themselves as they are." },
+    "11": { "name": "Gate of Ideas", "keyword": "Sharing ideas", "description": "A flow of ideas to share, more to inspire than to arrive at something concrete." },
+    "12": { "name": "Gate of Caution", "keyword": "Reserved expression", "description": "A natural caution in self-expression, waiting for the right emotional moment to open up." },
+    "13": { "name": "Gate of the Listener", "keyword": "Holding others' stories", "description": "The ability to listen to and hold other people's past experiences." },
+    "14": { "name": "Gate of Power Skills", "keyword": "Power through skill", "description": "Powerful skills placed in service of something greater than yourself." },
+    "15": { "name": "Gate of Extremes", "keyword": "Love of humanity", "description": "The ability to navigate between extremes to find a rhythm that includes everyone." },
+    "16": { "name": "Gate of Skills", "keyword": "Enthusiasm for talent", "description": "A contagious enthusiasm for perfecting a talent through repetition." },
+    "17": { "name": "Gate of Opinions", "keyword": "Logical opinions", "description": "Logically built opinions, ready to organize a vision for others." },
+    "18": { "name": "Gate of Correction", "keyword": "The search for perfection", "description": "An instinct to fix what isn't working in order to move toward greater perfection." },
+    "19": { "name": "Gate of Wanting", "keyword": "Sensitivity to needs", "description": "A fine sensitivity to a group's material and emotional needs." },
+    "20": { "name": "Gate of the Now", "keyword": "Immediate presence", "description": "A rare capacity to be fully present and to act in the moment." },
+    "21": { "name": "Gate of Control", "keyword": "The will to control", "description": "A natural need to manage and control the material resources of your territory." },
+    "22": { "name": "Gate of Grace", "keyword": "Emotional grace", "description": "A social grace that expresses itself fully once the right emotion is found." },
+    "23": { "name": "Gate of Assimilation", "keyword": "Individual perception", "description": "Individual perceptions sometimes ahead of their time, needing the right words to be voiced." },
+    "24": { "name": "Gate of Return", "keyword": "Rationalization", "description": "The need to return to a thought until it becomes clear, rational understanding." },
+    "25": { "name": "Gate of Innocence", "keyword": "The spirit of the self", "description": "A selfless, universal love for the experience itself, with no expectation of return." },
+    "26": { "name": "Gate of the Egoist", "keyword": "Persuasion", "description": "An instinctive art of persuasion, sometimes in service of personal interest." },
+    "27": { "name": "Gate of Caring", "keyword": "Caring for others", "description": "A deep instinct to care for and nourish those around you." },
+    "28": { "name": "Gate of the Game Player", "keyword": "Risk that gives meaning", "description": "A tendency to take risks in order to give life deeper meaning." },
+    "29": { "name": "Gate of Perseverance", "keyword": "Total commitment", "description": "The ability to fully commit to an experience without knowing its outcome in advance." },
+    "30": { "name": "Gate of Feelings", "keyword": "The desire for experience", "description": "An emotional intensity that drives you to want new life experiences." },
+    "31": { "name": "Gate of Influence", "keyword": "Democratic leadership", "description": "A voice built to be heard and followed, as long as it's recognized by the group." },
+    "32": { "name": "Gate of Continuity", "keyword": "Recognizing success", "description": "An instinct for recognizing what has a good chance of lasting and succeeding." },
+    "33": { "name": "Gate of Retreat", "keyword": "Necessary withdrawal", "description": "A natural need to step back before sharing what you've lived through and understood." },
+    "34": { "name": "Gate of Power", "keyword": "Raw power", "description": "Raw, instinctive power, meant to be used rather than to initiate." },
+    "35": { "name": "Gate of Progress", "keyword": "A taste for change", "description": "A deep desire to live new and varied experiences." },
+    "36": { "name": "Gate of Crisis", "keyword": "Emotional intensity", "description": "An emotional intensity that drives you through crises in order to draw life experience from them." },
+    "37": { "name": "Gate of Friendship", "keyword": "Family warmth", "description": "A need for warmth, reciprocity, and belonging to a close community." },
+    "38": { "name": "Gate of Opposition", "keyword": "The fight for meaning", "description": "A tenacity to fight for what gives life deep, personal meaning." },
+    "39": { "name": "Gate of Provocation", "keyword": "Emotional provocation", "description": "An instinctive ability to provoke an authentic emotional response in others." },
+    "40": { "name": "Gate of Deliverance", "keyword": "The need for solitude", "description": "A need for time alone to recharge before returning to the community." },
+    "41": { "name": "Gate of Contraction", "keyword": "Initial desire", "description": "An initial pressure that drives you to imagine and desire new experiences." },
+    "42": { "name": "Gate of Growth", "keyword": "Completing cycles", "description": "An energy that drives every experience and cycle through to its natural completion." },
+    "43": { "name": "Gate of Breakthrough", "keyword": "Sudden insight", "description": "A sudden individual perception or insight, ahead of collective understanding." },
+    "44": { "name": "Gate of Coming to Meet", "keyword": "Instinctive memory", "description": "An instinctive memory of the past, able to immediately spot what should be avoided or preserved." },
+    "45": { "name": "Gate of Gathering", "keyword": "Gathering resources", "description": "A natural instinct to gather and redistribute a group's resources." },
+    "46": { "name": "Gate of Determination", "keyword": "Love of the body", "description": "A determination carried by love of the body and the physical experience of life." },
+    "47": { "name": "Gate of Realization", "keyword": "Clarity after doubt", "description": "The ability to digest confusing past impressions until a clear realization emerges." },
+    "48": { "name": "Gate of Depth", "keyword": "Depth of knowledge", "description": "A natural depth of knowledge and skill, ready to be drawn upon by others." },
+    "49": { "name": "Gate of Principles", "keyword": "Fair principles", "description": "A sensitivity to principles that must be revised in order to stay fair and accepted by all." },
+    "50": { "name": "Gate of Values", "keyword": "The group's values", "description": "An instinct for defining and upholding the values that protect a group." },
+    "51": { "name": "Gate of Shock", "keyword": "The initiating shock", "description": "A need for shock and novelty in order to feel truly alive and to push past your limits." },
+    "52": { "name": "Gate of Stillness", "keyword": "Focused calm", "description": "The ability to stay perfectly still and focused in order to observe, then act." },
+    "53": { "name": "Gate of Beginnings", "keyword": "Starting cycles", "description": "An energy gifted at starting new cycles, less so at carrying them through alone." },
+    "54": { "name": "Gate of Ambition", "keyword": "Drive to rise", "description": "An instinctive ambition to rise socially and materially in life." },
+    "55": { "name": "Gate of Spirit", "keyword": "Mood and spirit", "description": "An intense sensitivity to shifts in mood, ground for deep emotional and spiritual richness." },
+    "56": { "name": "Gate of the Wanderer", "keyword": "Stories to tell", "description": "A taste for storytelling and for stimulating others' interest through lived experience." },
+    "57": { "name": "Gate of Intuitive Clarity", "keyword": "Instant intuition", "description": "A sharpened instinctive intuition, able to perceive correctly and quickly in the present moment." },
+    "58": { "name": "Gate of Vitality", "keyword": "Joy of living", "description": "A natural vitality and joy of living that drive a constant wish to improve things." },
+    "59": { "name": "Gate of Sexuality", "keyword": "Intimacy and bonding", "description": "An energy oriented toward seeking intimacy and dissolving the barriers between people." },
+    "60": { "name": "Gate of Limitation", "keyword": "Accepting limits", "description": "The ability to accept necessary limits as the starting point for any real innovation." },
+    "61": { "name": "Gate of Mystery", "keyword": "Inner truth", "description": "An inner quest for deep truths, sometimes hard to put into simple words." },
+    "62": { "name": "Gate of Detail", "keyword": "Precision in detail", "description": "A talent for organizing and expressing facts with precision and logic." },
+    "63": { "name": "Gate of Doubt", "keyword": "Questioning doubt", "description": "A natural doubt that drives you to keep questioning what seems already settled." },
+    "64": { "name": "Gate of Confusion", "keyword": "Impressions of the past", "description": "An accumulation of past impressions, sometimes confusing, waiting to be clarified over time." }
+  }
+}

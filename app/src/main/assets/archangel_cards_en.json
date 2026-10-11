@@ -1,0 +1,354 @@
+[
+  {
+    "id": 100, "name": "Archangel Michael", "keyword": "Protection & Courage", "image": "archcard_100",
+    "spirituel": {"situation": "Michael stands beside you, his sword of light cutting through the doubts that hold you back. A protective force surrounds you, inviting you to walk your spiritual path without fear.", "conseil": "Call on Michael before every important decision; his presence dissolves the fears clouding your judgment."},
+    "amour": {"situation": "In your love life, Michael protects you from relationships that drain you and encourages you to guard your heart with courage.", "conseil": "Dare to set clear boundaries: what is done with love and firmness strengthens a sincere bond."},
+    "travail": {"situation": "Professionally, Michael gives you the courage to face a situation that has long required your strength.", "conseil": "Stand your ground fearlessly in a conflict or important decision; your integrity will be your best protection."},
+    "sante": {"situation": "Michael watches over your vitality and helps you push back whatever weighs on your body or mind.", "conseil": "Step away from environments or people that drain your energy in order to heal."},
+    "famille": {"situation": "Within your home, Michael spreads a shield of protection around those you love.", "conseil": "Protect family harmony by being honest rather than avoiding difficult topics."}
+  },
+  {
+    "id": 101, "name": "Archangel Gabriel", "keyword": "Communication & Creation", "image": "archcard_101",
+    "spirituel": {"situation": "Gabriel brings you an important announcement or invites you to express your creative truth; listen to the messages reaching you, they come from heaven.", "conseil": "Find silence every day to better hear the voice of the divine."},
+    "amour": {"situation": "An important message about your love life is approaching — a declaration, a clarification, or a truth to express.", "conseil": "Dare to say what you feel rather than leaving it unspoken."},
+    "travail": {"situation": "Gabriel favors professional communication, announcements and new creative projects waiting to be born.", "conseil": "Express your ideas without waiting for perfection: the message matters more than the form."},
+    "sante": {"situation": "Your body is sending you messages it is time to listen to carefully rather than ignore.", "conseil": "Note what you feel physically, these signals are a precious communication."},
+    "famille": {"situation": "An unspoken communication in your family is waiting to be expressed — a word, some news, a truth.", "conseil": "Choose sincerity over silence: speaking frees what weighs on you."}
+  },
+  {
+    "id": 102, "name": "Archangel Raphael", "keyword": "Healing & Home", "image": "archcard_102",
+    "spirituel": {"situation": "Raphael bathes your soul in his emerald green light and works on every form of inner healing.", "conseil": "Trust the healing process underway and let divine grace restore you."},
+    "amour": {"situation": "An old emotional wound is healing under Raphael's benevolent action.", "conseil": "Give yourself time to heal before rushing into a new relationship."},
+    "travail": {"situation": "Raphael restores the energy drained by work and helps you regain your professional momentum.", "conseil": "Give yourself a real break to prevent burnout rather than endure it."},
+    "sante": {"situation": "Raphael, the great healer, acts directly on your body; trust the healing process underway.", "conseil": "Take care of your health consistently and don't hesitate to ask for help."},
+    "famille": {"situation": "Healing is needed in a wounded family relationship; Raphael works to soothe hearts.", "conseil": "Open a kind dialogue rather than letting the family wound fester."}
+  },
+  {
+    "id": 103, "name": "Archangel Uriel", "keyword": "Practical Wisdom", "image": "archcard_103",
+    "spirituel": {"situation": "Uriel lights up your path when you feel lost, bringing sudden ideas and luminous clarity.", "conseil": "Meditate on his golden flame: solutions naturally emerge from inner silence."},
+    "amour": {"situation": "A truth about your relationship suddenly becomes clear thanks to Uriel's light.", "conseil": "Trust this intuition rather than continuing to doubt."},
+    "travail": {"situation": "Uriel brings the idea or solution that was missing from a complex professional problem.", "conseil": "Take a step back before acting: the right answer is already within you."},
+    "sante": {"situation": "New clarity helps you understand what your body truly needs.", "conseil": "Listen to your intuition about your health rather than seeking answers only outside yourself."},
+    "famille": {"situation": "Uriel sheds light on a confusing family situation and helps you understand what is really happening.", "conseil": "Take time to reflect before reacting in the heat of a family dispute."}
+  },
+  {
+    "id": 104, "name": "Archangel Chamuel", "keyword": "Love & Relationships", "image": "archcard_104",
+    "spirituel": {"situation": "Chamuel opens your heart to a deep peace and reconnects you to the unconditional love within you.", "conseil": "Let Chamuel heal your heart's wounds so you can find inner peace."},
+    "amour": {"situation": "Chamuel strengthens bonds of authentic love and helps recover what seemed lost — a person or a feeling.", "conseil": "Reopen your heart without fear, the love you seek is not so far away."},
+    "travail": {"situation": "Chamuel eases relational tension at work and fosters a more harmonious atmosphere.", "conseil": "Favor kindness in your professional exchanges, it defuses many conflicts."},
+    "sante": {"situation": "Self-love, essential to your balance, deserves to be cultivated with Chamuel's gentleness.", "conseil": "Take care of yourself as you would take care of a loved one."},
+    "famille": {"situation": "Chamuel strengthens family bonds and helps restore peace after a period of tension.", "conseil": "Express your affection openly, even in the small gestures of everyday life."}
+  },
+  {
+    "id": 105, "name": "Archangel Jophiel", "keyword": "Beauty & Clarity of Mind", "image": "archcard_105",
+    "spirituel": {"situation": "Jophiel transforms dark thoughts into light and reveals the hidden beauty on your spiritual path.", "conseil": "Look for beauty around you and let it transform how you see the world."},
+    "amour": {"situation": "Jophiel helps you see the true beauty of your relationship, beyond appearances or passing tensions.", "conseil": "Bring a fresh, kind gaze to the person you love."},
+    "travail": {"situation": "A more creative and positive approach will transform a professional project that felt dull.", "conseil": "Bring beauty and creativity into your tasks, even the most routine ones."},
+    "sante": {"situation": "Jophiel invites you to care for your body as a precious work of art and to cultivate positive thoughts.", "conseil": "Replace a negative thought about your body with a word of gratitude."},
+    "famille": {"situation": "Jophiel beautifies the atmosphere of your home and transforms how you view family tensions.", "conseil": "Make a simple gesture to beautify your home, it will lift the energy of your household."}
+  },
+  {
+    "id": 106, "name": "Archangel Zadkiel", "keyword": "Forgiveness & Transformation", "image": "archcard_106",
+    "spirituel": {"situation": "Zadkiel brings forgiveness and karmic release, dissolving the old patterns that bind you.", "conseil": "Forgiveness — of yourself and others — is the key to your inner freedom."},
+    "amour": {"situation": "An old resentment is holding your relationship back; Zadkiel's violet flame invites you to transmute it.", "conseil": "Forgive what can be forgiven, not for the other person, but to free your own heart."},
+    "travail": {"situation": "An unresolved professional conflict needs to be transformed rather than avoided.", "conseil": "Take the first step toward peace, even if the other person doesn't deserve it yet."},
+    "sante": {"situation": "Undigested emotional tensions weigh on your body; Zadkiel invites you to release them.", "conseil": "Practice forgiveness as a form of care, it lightens both heart and body."},
+    "famille": {"situation": "An old family wound is waiting to be transformed through forgiveness rather than rehashed.", "conseil": "Dare to have the freeing conversation, even if uncomfortable at first."}
+  },
+  {
+    "id": 107, "name": "Archangel Azrael", "keyword": "Transition & Comfort", "image": "archcard_107",
+    "spirituel": {"situation": "Azrael gently accompanies your soul through a transition; the end of a cycle announces a bright new beginning.", "conseil": "Allow yourself to move through change without resisting, it leads you toward more light."},
+    "amour": {"situation": "A page is turning in your love life; Azrael helps you move through this transition gently.", "conseil": "Give yourself time to grieve before projecting yourself into something else."},
+    "travail": {"situation": "A professional cycle is coming to an end, opening the way to a new stage.", "conseil": "Let go of what is over rather than clinging to it out of habit."},
+    "sante": {"situation": "A life transition is affecting your energy; allow yourself the gentleness needed to move through it.", "conseil": "Take care of yourself during this period of change rather than rushing it."},
+    "famille": {"situation": "A transition is touching your home — a departure, a change, a passage to welcome with comfort.", "conseil": "Support your loved ones through this passage with presence rather than haste."}
+  },
+  {
+    "id": 108, "name": "Archangel Ariel", "keyword": "Freedom & Nature", "image": "archcard_108",
+    "spirituel": {"situation": "Ariel watches over the elemental forces and encourages you to connect with Mother Earth to nourish your soul.", "conseil": "Spend time in nature, it is your spiritual sanctuary."},
+    "amour": {"situation": "A relationship is taking root and growing naturally, like a plant well exposed to light.", "conseil": "Let your relationship grow at its own natural pace, without forcing it."},
+    "travail": {"situation": "Ariel ensures your material needs will be met if you stay true to your deepest values.", "conseil": "Connect with more natural working methods aligned with your real needs."},
+    "sante": {"situation": "Ariel invites you to reconnect your body to natural rhythms to restore balance and vitality.", "conseil": "Spend time outdoors, walk, breathe: nature restores your energy."},
+    "famille": {"situation": "Ariel supports material abundance for your home and encourages a simpler, more natural way of life.", "conseil": "Cultivate gratitude for what your home already has."}
+  },
+  {
+    "id": 109, "name": "Archangel Metatron", "keyword": "Teaching & High Vibration", "image": "archcard_109",
+    "spirituel": {"situation": "Metatron oversees your spiritual evolution and reminds you that your soul has a precise plan to fulfill.", "conseil": "Trust the greater design even when the path seems unclear."},
+    "amour": {"situation": "This relationship is part of a bigger plan you don't fully perceive yet.", "conseil": "Stay open to the lessons this relationship teaches you about yourself."},
+    "travail": {"situation": "Metatron aligns you with your true professional mission, beyond simple daily obligations.", "conseil": "Refocus on what truly matters to you in your work."},
+    "sante": {"situation": "Your body is the sacred vehicle of your soul's mission; Metatron invites you to care for it as such.", "conseil": "Honor your body as a precious instrument serving your path."},
+    "famille": {"situation": "Each member of your family plays a role in the greater design of your soul's evolution.", "conseil": "See family bonds as lessons rather than mere obligations."}
+  },
+  {
+    "id": 110, "name": "Archangel Haniel", "keyword": "Grace & Intuition", "image": "archcard_110",
+    "spirituel": {"situation": "Haniel amplifies your intuitive gifts and helps you navigate life's cycles with grace.", "conseil": "Align yourself with the moon phases to sharpen your intuition and clarify your desires."},
+    "amour": {"situation": "Your intuition reveals a truth about your relationship that reason alone could not see.", "conseil": "Trust what your heart perceives, even without tangible proof."},
+    "travail": {"situation": "A professional cycle is reaching its natural end, making way for a new phase.", "conseil": "Respect the natural rhythm of your projects rather than forcing them."},
+    "sante": {"situation": "Haniel invites you to honor your body's natural cycles, especially those linked to rest and feminine energy.", "conseil": "Allow yourself rest whenever your body calls for it."},
+    "famille": {"situation": "Your intuition senses something important about a loved one, even without a word spoken.", "conseil": "Trust your feelings in your family relationships, they are rarely misleading."}
+  },
+  {
+    "id": 111, "name": "Archangel Jeremiel", "keyword": "Life Review & Transformation", "image": "archcard_111",
+    "spirituel": {"situation": "Jeremiel helps you review your life with kindness and receive messages through your dreams.", "conseil": "Look back on your journey to draw out its wisdom, without judgment."},
+    "amour": {"situation": "It is time for an honest, compassionate review of your love life.", "conseil": "Observe the patterns that repeat in your relationships to better understand them."},
+    "travail": {"situation": "A review of your professional journey is needed to adjust your course with clarity.", "conseil": "Step back from your career before deciding what comes next."},
+    "sante": {"situation": "Your dreams carry important messages about your inner state; Jeremiel invites you to pay attention.", "conseil": "Keep a dream journal to better understand the signals from your body and soul."},
+    "famille": {"situation": "A compassionate look back at your family history brings new understanding.", "conseil": "View your family history through the eyes of love rather than judgment."}
+  },
+  {
+    "id": 112, "name": "Archangel Raguel", "keyword": "Justice & Harmony", "image": "archcard_112",
+    "spirituel": {"situation": "Raguel restores divine order and harmony in your life whenever imbalance sets in.", "conseil": "Call on him to regain balance and inner peace."},
+    "amour": {"situation": "A relational imbalance needs to be restored with justice and gentleness.", "conseil": "Seek fairness in your relationship rather than letting an imbalance settle in."},
+    "travail": {"situation": "Raguel fosters cooperation and fairness in your professional relationships.", "conseil": "Favor dialogue and mediation in the face of a team conflict."},
+    "sante": {"situation": "Raguel invites you to restore harmony between your body, mind and pace of life.", "conseil": "Seek balance rather than excess in your daily habits."},
+    "famille": {"situation": "Family conflicts call for Raguel's soothing intervention to restore harmony.", "conseil": "Call for mediation and fairness to resolve a lasting family disagreement."}
+  },
+  {
+    "id": 113, "name": "Archangel Sandalphon", "keyword": "Grounding & Manifestation", "image": "archcard_113",
+    "spirituel": {"situation": "Sandalphon carries your prayers to the divine throne; your prayer has been heard, the answer is on its way.", "conseil": "Return to your practice of prayer or meditation to strengthen your connection."},
+    "amour": {"situation": "Your most sincere wishes about love have been heard by the divine.", "conseil": "Clearly state what you truly desire in your heart."},
+    "travail": {"situation": "Sandalphon grounds your spirituality in the concrete and supports the manifestation of your earthly projects.", "conseil": "Combine spiritual intention with concrete action to move your project forward."},
+    "sante": {"situation": "Sandalphon invites you to ground your spiritual energy in a healthy, rooted body.", "conseil": "Practice grounding exercises such as walking barefoot or deep breathing."},
+    "famille": {"situation": "A silent prayer for your family has been heard; peace is on its way.", "conseil": "Ground spirituality in your home through simple shared rituals."}
+  },
+  {
+    "id": 114, "name": "Archangel Raziel", "keyword": "Mysteries & Knowledge", "image": "archcard_114",
+    "spirituel": {"situation": "Raziel reveals hidden esoteric knowledge to those who are ready to receive it.", "conseil": "Stay open to the mysteries of the universe gradually opening to you."},
+    "amour": {"situation": "A hidden truth about your relationship is about to be revealed.", "conseil": "Purify your intention before seeking to unveil this mystery."},
+    "travail": {"situation": "A key piece of information, hidden until now, will soon shed light on a professional decision.", "conseil": "Stay alert to the subtle signs revealing the truth of a situation."},
+    "sante": {"situation": "Raziel invites you to explore the deep, hidden causes of a physical imbalance.", "conseil": "Look beyond visible symptoms for the real source of the problem."},
+    "famille": {"situation": "An old family secret is seeking to emerge, to finally be understood and healed.", "conseil": "Welcome the family truth with openness rather than fear."}
+  },
+  {
+    "id": 115, "name": "Archangel Muriel", "keyword": "Emotions & Intuition", "image": "archcard_115",
+    "spirituel": {"situation": "Muriel watches over your emotions with tenderness; they are sacred messages worth listening to.", "conseil": "Trust the intelligence of your heart rather than reason alone."},
+    "amour": {"situation": "Your emotions are speaking clearly about the true state of your relationship.", "conseil": "Honor what you feel without minimizing it or running from it."},
+    "travail": {"situation": "Your professional gut feeling deserves to be taken seriously rather than ignored.", "conseil": "Listen to your intuition before making an important decision at work."},
+    "sante": {"situation": "Suppressed emotions are weighing on your body; Muriel invites you to let them flow.", "conseil": "Give yourself space to feel and express what you carry in silence."},
+    "famille": {"situation": "A family tension is above all emotional and needs to be met with gentleness.", "conseil": "Name what you feel rather than letting it simmer."}
+  },
+  {
+    "id": 116, "name": "Archangel Cassiel", "keyword": "Karma & Patience", "image": "archcard_116",
+    "spirituel": {"situation": "Cassiel teaches that everything happens in its own time and that every trial carries a precious karmic lesson.", "conseil": "Be patient, the divine clock is perfectly set."},
+    "amour": {"situation": "A romantic situation needs time to fully resolve; patience is your ally.", "conseil": "Don't rush what needs to ripen at its own pace."},
+    "travail": {"situation": "A professional project requires patience before it bears fruit.", "conseil": "Persevere without haste, results will come in their own time."},
+    "sante": {"situation": "Your body needs time to fully regenerate; Cassiel invites you to patience.", "conseil": "Respect the natural pace of healing rather than rushing it."},
+    "famille": {"situation": "A family reconciliation will happen with time, not through haste.", "conseil": "Let time do its work in a delicate family relationship."}
+  },
+  {
+    "id": 117, "name": "Archangel Barachiel", "keyword": "Blessings & Luck", "image": "archcard_117",
+    "spirituel": {"situation": "Barachiel scatters blessings along your path; stay open to the everyday miracles around you.", "conseil": "Cultivate gratitude to better receive the gifts life is already offering you."},
+    "amour": {"situation": "A happy coincidence or a blessed encounter could light up your love life.", "conseil": "Stay attentive to the synchronicities appearing in your love life."},
+    "travail": {"situation": "An unexpected and lucky professional opportunity is presenting itself to you.", "conseil": "Seize this chance with gratitude rather than suspicion."},
+    "sante": {"situation": "A welcome and almost unhoped-for improvement is touching your health.", "conseil": "Welcome this good news with gratitude and keep up your efforts."},
+    "famille": {"situation": "Barachiel, patron of the family, blesses your home with happy synchronicities.", "conseil": "Celebrate the small family joys, they are blessings in disguise."}
+  },
+  {
+    "id": 118, "name": "Archangel Seraphiel", "keyword": "Pure Love & Elevation", "image": "archcard_118",
+    "spirituel": {"situation": "Seraphiel lifts you toward the highest frequencies of pure love and transforms your inner vibration.", "conseil": "Purify your space and elevate your thoughts toward the light."},
+    "amour": {"situation": "Your relationship is being invited to rise toward a purer, more selfless form of love.", "conseil": "Love without expectation or condition, that is the key to this elevation."},
+    "travail": {"situation": "A more elevated, inspired vision of your career is seeking to emerge.", "conseil": "Align your work with higher values rather than mere obligation."},
+    "sante": {"situation": "Seraphiel invites you to raise your body's vibration through purer thoughts and practices.", "conseil": "Adopt habits that nourish your body as much as your spirit."},
+    "famille": {"situation": "A lighter, brighter atmosphere is seeking to settle into your home.", "conseil": "Raise the tone of family exchanges toward more gentleness and kindness."}
+  },
+  {
+    "id": 119, "name": "Archangel Puriel", "keyword": "Purification & Sacred Fire", "image": "archcard_119",
+    "spirituel": {"situation": "Puriel burns away energetic impurities and purifies your aura with his sacred fire.", "conseil": "Let this deep purification transform your being without resisting it."},
+    "amour": {"situation": "Purification is needed in your relationship to clear away what is no longer aligned.", "conseil": "Honestly name what needs to be clarified between you."},
+    "travail": {"situation": "A major cleanup — of methods, habits or collaborations — is needed in your professional life.", "conseil": "Clear away what needlessly clutters your work to regain clarity."},
+    "sante": {"situation": "Puriel invites a deep detox, both physical and energetic.", "conseil": "Simplify your diet and environment to ease this purification."},
+    "famille": {"situation": "A cleansing of family relationships is underway, even if sometimes uncomfortable.", "conseil": "Accept that certain truths must be spoken to purify the family atmosphere."}
+  },
+  {
+    "id": 120, "name": "Archangel Sachiel", "keyword": "Abundance & Generosity", "image": "archcard_120",
+    "spirituel": {"situation": "Sachiel opens the floodgates of heavenly prosperity and teaches that true wealth flows from generosity of heart.", "conseil": "Give freely and receive with grace."},
+    "amour": {"situation": "A generosity of heart nourishes and grows your romantic relationship.", "conseil": "Give without counting in your relationship, emotional abundance will return to you."},
+    "travail": {"situation": "Sachiel favors material prosperity linked to your work and projects.", "conseil": "Examine your deep beliefs about money to let prosperity manifest."},
+    "sante": {"situation": "An abundance of vital energy is available to you if you know how to receive it.", "conseil": "Nourish your body with generosity rather than restriction."},
+    "famille": {"situation": "Abundance and generosity flow naturally within your home.", "conseil": "Share generously with your loved ones, the wealth of the heart multiplies when given."}
+  },
+  {
+    "id": 121, "name": "Angel of Protection", "keyword": "Protection & Security", "image": "archcard_121",
+    "spirituel": {"situation": "Your guardian angel spreads protective wings around your spiritual path.", "conseil": "Strengthen your angelic connection through daily prayer or meditation."},
+    "amour": {"situation": "A protective light surrounds your romantic relationship and your most precious bonds.", "conseil": "Trust the invisible shield protecting your relationship."},
+    "travail": {"situation": "Your professional projects are under the loving protection of your guardian angel.", "conseil": "Move forward with confidence, you are supported even when you don't feel it."},
+    "sante": {"situation": "A protective white light surrounds your body and well-being right now.", "conseil": "Let go of your health worries and move forward with confidence."},
+    "famille": {"situation": "Your guardian angel watches over your home and those dear to you.", "conseil": "Entrust the safety of your home to this invisible, loving protection."}
+  },
+  {
+    "id": 122, "name": "Angel of Healing", "keyword": "Healing & Care", "image": "archcard_122",
+    "spirituel": {"situation": "An angel of healing places luminous hands on what is suffering within you, on a spiritual level.", "conseil": "Trust the divine healing process underway."},
+    "amour": {"situation": "A deep healing is taking place in your heart, preparing the ground for a healthier love.", "conseil": "Give yourself time to heal before welcoming a new relationship."},
+    "travail": {"situation": "A difficult professional situation is gently mending.", "conseil": "Allow healing energy to flow by releasing all resistance."},
+    "sante": {"situation": "Your body, heart or mind is receiving exactly the care it needs right now.", "conseil": "Trust the healing process rather than trying to rush it."},
+    "famille": {"situation": "An old family wound is being soothed by this healing energy.", "conseil": "Open yourself to receiving help to heal a painful family relationship."}
+  },
+  {
+    "id": 123, "name": "Angel of Love", "keyword": "Love & Tenderness", "image": "archcard_123",
+    "spirituel": {"situation": "The angel of love wraps you in a pink light nourishing self-love and love of the divine.", "conseil": "Open your heart without fear, you fully deserve to be loved."},
+    "amour": {"situation": "A relationship is deepening or a reconciliation is happening under this angel's gentle influence.", "conseil": "Dare to express your love openly, without fear of rejection."},
+    "travail": {"situation": "A sincere love for what you do is transforming your relationship to work.", "conseil": "Choose to invest yourself in what truly nourishes your heart."},
+    "sante": {"situation": "Self-love is a powerful remedy for your physical and emotional balance.", "conseil": "Treat your body with the same tenderness you would offer a loved one."},
+    "famille": {"situation": "Love is flowing more freely again within your home.", "conseil": "Express your affection to loved ones without waiting for the perfect moment."}
+  },
+  {
+    "id": 124, "name": "Angel of Abundance", "keyword": "Abundance & Trust", "image": "archcard_124",
+    "spirituel": {"situation": "The angel of abundance pours golden rains of prosperity aligned with your spiritual path.", "conseil": "Trust the universe, which provides for those who act with integrity."},
+    "amour": {"situation": "An emotional abundance — tenderness, attention, presence — is unfolding in your love life.", "conseil": "Welcome this emotional abundance without feeling unworthy of receiving it."},
+    "travail": {"situation": "Your material needs related to work are being taken care of by the divine.", "conseil": "Release your financial fears and focus on aligned action."},
+    "sante": {"situation": "An abundance of vital energy is flowing toward your body if you allow it to circulate.", "conseil": "Cultivate thoughts of abundance regarding your own vitality."},
+    "famille": {"situation": "The material and emotional abundance of your home is supported by this loving angel.", "conseil": "Share your home's prosperity with gratitude rather than worry."}
+  },
+  {
+    "id": 125, "name": "Angel of Peace", "keyword": "Peace & Serenity", "image": "archcard_125",
+    "spirituel": {"situation": "The angel of peace descends on your life like a dove carrying deep serenity.", "conseil": "Breathe and welcome this divine peace that surpasses all understanding."},
+    "amour": {"situation": "Conflicts in your relationship are resolving, giving way to renewed harmony.", "conseil": "Favor calm dialogue over confrontation in your relationship."},
+    "travail": {"situation": "A peaceful resolution ends a professional tension that had lasted too long.", "conseil": "Seek compromise rather than needing to be right at all costs."},
+    "sante": {"situation": "A deep serenity is soothing your nervous system and restoring your inner balance.", "conseil": "Give yourself moments of calm to let this peace settle in lastingly."},
+    "famille": {"situation": "Family unrest is giving way to a welcome calm and renewed dialogue.", "conseil": "Be the one who initiates peace in a family disagreement."}
+  },
+  {
+    "id": 126, "name": "Angel of Wisdom", "keyword": "Wisdom & Discernment", "image": "archcard_126",
+    "spirituel": {"situation": "The angel of wisdom casts a golden light on your mind and guides you toward the right decision.", "conseil": "Trust the deep knowledge quietly rising within you."},
+    "amour": {"situation": "A wisdom of the heart, more than cold logic, guides you in your love life.", "conseil": "Slow down before settling an important question about your relationship."},
+    "travail": {"situation": "A delicate professional decision calls for wisdom rather than haste.", "conseil": "Seek guidance that comes from higher than your mind alone."},
+    "sante": {"situation": "A wiser understanding of your real needs is emerging regarding your health.", "conseil": "Listen to the wise voice of your body rather than outside pressures."},
+    "famille": {"situation": "The wisdom of a loved one or family figure sheds light on a delicate situation.", "conseil": "Welcome an elder's kind advice with an open mind."}
+  },
+  {
+    "id": 127, "name": "Angel of Joy", "keyword": "Joy & Lightness", "image": "archcard_127",
+    "spirituel": {"situation": "The angel of joy reminds you that lightness and happiness are your natural state.", "conseil": "Look for the small everyday miracles, they are everywhere for those who notice."},
+    "amour": {"situation": "Joy and lightness are returning to your relationship, bringing back laughter and closeness.", "conseil": "Do something fun together, shared joy strengthens bonds."},
+    "travail": {"situation": "Rediscovering pleasure in your work is the key to breaking free of a dull period.", "conseil": "Bring a little lightness into your professional daily routine."},
+    "sante": {"situation": "Joy is a powerful remedy; it nourishes your body as much as positive thoughts do.", "conseil": "Laugh, play, celebrate: it's also a way of taking care of yourself."},
+    "famille": {"situation": "Simple, shared moments of joy are worth cultivating within your home.", "conseil": "Plan a light, joyful moment with your loved ones, even a brief one."}
+  },
+  {
+    "id": 128, "name": "Angel of Light", "keyword": "Light & Radiance", "image": "archcard_128",
+    "spirituel": {"situation": "The angel of light reminds you that you yourself are a radiant being of light.", "conseil": "Let your inner light shine without holding back or false modesty."},
+    "amour": {"situation": "Your relationship benefits from more transparency and authenticity.", "conseil": "Be the light in your relationship by choosing clarity over unspoken things."},
+    "travail": {"situation": "Your personal radiance positively lights up your professional environment.", "conseil": "Don't be afraid to shine in your work, it inspires others too."},
+    "sante": {"situation": "A radiant vitality is seeking to flow fully through your body.", "conseil": "Protect your energetic space to preserve this inner light."},
+    "famille": {"situation": "Your radiant presence soothes and lights up the atmosphere of your home.", "conseil": "Be a beacon of calm for your loved ones during a troubled time."}
+  },
+  {
+    "id": 129, "name": "Angel of Courage", "keyword": "Courage & Growth", "image": "archcard_129",
+    "spirituel": {"situation": "The angel of courage breathes into you the bravery needed to take your next spiritual steps.", "conseil": "It is not the absence of fear but the choice to move forward despite it that defines true courage."},
+    "amour": {"situation": "It's time to dare what you've long put off in your love life — a declaration, a breakup, a fresh start.", "conseil": "Dare, you already have everything you need within you."},
+    "travail": {"situation": "A bold professional decision awaits you, even if it intimidates you.", "conseil": "Identify precisely what scares you and name it, light always dispels shadow."},
+    "sante": {"situation": "The courage to make a beneficial change for your health is presenting itself to you.", "conseil": "Take the first step, however small, toward a healthier lifestyle."},
+    "famille": {"situation": "An important family conversation, long avoided, now calls for courage.", "conseil": "Dare to say what needs to be said, gently but without detours."}
+  },
+  {
+    "id": 130, "name": "Angel of Trust", "keyword": "Trust & Surrender", "image": "archcard_130",
+    "spirituel": {"situation": "The angel of trust invites you to trust the divine plan even without seeing where it leads.", "conseil": "Release control and let divine grace work at its own pace."},
+    "amour": {"situation": "It's time to trust in love again, despite past wounds.", "conseil": "Move forward step by step in trust rather than expecting everything at once."},
+    "travail": {"situation": "Trust your professional path, even when the direction isn't yet clear.", "conseil": "Let go of the need to control everything in your work."},
+    "sante": {"situation": "Trust in your body and its ability to regulate itself is essential right now.", "conseil": "Trust your body's signals rather than fighting them."},
+    "famille": {"situation": "Rebuilding trust with a loved one is a possible path, step by step.", "conseil": "Grant measured, gradual trust rather than all or nothing."}
+  },
+  {
+    "id": 131, "name": "Angel of Transformation", "keyword": "Transformation & Renewal", "image": "archcard_131",
+    "spirituel": {"situation": "You are going through a deep and necessary metamorphosis, like a butterfly before taking flight.", "conseil": "Trust this process, what emerges will be more beautiful than what was."},
+    "amour": {"situation": "Your relationship is going through a necessary transformation that will make it more authentic.", "conseil": "Embrace change in your relationship rather than resisting it."},
+    "travail": {"situation": "A major career shift or evolution is taking shape.", "conseil": "Accept the temporary discomfort of change, it precedes a beautiful evolution."},
+    "sante": {"situation": "Your body is going through a phase of transformation that requires patience and kindness.", "conseil": "Support this physical change rather than fighting it."},
+    "famille": {"situation": "Your family dynamic is transforming, opening the way to new balances.", "conseil": "Welcome family changes as an evolution rather than a loss."}
+  },
+  {
+    "id": 132, "name": "Angel of Forgiveness", "keyword": "Forgiveness & Release", "image": "archcard_132",
+    "spirituel": {"situation": "The angel of forgiveness helps you set down the burden of resentment to find inner peace.", "conseil": "Forgiveness is not a gift for the other person, it's a gift you give yourself."},
+    "amour": {"situation": "A forgiveness, toward the other or toward yourself, would free your relationship from an old weight.", "conseil": "Take the time you need to forgive, without forcing yourself."},
+    "travail": {"situation": "An unresolved professional resentment is needlessly draining your energy.", "conseil": "Release this resentment to regain your full capacity to act."},
+    "sante": {"situation": "Forgiveness also frees the body from the emotional weight it silently carries.", "conseil": "Consider forgiveness as care that is both physical and emotional."},
+    "famille": {"situation": "An old family wound is waiting to be set down through forgiveness rather than dwelt upon.", "conseil": "Grant yourself, or a loved one, the forgiveness that frees everyone."}
+  },
+  {
+    "id": 133, "name": "Angel of Truth", "keyword": "Truth & Authenticity", "image": "archcard_133",
+    "spirituel": {"situation": "The angel of truth invites you to live in total authenticity with who you truly are.", "conseil": "Have the courage to look at things exactly as they truly are."},
+    "amour": {"situation": "A sincere truth, even a difficult one, needs to be expressed to free your relationship.", "conseil": "Speak your truth gently rather than staying silent out of fear of conflict."},
+    "travail": {"situation": "Professional authenticity — saying what you truly think — is becoming necessary.", "conseil": "Stop hiding behind masks in your professional life."},
+    "sante": {"situation": "A truth about your health deserves to be faced rather than avoided.", "conseil": "Honestly face what you already know deep down."},
+    "famille": {"situation": "A family truth kept silent for a long time is finally seeking to be told.", "conseil": "Sincerity, even when difficult to express, frees and heals your family."}
+  },
+  {
+    "id": 134, "name": "Angel of Miracles", "keyword": "Miracles & Faith", "image": "archcard_134",
+    "spirituel": {"situation": "A miracle, big or small, is about to manifest in your spiritual life.", "conseil": "Stay alert to the signs and synchronicities multiplying around you."},
+    "amour": {"situation": "The impossible becomes possible in your love life for those who believe with the faith of the heart.", "conseil": "Reopen your heart to what's possible, even when reason says otherwise."},
+    "travail": {"situation": "An unexpected, almost miraculous solution is appearing for a stuck professional problem.", "conseil": "Keep faith even when the situation seems to have no visible way out."},
+    "sante": {"situation": "An unexpected improvement in your health might well surprise you.", "conseil": "Just a tiny grain of faith is enough to welcome this miracle."},
+    "famille": {"situation": "A family miracle — a reconciliation, good news — is brewing behind the scenes.", "conseil": "Stay open to the unexpected in your family life."}
+  },
+  {
+    "id": 135, "name": "Angel of Grace", "keyword": "Grace & Gentleness", "image": "archcard_135",
+    "spirituel": {"situation": "The angel of grace wraps you in a divine elegance that transcends difficult circumstances.", "conseil": "Grace is a state of being you can choose at any moment."},
+    "amour": {"situation": "Facing a relationship difficulty with grace and gentleness will transform the outcome of the situation.", "conseil": "Choose gentleness over harshness in a moment of romantic tension."},
+    "travail": {"situation": "Showing grace and elegance in a delicate professional situation will pay off.", "conseil": "Stay dignified and fluid even when facing a professional setback."},
+    "sante": {"situation": "Welcoming your body with grace, imperfections and all, nourishes your deep balance.", "conseil": "Treat your body with gentleness rather than harshness or judgment."},
+    "famille": {"situation": "More gentleness and elegance in your family exchanges would ease many tensions.", "conseil": "Choose grace over rigidity in a family disagreement."}
+  },
+  {
+    "id": 136, "name": "Angel of Hope", "keyword": "Hope & Light", "image": "archcard_136",
+    "spirituel": {"situation": "The angel of hope arrives exactly when you need it most, carrying light into darkness.", "conseil": "Keep the flame of hope alight in your heart, however tiny."},
+    "amour": {"situation": "Don't despair about your love life: a favorable outcome exists even if not yet visible.", "conseil": "A breath of faith in love can reignite everything."},
+    "travail": {"situation": "Even in a difficult professional period, a positive outcome is quietly taking shape.", "conseil": "Don't give up now, the situation is about to become clearer."},
+    "sante": {"situation": "Hope is a powerful ally for your healing, don't let discouragement extinguish it.", "conseil": "Cultivate hopeful thoughts about your health, they support the body."},
+    "famille": {"situation": "Hope for improvement in your family situation is well-founded and worth nurturing.", "conseil": "Don't lose hope about a loved one, things can still work out."}
+  },
+  {
+    "id": 137, "name": "Angel of Children", "keyword": "Childhood & Wonder", "image": "archcard_137",
+    "spirituel": {"situation": "This angel awakens your inner child — wonder, curiosity and spontaneous joy.", "conseil": "Play, create, dream: your inner child has important things to tell you."},
+    "amour": {"situation": "Rediscovering the spontaneity and carefree spirit of the beginning would rejuvenate your relationship.", "conseil": "Let a part of childhood and lightness express itself in your relationship."},
+    "travail": {"situation": "A more playful and creative approach to your work could unlock many things.", "conseil": "Allow yourself to play with your ideas before judging them too seriously."},
+    "sante": {"situation": "Caring for your inner child, sometimes wounded, nourishes your overall balance.", "conseil": "Bring a loving gaze to the child you once were."},
+    "famille": {"situation": "The children in your life, or your own childhood, are at the heart of this period.", "conseil": "Give special, loving attention to the youngest members of your family."}
+  },
+  {
+    "id": 138, "name": "Angel of Animals", "keyword": "Animal Connection", "image": "archcard_138",
+    "spirituel": {"situation": "The angel of animals reminds you of the messages creatures carry into your spiritual life.", "conseil": "Stay alert to the signs the animal world is sending you."},
+    "amour": {"situation": "The simple, unconditional tenderness of an animal can inspire how you love.", "conseil": "Observe the loyalty and simple presence of animals as a relational model."},
+    "travail": {"situation": "An animal companion brings quiet but valuable support during this professional period.", "conseil": "Give your four-legged companion a break, it will repay you with calm."},
+    "sante": {"situation": "Connection with the animal world nourishes your physical and emotional balance.", "conseil": "Spend time with an animal, its calming energy supports your well-being."},
+    "famille": {"situation": "A pet holds an important and beneficial place in the balance of your home.", "conseil": "Care for the animal that depends on you with the same attention as a loved one."}
+  },
+  {
+    "id": 139, "name": "Angel of Home", "keyword": "Home & Harmony", "image": "archcard_139",
+    "spirituel": {"situation": "The angel of home blesses your living space and fills it with a spiritual atmosphere of peace.", "conseil": "Regularly purify your home to make it a true sanctuary."},
+    "amour": {"situation": "Your shared home deserves to be nurtured like the precious nest of your relationship.", "conseil": "Invest time and gentleness into your shared living space."},
+    "travail": {"situation": "A harmonious, orderly workspace will support your productivity and peace of mind.", "conseil": "Take the time to declutter and organize your workspace."},
+    "sante": {"situation": "Your home is a reflection of your inner state; caring for it nourishes your balance.", "conseil": "A peaceful environment fosters a peaceful body and mind."},
+    "famille": {"situation": "It's time to invest in your home and make it a sanctuary of love for your family.", "conseil": "Clean, declutter and purify your home to restore family harmony."}
+  },
+  {
+    "id": 140, "name": "Angel of Creativity", "keyword": "Creativity & Inspiration", "image": "archcard_140",
+    "spirituel": {"situation": "The angel of creativity breathes the wind of inspiration over your soul and deepest aspirations.", "conseil": "Let your creativity express itself freely, without judgment, as a divine channel."},
+    "amour": {"situation": "Renewed creativity in how you love breathes new life into your relationship.", "conseil": "Invent new ways together to nourish your bond."},
+    "travail": {"situation": "It's the ideal moment to create, express and shape a professional project close to your heart.", "conseil": "Begin imperfectly rather than waiting for perfect inspiration."},
+    "sante": {"situation": "Expressing your creativity is also a precious form of care for your inner balance.", "conseil": "Give yourself regular creative time, it nourishes your well-being."},
+    "famille": {"situation": "A shared creative family project would strengthen your bonds and closeness.", "conseil": "Create together, even simply, to reignite family joy."}
+  },
+  {
+    "id": 141, "name": "Angel of Life Path", "keyword": "Life Path & Alignment", "image": "archcard_141",
+    "spirituel": {"situation": "This angel reveals that you are exactly where you need to be on your soul's path.", "conseil": "Trust your unique path, it is leading you toward your deeper mission."},
+    "amour": {"situation": "This relationship, whatever its outcome, is shaping who you are becoming on your life path.", "conseil": "Welcome the lessons of this relationship as steps on your path."},
+    "travail": {"situation": "Your professional journey, however winding, is leading you exactly where you need to be.", "conseil": "Listen again to the voice of your soul before questioning your direction."},
+    "sante": {"situation": "Every stage of your health, even difficult ones, fits into the larger meaning of your life path.", "conseil": "Trust the meaning of what you are currently going through."},
+    "famille": {"situation": "Your family history has shaped who you are today, with its strengths and its challenges.", "conseil": "Check the alignment between your actions and your deep family values."}
+  },
+  {
+    "id": 142, "name": "Angel of Prosperity", "keyword": "Prosperity & Abundance", "image": "archcard_142",
+    "spirituel": {"situation": "The angel of prosperity affirms that abundance is your divine right, to be received with faith.", "conseil": "Combine inspired action with unwavering faith to open the doors of prosperity."},
+    "amour": {"situation": "An abundance of tenderness and attention is flowing, or will soon flow, into your love life.", "conseil": "Believe that you fully deserve this emotional abundance."},
+    "travail": {"situation": "What you professionally need is already on its way to you.", "conseil": "Examine your deep beliefs about success to let prosperity manifest."},
+    "sante": {"situation": "An abundance of vital energy and vitality is available to you right now.", "conseil": "Nourish your body with the conviction that it deserves abundance."},
+    "famille": {"situation": "The prosperity of your home, material and emotional, is supported by this loving angel.", "conseil": "Generously share your home's abundance with those who need it."}
+  },
+  {
+    "id": 143, "name": "Angel of Divine Connection", "keyword": "Divine Connection & Presence", "image": "archcard_143",
+    "spirituel": {"situation": "You are never alone — an army of angels accompanies you at every moment of your spiritual path.", "conseil": "Strengthen your spiritual practice and your daily exchanges with the divine."},
+    "amour": {"situation": "Your relationship is supported by a connection greater than what you perceive day to day.", "conseil": "Pray or meditate together to strengthen the sacred dimension of your bond."},
+    "travail": {"situation": "A quiet divine guidance accompanies your professional choices, even when you doubt.", "conseil": "Ask the divine for help before an important professional decision."},
+    "sante": {"situation": "Connection to the divine is also a precious resource for your balance and healing.", "conseil": "Include a moment of spiritual connection in your wellness routine."},
+    "famille": {"situation": "Your family is surrounded by a loving angelic presence, even in difficult moments.", "conseil": "Cultivate a simple spiritual practice together, it strengthens family bonds."}
+  }
+]

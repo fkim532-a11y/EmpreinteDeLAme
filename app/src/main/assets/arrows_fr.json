@@ -1,0 +1,34 @@
+{
+  "PRATICIEN": {
+    "full": "Vous êtes quelqu'un de pratique, d'ancré dans la réalité et efficace dans la vie concrète. Vous savez réparer, construire, organiser, gérer. Cette flèche vous donne un sens du concret et de l'utile qui vous permet de transformer les idées en réalisations tangibles. Les autres apprécient votre capacité à trouver des solutions pratiques.",
+    "empty": "La gestion du quotidien, des tâches pratiques et du matériel peut représenter un défi pour vous. Vous êtes peut-être plus à l'aise dans les idées que dans leur mise en œuvre concrète. La vie vous invite à développer votre sens pratique — chaque petit défi du quotidien relevé avec soin vous renforce."
+  },
+  "VOLONTE": {
+    "full": "Vous avez un sens naturel de l'équilibre et de la mesure. Vous savez peser le pour et le contre, voir les différentes facettes d'une situation et trouver le juste milieu. Cette flèche vous donne une sagesse tranquille et une capacité à ne pas vous laisser emporter par les extrêmes — une qualité précieuse dans les moments de tension.",
+    "empty": "L'équilibre intérieur et la mesure dans les situations complexes sont des apprentissages pour vous. Vous pouvez avoir tendance à aller dans les extrêmes — trop ou pas assez. La vie vous invite à développer cette capacité à trouver le juste milieu avec bienveillance envers vous-même."
+  },
+  "INTELLECT": {
+    "full": "Vous avez une capacité intellectuelle et créative particulièrement développée. Vous pensez en grande structure, vous voyez les connexions là où d'autres ne voient que des détails. Cette flèche vous donne un esprit capable d'embrasser de grandes idées et de les exprimer avec clarté et élégance.",
+    "empty": "La pensée abstraite et la vision d'ensemble peuvent être des domaines à développer pour vous. Vous pouvez avoir du mal à prendre de la hauteur ou à voir les grandes connexions entre les choses. La vie vous invite à cultiver votre capacité à penser en grand — une lecture, une conversation inspirante, un moment de contemplation suffisent parfois."
+  },
+  "PENSEE": {
+    "full": "Vous avez un esprit vif, structuré et capable d'aller à l'essentiel. Vous comprenez rapidement, vous mémorisez facilement et vous savez organiser vos idées avec clarté. Cette flèche vous donne une belle capacité à apprendre et à transmettre. Vous vous sentez à l'aise dans les domaines qui demandent de la réflexion et de la logique.",
+    "empty": "La réflexion structurée et la mémorisation ne sont pas vos points forts naturels — mais ils peuvent le devenir. La vie vous invitera à développer votre capacité à organiser vos pensées et à faire confiance à votre intelligence. Chaque effort dans ce sens vous fortifie durablement."
+  },
+  "SPIRITUALITE": {
+    "full": "Vous avez un talent naturel pour passer des idées aux actes. Vous ne restez pas dans la théorie — vous construisez, vous faites, vous créez du concret. Cette flèche vous donne une capacité d'accomplissement rare. Les projets que vous menez ont une belle probabilité d'aboutir grâce à votre énergie de réalisation.",
+    "empty": "Transformer vos idées en réalisations concrètes est un apprentissage pour vous. Vous pouvez avoir tendance à rester dans la réflexion ou à attendre le moment parfait pour agir. La vie vous invite à développer votre capacité à commencer — même imparfaitement. L'action, même petite, est votre meilleure école."
+  },
+  "DIAGONAL_159": {
+    "full": "C'est l'une des flèches les plus puissantes. Elle indique une détermination profonde, une volonté de fer et une capacité à aller jusqu'au bout de vos projets quoi qu'il arrive. Vous avez en vous une force qui ne se voit pas toujours de l'extérieur — mais elle est là, solide et constante, prête à se mobiliser quand c'est nécessaire.",
+    "empty": "La persévérance sur le long terme et la confiance en vous dans les épreuves sont des apprentissages importants dans votre vie. Vous pouvez ressentir des doutes profonds ou des difficultés à tenir votre direction quand tout s'agite autour de vous. La vie vous invite à développer cette colonne vertébrale intérieure — doucement, solidement."
+  },
+  "DIAGONAL_357": {
+    "full": "Vous avez une sensibilité émotionnelle et une empathie naturelles qui vous permettent de comprendre les autres en profondeur. Vous ressentez ce que les autres vivent avant même qu'ils le disent. Cette flèche vous donne un cœur ouvert et une capacité de soin qui font de vous quelqu'un de précieux dans la vie de ceux que vous aimez.",
+    "empty": "L'empathie profonde et la connexion émotionnelle avec les autres sont des apprentissages pour vous. Vous pouvez avoir du mal à ressentir ce que les autres vivent ou à exprimer vos propres émotions avec fluidité. La vie vous invite à développer cette intelligence du cœur — en commençant par plus de douceur envers vous-même."
+  },
+  "PERSEVERANCE": {
+    "full": "Vous avez une volonté solide et une capacité à persévérer là où d'autres abandonnent. Vous savez ce que vous voulez et vous vous y tenez. Cette flèche vous donne une énergie de détermination précieuse — vous avancez même quand c'est difficile, avec une constance que les autres admirent sans toujours le dire.",
+    "empty": "La constance et la détermination dans le temps sont des apprentissages pour vous. Vous pouvez ressentir des difficultés à tenir sur la durée ou à maintenir le cap quand les obstacles s'accumulent. La vie vous invite à développer cette volonté tranquille — pas à pas, vous la fortifiez."
+  }
+}

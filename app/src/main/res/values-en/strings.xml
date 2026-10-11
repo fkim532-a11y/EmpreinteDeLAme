@@ -1,0 +1,421 @@
+<resources>
+    <string name="app_name">Empreinte de l\'Ame</string>
+    <string name="home_subtitle">KNOW YOURSELF</string>
+    <string name="eight_reading_material">🌍 Material reading</string>
+    <string name="eight_reading_spiritual">✨ Spiritual reading</string>
+    <string name="module_lifepath">Destiny</string>
+    <string name="module_portrait">Portrait</string>
+    <string name="module_predictive">Predictions</string>
+    <string name="module_mirror_hours">Mirror Hours</string>
+    <string name="module_mirror_hours_grid">Mirror\nHours</string>
+    <string name="module_archangel">Archangel</string>
+    <string name="module_archangel_card">One-Card Draw</string>
+    <string name="module_human_design">Human Design</string>
+    <string name="module_human_design_grid">Human\nDesign</string>
+    <string name="module_hd_predictions">HD Predictions</string>
+    <string name="module_hd_predictions_grid">HD\nPredictions</string>
+    <string name="module_yi_king">Yi-King</string>
+    <string name="reading_screen_subtitle">for %1$s</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_practices">Meditation</string>
+    <string name="nav_me">Profiles</string>
+    <string name="nav_more">About</string>
+    <string name="more_title">About</string>
+    <string name="more_website_label">My other apps</string>
+    <string name="more_language_section">Language</string>
+    <string name="more_support_section">Support</string>
+    <string name="more_links_section">Other apps</string>
+    <string name="more_privacy_section">Privacy</string>
+    <string name="more_privacy_label">Privacy Policy</string>
+    <string name="language_fr">Français</string>
+    <string name="language_en">English</string>
+    <string name="donation_description">Empreinte de l\'Ame is entirely free. If it brings you something, a free donation is always welcome to support its development.</string>
+    <string name="donation_button">Support on Ko-fi</string>
+    <string name="donation_button_paypal">Support on PayPal</string>
+
+    <!-- Introduction screens (first launch) -->
+    <string name="intro_page1_title">Welcome to Empreinte de l\'Ame</string>
+    <string name="intro_page1_body">An app to help you know yourself better through numerology, Human Design, the Yi-King, and angelic guidance — tools for personal growth and self-knowledge.</string>
+    <string name="intro_page2_title">One theme at a time</string>
+    <string name="intro_page2_body">To get the most out of it, take the time to read a single theme and meditate on it — the app actually has a space for you to sit and meditate for a moment — rather than reading everything at once. Let each reading sink in before moving to the next.</string>
+    <string name="intro_page3_title">A free app</string>
+    <string name="intro_page3_body">Empreinte de l\'Ame is entirely free. If it brings you something, you can make a free donation to support its development.\n\nTo get started, you\'ll be asked to fill in your profile on the next page.</string>
+    <string name="intro_skip">Skip</string>
+    <string name="intro_next">Next</string>
+
+    <!-- Profile form (Onboarding + Profiles) -->
+    <string name="onboarding_start">Get Started</string>
+    <string name="profile_slot_label">Profile %d</string>
+    <string name="profile_second_slot_label">Second profile</string>
+    <string name="profile_third_slot_label">Third profile</string>
+    <string name="profile_active_label">Active profile</string>
+    <string name="profile_save">Save</string>
+    <string name="profile_saved">Profile saved ✓</string>
+    <string name="profile_delete_button">Delete this profile</string>
+    <string name="profile_delete_confirm_title">Delete this profile?</string>
+    <string name="profile_delete_confirm_message">This action cannot be undone. All data for this profile will be permanently erased.</string>
+    <string name="profile_delete_confirm_button">Delete</string>
+    <string name="profile_delete_cancel_button">Cancel</string>
+    <string name="profile_field_firstname">Birth first name(s)</string>
+    <string name="profile_field_lastname">Birth last name</string>
+    <string name="profile_section_birthdate">Date of birth</string>
+    <string name="profile_field_day">Day</string>
+    <string name="profile_field_month">Month</string>
+    <string name="profile_field_year">Year</string>
+    <string name="profile_ph_day">DD</string>
+    <string name="profile_ph_month">MM</string>
+    <string name="profile_ph_year">YYYY</string>
+    <string name="profile_section_birthtime">Time of birth (optional)</string>
+    <string name="profile_field_hour">Hour</string>
+    <string name="profile_field_minutes">Minutes</string>
+    <string name="profile_ph_hour">HH</string>
+    <string name="profile_field_birthcity">City of birth</string>
+    <string name="profile_err_firstname">Please enter your first name.</string>
+    <string name="profile_err_lastname">Please enter your last name.</string>
+    <string name="profile_err_day">Invalid day.</string>
+    <string name="profile_err_month">Invalid month.</string>
+    <string name="profile_err_year">Invalid year.</string>
+    <string name="profile_err_day_range">Invalid day (1-31).</string>
+    <string name="profile_err_month_range">Invalid month (1-12).</string>
+    <string name="profile_err_hour">Invalid hour.</string>
+    <string name="profile_err_hour_range">Invalid hour (0-23).</string>
+    <string name="profile_err_minutes">Invalid minutes.</string>
+    <string name="profile_err_minutes_range">Invalid minutes (0-59).</string>
+    <string name="profile_field_utc_offset">UTC offset at birth</string>
+    <string name="profile_ph_utc_offset">e.g.: +1, -5, +5.5</string>
+    <string name="profile_err_utc_offset">Invalid UTC offset (between -12 and +14, e.g. +1 or +5.5).</string>
+    <string name="profile_err_utc_offset_auto">Enter the birth day, month and year first to calculate automatically.</string>
+    <string name="profile_utc_offset_auto_button">Calculate</string>
+    <string name="profile_utc_offset_help">The "Calculate" button applies these rules automatically for France, based on the birth date and time already entered.</string>
+    <string name="profile_utc_offset_help_other_countries">For a birth outside France, enter the time offset from Greenwich (UTC) at the time of your birth.</string>
+
+    <!-- Human Design screen -->
+    <string name="human_design_subtitle">Your BodyGraph</string>
+    <string name="human_design_no_profile">Fill in your profile\nin the "Profiles" tab\nto discover your Human Design.</string>
+    <string name="human_design_birthtime_unknown">The exact birth time is required to compute your Human Design.\nComplete it in the "Profiles" tab.</string>
+    <string name="human_design_strategy_section">Strategy</string>
+    <string name="human_design_notself_section">Not-Self Theme</string>
+    <string name="human_design_authority_section">Authority</string>
+    <string name="human_design_profile_section">Profile</string>
+    <string name="human_design_definition_section">Definition</string>
+    <string name="human_design_centers_section">Centers</string>
+    <string name="human_design_bodygraph_legend">Gold = defined center · Violet = undefined center</string>
+    <string name="human_design_center_defined">● Defined</string>
+    <string name="human_design_center_undefined">○ Undefined</string>
+    <string name="human_design_center_head">Head</string>
+    <string name="human_design_center_ajna">Ajna</string>
+    <string name="human_design_center_throat">Throat</string>
+    <string name="human_design_center_g">G</string>
+    <string name="human_design_center_heart">Heart</string>
+    <string name="human_design_center_sacral">Sacral</string>
+    <string name="human_design_center_solar_plexus">Solar Plexus</string>
+    <string name="human_design_center_spleen">Spleen</string>
+    <string name="human_design_center_root">Root</string>
+    <!-- Version raccourcie, pour tenir dans le losange du schéma du Bodygraph. -->
+    <string name="human_design_center_solar_plexus_short">Plexus</string>
+    <string name="human_design_channels_section">Active Channels</string>
+    <string name="human_design_no_channels">No defined channel — your BodyGraph works differently.</string>
+    <string name="human_design_gates_section">Active Gates</string>
+    <string name="human_design_strategy_info">How your Type is meant to act to move forward without forcing.</string>
+    <string name="human_design_notself_info">The signal that shows up when you drift from your true nature.</string>
+    <string name="human_design_authority_info">Your inner compass, how your body knows what\'s right for you.</string>
+    <string name="human_design_profile_info">How you interact with the world and learn from your experiences.</string>
+    <string name="human_design_definition_info">How energy flows between your defined centers.</string>
+    <string name="human_design_centers_info">Defined means fixed energy within you; undefined means a zone sensitive to others.</string>
+    <string name="human_design_channels_info">The active connections in your design, fixed and reliable talents.</string>
+    <string name="human_design_gates_info">Here are the gates activated in your chart, each with its own energy.</string>
+    <string name="share_human_design_title">✨ %1$s\'s Human Design</string>
+
+    <!-- HD Predictions screen -->
+    <string name="hd_predictions_subtitle">Cycles, Gate of the Day, HD Year and Month</string>
+    <string name="hd_predictions_no_profile">Fill in your profile\nin the "Profiles" tab\nto discover your Human Design predictions.</string>
+    <string name="hd_predictions_gate_section">Gate of the Day</string>
+    <string name="hd_predictions_gate_line">Line %1$d</string>
+    <string name="hd_predictions_gate_line_info">Today\'s precise line, a finer nuance added to the gate\'s theme.</string>
+    <string name="hd_predictions_month_section">HD Personal Month</string>
+    <string name="hd_predictions_year_section">HD Personal Year</string>
+    <string name="hd_predictions_cycles_section">Life Cycles</string>
+    <string name="hd_predictions_age_range">%1$d–%2$d years old</string>
+    <string name="hd_predictions_cycle_active">Active now</string>
+    <string name="hd_predictions_cycle_past">Past</string>
+    <string name="hd_predictions_cycle_upcoming">Upcoming</string>
+    <string name="hd_predictions_disclaimer">Simplified version: the Gate of the Day is calculated from the Sun\'s real position. The HD Year and Month reuse the numerology calculation, read here through a Human Design lens. Life Cycles use approximate ages.</string>
+    <string name="hd_predictions_gate_info">The gate active today, an energy coloring your day.</string>
+    <string name="hd_predictions_month_info">Your month\'s theme according to your personal design.</string>
+    <string name="hd_predictions_year_info">Your year\'s theme according to your personal design.</string>
+    <string name="hd_predictions_cycles_info">The major transformation periods of your life, tied to your age.</string>
+    <string name="share_hd_predictions_title">✨ %1$s\'s Human Design Predictions</string>
+
+    <!-- Biorhythms screen -->
+    <string name="module_biorhythm">Biorhythms</string>
+    <string name="biorhythm_no_profile">Fill in your profile\nin the « Profiles » tab\nto discover your biorhythms.</string>
+    <string name="biorhythm_synthesis_title">Today\'s synthesis</string>
+    <string name="biorhythm_cycle_physical">Physical</string>
+    <string name="biorhythm_cycle_emotional">Emotional</string>
+    <string name="biorhythm_cycle_intellectual">Intellectual</string>
+    <string name="biorhythm_state_high">High</string>
+    <string name="biorhythm_state_low">Low</string>
+    <string name="biorhythm_state_critical">Critical</string>
+    <string name="biorhythm_disclaimer">Biorhythms are a symbolic reading grid, best taken as an invitation to self-listening rather than an exact science.</string>
+    <string name="biorhythm_chart_today">Today</string>
+    <string name="share_biorhythm_title">✨ %1$s\'s Biorhythms</string>
+    <string name="share_biorhythm_chart_date">Chart for %1$s</string>
+
+    <!-- Mirror of the Soul screen -->
+    <string name="module_mirror_soul">Mirror of the Soul</string>
+    <string name="mirror_soul_no_profile">Fill in your profile\nin the « Profiles » tab\nto receive your Mirror of the Soul.</string>
+    <string name="mirror_soul_answer_label">My answer</string>
+    <string name="mirror_soul_answer_placeholder">Write what comes to you, without overthinking…</string>
+    <string name="mirror_soul_history_title">History</string>
+    <string name="mirror_soul_history_empty">No answers saved yet.</string>
+    <string name="mirror_soul_ic_history">History</string>
+
+    <!-- Portrait Screen -->
+    <string name="portrait_inclusion_section">Soul Grid</string>
+    <string name="portrait_missing_legend">● Karmic gap (0)</string>
+    <string name="portrait_overload_legend">● Overload (> 4)</string>
+    <string name="portrait_missing_label">Karmic</string>
+    <string name="portrait_overload_label">Overloaded</string>
+    <string name="portrait_innate_label">Innate quality</string>
+    <string name="portrait_balance_section">Balance Number</string>
+    <string name="portrait_balance_subtitle">Instinctive resource</string>
+    <string name="portrait_arrows_section">Pythagorean Arrows</string>
+    <string name="portrait_full_arrows">Full arrows</string>
+    <string name="portrait_empty_arrows">Empty arrows</string>
+    <string name="portrait_no_arrows">None</string>
+    <string name="portrait_no_profile">Fill in your profile\nin the \"Profiles\" tab\nto access your Portrait.</string>
+    <string name="share_portrait_title">✨ %1$s\'s Portrait</string>
+    <string name="arrow_praticien">Practitioner (1-4-7)</string>
+    <string name="arrow_volonte">Will (2-5-8)</string>
+    <string name="arrow_intellect">Intellect (3-6-9)</string>
+    <string name="arrow_pensee">Thought (1-2-3)</string>
+    <string name="arrow_perseverance">Perseverance (4-5-6)</string>
+    <string name="arrow_spiritualite">Spirituality (7-8-9)</string>
+    <string name="arrow_diagonal_159">Axis 1-5-9</string>
+    <string name="arrow_diagonal_357">Axis 3-5-7</string>
+    <string name="portrait_inclusion_info">Your innate strengths and growth challenges, in how your birth digits are distributed.</string>
+    <string name="portrait_balance_info">Your instinctive resources, what you rely on without thinking.</string>
+    <string name="portrait_arrows_info">The alignments in your grid: a strength when full, a challenge to work on when empty.</string>
+
+    <!-- Destiny Screen -->
+    <string name="destiny_life_path_section">Life Path</string>
+    <string name="destiny_life_path_subtitle">Your life vibration</string>
+    <string name="destiny_shadow_number">Shadow Number</string>
+    <string name="destiny_maturity_number">Maturity Number</string>
+    <string name="destiny_summits_section">The 4 Summits</string>
+    <string name="destiny_summit_label">Summit %d</string>
+    <string name="destiny_summit_until">until %d years old</string>
+    <string name="destiny_summit_range">%1$d – %2$d years old</string>
+    <string name="destiny_summit_from">from %d years old</string>
+    <string name="destiny_personal_year_section">Personal Year</string>
+    <string name="destiny_universal">Universal</string>
+    <string name="destiny_personal">Personal</string>
+    <string name="destiny_challenge">Challenge</string>
+    <string name="destiny_life_path_info">The overall direction of your life, the lessons you came to learn.</string>
+    <string name="destiny_shadow_number_info">The part of yourself you keep hidden, your sensitive sides.</string>
+    <string name="destiny_maturity_number_info">What you grow toward as you age, from maturity onward.</string>
+    <string name="destiny_summits_info">The 4 major periods of your life, each with its own energy.</string>
+    <string name="destiny_personal_info">The energy dominating your current year.</string>
+    <string name="destiny_challenge_info">The main obstacle to work through this year.</string>
+    <string name="destiny_no_profile">Fill in your profile\nin the \"Profiles\" tab\nto discover your Destiny.</string>
+    <string name="share_destiny_title">✨ %1$s\'s Destiny</string>
+    <string name="share_destiny_footer">Discover yours on %1$s</string>
+
+    <!-- Identity Screen -->
+    <string name="module_identity">Identity</string>
+    <string name="identity_expression_section">Expression Number</string>
+    <string name="identity_expression_subtitle">Your expressed personality</string>
+    <string name="identity_grid_label_soul">Soul Urge</string>
+    <string name="identity_grid_subtitle_soul">Deep motivations</string>
+    <string name="identity_grid_label_intimate">Personality Number</string>
+    <string name="identity_grid_subtitle_intimate">Your hidden self</string>
+    <string name="identity_grid_label_heritage">Heritage Number</string>
+    <string name="identity_grid_subtitle_heritage">Family influence</string>
+    <string name="identity_grid_label_action">Action Number</string>
+    <string name="identity_grid_subtitle_action">Daily energy</string>
+    <string name="identity_bridge_section">Bridge Number</string>
+    <string name="identity_bridge_subtitle">Between expression and destiny</string>
+    <string name="identity_no_profile">Fill in your profile\nin the \"Profiles\" tab\nto discover your Identity.</string>
+    <string name="share_identity_title">✨ %1$s\'s Identity</string>
+    <string name="identity_expression_info">Here\'s the personality you express and show to the world.</string>
+    <string name="identity_soul_info">Here\'s what deeply motivates you, your inner desire.</string>
+    <string name="identity_intimate_info">Here\'s your most secret side, the one you keep for yourself.</string>
+    <string name="identity_heritage_info">Here\'s what you inherited from your family line.</string>
+    <string name="identity_action_info">Here\'s your energy in action, day to day.</string>
+    <string name="identity_bridge_info">Here\'s how to harmonize who you are with the direction you must follow.</string>
+
+    <!-- Predictions Screen -->
+    <string name="predictive_personal_year_section">Personal Year</string>
+    <string name="predictive_personal_year_subtitle">Your central theme for the next 12 months</string>
+    <string name="predictive_personal_month_section">Personal Month</string>
+    <string name="predictive_personal_month_subtitle">This month\'s nuance</string>
+    <string name="predictive_personal_day_section">Personal Day</string>
+    <string name="predictive_personal_day_subtitle">Today\'s energy</string>
+    <string name="predictive_cycles_section">The 3 Life Cycles</string>
+    <string name="predictive_cycle_1">Spring — Formation</string>
+    <string name="predictive_cycle_2">Summer — Production</string>
+    <string name="predictive_cycle_3">Autumn — Harvest</string>
+    <string name="predictive_cycle_active">ACTIVE</string>
+    <string name="predictive_cycle_birth_to">Birth – age %d</string>
+    <string name="predictive_cycle_range">ages %1$d – %2$d</string>
+    <string name="predictive_cycle_from">From age %d</string>
+    <string name="predictive_mirror_section">Favored Mirror Hours</string>
+    <string name="predictive_mirror_subtitle">Hours resonating with your daily energy</string>
+    <string name="predictive_mirror_none">No specific mirror hour</string>
+    <string name="predictive_no_profile">Fill in your profile\nin the \"Profiles\" tab\nto access Predictions.</string>
+    <string name="share_predictive_title">✨ %1$s\'s Predictions</string>
+
+    <!-- Quarters -->
+    <string name="predictive_trimestres_section">The 3 Quarters</string>
+    <string name="predictive_t1_months">Jan – Apr</string>
+    <string name="predictive_t2_months">May – Aug</string>
+    <string name="predictive_t3_months">Sep – Dec</string>
+
+    <!-- Personal Month — complements -->
+    <string name="predictive_realization_label">Realization</string>
+    <string name="predictive_realization_subtitle">The concrete action of the month</string>
+    <string name="predictive_challenge_label">Month Challenge</string>
+    <string name="predictive_challenge_subtitle">The area to watch</string>
+
+    <!-- Letter Transit -->
+    <string name="predictive_transit_section">Letter Transit</string>
+    <string name="predictive_transit_subtitle">The secret vibration coloring this period</string>
+    <string name="predictive_transit_value">Value: %d</string>
+    <string name="predictive_trimestres_info">Three 4-month periods, each with its own energy.</string>
+    <string name="predictive_personal_month_info">The energy dominating your current month.</string>
+    <string name="predictive_realization_info">What you\'re best placed to accomplish this month.</string>
+    <string name="predictive_challenge_info">The main obstacle to work through this month.</string>
+    <string name="predictive_transit_info">The letter influencing you this year, an extra vibration to your current period.</string>
+    <string name="predictive_personal_day_info">The energy coloring your day.</string>
+    <string name="predictive_mirror_info">The mirror hours that resonate most strongly with your profile.</string>
+
+    <!-- Guardian Archangel Screen -->
+    <string name="archangel_subtitle">Your celestial protector</string>
+    <string name="archangel_domain_section">Field of Action</string>
+    <string name="archangel_message_section">Message</string>
+    <string name="archangel_invocation_section">Invocation</string>
+    <string name="share_archangel_title">✨ %1$s\'s Birth Archangel</string>
+    <string name="archangel_no_profile">Fill in your profile\nin the \"Profiles\" tab\nto discover your Guardian Archangel.</string>
+    <string name="archangel_domain_info">The areas of life this archangel watches over for you.</string>
+    <string name="archangel_message_info">Here\'s the message this archangel wants to convey to you.</string>
+    <string name="archangel_invocation_info">A phrase to say to invoke its presence and help.</string>
+
+    <!-- Mirror Hours Screen -->
+    <string name="mirror_hours_nearest_label">The closest hour</string>
+    <string name="mirror_hours_angel_section">Guardian angel</string>
+    <string name="mirror_hours_vibration_section">Vibration</string>
+    <string name="mirror_hours_message_section">Angelic message</string>
+    <string name="mirror_hours_advice_section">Advice for this moment</string>
+    <string name="mirror_hours_all_section">Classic mirror hours</string>
+    <string name="mirror_hours_reversed_section">Reversed mirror hours</string>
+    <string name="mirror_hours_triple_section">Triple hours</string>
+
+    <!-- Archangel Card Draw Screen -->
+    <string name="archangel_card_subtitle">Let the angels choose a card</string>
+    <string name="archangel_card_choose_theme">Choose a theme</string>
+    <string name="theme_spirituel">Spiritual</string>
+    <string name="theme_amour">Love</string>
+    <string name="theme_travail">Work</string>
+    <string name="theme_sante">Health</string>
+    <string name="theme_famille">Family</string>
+    <string name="archangel_card_back_desc">Card back</string>
+    <string name="archangel_card_reveal_hint">Tap the card to continue</string>
+    <string name="archangel_card_new_draw">New draw</string>
+    <string name="share_archangelcard_title">✨ Archangel Card: %1$s</string>
+
+    <!-- Yi-King Screen -->
+    <string name="theme_finance">Finance</string>
+    <string name="yiking_subtitle">Consult the Yi-King using the traditional three-coin method</string>
+    <string name="yiking_no_profile">Fill in your profile in the « Profiles » tab to consult the Yi-King.</string>
+    <string name="yiking_toss_instructions">Focus on your question, then cast the coins one line at a time.</string>
+    <string name="yiking_toss_button">Cast line %1$d/6</string>
+    <string name="yiking_coin_method_title">Coin method</string>
+    <string name="yiking_coin_method_info">3 coins per line: the sum (6 to 9) determines whether it\'s solid or broken, stable or changing.</string>
+    <string name="yiking_judgement_title">General Judgment</string>
+    <string name="yiking_image_title">Image</string>
+    <string name="yiking_mutant_traits_title">Changing Lines</string>
+    <string name="yiking_mutant_traits_info">A line in the midst of transformation, turning your hexagram into a second one.</string>
+    <string name="yiking_trait_label">Line %1$d</string>
+    <string name="yiking_transformation_title">Hexagram of Change</string>
+    <string name="yiking_transformation_info">The direction your situation is heading toward.</string>
+    <string name="yiking_history_button_desc">Cast history</string>
+    <string name="yiking_history_title">Cast History</string>
+    <string name="yiking_history_empty">No cast yet.</string>
+    <string name="share_yiking_title">✨ %1$s\'s Yi-King Cast</string>
+
+    <string name="practices_title">Meditation</string>
+    <string name="practices_subtitle">A moment for yourself, with a soothing sound ambiance</string>
+    <string name="practices_ambiance_label">Sound ambiance</string>
+    <string name="practices_ambiance_eau">Water</string>
+    <string name="practices_ambiance_oiseaux">Birdsong</string>
+    <string name="practices_ambiance_silence">Silence</string>
+    <string name="practices_custom_music_pick">Choose a music file</string>
+    <string name="practices_custom_music_clear">Remove</string>
+    <string name="practices_duration_label">Duration</string>
+    <string name="practices_duration_min">%1$d min</string>
+    <string name="practices_launch">Start the meditation</string>
+    <string name="practices_stop">Stop</string>
+    <string name="practices_finished_title">Session complete</string>
+    <string name="practices_finished_subtitle">Take a moment before resuming your day.</string>
+    <string name="practices_back">Back</string>
+
+    <!-- Module intro pages -->
+    <string name="module_intro_continue_button">Discover</string>
+    <string name="module_intro_button_content_description">Learn more</string>
+    <string name="module_intro_lifepath_title">Your Life Path</string>
+    <string name="module_intro_lifepath_body">A great direction is taking shape ahead of you. You\'ll discover the lessons that shape you and the common thread running through all your years — enough to move forward with more meaning and fewer doubts.</string>
+    <string name="module_intro_portrait_title">Your Portrait</string>
+    <string name="module_intro_portrait_body">It\'s time to look at yourself gently, face on. Your innate qualities, your natural resources, the deep balances of your personality: an intimate snapshot to better understand yourself.</string>
+    <string name="module_intro_predictive_title">Your Predictions</string>
+    <string name="module_intro_predictive_body">What if you took a look at what\'s ahead? The big trends and cycles shaping your path in the months to come, to face tomorrow with a little more clarity and peace of mind.</string>
+    <string name="module_intro_identity_title">Your Identity</string>
+    <string name="module_intro_identity_body">There are several sides to you: the one you show the world, the one that secretly drives you, the one you inherited from your own. This module brings them all together, so you can feel more whole.</string>
+    <string name="module_intro_human_design_title">Your Human Design</string>
+    <string name="module_intro_human_design_body">Imagine an imprint, unique to you, made of energy rather than lines on skin. Your Type, your Strategy and your Authority are its main features — a secret, tailor-made instruction manual to move forward without forcing anything.</string>
+    <string name="module_intro_hd_predictions_title">Your Human Design Predictions</string>
+    <string name="module_intro_hd_predictions_body">Every day, every month, every major period of your life carries its own energy. Come discover the one accompanying you right now, to better welcome each stage.</string>
+
+    <string name="module_intro_biorhythm_title">Your Biorhythms</string>
+    <string name="module_intro_biorhythm_body">Since your birth, three cycles have been looping alongside you: physical, emotional and intellectual. Like waves, they rise and fall at their own pace — noticing them helps you choose the right moment to act, feel or think.</string>
+
+    <string name="module_intro_mirror_soul_title">Mirror of the Soul</string>
+    <string name="module_intro_mirror_soul_body">Every day, a question appears before you, chosen according to your life path. Take a moment to welcome it, answer it honestly, and see what it reveals about you today.</string>
+
+    <!-- Note taking -->
+    <string name="note_field_label">My notes</string>
+    <string name="note_field_placeholder">Note what this reading inspires in you…</string>
+    <string name="note_field_save_button">Save</string>
+    <string name="note_field_saved">Saved</string>
+
+    <!-- Card draw history -->
+    <string name="archangel_card_history_button_desc">Draw history</string>
+    <string name="archangel_card_history_title">Draw history</string>
+    <string name="archangel_card_history_empty">No draw yet.</string>
+
+    <!-- Compatibility -->
+    <string name="module_compatibility">Compatibility</string>
+    <string name="compatibility_need_profiles_zero">Fill in at least 2 profiles\nin the "Profiles" tab\nto discover your compatibility.</string>
+    <string name="compatibility_need_profiles_one">A second profile is missing\nin the "Profiles" tab\nto discover your compatibility.</string>
+    <string name="compatibility_choose_pair">Which names should we compare?</string>
+    <string name="compatibility_change_selection">Change</string>
+    <string name="compatibility_global_score_label">Overall compatibility</string>
+    <string name="compatibility_score_text_tier1">A rare, natural understanding on every level.</string>
+    <string name="compatibility_score_text_tier2">A beautiful compatibility, carried by genuine complementarity.</string>
+    <string name="compatibility_score_text_tier3">A balanced relationship that thrives with a little attention.</string>
+    <string name="compatibility_score_text_tier4">A pairing that benefits from cultivating listening and patience.</string>
+    <string name="compatibility_score_text_tier5">An encounter that calls for conscious effort to find its balance.</string>
+    <string name="compatibility_nature_harmonieux">Harmonious</string>
+    <string name="compatibility_nature_complementaire">Complementary</string>
+    <string name="compatibility_nature_tension">Creative tension</string>
+    <string name="compatibility_tab_love">Love</string>
+    <string name="compatibility_tab_friendship">Friendship</string>
+    <string name="compatibility_tab_family">Family</string>
+    <string name="compatibility_tab_work">Work</string>
+    <string name="compatibility_tab_chemistry">Chemistry</string>
+    <string name="compatibility_tab_human_design">Human Design</string>
+    <string name="compatibility_lifepath_section">Life Paths</string>
+    <string name="compatibility_hd_type_section">Human Design Types</string>
+    <string name="compatibility_hd_centers_section">Centers</string>
+    <string name="compatibility_no_hd_message">Fill in the birth time for both profiles to unlock the Human Design reading.</string>
+    <string name="share_compatibility_title">✨ Compatibility %1$s &amp; %2$s</string>
+</resources>

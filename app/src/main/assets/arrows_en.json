@@ -1,0 +1,34 @@
+{
+  "PRATICIEN": {
+    "full": "You are a practical person, grounded in reality and effective in everyday life. You know how to fix, build, organize and manage. This arrow gives you a sense of the concrete and the useful, letting you turn ideas into tangible achievements. Others appreciate your ability to find practical solutions.",
+    "empty": "Managing daily life, practical tasks and material matters can be a challenge for you. You may feel more at ease with ideas than with putting them into concrete practice. Life invites you to develop your practical sense — every small daily challenge met with care strengthens you."
+  },
+  "VOLONTE": {
+    "full": "You have a natural sense of balance and moderation. You know how to weigh pros and cons, see different sides of a situation and find the middle ground. This arrow gives you a quiet wisdom and the ability to avoid being swept into extremes — a precious quality in tense moments.",
+    "empty": "Inner balance and moderation in complex situations are things you're learning. You may tend toward extremes — too much or not enough. Life invites you to develop the ability to find the middle ground, with kindness toward yourself."
+  },
+  "INTELLECT": {
+    "full": "You have a particularly developed intellectual and creative capacity. You think in broad structures, seeing connections where others see only details. This arrow gives you a mind capable of embracing big ideas and expressing them with clarity and elegance.",
+    "empty": "Abstract thinking and seeing the big picture can be areas for you to develop. You may find it hard to gain perspective or see the major connections between things. Life invites you to cultivate your capacity to think big — a book, an inspiring conversation, a moment of contemplation is sometimes enough."
+  },
+  "PENSEE": {
+    "full": "You have a sharp, structured mind capable of getting to the point. You understand quickly, memorize easily and know how to organize your ideas clearly. This arrow gives you a great capacity to learn and to teach. You feel at ease in fields that demand reflection and logic.",
+    "empty": "Structured reflection and memorization are not your natural strengths — but they can become so. Life will invite you to develop your ability to organize your thoughts and trust your intelligence. Every effort in this direction strengthens you lastingly."
+  },
+  "SPIRITUALITE": {
+    "full": "You have a natural talent for turning ideas into action. You don't stay in theory — you build, you do, you create something concrete. This arrow gives you a rare capacity for achievement. The projects you lead have a good chance of succeeding thanks to your drive to get things done.",
+    "empty": "Turning your ideas into concrete achievements is something you're learning. You may tend to stay in reflection or wait for the perfect moment to act. Life invites you to develop your capacity to begin — even imperfectly. Action, even small, is your best teacher."
+  },
+  "DIAGONAL_159": {
+    "full": "This is one of the most powerful arrows. It indicates deep determination, an iron will and the capacity to see your projects through no matter what happens. You carry a strength that isn't always visible from the outside — but it's there, solid and constant, ready to mobilize when needed.",
+    "empty": "Long-term perseverance and self-confidence through hardship are important lessons in your life. You may feel deep doubts or difficulty holding your direction when everything around you is in turmoil. Life invites you to develop this inner backbone — gently, solidly."
+  },
+  "DIAGONAL_357": {
+    "full": "You have natural emotional sensitivity and empathy that let you understand others deeply. You feel what others are going through even before they say it. This arrow gives you an open heart and a capacity for care that makes you precious in the lives of those you love.",
+    "empty": "Deep empathy and emotional connection with others are things you're learning. You may find it hard to feel what others experience or to express your own emotions fluidly. Life invites you to develop this intelligence of the heart — starting with more gentleness toward yourself."
+  },
+  "PERSEVERANCE": {
+    "full": "You have a solid will and the ability to persevere where others give up. You know what you want and you stick to it. This arrow gives you a precious energy of determination — you keep moving forward even when it's hard, with a steadiness others admire even if they don't always say so.",
+    "empty": "Consistency and determination over time are things you're learning. You may feel difficulty holding steady or staying the course when obstacles pile up. Life invites you to develop this quiet willpower — step by step, you strengthen it."
+  }
+}

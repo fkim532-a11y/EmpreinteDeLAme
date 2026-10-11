@@ -1,0 +1,295 @@
+{
+  "types": {
+    "MANIFESTOR": {
+      "name": "Manifesteur",
+      "keyword": "Initier",
+      "strategy": "Informer avant d'agir",
+      "notSelfTheme": "La colère",
+      "description": "Vous faites partie des rares personnes (environ 9% de la population) capables d'initier par elles-mêmes, sans attendre de signal extérieur. Votre énergie est faite pour lancer les choses et provoquer le mouvement autour de vous. Votre défi n'est pas d'agir — vous en êtes déjà capable — mais d'informer votre entourage avant de le faire, pour désamorcer les résistances que votre indépendance naturelle suscite. Quand vous informez au lieu d'imposer, vous rencontrez beaucoup moins d'obstacles sur votre chemin."
+    },
+    "GENERATOR": {
+      "name": "Générateur",
+      "keyword": "Répondre",
+      "strategy": "Attendre de répondre",
+      "notSelfTheme": "La frustration",
+      "description": "Vous portez l'énergie sacrée la plus abondante et la plus durable de tous les Types (environ 37% de la population). Cette force vitale n'est pas faite pour initier, mais pour répondre à ce qui se présente à vous. Votre satisfaction et votre efficacité viennent du fait de vous engager dans ce qui allume un vrai \"oui\" en vous, plutôt que de forcer des projets qui ne vous appellent pas vraiment. Quand vous répondez au lieu de foncer tête baissée, votre énergie devient inépuisable ; quand vous forcez, la frustration s'installe."
+    },
+    "MANIFESTING_GENERATOR": {
+      "name": "Générateur Manifestant",
+      "keyword": "Répondre puis informer",
+      "strategy": "Attendre de répondre, puis informer avant d'agir",
+      "notSelfTheme": "La frustration",
+      "description": "Vous combinez l'énergie de réponse du Générateur et la capacité d'initiative du Manifesteur (environ 33% de la population). Rapide, multi-passionné, vous sautez volontiers des étapes que d'autres jugent indispensables — et c'est souvent la bonne stratégie pour vous. Votre point d'attention : répondre d'abord à ce qui vous appelle vraiment, puis informer votre entourage avant de changer de cap, pour éviter les frictions inutiles que votre rapidité peut provoquer chez les autres."
+    },
+    "PROJECTOR": {
+      "name": "Projecteur",
+      "keyword": "Être invité",
+      "strategy": "Attendre l'invitation",
+      "notSelfTheme": "L'amertume",
+      "description": "Environ 20% de la population partage ce Type, conçu pour guider et voir en profondeur ce que les autres ne voient pas d'eux-mêmes — pas pour produire en continu comme les Générateurs. Sans énergie sacrale durable, vous vous épuisez si vous imitez le rythme des autres Types. Votre réussite dépend de la reconnaissance et de l'invitation : attendre d'être vu et sollicité pour les domaines où votre regard a le plus de valeur, plutôt que de vous imposer, transforme radicalement votre expérience."
+    },
+    "REFLECTOR": {
+      "name": "Réflecteur",
+      "keyword": "Refléter",
+      "strategy": "Attendre un cycle lunaire complet",
+      "notSelfTheme": "La déception",
+      "description": "Très rare (environ 1% de la population), vous n'avez aucun centre définit de façon fixe : votre BodyGraph reflète et amplifie l'énergie de votre environnement et des personnes qui vous entourent, un peu comme la Lune reflète la lumière du Soleil. Vous êtes un baromètre précieux de la santé d'une communauté. Pour les décisions importantes, laisser passer un cycle lunaire complet (environ 28 jours) en variant vos environnements vous permet de faire émerger une clarté qui vous appartient vraiment, plutôt que d'agir sur une impression du moment."
+    }
+  },
+  "authorities": {
+    "EMOTIONAL": {
+      "name": "Autorité Émotionnelle",
+      "keyword": "La vague",
+      "description": "Votre clarté n'existe pas dans l'instant présent : elle se construit avec le temps, au fil d'une vague émotionnelle faite de hauts et de bas. Il n'y a pas de vérité dans le \"maintenant\" pour vous — la bonne décision se révèle seulement après être passé par plusieurs états émotionnels différents. Accordez-vous toujours ce temps avant de trancher sur ce qui compte vraiment."
+    },
+    "SACRAL": {
+      "name": "Autorité Sacrale",
+      "keyword": "L'instant présent",
+      "description": "Votre corps répond instantanément, souvent avant même que votre mental n'ait fini de formuler la question — un \"oui\" ou un \"non\" viscéral, parfois un simple son. Cette réponse sacrale immédiate est votre boussole la plus fiable : elle ne se discute pas et ne s'anticipe pas, elle se ressent au moment présent."
+    },
+    "SPLENIC": {
+      "name": "Autorité Splénique",
+      "keyword": "L'instinct",
+      "description": "Votre autorité parle une seule fois, tout bas, dans l'instant — une intuition de survie ancienne et silencieuse, facile à manquer si vous n'y êtes pas attentif. Elle ne se répète pas et ne s'explique pas toujours logiquement. Faites confiance à ce premier signal discret plutôt que d'attendre une confirmation qui ne viendra pas."
+    },
+    "EGO": {
+      "name": "Autorité Ego",
+      "keyword": "La volonté",
+      "description": "Vos décisions reposent sur ce pour quoi vous avez réellement la volonté et l'envie de vous engager — pas sur ce que vous \"devriez\" faire. Parler à voix haute avec une personne de confiance vous aide à entendre clairement ce que votre volonté a vraiment envie de porter, et ce qu'elle préfère laisser de côté."
+    },
+    "SELF_PROJECTED": {
+      "name": "Autorité Auto-projetée",
+      "keyword": "S'entendre parler",
+      "description": "Votre clarté émerge en parlant, pas en réfléchissant seul dans votre tête. En vous exprimant à voix haute devant une personne de confiance qui se contente d'écouter, vous entendez dans le son de votre propre voix ce qui est juste ou non pour vous — la réponse était déjà là, elle avait juste besoin d'être dite."
+    },
+    "MENTAL": {
+      "name": "Autorité Mentale (Environnementale)",
+      "keyword": "Le bon environnement",
+      "description": "Rare et propre à certains Projecteurs, cette autorité ne vient pas d'un ressenti intérieur mais du bon environnement et des bonnes personnes autour de vous. C'est en réfléchissant à voix haute, dans un cadre où vous vous sentez en confiance, que la clarté se dessine — jamais dans l'isolement ou la précipitation."
+    },
+    "LUNAR": {
+      "name": "Autorité Lunaire",
+      "keyword": "Le cycle de la Lune",
+      "description": "Propre aux Réflecteurs, cette autorité n'appartient à aucun centre fixe : elle se révèle au fil d'un cycle lunaire complet (environ 28 jours), en observant comment une même question résonne différemment selon les jours et les environnements traversés. La patience n'est pas une option ici, c'est le mécanisme lui-même."
+    }
+  },
+  "profiles": {
+    "1/3": {
+      "name": "1/3 — Enquêteur/Martyr",
+      "description": "Vous cherchez une base solide de savoir avant d'agir (ligne 1), puis vous la testez concrètement par l'expérience directe, y compris par l'erreur (ligne 3). Ce mélange fait de vous quelqu'un qui apprend autant des échecs que des recherches — chaque essai raté devient une fondation plus solide pour la suite."
+    },
+    "1/4": {
+      "name": "1/4 — Enquêteur/Opportuniste",
+      "description": "Vous avez besoin d'une compréhension approfondie et personnelle des choses (ligne 1) avant de la transmettre à votre cercle proche, sur qui repose votre influence et vos opportunités (ligne 4). Votre savoir se diffuse naturellement à travers un réseau de relations fidèles plutôt qu'auprès d'inconnus."
+    },
+    "2/4": {
+      "name": "2/4 — Ermite/Opportuniste",
+      "description": "Un talent naturel se développe dans le calme et la solitude (ligne 2), avant d'être sollicité et reconnu par votre entourage proche (ligne 4). Vous avez besoin de temps seul pour vous ressourcer, et vos opportunités viennent presque toujours de personnes qui vous connaissent déjà bien."
+    },
+    "2/5": {
+      "name": "2/5 — Ermite/Hérétique",
+      "description": "Un don naturel, souvent développé en retrait (ligne 2), se retrouve projeté sur une scène plus large où des inconnus attendent de vous des solutions concrètes (ligne 5). Ce contraste entre besoin de retrait et projection publique est central dans votre profil : apprenez à doser les deux."
+    },
+    "3/5": {
+      "name": "3/5 — Martyr/Hérétique",
+      "description": "Vous apprenez par l'expérimentation directe et l'erreur (ligne 3), ce qui vous rend pragmatique et résilient — puis ce savoir vécu est projeté sur vous par des inconnus qui attendent des solutions (ligne 5). On vous idéalise parfois à tort ; rester transparent sur vos propres essais-erreurs désamorce cette pression."
+    },
+    "3/6": {
+      "name": "3/6 — Martyr/Modèle",
+      "description": "La première partie de votre vie est marquée par l'expérimentation et l'ajustement par l'erreur (ligne 3) ; avec le temps, vous devenez un exemple observé et pris en modèle par les autres (ligne 6). Le fameux \"toit\" du Modèle (période d'observation, vers 30 ans) est particulièrement marqué chez ce profil."
+    },
+    "4/6": {
+      "name": "4/6 — Opportuniste/Modèle",
+      "description": "Votre influence et vos opportunités passent par un réseau de relations proches et fidèles (ligne 4), et avec la maturité, vous devenez un modèle digne de confiance observé par un cercle plus large (ligne 6). La loyauté est une valeur centrale pour vous, à toutes les étapes de la vie."
+    },
+    "4/1": {
+      "name": "4/1 — Opportuniste/Enquêteur",
+      "description": "Vous rayonnez et influencez à travers vos relations proches (ligne 4), tout en ayant un besoin profond de comprendre les choses en solide avant de vous engager (ligne 1). Votre réseau relationnel repose autant sur la confiance que sur le respect de votre savoir personnel."
+    },
+    "5/1": {
+      "name": "5/1 — Hérétique/Enquêteur",
+      "description": "Des inconnus se tournent vers vous en attendant des solutions pratiques et universelles (ligne 5), tandis qu'en interne vous avez besoin d'une base de connaissance solide et vérifiée avant de vous exposer (ligne 1). Ce profil porte souvent une forte responsabilité perçue par autrui — apprenez à ne pas vous laisser définir uniquement par les projections des autres."
+    },
+    "5/2": {
+      "name": "5/2 — Hérétique/Ermite",
+      "description": "Un talent naturel, développé dans le retrait (ligne 2), se retrouve sollicité par des inconnus en quête de solutions (ligne 5). Vous alternez entre un fort besoin de solitude et des appels extérieurs pressants — apprendre à doser les deux évite l'épuisement."
+    },
+    "6/2": {
+      "name": "6/2 — Modèle/Ermite",
+      "description": "Après une période de vie plus expérimentale, vous devenez avec la maturité un exemple observé et respecté (ligne 6), tout en gardant un besoin naturel de retrait et de ressourcement solitaire (ligne 2). Ce profil vit souvent une nette bascule entre une jeunesse plus mouvementée et une maturité plus posée."
+    },
+    "6/3": {
+      "name": "6/3 — Modèle/Martyr",
+      "description": "Vous traversez une phase de vie faite d'essais, d'erreurs et d'ajustements concrets (ligne 3), avant de devenir avec le temps un modèle dont l'expérience vécue inspire les autres (ligne 6). Vos propres échecs assumés sont, avec la maturité, ce qui rend votre exemple le plus crédible."
+    }
+  },
+  "definitions": {
+    "SINGLE": {
+      "name": "Définition Simple",
+      "description": "Tous vos centres définis forment un seul circuit connecté : votre énergie circule librement en interne, sans avoir besoin d'une autre personne pour se sentir complète. Vous êtes conçu pour fonctionner de façon autonome — ce qui ne dispense pas de suivre votre Stratégie et votre Autorité."
+    },
+    "SPLIT": {
+      "name": "Définition Scindée",
+      "description": "Vos centres définis forment deux groupes séparés par un pont non défini. Vous vous sentez souvent plus complet en présence de personnes ou de circonstances qui viennent naturellement combler cet espace — une forme d'attraction magnétique vers ce qui vous manque fait partie de votre design."
+    },
+    "TRIPLE_SPLIT": {
+      "name": "Définition Triple Scindée",
+      "description": "Vos centres définis forment trois groupes distincts, reliés par plusieurs ponts non définis. Cela vous rend adaptable et capable de connecter des mondes différents, au prix d'un besoin plus marqué de relations ou de contextes variés pour vous sentir pleinement relié à vous-même."
+    },
+    "QUADRUPLE_SPLIT": {
+      "name": "Définition Quadruple Scindée",
+      "description": "Rare, cette configuration répartit vos centres définis en quatre groupes séparés. Vous êtes très sélectif dans vos relations profondes, car il faut plusieurs ponts différents pour vous sentir complet — une qualité qui peut se vivre comme de l'indépendance ou comme de l'isolement selon le contexte."
+    }
+  },
+  "centers": {
+    "HEAD": {
+      "name": "Tête (Couronne)",
+      "definedDescription": "Vous avez une façon fixe et fiable de vous mettre sous pression pour trouver l'inspiration et poser les bonnes questions — une source d'idées stable pour vous et votre entourage.",
+      "undefinedDescription": "Vous n'avez pas de pression mentale fixe : vous captez et amplifiez les questions et l'inspiration de votre environnement, avec un risque de vous sentir submergé par trop de questions qui ne sont pas les vôtres."
+    },
+    "AJNA": {
+      "name": "Ajna",
+      "definedDescription": "Votre façon de penser et de former des certitudes est stable et fiable : vous avez des opinions fermes, faciles à exprimer et à défendre.",
+      "undefinedDescription": "Votre esprit est ouvert et flexible, sans façon fixe de penser : vous absorbez et amplifiez les pensées et les doutes des autres, ce qui vous rend excellent pour explorer plusieurs points de vue, moins pour trancher avec certitude."
+    },
+    "THROAT": {
+      "name": "Gorge",
+      "definedDescription": "Vous disposez d'un canal fiable et constant pour communiquer et agir, une voix qui trouve naturellement les mots et le moment justes.",
+      "undefinedDescription": "Vous n'avez pas de façon fixe de communiquer ou d'agir : vous adaptez votre style à qui vous entoure, avec le risque de parler ou d'agir sous pression alors que ce n'est pas vraiment le moment."
+    },
+    "G": {
+      "name": "G (Identité)",
+      "definedDescription": "Vous avez un sens stable de votre identité et de votre direction dans la vie, une forme d'amour de vous-même qui ne dépend pas des autres.",
+      "undefinedDescription": "Votre identité et votre direction évoluent selon les personnes et les environnements que vous traversez : vous cherchez parfois l'amour et la direction à l'extérieur de vous, tout en étant capable de vous adapter à de nombreux rôles différents."
+    },
+    "HEART": {
+      "name": "Cœur (Ego/Volonté)",
+      "definedDescription": "Votre volonté est constante et fiable : vous tenez naturellement vos engagements et vos promesses.",
+      "undefinedDescription": "Votre volonté est irrégulière : vous pouvez ressentir le besoin de prouver votre valeur aux autres, avec le risque de trop promettre pour être aimé ou reconnu."
+    },
+    "SACRAL": {
+      "name": "Sacral",
+      "definedDescription": "Vous disposez d'une énergie vitale constante et fiable, capable de soutenir un travail soutenu quand elle répond à ce qui l'allume vraiment.",
+      "undefinedDescription": "Vous n'avez pas d'énergie sacrale stable : vous ressentez et amplifiez celle des autres, avec un risque de vous épuiser en imitant leur rythme."
+    },
+    "SOLAR_PLEXUS": {
+      "name": "Plexus Solaire (Émotionnel)",
+      "definedDescription": "Vous vivez une vague émotionnelle qui vous est propre : votre vérité se révèle avec le temps, jamais dans l'instant.",
+      "undefinedDescription": "Vous n'avez pas d'émotions qui vous appartiennent en propre : vous ressentez et amplifiez celles des autres, ce qui fait de vous un baromètre sensible de l'ambiance environnante, avec un risque d'éviter les conflits à tout prix."
+    },
+    "SPLEEN": {
+      "name": "Rate",
+      "definedDescription": "Votre instinct et votre conscience du corps sont stables et fiables : un sens naturel de ce qui est sain ou non pour vous.",
+      "undefinedDescription": "Vous n'avez pas de boussole instinctive fixe : vous absorbez et amplifiez les peurs des autres, avec un risque de rester trop longtemps dans des situations ou relations qui ne vous conviennent plus par peur du changement."
+    },
+    "ROOT": {
+      "name": "Racine",
+      "definedDescription": "Vous portez une pression constante et gérable qui vous pousse naturellement à avancer, sans vous submerger.",
+      "undefinedDescription": "Vous absorbez et amplifiez le stress et la pression des autres, avec un risque de vous précipiter ou de travailler sous une urgence qui n'est pas la vôtre — apprendre à relâcher la pression plutôt qu'à l'absorber est essentiel."
+    }
+  },
+  "channels": {
+    "1-8": { "name": "Canal de l'Inspiration", "keyword": "L'inspiration créative", "description": "Une expression de soi habitée qui donne envie aux autres de suivre et de créer à leur tour." },
+    "2-14": { "name": "Canal du Rythme Vital", "keyword": "Le gardien des clés", "description": "Une direction claire portée par une énergie puissante capable de faire fructifier les ressources et les projets." },
+    "3-60": { "name": "Canal de la Mutation", "keyword": "L'énergie des mutations", "description": "La capacité à initier et à traverser des changements profonds, en acceptant le chaos qui précède un nouvel ordre." },
+    "4-63": { "name": "Canal de la Logique", "keyword": "La logique formelle", "description": "Un esprit qui doute et questionne pour bâtir des solutions logiques fiables, appuyées sur des schémas répétés." },
+    "5-15": { "name": "Canal des Rythmes", "keyword": "Les rythmes fixes", "description": "Un besoin de rythme et de flux réguliers, associé à une grande tolérance pour la diversité des autres." },
+    "6-59": { "name": "Canal de l'Intimité", "keyword": "La fusion et la reproduction", "description": "Le lien intime se construit ici en deux temps : une barrière qui tombe, puis la friction qui suit inévitablement la rencontre. C'est cette alternance d'ouverture et de heurt qui rend la proximité réelle plutôt que polie." },
+    "7-31": { "name": "Canal du Leadership", "keyword": "Le rôle de leader", "description": "Guider ne se décrète pas ici : le rôle existe d'un côté, la voix qui porte de l'autre, mais rien ne fonctionne sans l'accord de ceux qui suivent. Une direction offerte au groupe, jamais imposée à lui." },
+    "9-52": { "name": "Canal de la Concentration", "keyword": "La concentration", "description": "La capacité à se focaliser durablement sur un détail précis jusqu'à sa parfaite maîtrise." },
+    "10-20": { "name": "Canal de l'Éveil", "keyword": "L'éveil au présent", "description": "Le courage d'être authentiquement soi-même, exprimé immédiatement dans l'instant présent." },
+    "10-34": { "name": "Canal de l'Exploration", "keyword": "Le pouvoir d'exploration", "description": "Une puissance d'action mise au service de convictions personnelles fortes et authentiques." },
+    "10-57": { "name": "Canal de la Forme Parfaite", "keyword": "La survie par la forme", "description": "Une intuition instinctive affinée au service d'un comportement juste et adapté à l'instant." },
+    "11-56": { "name": "Canal de la Curiosité", "keyword": "La recherche d'idées", "description": "Les idées trouvent ici leur auditoire : ce qui est pensé devient récit, et le récit se nourrit de ce qui a été vécu. La valeur de ce canal tient à la stimulation qu'il apporte aux autres, pas à la mise en pratique de ce qui est raconté." },
+    "12-22": { "name": "Canal de l'Ouverture", "keyword": "L'ouverture sociale", "description": "Une expression empreinte de retenue qui, une fois l'émotion juste trouvée, touche profondément les autres." },
+    "13-33": { "name": "Canal du Témoin", "keyword": "Le témoin et le secret", "description": "Ce qui est recueilli auprès des autres a besoin d'un temps de retrait avant d'être restitué. Ce canal fait de son porteur un gardien de mémoire : il rassemble les expériences, les laisse décanter, puis les transmet quand le moment s'y prête." },
+    "16-48": { "name": "Canal du Talent", "keyword": "La maîtrise par la répétition", "description": "Un talent qui se perfectionne par la pratique répétée, jusqu'à devenir une compétence profonde et fiable." },
+    "17-62": { "name": "Canal de l'Acceptation", "keyword": "L'organisation logique", "description": "Des opinions construites sur des détails précis, capables de rassurer et d'organiser un groupe." },
+    "18-58": { "name": "Canal du Jugement", "keyword": "L'insatisfaction correctrice", "description": "Un besoin de corriger ce qui ne fonctionne pas, porté par une énergie vitale au service de l'amélioration." },
+    "19-49": { "name": "Canal de la Synthèse", "keyword": "La sensibilité aux besoins", "description": "Percevoir ce dont un groupe a besoin conduit ici à remettre en cause les règles qui le tiennent. Quand les principes ne répondent plus aux besoins réels, ce canal pousse à les renégocier — ou à rompre si le refus est trop net." },
+    "20-34": { "name": "Canal du Charisme", "keyword": "Le charisme", "description": "Une énergie sacrale puissante mise immédiatement en mouvement et en parole, sans détour par la réflexion." },
+    "20-57": { "name": "Canal de l'Onde Cérébrale", "keyword": "L'intuition immédiate", "description": "Une capacité rare à agir juste dans l'instant présent, guidée par une intuition instinctive affûtée." },
+    "21-45": { "name": "Canal de l'Argent", "keyword": "Le contrôle matériel", "description": "La maîtrise individuelle des ressources se met ici au service d'un groupe : il ne s'agit plus seulement de tenir son propre territoire, mais d'organiser et de redistribuer ce qui est mis en commun. L'autorité n'est acceptée que tant qu'elle profite à tous." },
+    "23-43": { "name": "Canal de la Structuration", "keyword": "L'individualisme conceptuel", "description": "L'intuition surgit ici d'un coup, sans passer par le raisonnement, et doit ensuite être traduite en mots que les autres puissent recevoir. Entre la certitude intérieure et l'expression compréhensible, tout se joue dans ce passage." },
+    "24-61": { "name": "Canal de la Conscience Intérieure", "keyword": "La pensée introspective", "description": "Un besoin profond de comprendre et de rationaliser ce qui vous habite intérieurement, jusqu'à en faire une pensée claire." },
+    "25-51": { "name": "Canal de l'Initiation", "keyword": "Le besoin d'initier", "description": "Un esprit prêt à se lancer en premier, porté par un amour universel désintéressé pour l'expérience elle-même." },
+    "26-44": { "name": "Canal de la Transmission", "keyword": "Le passé qui se transmet", "description": "Une capacité à sentir instinctivement ce qui doit être préservé ou transmis, souvent avec un certain art de la persuasion." },
+    "27-50": { "name": "Canal de la Préservation", "keyword": "Le soin et la préservation", "description": "Un instinct de prendre soin des autres tout en préservant les valeurs et les règles qui protègent le groupe." },
+    "28-38": { "name": "Canal de la Lutte", "keyword": "La lutte pour un sens", "description": "Le goût du risque rencontre ici l'obstination : on s'engage dans des combats que rien n'oblige à mener, simplement parce qu'ils donnent un sens à l'existence. Le piège est de se battre pour se battre, une fois le sens perdu de vue." },
+    "29-46": { "name": "Canal de la Découverte", "keyword": "L'engagement corporel", "description": "Une énergie prête à s'engager pleinement dans l'expérience, souvent récompensée par une forme de chance incarnée." },
+    "30-41": { "name": "Canal de la Reconnaissance", "keyword": "Les sentiments et les désirs", "description": "Le désir naît ici avant l'expérience elle-même : une pression intérieure imagine ce qui pourrait être vécu, puis l'intensité du sentiment s'en empare. Toute la difficulté est de rêver sans se précipiter, en attendant l'occasion juste." },
+    "32-54": { "name": "Canal de la Transformation", "keyword": "L'ambition instinctive", "description": "Une ambition portée par un instinct de survie et de reconnaissance sociale, motrice pour transformer sa condition." },
+    "34-57": { "name": "Canal de la Puissance", "keyword": "La puissance archétypale", "description": "Une puissance instinctive et une énergie sacrale combinées, capables d'une action juste et immédiate." },
+    "35-36": { "name": "Canal de la Transitivité", "keyword": "Le goût de l'expérience", "description": "Un désir profond de vivre des expériences variées et intenses, quitte à traverser des hauts et des bas émotionnels." },
+    "37-40": { "name": "Canal de la Communauté", "keyword": "La communauté et la loyauté", "description": "L'appartenance se joue ici sur un équilibre exigeant : la chaleur du lien d'un côté, le besoin de s'isoler pour récupérer de l'autre. Le contrat tient tant que ce qui est donné et ce qui est reçu restent en balance." },
+    "39-55": { "name": "Canal de l'Émotion", "keyword": "La provocation émotionnelle", "description": "La provocation rencontre ici l'humeur profonde : ce qui est bousculé chez l'autre revient nourrir une vie émotionnelle riche, entre abondance et manque. Un mouvement qui cherche l'émotion vraie plutôt que l'harmonie de façade." },
+    "42-53": { "name": "Canal de la Maturation", "keyword": "Les cycles qui s'achèvent", "description": "Une énergie qui pousse à mener les cycles jusqu'à leur terme, condition d'une maturité et d'une croissance réelles." },
+    "47-64": { "name": "Canal de l'Abstraction", "keyword": "La clarté après la confusion", "description": "Un esprit qui digère des impressions du passé parfois confuses, jusqu'à en tirer une compréhension abstraite claire." }
+  },
+  "gates": {
+    "1": { "name": "Porte de la Créativité", "keyword": "L'expression de soi", "description": "Le besoin profond de créer et de s'exprimer de façon authentique et originale." },
+    "2": { "name": "Porte de la Réceptivité", "keyword": "La direction du soi", "description": "Un sens naturel de la direction à suivre, reçu plus qu'imposé." },
+    "3": { "name": "Porte de l'Ordre", "keyword": "L'ordre dans le chaos", "description": "La capacité à créer de l'ordre nouveau à partir d'un début difficile et chaotique." },
+    "4": { "name": "Porte de la Formulation", "keyword": "Les réponses logiques", "description": "Le besoin de formuler des réponses logiques, même provisoires, face à l'incertitude." },
+    "5": { "name": "Porte des Rythmes Fixes", "keyword": "Les habitudes régulières", "description": "Un besoin de rythmes et d'habitudes fixes pour se sentir en sécurité." },
+    "6": { "name": "Porte du Conflit", "keyword": "La friction nécessaire", "description": "Une sensibilité aux frictions relationnelles, nécessaires pour établir une vraie intimité." },
+    "7": { "name": "Porte du Rôle", "keyword": "Le rôle dans l'interaction", "description": "Une aptitude à occuper un rôle de guide dans les interactions collectives." },
+    "8": { "name": "Porte de la Contribution", "keyword": "L'apport personnel", "description": "Le besoin de contribuer par l'exemple à quelque chose de plus grand que soi." },
+    "9": { "name": "Porte de la Concentration", "keyword": "L'attention au détail", "description": "La capacité à se concentrer sur les petits détails qui font toute la différence." },
+    "10": { "name": "Porte du Comportement", "keyword": "L'amour de soi", "description": "Le comportement authentique de celui qui s'aime et s'accepte tel qu'il est." },
+    "11": { "name": "Porte des Idées", "keyword": "Le partage d'idées", "description": "Un flot d'idées à partager, davantage pour inspirer que pour aboutir concrètement." },
+    "12": { "name": "Porte de la Prudence", "keyword": "L'expression retenue", "description": "Une prudence naturelle dans l'expression, qui attend le bon moment émotionnel pour se livrer." },
+    "13": { "name": "Porte du Confident", "keyword": "L'écoute du vécu", "description": "La capacité à écouter et retenir les expériences passées des autres." },
+    "14": { "name": "Porte des Compétences", "keyword": "Le pouvoir par le talent", "description": "Des compétences puissantes mises au service d'un but plus grand que soi." },
+    "15": { "name": "Porte des Extrêmes", "keyword": "L'amour de l'humanité", "description": "Une capacité à naviguer entre les extrêmes pour trouver un rythme qui inclut tout le monde." },
+    "16": { "name": "Porte des Talents", "keyword": "L'enthousiasme du talent", "description": "Un enthousiasme communicatif pour perfectionner un talent par la répétition." },
+    "17": { "name": "Porte des Opinions", "keyword": "Les opinions logiques", "description": "Des opinions construites logiquement, prêtes à organiser une vision pour les autres." },
+    "18": { "name": "Porte de la Correction", "keyword": "La recherche de la perfection", "description": "Un instinct à corriger ce qui ne fonctionne pas pour tendre vers plus de perfection." },
+    "19": { "name": "Porte du Besoin", "keyword": "La sensibilité aux besoins", "description": "Une sensibilité fine aux besoins matériels et émotionnels d'un groupe." },
+    "20": { "name": "Porte du Présent", "keyword": "La présence immédiate", "description": "Une capacité rare à être pleinement présent et à agir dans l'instant." },
+    "21": { "name": "Porte du Contrôle", "keyword": "La volonté de contrôle", "description": "Un besoin naturel de contrôler et gérer les ressources matérielles de son territoire." },
+    "22": { "name": "Porte de la Grâce", "keyword": "La grâce émotionnelle", "description": "Une grâce sociale qui s'exprime pleinement une fois l'émotion juste trouvée." },
+    "23": { "name": "Porte de l'Assimilation", "keyword": "Les perceptions individuelles", "description": "Des perceptions individuelles parfois en avance sur leur temps, à formuler avec les bons mots." },
+    "24": { "name": "Porte du Retour", "keyword": "La rationalisation", "description": "Le besoin de revenir sur une pensée jusqu'à en faire une compréhension rationnelle claire." },
+    "25": { "name": "Porte de l'Innocence", "keyword": "L'esprit du soi", "description": "Un amour universel désintéressé pour l'expérience elle-même, sans attente de retour." },
+    "26": { "name": "Porte de l'Égoïste", "keyword": "La persuasion", "description": "Un art instinctif de la persuasion, parfois au service d'intérêts personnels." },
+    "27": { "name": "Porte du Soin", "keyword": "Le soin des autres", "description": "Un instinct profond de prendre soin et de nourrir ceux qui vous entourent." },
+    "28": { "name": "Porte du Joueur", "keyword": "Le risque qui donne un sens", "description": "Une tendance à prendre des risques pour donner un sens plus profond à sa vie." },
+    "29": { "name": "Porte de la Persévérance", "keyword": "L'engagement total", "description": "Une capacité à s'engager pleinement dans une expérience, sans en connaître l'issue à l'avance." },
+    "30": { "name": "Porte des Sentiments", "keyword": "Le désir d'expérience", "description": "Une intensité émotionnelle qui pousse à désirer de nouvelles expériences de vie." },
+    "31": { "name": "Porte de l'Influence", "keyword": "Le leadership démocratique", "description": "Une voix faite pour être entendue et suivie, à condition d'être reconnue par le groupe." },
+    "32": { "name": "Porte de la Continuité", "keyword": "La reconnaissance de la réussite", "description": "Un instinct à reconnaître ce qui a de bonnes chances de durer et de réussir." },
+    "33": { "name": "Porte de la Retraite", "keyword": "Le recul nécessaire", "description": "Un besoin naturel de prendre du recul avant de partager ce que l'on a vécu et compris." },
+    "34": { "name": "Porte de la Puissance", "keyword": "La puissance pure", "description": "Une puissance instinctive et brute, faite pour être utilisée et non pour initier." },
+    "35": { "name": "Porte du Progrès", "keyword": "Le goût du changement", "description": "Un désir profond de vivre des expériences nouvelles et variées." },
+    "36": { "name": "Porte de la Crise", "keyword": "L'intensité émotionnelle", "description": "Une intensité émotionnelle qui pousse à traverser des crises pour en tirer une expérience de vie." },
+    "37": { "name": "Porte de l'Amitié", "keyword": "La chaleur familiale", "description": "Un besoin de chaleur, de réciprocité et d'appartenance à une communauté proche." },
+    "38": { "name": "Porte de l'Opposition", "keyword": "Le combat pour un sens", "description": "Une ténacité à se battre pour ce qui donne un sens profond et personnel à la vie." },
+    "39": { "name": "Porte de la Provocation", "keyword": "La provocation émotionnelle", "description": "Une capacité instinctive à provoquer chez les autres une réponse émotionnelle authentique." },
+    "40": { "name": "Porte de la Délivrance", "keyword": "Le besoin de solitude", "description": "Un besoin de moments seul pour se ressourcer avant de revenir vers la communauté." },
+    "41": { "name": "Porte de la Contraction", "keyword": "Le désir initial", "description": "Une pression initiale qui pousse à imaginer et désirer de nouvelles expériences." },
+    "42": { "name": "Porte de la Croissance", "keyword": "L'achèvement des cycles", "description": "Une énergie qui pousse à mener chaque expérience et chaque cycle jusqu'à son terme naturel." },
+    "43": { "name": "Porte de la Percée", "keyword": "L'intuition soudaine", "description": "Une perception ou une intuition individuelle soudaine, en avance sur la compréhension collective." },
+    "44": { "name": "Porte de la Rencontre", "keyword": "La mémoire instinctive", "description": "Une mémoire instinctive du passé, capable de repérer immédiatement ce qui doit être évité ou préservé." },
+    "45": { "name": "Porte du Rassemblement", "keyword": "Le rassemblement des ressources", "description": "Un instinct naturel à rassembler et redistribuer les ressources d'un groupe." },
+    "46": { "name": "Porte de la Détermination", "keyword": "L'amour du corps", "description": "Une détermination portée par l'amour du corps et de l'expérience physique de la vie." },
+    "47": { "name": "Porte de la Réalisation", "keyword": "La clarté après le doute", "description": "Une capacité à digérer des impressions confuses du passé jusqu'à en tirer une réalisation claire." },
+    "48": { "name": "Porte de la Profondeur", "keyword": "La profondeur du savoir", "description": "Une profondeur naturelle de savoir et de compétence, prête à être puisée par les autres." },
+    "49": { "name": "Porte des Principes", "keyword": "Les principes justes", "description": "Une sensibilité aux principes qui doivent être révisés pour rester justes et acceptés par tous." },
+    "50": { "name": "Porte des Valeurs", "keyword": "Les valeurs du groupe", "description": "Un instinct à définir et faire respecter les valeurs qui protègent un groupe." },
+    "51": { "name": "Porte du Choc", "keyword": "Le choc initiateur", "description": "Un besoin de chocs et de nouveauté pour se sentir vraiment vivant et se dépasser." },
+    "52": { "name": "Porte de l'Immobilité", "keyword": "Le calme concentré", "description": "Une capacité à rester parfaitement immobile et concentré pour mieux observer et agir ensuite." },
+    "53": { "name": "Porte du Commencement", "keyword": "Le démarrage des cycles", "description": "Une énergie douée pour démarrer de nouveaux cycles, moins pour les mener jusqu'au bout seule." },
+    "54": { "name": "Porte de l'Ambition", "keyword": "L'ambition de progresser", "description": "Une ambition instinctive à s'élever socialement et matériellement dans la vie." },
+    "55": { "name": "Porte de l'Esprit", "keyword": "L'humeur et l'esprit", "description": "Une sensibilité intense aux variations d'humeur, terrain d'une richesse émotionnelle et spirituelle profonde." },
+    "56": { "name": "Porte du Vagabond", "keyword": "Les histoires à raconter", "description": "Le goût de raconter des histoires et de stimuler l'intérêt des autres par l'expérience vécue." },
+    "57": { "name": "Porte de la Clarté Intuitive", "keyword": "L'intuition instantanée", "description": "Une intuition instinctive aiguisée, capable de percevoir juste et vite dans l'instant présent." },
+    "58": { "name": "Porte de la Vitalité", "keyword": "La joie de vivre", "description": "Une vitalité naturelle et une joie de vivre qui poussent à toujours vouloir améliorer les choses." },
+    "59": { "name": "Porte de la Sexualité", "keyword": "L'intimité et la fusion", "description": "Une énergie orientée vers la recherche d'intimité et la levée des barrières entre les personnes." },
+    "60": { "name": "Porte de la Limitation", "keyword": "L'acceptation des limites", "description": "La capacité à accepter des limites nécessaires comme point de départ à toute innovation réelle." },
+    "61": { "name": "Porte du Mystère", "keyword": "La vérité intérieure", "description": "Une quête intérieure de vérités profondes, parfois difficiles à formuler avec des mots simples." },
+    "62": { "name": "Porte du Détail", "keyword": "La précision du détail", "description": "Un talent pour organiser et exprimer les faits avec précision et logique." },
+    "63": { "name": "Porte du Doute", "keyword": "Le doute qui questionne", "description": "Un doute naturel qui pousse à questionner sans cesse ce qui semble pourtant déjà acquis." },
+    "64": { "name": "Porte de la Confusion", "keyword": "Les impressions du passé", "description": "Une accumulation d'impressions du passé, parfois confuses, en attente d'être clarifiées avec le temps." }
+  }
+}

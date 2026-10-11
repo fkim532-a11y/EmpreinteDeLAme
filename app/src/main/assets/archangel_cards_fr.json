@@ -1,0 +1,354 @@
+[
+  {
+    "id": 100, "name": "Archange Michaël", "keyword": "Protection et Courage", "image": "archcard_100",
+    "spirituel": {"situation": "Michaël se tient à vos côtés, son épée de lumière tranchant les liens qui vous retiennent dans le doute. Une force protectrice vous enveloppe et vous invite à marcher sans crainte sur votre chemin spirituel.", "conseil": "Invoquez Michaël avant chaque décision importante ; sa présence dissout les peurs qui brouillent votre discernement."},
+    "amour": {"situation": "Dans votre vie affective, Michaël vous protège des relations qui vous affaiblissent et vous encourage à défendre votre cœur avec courage.", "conseil": "Osez poser des limites claires : ce qui est fait avec amour et fermeté renforce un lien sincère."},
+    "travail": {"situation": "Sur le plan professionnel, Michaël vous donne le courage d'affronter une situation qui exigeait votre force depuis longtemps.", "conseil": "Affirmez-vous sans crainte face à un conflit ou une décision importante ; votre intégrité sera votre meilleure protection."},
+    "sante": {"situation": "Michaël veille sur votre vitalité et vous aide à repousser ce qui pèse sur votre corps ou votre esprit.", "conseil": "Éloignez-vous des environnements ou des personnes qui épuisent votre énergie pour mieux guérir."},
+    "famille": {"situation": "Au sein de votre foyer, Michaël déploie un bouclier de protection autour de ceux que vous aimez.", "conseil": "Protégez l'harmonie familiale en étant honnête plutôt qu'en évitant les sujets difficiles."}
+  },
+  {
+    "id": 101, "name": "Archange Gabriel", "keyword": "Communication et Création", "image": "archcard_101",
+    "spirituel": {"situation": "Gabriel vous apporte une annonce importante ou vous invite à exprimer votre vérité créatrice ; écoutez les messages qui vous parviennent, ils viennent du ciel.", "conseil": "Retrouvez le silence chaque jour pour mieux entendre la voix du divin."},
+    "amour": {"situation": "Un message important concernant votre vie sentimentale approche — une déclaration, une clarification ou une vérité à exprimer.", "conseil": "Osez dire ce que vous ressentez plutôt que de le laisser en suspens."},
+    "travail": {"situation": "Gabriel favorise les communications professionnelles, les annonces et les nouveaux projets créatifs qui demandent à naître.", "conseil": "Exprimez vos idées sans attendre la perfection : le message compte plus que la forme."},
+    "sante": {"situation": "Votre corps vous envoie des messages qu'il est temps d'écouter avec attention plutôt que de les ignorer.", "conseil": "Notez ce que vous ressentez physiquement, ces signaux sont une communication précieuse."},
+    "famille": {"situation": "Une communication en suspens dans votre famille attend d'être exprimée — un mot, une nouvelle, une vérité.", "conseil": "Choisissez la sincérité plutôt que le silence : la parole libère ce qui pèse."}
+  },
+  {
+    "id": 102, "name": "Archange Raphaël", "keyword": "Guérison et Foyer", "image": "archcard_102",
+    "spirituel": {"situation": "Raphaël baigne votre âme de sa lumière verte émeraude et agit sur toutes les formes de guérison intérieure.", "conseil": "Faites confiance au processus de guérison en cours et laissez la grâce divine vous restaurer."},
+    "amour": {"situation": "Une blessure sentimentale ancienne est en voie de guérison sous l'action bienveillante de Raphaël.", "conseil": "Accordez-vous le temps de guérir avant de vous précipiter vers une nouvelle relation."},
+    "travail": {"situation": "Raphaël restaure l'énergie épuisée par le travail et vous aide à retrouver votre élan professionnel.", "conseil": "Accordez-vous une vraie pause pour prévenir l'épuisement plutôt que le subir."},
+    "sante": {"situation": "Raphaël, le grand guérisseur, agit directement sur votre corps ; faites confiance au processus de guérison en cours.", "conseil": "Prenez soin de votre santé avec constance et n'hésitez pas à demander de l'aide."},
+    "famille": {"situation": "Une guérison est nécessaire dans une relation familiale blessée ; Raphaël œuvre à l'apaisement des cœurs.", "conseil": "Ouvrez un dialogue bienveillant plutôt que de laisser la blessure familiale s'enkyster."}
+  },
+  {
+    "id": 103, "name": "Archange Uriel", "keyword": "Sagesse pratique", "image": "archcard_103",
+    "spirituel": {"situation": "Uriel illumine votre chemin lorsque vous vous sentez perdu, apportant des idées soudaines et une clarté lumineuse.", "conseil": "Méditez sur sa flamme dorée : les solutions émergent naturellement du silence intérieur."},
+    "amour": {"situation": "Une vérité sur votre relation devient soudain claire grâce à la lumière d'Uriel.", "conseil": "Faites confiance à cette intuition plutôt que de continuer à douter."},
+    "travail": {"situation": "Uriel vous apporte l'idée ou la solution qui manquait à un problème professionnel complexe.", "conseil": "Prenez un moment de recul avant d'agir : la réponse juste est déjà en vous."},
+    "sante": {"situation": "Une clarté nouvelle vous aide à comprendre ce dont votre corps a réellement besoin.", "conseil": "Écoutez votre intuition sur votre santé plutôt que de chercher des réponses uniquement à l'extérieur."},
+    "famille": {"situation": "Uriel éclaire une situation familiale confuse et vous aide à comprendre ce qui se joue réellement.", "conseil": "Prenez le temps de réfléchir avant de réagir à chaud dans un différend familial."}
+  },
+  {
+    "id": 104, "name": "Archange Chamuel", "keyword": "Amour et Relations", "image": "archcard_104",
+    "spirituel": {"situation": "Chamuel ouvre votre cœur à une paix profonde et vous reconnecte à l'amour inconditionnel qui vous habite.", "conseil": "Laissez Chamuel guérir vos blessures du cœur pour retrouver la paix intérieure."},
+    "amour": {"situation": "Chamuel fortifie les liens d'amour authentique et aide à retrouver ce qui semblait perdu — une personne ou un sentiment.", "conseil": "Rouvrez votre cœur sans crainte, l'amour cherché n'est pas si loin."},
+    "travail": {"situation": "Chamuel apaise les tensions relationnelles au travail et favorise une ambiance plus harmonieuse.", "conseil": "Privilégiez la bienveillance dans vos échanges professionnels, elle désamorce bien des conflits."},
+    "sante": {"situation": "L'amour de soi, essentiel à votre équilibre, mérite d'être cultivé avec la douceur de Chamuel.", "conseil": "Prenez soin de vous comme vous prendriez soin d'un être cher."},
+    "famille": {"situation": "Chamuel fortifie les liens familiaux et aide à retrouver la paix après une période de tension.", "conseil": "Exprimez votre affection ouvertement, même dans les petits gestes du quotidien."}
+  },
+  {
+    "id": 105, "name": "Archange Jophiel", "keyword": "Beauté et Clarté d'esprit", "image": "archcard_105",
+    "spirituel": {"situation": "Jophiel transforme les pensées sombres en lumière et révèle la beauté cachée dans votre chemin spirituel.", "conseil": "Cherchez la beauté autour de vous et laissez-la transformer votre regard sur le monde."},
+    "amour": {"situation": "Jophiel vous aide à voir la beauté véritable de votre relation, au-delà des apparences ou des tensions passagères.", "conseil": "Portez un regard neuf et bienveillant sur la personne que vous aimez."},
+    "travail": {"situation": "Une approche plus créative et positive transformera un projet professionnel qui semblait terne.", "conseil": "Insufflez de la beauté et de la créativité dans vos tâches, même les plus routinières."},
+    "sante": {"situation": "Jophiel invite à prendre soin de votre corps comme d'une œuvre précieuse et à cultiver des pensées positives.", "conseil": "Remplacez une pensée négative sur votre corps par un mot de gratitude."},
+    "famille": {"situation": "Jophiel embellit l'atmosphère de votre foyer et transforme le regard porté sur les tensions familiales.", "conseil": "Faites un geste simple pour embellir votre intérieur, il élèvera l'énergie du foyer."}
+  },
+  {
+    "id": 106, "name": "Archange Zadkiel", "keyword": "Pardon et Transformation", "image": "archcard_106",
+    "spirituel": {"situation": "Zadkiel apporte le pardon et la libération karmique, dissolvant les vieux schémas qui vous enchaînent.", "conseil": "Le pardon — de vous-même et des autres — est la clé de votre liberté intérieure."},
+    "amour": {"situation": "Une rancœur ancienne freine votre relation ; la flamme violette de Zadkiel vous invite à la transmuter.", "conseil": "Pardonnez ce qui peut l'être, non pour l'autre, mais pour libérer votre propre cœur."},
+    "travail": {"situation": "Un conflit professionnel non résolu demande à être transformé plutôt qu'évité.", "conseil": "Faites le premier pas vers l'apaisement, même si l'autre ne le mérite pas encore."},
+    "sante": {"situation": "Les tensions émotionnelles non digérées pèsent sur votre corps ; Zadkiel invite à les libérer.", "conseil": "Pratiquez le pardon comme un soin, il allège autant le cœur que le corps."},
+    "famille": {"situation": "Une vieille blessure familiale attend d'être transformée par le pardon plutôt que ressassée.", "conseil": "Osez la conversation qui libère, même si elle est inconfortable au premier abord."}
+  },
+  {
+    "id": 107, "name": "Archange Azraël", "keyword": "Transition et Réconfort", "image": "archcard_107",
+    "spirituel": {"situation": "Azraël accompagne votre âme dans une transition en douceur ; la fin d'un cycle annonce un nouveau départ lumineux.", "conseil": "Permettez-vous de traverser le changement sans résister, il vous mène vers plus de lumière."},
+    "amour": {"situation": "Une page se tourne dans votre vie sentimentale ; Azraël vous aide à traverser cette transition avec douceur.", "conseil": "Accordez-vous le temps du deuil avant de vous projeter vers autre chose."},
+    "travail": {"situation": "Un cycle professionnel touche à sa fin, ouvrant la voie à une nouvelle étape.", "conseil": "Laissez partir ce qui est révolu plutôt que de vous y accrocher par habitude."},
+    "sante": {"situation": "Une transition de vie affecte votre énergie ; accordez-vous la douceur nécessaire pour la traverser.", "conseil": "Prenez soin de vous pendant cette période de changement plutôt que de la brusquer."},
+    "famille": {"situation": "Une transition touche votre foyer — un départ, un changement, un passage à accueillir avec réconfort.", "conseil": "Accompagnez vos proches dans ce passage avec présence plutôt qu'avec précipitation."}
+  },
+  {
+    "id": 108, "name": "Archange Ariel", "keyword": "Liberté et Nature", "image": "archcard_108",
+    "spirituel": {"situation": "Ariel veille sur les forces élémentaires et vous encourage à vous connecter à la Terre-Mère pour nourrir votre âme.", "conseil": "Passez du temps dans la nature, elle est votre sanctuaire spirituel."},
+    "amour": {"situation": "Une relation s'enracine et se nourrit naturellement, comme une plante bien exposée à la lumière.", "conseil": "Laissez votre relation grandir à son rythme naturel, sans la forcer."},
+    "travail": {"situation": "Ariel garantit que vos besoins matériels seront comblés si vous restez fidèle à vos valeurs profondes.", "conseil": "Connectez-vous à des méthodes de travail plus naturelles et alignées avec vos besoins réels."},
+    "sante": {"situation": "Ariel invite à reconnecter votre corps aux rythmes naturels pour retrouver équilibre et vitalité.", "conseil": "Passez du temps dehors, marchez, respirez : la nature restaure votre énergie."},
+    "famille": {"situation": "Ariel favorise l'abondance matérielle du foyer et encourage un mode de vie plus simple et naturel.", "conseil": "Cultivez la gratitude pour ce que votre foyer possède déjà."}
+  },
+  {
+    "id": 109, "name": "Archange Métatron", "keyword": "Transmission et Haute Vibration", "image": "archcard_109",
+    "spirituel": {"situation": "Métatron supervise votre évolution spirituelle et vous rappelle que votre âme a un plan précis à accomplir.", "conseil": "Faites confiance au grand dessein même quand le chemin semble flou."},
+    "amour": {"situation": "Cette relation fait partie d'un plan plus vaste que vous ne percevez pas encore entièrement.", "conseil": "Restez ouvert aux leçons que cette relation vous enseigne sur vous-même."},
+    "travail": {"situation": "Métatron vous aligne sur votre mission professionnelle véritable, au-delà des simples obligations quotidiennes.", "conseil": "Recentrez-vous sur ce qui a vraiment du sens pour vous dans votre travail."},
+    "sante": {"situation": "Votre corps est le véhicule sacré de votre mission d'âme ; Métatron invite à en prendre soin comme tel.", "conseil": "Honorez votre corps comme un instrument précieux au service de votre chemin."},
+    "famille": {"situation": "Chaque membre de votre famille joue un rôle dans le grand dessein de votre évolution d'âme.", "conseil": "Considérez les liens familiaux comme des enseignements plutôt que de simples obligations."}
+  },
+  {
+    "id": 110, "name": "Archange Haniel", "keyword": "Grâce et Intuition", "image": "archcard_110",
+    "spirituel": {"situation": "Haniel amplifie vos dons intuitifs et vous aide à naviguer les cycles de la vie avec grâce.", "conseil": "Alignez-vous sur les phases lunaires pour affiner votre intuition et clarifier vos désirs."},
+    "amour": {"situation": "Votre intuition vous révèle une vérité sur votre relation que la raison seule ne voyait pas.", "conseil": "Faites confiance à ce que votre cœur perçoit, même sans preuve tangible."},
+    "travail": {"situation": "Un cycle professionnel arrive à son terme naturel, laissant place à une nouvelle phase.", "conseil": "Respectez le rythme naturel de vos projets plutôt que de les forcer."},
+    "sante": {"situation": "Haniel invite à respecter les cycles naturels de votre corps, notamment ceux liés au repos et à l'énergie féminine.", "conseil": "Accordez-vous du repos aux moments où votre corps le réclame."},
+    "famille": {"situation": "Votre intuition perçoit quelque chose d'important concernant un proche, même sans mot prononcé.", "conseil": "Faites confiance à votre ressenti dans vos relations familiales, il est rarement trompeur."}
+  },
+  {
+    "id": 111, "name": "Archange Jérémiel", "keyword": "Bilan et Transformation", "image": "archcard_111",
+    "spirituel": {"situation": "Jérémiel vous aide à faire le bilan de votre vie avec bienveillance et à recevoir des messages dans vos rêves.", "conseil": "Retournez-vous sur votre chemin parcouru pour en extraire la sagesse, sans jugement."},
+    "amour": {"situation": "C'est le moment de faire un bilan honnête et bienveillant de votre vie amoureuse.", "conseil": "Observez les schémas qui se répètent dans vos relations pour mieux les comprendre."},
+    "travail": {"situation": "Un bilan de votre parcours professionnel s'impose pour ajuster votre cap avec clarté.", "conseil": "Prenez du recul sur votre carrière avant de décider de la suite à donner."},
+    "sante": {"situation": "Vos rêves portent des messages importants sur votre état intérieur ; Jérémiel invite à y prêter attention.", "conseil": "Tenez un carnet de rêves pour mieux comprendre les signaux de votre corps et de votre âme."},
+    "famille": {"situation": "Un regard rétrospectif et bienveillant sur votre histoire familiale apporte une compréhension nouvelle.", "conseil": "Observez votre histoire familiale avec les yeux de l'amour plutôt que du jugement."}
+  },
+  {
+    "id": 112, "name": "Archange Raguel", "keyword": "Justice et Harmonie", "image": "archcard_112",
+    "spirituel": {"situation": "Raguel rétablit l'ordre et l'harmonie divine dans votre vie lorsque le déséquilibre s'installe.", "conseil": "Faites appel à lui pour retrouver l'équilibre et la paix intérieure."},
+    "amour": {"situation": "Un déséquilibre relationnel demande à être rétabli avec justice et douceur.", "conseil": "Recherchez l'équité dans votre couple plutôt que de laisser un déséquilibre s'installer."},
+    "travail": {"situation": "Raguel favorise la coopération et l'équité dans vos relations professionnelles.", "conseil": "Privilégiez le dialogue et la médiation face à un conflit d'équipe."},
+    "sante": {"situation": "Raguel invite à rétablir l'harmonie entre votre corps, votre esprit et votre rythme de vie.", "conseil": "Cherchez l'équilibre plutôt que l'excès dans vos habitudes quotidiennes."},
+    "famille": {"situation": "Des conflits familiaux réclament l'intervention apaisante de Raguel pour rétablir l'harmonie.", "conseil": "Appelez à la médiation et à l'équité pour résoudre un désaccord familial durable."}
+  },
+  {
+    "id": 113, "name": "Archange Sandalphon", "keyword": "Ancrage et Manifestation", "image": "archcard_113",
+    "spirituel": {"situation": "Sandalphon transporte vos prières jusqu'au trône divin ; votre prière a été entendue, la réponse est en chemin.", "conseil": "Reprenez votre pratique de prière ou de méditation pour renforcer votre connexion."},
+    "amour": {"situation": "Vos souhaits les plus sincères concernant l'amour ont été entendus par le divin.", "conseil": "Formulez clairement ce que vous désirez vraiment dans votre cœur."},
+    "travail": {"situation": "Sandalphon ancre votre spiritualité dans le concret et soutient la manifestation de vos projets terrestres.", "conseil": "Alliez intention spirituelle et action concrète pour faire avancer votre projet."},
+    "sante": {"situation": "Sandalphon invite à ancrer votre énergie spirituelle dans un corps bien portant et enraciné.", "conseil": "Pratiquez des exercices d'ancrage comme la marche pieds nus ou la respiration profonde."},
+    "famille": {"situation": "Une prière silencieuse pour votre famille a été entendue ; l'apaisement est en chemin.", "conseil": "Ancrez la spiritualité dans votre foyer par de simples rituels partagés."}
+  },
+  {
+    "id": 114, "name": "Archange Raziel", "keyword": "Mystères et Connaissance", "image": "archcard_114",
+    "spirituel": {"situation": "Raziel révèle les connaissances ésotériques cachées à ceux qui sont prêts à les recevoir.", "conseil": "Restez ouvert aux mystères de l'univers qui s'ouvrent progressivement à vous."},
+    "amour": {"situation": "Une vérité cachée sur votre relation est sur le point d'être révélée.", "conseil": "Purifiez votre intention avant de chercher à percer ce mystère."},
+    "travail": {"situation": "Une information clé, jusqu'ici cachée, va bientôt éclairer une décision professionnelle.", "conseil": "Restez attentif aux signes discrets qui révèlent la vérité d'une situation."},
+    "sante": {"situation": "Raziel invite à explorer les causes profondes et cachées d'un déséquilibre physique.", "conseil": "Cherchez au-delà des symptômes visibles la source réelle du problème."},
+    "famille": {"situation": "Un secret familial ancien cherche à émerger pour être enfin compris et apaisé.", "conseil": "Accueillez la vérité familiale avec ouverture plutôt qu'avec crainte."}
+  },
+  {
+    "id": 115, "name": "Archange Muriel", "keyword": "Émotions et Intuition", "image": "archcard_115",
+    "spirituel": {"situation": "Muriel veille sur vos émotions avec tendresse ; elles sont des messages sacrés qui méritent d'être écoutés.", "conseil": "Faites confiance à votre intelligence du cœur plutôt qu'à la seule raison."},
+    "amour": {"situation": "Vos émotions vous parlent clairement sur l'état réel de votre relation.", "conseil": "Honorez ce que vous ressentez sans le minimiser ni le fuir."},
+    "travail": {"situation": "Votre ressenti professionnel mérite d'être pris au sérieux plutôt qu'ignoré.", "conseil": "Écoutez votre intuition avant de prendre une décision importante au travail."},
+    "sante": {"situation": "Des émotions refoulées pèsent sur votre corps ; Muriel invite à les laisser circuler.", "conseil": "Accordez-vous un espace pour ressentir et exprimer ce que vous portez en silence."},
+    "famille": {"situation": "Une tension familiale est avant tout de nature émotionnelle et demande à être accueillie avec douceur.", "conseil": "Nommez ce que vous ressentez plutôt que de le laisser couver."}
+  },
+  {
+    "id": 116, "name": "Archange Cassiel", "keyword": "Karma et Patience", "image": "archcard_116",
+    "spirituel": {"situation": "Cassiel enseigne que tout arrive en son temps et que chaque épreuve porte une leçon karmique précieuse.", "conseil": "Soyez patient, la divine horloge est parfaitement réglée."},
+    "amour": {"situation": "Une situation sentimentale demande du temps pour se résoudre pleinement ; la patience est votre alliée.", "conseil": "N'accélérez pas ce qui doit mûrir à son propre rythme."},
+    "travail": {"situation": "Un projet professionnel exige de la patience avant de porter ses fruits.", "conseil": "Persévérez sans précipitation, les résultats viendront en leur temps."},
+    "sante": {"situation": "Votre corps a besoin de temps pour se régénérer pleinement ; Cassiel invite à la patience.", "conseil": "Respectez le rythme naturel de la guérison plutôt que de le brusquer."},
+    "famille": {"situation": "Une réconciliation familiale se fera avec le temps, pas dans la précipitation.", "conseil": "Laissez le temps faire son œuvre dans une relation familiale délicate."}
+  },
+  {
+    "id": 117, "name": "Archange Barachiel", "keyword": "Bénédictions et Chance", "image": "archcard_117",
+    "spirituel": {"situation": "Barachiel répand ses bénédictions sur votre chemin ; restez ouvert aux miracles du quotidien.", "conseil": "Cultivez la gratitude pour mieux recevoir les cadeaux que la vie vous offre déjà."},
+    "amour": {"situation": "Une heureuse coïncidence ou une rencontre bénie pourrait illuminer votre vie sentimentale.", "conseil": "Restez attentif aux synchronicités qui se présentent dans votre vie amoureuse."},
+    "travail": {"situation": "Une opportunité professionnelle inattendue et chanceuse se présente à vous.", "conseil": "Saisissez cette chance avec gratitude plutôt qu'avec méfiance."},
+    "sante": {"situation": "Une amélioration bienvenue et presque inespérée touche votre état de santé.", "conseil": "Accueillez cette bonne nouvelle avec reconnaissance et continuez vos efforts."},
+    "famille": {"situation": "Barachiel, patron de la famille, bénit votre foyer de synchronicités heureuses.", "conseil": "Célébrez les petits bonheurs familiaux, ils sont des bénédictions déguisées."}
+  },
+  {
+    "id": 118, "name": "Archange Séraphiel", "keyword": "Amour pur et Élévation", "image": "archcard_118",
+    "spirituel": {"situation": "Séraphiel vous élève vers les plus hautes fréquences de l'amour pur et transforme votre vibration intérieure.", "conseil": "Purifiez votre espace et élevez vos pensées vers la lumière."},
+    "amour": {"situation": "Votre relation est invitée à s'élever vers une forme d'amour plus pure et désintéressée.", "conseil": "Aimez sans attente ni condition, c'est la clé de cette élévation."},
+    "travail": {"situation": "Une vision plus élevée et inspirée de votre carrière cherche à émerger.", "conseil": "Alignez votre travail sur des valeurs plus hautes que la simple obligation."},
+    "sante": {"situation": "Séraphiel invite à élever la vibration de votre corps par des pensées et pratiques plus pures.", "conseil": "Adoptez des habitudes qui nourrissent votre corps autant que votre esprit."},
+    "famille": {"situation": "Une atmosphère plus légère et lumineuse cherche à s'installer dans votre foyer.", "conseil": "Élevez le ton des échanges familiaux vers plus de douceur et de bienveillance."}
+  },
+  {
+    "id": 119, "name": "Archange Puriel", "keyword": "Purification et Feu sacré", "image": "archcard_119",
+    "spirituel": {"situation": "Puriel brûle les impuretés énergétiques et purifie votre aura par son feu sacré.", "conseil": "Laissez cette purification profonde transformer votre être sans y résister."},
+    "amour": {"situation": "Une purification est nécessaire dans votre relation pour éliminer ce qui n'est plus aligné.", "conseil": "Nommez honnêtement ce qui doit être clarifié entre vous."},
+    "travail": {"situation": "Un grand nettoyage — de méthodes, d'habitudes ou de collaborations — s'impose dans votre vie professionnelle.", "conseil": "Éliminez ce qui encombre inutilement votre travail pour retrouver de la clarté."},
+    "sante": {"situation": "Puriel invite à une détoxification en profondeur, physique autant qu'énergétique.", "conseil": "Simplifiez votre alimentation et votre environnement pour faciliter cette purification."},
+    "famille": {"situation": "Un assainissement des relations familiales est en cours, même s'il est parfois inconfortable.", "conseil": "Acceptez que certaines vérités doivent être dites pour purifier l'atmosphère familiale."}
+  },
+  {
+    "id": 120, "name": "Archange Sachiel", "keyword": "Abondance et Générosité", "image": "archcard_120",
+    "spirituel": {"situation": "Sachiel ouvre les vannes de la prospérité céleste et enseigne que la vraie richesse coule de la générosité du cœur.", "conseil": "Donnez librement et recevez avec grâce."},
+    "amour": {"situation": "Une générosité de cœur nourrit et fait grandir votre relation sentimentale.", "conseil": "Donnez sans compter dans votre relation, l'abondance affective vous reviendra."},
+    "travail": {"situation": "Sachiel favorise la prospérité matérielle liée à votre travail et à vos projets.", "conseil": "Examinez vos croyances profondes sur l'argent pour laisser la prospérité se manifester."},
+    "sante": {"situation": "Une abondance d'énergie vitale est à votre disposition si vous savez la recevoir.", "conseil": "Nourrissez votre corps avec générosité plutôt qu'avec restriction."},
+    "famille": {"situation": "L'abondance et la générosité circulent naturellement au sein de votre foyer.", "conseil": "Partagez généreusement avec vos proches, la richesse du cœur se multiplie en la donnant."}
+  },
+  {
+    "id": 121, "name": "L'Ange de la Protection", "keyword": "Protection et Sécurité", "image": "archcard_121",
+    "spirituel": {"situation": "Votre ange gardien déploie ses ailes protectrices autour de votre chemin spirituel.", "conseil": "Renforcez votre connexion angélique par la prière ou la méditation quotidienne."},
+    "amour": {"situation": "Une lumière protectrice enveloppe votre relation sentimentale et vos liens les plus précieux.", "conseil": "Faites confiance au bouclier invisible qui protège votre relation."},
+    "travail": {"situation": "Vos projets professionnels sont sous la protection bienveillante de votre ange gardien.", "conseil": "Avancez avec confiance, vous êtes soutenu même quand vous ne le sentez pas."},
+    "sante": {"situation": "Une lumière blanche protectrice enveloppe votre corps et votre bien-être en ce moment.", "conseil": "Lâchez vos inquiétudes concernant votre santé et avancez avec confiance."},
+    "famille": {"situation": "Votre ange gardien veille sur votre maison et sur ceux qui vous sont chers.", "conseil": "Confiez la sécurité de votre foyer à cette protection invisible et bienveillante."}
+  },
+  {
+    "id": 122, "name": "L'Ange de la Guérison", "keyword": "Guérison et Soin", "image": "archcard_122",
+    "spirituel": {"situation": "Un ange de guérison pose ses mains lumineuses sur ce qui souffre en vous, à un niveau spirituel.", "conseil": "Faites confiance au processus divin de guérison en cours."},
+    "amour": {"situation": "Une guérison profonde s'opère dans votre cœur, préparant le terrain pour un amour plus sain.", "conseil": "Accordez-vous le temps de guérir avant d'accueillir une nouvelle relation."},
+    "travail": {"situation": "Une situation professionnelle éprouvante est en train de se réparer doucement.", "conseil": "Permettez à l'énergie de guérison de circuler en lâchant toute résistance."},
+    "sante": {"situation": "Votre corps, votre cœur ou votre esprit reçoit exactement le soin dont il a besoin en ce moment.", "conseil": "Faites confiance au processus de guérison plutôt que de vouloir le précipiter."},
+    "famille": {"situation": "Une blessure familiale ancienne est en voie d'apaisement grâce à cette énergie de guérison.", "conseil": "Ouvrez-vous à recevoir de l'aide pour guérir une relation familiale douloureuse."}
+  },
+  {
+    "id": 123, "name": "L'Ange de l'Amour", "keyword": "Amour et Tendresse", "image": "archcard_123",
+    "spirituel": {"situation": "L'ange de l'amour vous enveloppe d'une lumière rose qui nourrit l'amour de soi et l'amour du divin.", "conseil": "Ouvrez votre cœur sans crainte, vous méritez pleinement d'être aimé."},
+    "amour": {"situation": "Une relation s'approfondit ou une réconciliation s'opère sous l'influence douce de cet ange.", "conseil": "Osez exprimer votre amour ouvertement, sans crainte du rejet."},
+    "travail": {"situation": "Un amour sincère pour ce que vous faites transforme votre rapport au travail.", "conseil": "Choisissez de vous investir dans ce qui nourrit réellement votre cœur."},
+    "sante": {"situation": "L'amour de soi est un puissant remède pour votre équilibre physique et émotionnel.", "conseil": "Traitez votre corps avec la même tendresse que vous offririez à un être aimé."},
+    "famille": {"situation": "L'amour circule à nouveau plus librement au sein de votre foyer.", "conseil": "Exprimez votre affection à vos proches sans attendre l'occasion parfaite."}
+  },
+  {
+    "id": 124, "name": "L'Ange de l'Abondance", "keyword": "Abondance et Confiance", "image": "archcard_124",
+    "spirituel": {"situation": "L'ange de l'abondance répand des pluies dorées de prospérité alignées sur votre chemin spirituel.", "conseil": "Faites confiance à l'univers qui pourvoit à ceux qui agissent avec intégrité."},
+    "amour": {"situation": "Une abondance affective — tendresse, attention, présence — se déploie dans votre vie sentimentale.", "conseil": "Accueillez cette abondance affective sans vous sentir indigne de la recevoir."},
+    "travail": {"situation": "Vos besoins matériels liés au travail sont pris en charge par le divin.", "conseil": "Relâchez vos craintes financières et concentrez-vous sur une action alignée."},
+    "sante": {"situation": "Une abondance d'énergie vitale afflue vers votre corps si vous savez la laisser circuler.", "conseil": "Cultivez des pensées d'abondance concernant votre propre vitalité."},
+    "famille": {"situation": "L'abondance matérielle et affective de votre foyer est soutenue par cet ange bienveillant.", "conseil": "Partagez la prospérité de votre foyer avec gratitude plutôt qu'avec inquiétude."}
+  },
+  {
+    "id": 125, "name": "L'Ange de la Paix", "keyword": "Paix et Sérénité", "image": "archcard_125",
+    "spirituel": {"situation": "L'ange de la paix descend sur votre vie comme une colombe porteuse d'une sérénité profonde.", "conseil": "Respirez et accueillez cette paix divine qui dépasse toute compréhension."},
+    "amour": {"situation": "Les conflits dans votre relation se résolvent, laissant place à une harmonie retrouvée.", "conseil": "Privilégiez le dialogue apaisé plutôt que la confrontation dans votre couple."},
+    "travail": {"situation": "Une résolution pacifique met fin à une tension professionnelle qui durait depuis trop longtemps.", "conseil": "Recherchez le compromis plutôt que d'avoir raison à tout prix."},
+    "sante": {"situation": "Une sérénité profonde apaise votre système nerveux et restaure votre équilibre intérieur.", "conseil": "Accordez-vous des moments de calme pour laisser cette paix s'installer durablement."},
+    "famille": {"situation": "L'agitation familiale laisse place à un apaisement bienvenu et à un dialogue retrouvé.", "conseil": "Soyez celui ou celle qui initie l'apaisement dans un différend familial."}
+  },
+  {
+    "id": 126, "name": "L'Ange de la Sagesse", "keyword": "Sagesse et Discernement", "image": "archcard_126",
+    "spirituel": {"situation": "L'ange de la sagesse pose une lumière dorée sur votre esprit et vous guide vers la décision juste.", "conseil": "Faites confiance à la connaissance profonde qui monte doucement en vous."},
+    "amour": {"situation": "Une sagesse du cœur, plus que la logique froide, vous guide dans votre vie sentimentale.", "conseil": "Ralentissez avant de trancher une question importante concernant votre relation."},
+    "travail": {"situation": "Une décision professionnelle délicate demande la sagesse plutôt que la précipitation.", "conseil": "Cherchez des conseils qui viennent de plus haut que votre seul mental."},
+    "sante": {"situation": "Une compréhension plus sage de vos besoins réels émerge concernant votre santé.", "conseil": "Écoutez la voix sage de votre corps plutôt que les injonctions extérieures."},
+    "famille": {"situation": "La sagesse d'un proche ou d'une figure familiale éclaire une situation délicate.", "conseil": "Accueillez les conseils bienveillants d'un aîné avec ouverture."}
+  },
+  {
+    "id": 127, "name": "L'Ange de la Joie", "keyword": "Joie et Légèreté", "image": "archcard_127",
+    "spirituel": {"situation": "L'ange de la joie vous rappelle que la légèreté et le bonheur sont votre état naturel.", "conseil": "Cherchez les petits miracles du quotidien, ils sont partout pour qui sait regarder."},
+    "amour": {"situation": "La joie et la légèreté reviennent dans votre relation, apportant rires et complicité retrouvés.", "conseil": "Faites une chose amusante ensemble, la joie partagée renforce les liens."},
+    "travail": {"situation": "Retrouver du plaisir dans votre travail est la clé pour dénouer une période morose.", "conseil": "Introduisez un peu de légèreté dans votre quotidien professionnel."},
+    "sante": {"situation": "La joie est un remède puissant ; elle nourrit votre corps autant que vos pensées positives.", "conseil": "Riez, jouez, célébrez : c'est aussi une façon de prendre soin de vous."},
+    "famille": {"situation": "Des moments de joie simple et partagée sont à cultiver au sein de votre foyer.", "conseil": "Organisez un moment léger et joyeux avec vos proches, même bref."}
+  },
+  {
+    "id": 128, "name": "L'Ange de la Lumière", "keyword": "Lumière et Rayonnement", "image": "archcard_128",
+    "spirituel": {"situation": "L'ange de la lumière vous rappelle que vous êtes vous-même un être de lumière rayonnant.", "conseil": "Laissez votre lumière intérieure briller sans retenue ni fausse modestie."},
+    "amour": {"situation": "Votre relation gagne à être éclairée par plus de transparence et d'authenticité.", "conseil": "Soyez la lumière dans votre relation en choisissant la clarté plutôt que le non-dit."},
+    "travail": {"situation": "Votre rayonnement personnel illumine positivement votre environnement professionnel.", "conseil": "N'ayez pas peur de briller dans votre travail, cela inspire aussi les autres."},
+    "sante": {"situation": "Une vitalité lumineuse cherche à circuler pleinement dans votre corps.", "conseil": "Protégez votre espace énergétique pour préserver cette lumière intérieure."},
+    "famille": {"situation": "Votre présence lumineuse apaise et illumine l'atmosphère de votre foyer.", "conseil": "Soyez un phare de calme pour vos proches dans une période trouble."}
+  },
+  {
+    "id": 129, "name": "L'Ange du Courage", "keyword": "Courage et Dépassement", "image": "archcard_129",
+    "spirituel": {"situation": "L'ange du courage vous insuffle la bravoure nécessaire pour franchir vos prochains pas spirituels.", "conseil": "Ce n'est pas l'absence de peur mais la décision d'avancer malgré elle qui définit le vrai courage."},
+    "amour": {"situation": "Il est temps d'oser ce que vous repoussez depuis longtemps dans votre vie sentimentale — une déclaration, une rupture, un nouveau départ.", "conseil": "Osez, vous avez en vous tout ce qu'il faut."},
+    "travail": {"situation": "Une décision professionnelle audacieuse vous attend, même si elle vous intimide.", "conseil": "Identifiez précisément ce qui vous fait peur et nommez-le, la lumière dissipe l'ombre."},
+    "sante": {"situation": "Le courage de faire un changement bénéfique pour votre santé se présente à vous.", "conseil": "Franchissez le premier pas, même petit, vers un mode de vie plus sain."},
+    "famille": {"situation": "Une conversation familiale importante, longtemps évitée, demande maintenant du courage.", "conseil": "Osez dire ce qui doit être dit, avec douceur mais sans détour."}
+  },
+  {
+    "id": 130, "name": "L'Ange de la Confiance", "keyword": "Confiance et Lâcher-prise", "image": "archcard_130",
+    "spirituel": {"situation": "L'ange de la confiance vous invite à faire confiance au plan divin même sans en voir l'issue.", "conseil": "Relâchez le contrôle et laissez la grâce divine opérer à son rythme."},
+    "amour": {"situation": "Il est temps de faire à nouveau confiance en amour, malgré les blessures passées.", "conseil": "Avancez pas à pas dans la confiance plutôt que de tout attendre d'un coup."},
+    "travail": {"situation": "Faites confiance à votre parcours professionnel, même quand la direction n'est pas encore claire.", "conseil": "Lâchez le besoin de tout contrôler dans votre travail."},
+    "sante": {"situation": "La confiance en votre corps et en sa capacité à se réguler est essentielle en ce moment.", "conseil": "Faites confiance aux signaux de votre corps plutôt que de les combattre."},
+    "famille": {"situation": "Retrouver la confiance envers un proche est un chemin possible, pas à pas.", "conseil": "Accordez une confiance mesurée et progressive plutôt que tout ou rien."}
+  },
+  {
+    "id": 131, "name": "L'Ange de la Transformation", "keyword": "Transformation et Renouveau", "image": "archcard_131",
+    "spirituel": {"situation": "Vous traversez une métamorphose profonde et nécessaire, comme le papillon avant son envol.", "conseil": "Faites confiance à ce processus, ce qui émerge sera plus beau que ce qui était."},
+    "amour": {"situation": "Votre relation traverse une transformation nécessaire qui la rendra plus authentique.", "conseil": "Embrassez le changement dans votre couple plutôt que de vous y opposer."},
+    "travail": {"situation": "Une reconversion ou une évolution professionnelle importante est en train de se dessiner.", "conseil": "Acceptez l'inconfort temporaire du changement, il précède une belle évolution."},
+    "sante": {"situation": "Votre corps traverse une phase de transformation qui demande patience et bienveillance.", "conseil": "Accompagnez ce changement physique sans lutter contre lui."},
+    "famille": {"situation": "La dynamique de votre famille se transforme, ouvrant la voie à de nouveaux équilibres.", "conseil": "Accueillez les changements familiaux comme une évolution plutôt qu'une perte."}
+  },
+  {
+    "id": 132, "name": "L'Ange du Pardon", "keyword": "Pardon et Libération", "image": "archcard_132",
+    "spirituel": {"situation": "L'ange du pardon vous aide à déposer le fardeau de la rancœur pour retrouver votre paix intérieure.", "conseil": "Le pardon n'est pas un cadeau pour l'autre, c'est un cadeau que vous vous faites."},
+    "amour": {"situation": "Un pardon, envers l'autre ou envers vous-même, libérerait votre relation d'un poids ancien.", "conseil": "Prenez le temps dont vous avez besoin pour pardonner, sans vous forcer."},
+    "travail": {"situation": "Une rancœur professionnelle non résolue draine inutilement votre énergie.", "conseil": "Libérez cette rancœur pour retrouver votre pleine capacité d'action."},
+    "sante": {"situation": "Le pardon libère aussi le corps du poids émotionnel qu'il porte silencieusement.", "conseil": "Considérez le pardon comme un soin autant physique qu'émotionnel."},
+    "famille": {"situation": "Une blessure familiale ancienne attend d'être déposée par le pardon plutôt que ressassée.", "conseil": "Accordez-vous, ou accordez à un proche, le pardon qui libère tout le monde."}
+  },
+  {
+    "id": 133, "name": "L'Ange de la Vérité", "keyword": "Vérité et Authenticité", "image": "archcard_133",
+    "spirituel": {"situation": "L'ange de la vérité vous invite à vivre en authenticité totale avec qui vous êtes vraiment.", "conseil": "Ayez le courage de regarder les choses telles qu'elles sont vraiment."},
+    "amour": {"situation": "Une vérité sincère, même difficile, doit être exprimée pour libérer votre relation.", "conseil": "Dites votre vérité avec douceur plutôt que de la taire par peur du conflit."},
+    "travail": {"situation": "L'authenticité professionnelle — dire ce que vous pensez vraiment — devient nécessaire.", "conseil": "Cessez de vous cacher derrière des masques dans votre vie professionnelle."},
+    "sante": {"situation": "Une vérité sur votre état de santé mérite d'être regardée en face plutôt qu'évitée.", "conseil": "Affrontez honnêtement ce que vous savez déjà au fond de vous."},
+    "famille": {"situation": "Une vérité familiale tue depuis longtemps cherche enfin à être dite.", "conseil": "La sincérité, même difficile à exprimer, libère et guérit votre famille."}
+  },
+  {
+    "id": 134, "name": "L'Ange des Miracles", "keyword": "Miracles et Foi", "image": "archcard_134",
+    "spirituel": {"situation": "Un miracle, grand ou petit, est sur le point de se manifester dans votre vie spirituelle.", "conseil": "Restez attentif aux signes et aux synchronicités qui se multiplient autour de vous."},
+    "amour": {"situation": "L'impossible devient possible dans votre vie amoureuse pour qui croit avec la foi du cœur.", "conseil": "Rouvrez votre cœur au possible, même quand la raison dit le contraire."},
+    "travail": {"situation": "Une solution inattendue et presque miraculeuse se présente à un problème professionnel bloqué.", "conseil": "Gardez confiance même quand la situation semble sans issue apparente."},
+    "sante": {"situation": "Une amélioration inattendue de votre état de santé pourrait bien vous surprendre.", "conseil": "Un tout petit grain de foi suffit pour accueillir ce miracle."},
+    "famille": {"situation": "Un miracle familial — une réconciliation, une bonne nouvelle — se prépare en coulisses.", "conseil": "Restez ouvert à l'inattendu dans votre vie de famille."}
+  },
+  {
+    "id": 135, "name": "L'Ange de la Grâce", "keyword": "Grâce et Douceur", "image": "archcard_135",
+    "spirituel": {"situation": "L'ange de la grâce vous enveloppe d'une élégance divine qui transcende les circonstances difficiles.", "conseil": "La grâce est un état d'être que vous pouvez choisir à tout moment."},
+    "amour": {"situation": "Traverser une difficulté relationnelle avec grâce et douceur transformera l'issue de la situation.", "conseil": "Choisissez la douceur plutôt que la dureté dans un moment de tension amoureuse."},
+    "travail": {"situation": "Faire preuve de grâce et d'élégance dans une situation professionnelle délicate portera ses fruits.", "conseil": "Restez digne et fluide même face à une contrariété professionnelle."},
+    "sante": {"situation": "Accueillir votre corps avec grâce, même imparfait, nourrit votre équilibre profond.", "conseil": "Traitez votre corps avec douceur plutôt qu'avec dureté ou jugement."},
+    "famille": {"situation": "Plus de douceur et d'élégance dans vos échanges familiaux apaiserait bien des tensions.", "conseil": "Choisissez la grâce plutôt que la rigidité dans un différend familial."}
+  },
+  {
+    "id": 136, "name": "L'Ange de l'Espoir", "keyword": "Espoir et Lumière", "image": "archcard_136",
+    "spirituel": {"situation": "L'ange de l'espoir arrive au moment où vous en avez le plus besoin, portant une lumière dans l'obscurité.", "conseil": "Gardez la flamme de l'espoir allumée dans votre cœur, même minuscule."},
+    "amour": {"situation": "Ne désespérez pas de votre vie sentimentale : une issue favorable existe même si elle n'est pas encore visible.", "conseil": "Un souffle de foi en l'amour peut tout rallumer."},
+    "travail": {"situation": "Même dans une période professionnelle difficile, une issue positive se prépare discrètement.", "conseil": "Ne renoncez pas maintenant, la situation est sur le point de s'éclaircir."},
+    "sante": {"situation": "L'espoir est un allié puissant pour votre guérison, ne laissez pas le découragement l'éteindre.", "conseil": "Cultivez des pensées d'espoir concernant votre santé, elles soutiennent le corps."},
+    "famille": {"situation": "L'espoir d'une amélioration dans votre situation familiale est fondé et mérite d'être entretenu.", "conseil": "Ne perdez pas espoir concernant un proche, les choses peuvent encore s'arranger."}
+  },
+  {
+    "id": 137, "name": "L'Ange des Enfants", "keyword": "Enfance et Émerveillement", "image": "archcard_137",
+    "spirituel": {"situation": "Cet ange éveille en vous l'enfant intérieur — émerveillement, curiosité et joie spontanée.", "conseil": "Jouez, créez, rêvez : votre enfant intérieur a des choses importantes à vous dire."},
+    "amour": {"situation": "Retrouver la spontanéité et l'insouciance du début rajeunirait votre relation.", "conseil": "Laissez une part d'enfance et de légèreté s'exprimer dans votre couple."},
+    "travail": {"situation": "Une approche plus ludique et créative de votre travail pourrait débloquer bien des choses.", "conseil": "Autorisez-vous à jouer avec vos idées avant de les juger trop sérieusement."},
+    "sante": {"situation": "Prendre soin de votre enfant intérieur, parfois blessé, nourrit votre équilibre global.", "conseil": "Portez un regard aimant sur l'enfant que vous étiez."},
+    "famille": {"situation": "Les enfants de votre entourage, ou votre propre enfance, sont au centre de cette période.", "conseil": "Accordez une attention particulière et bienveillante aux plus jeunes de votre famille."}
+  },
+  {
+    "id": 138, "name": "L'Ange des Animaux", "keyword": "Connexion animale", "image": "archcard_138",
+    "spirituel": {"situation": "L'ange des animaux vous rappelle les messages que les créatures portent dans votre vie spirituelle.", "conseil": "Restez attentif aux signes que la nature animale vous envoie."},
+    "amour": {"situation": "La tendresse simple et inconditionnelle d'un animal peut inspirer votre façon d'aimer.", "conseil": "Observez la loyauté et la présence simple des animaux comme un modèle relationnel."},
+    "travail": {"situation": "Un compagnon animal apporte un soutien discret mais précieux pendant cette période professionnelle.", "conseil": "Accordez une pause à votre compagnon à quatre pattes, il vous le rendra en apaisement."},
+    "sante": {"situation": "La connexion avec le monde animal nourrit votre équilibre physique et émotionnel.", "conseil": "Passez du temps avec un animal, son énergie apaisante soutient votre bien-être."},
+    "famille": {"situation": "Un animal de compagnie occupe une place importante et bénéfique dans l'équilibre de votre foyer.", "conseil": "Prenez soin de l'animal qui dépend de vous avec la même attention que pour un proche."}
+  },
+  {
+    "id": 139, "name": "L'Ange du Foyer", "keyword": "Foyer et Harmonie", "image": "archcard_139",
+    "spirituel": {"situation": "L'ange du foyer bénit votre espace de vie et y installe une atmosphère de paix spirituelle.", "conseil": "Purifiez régulièrement votre intérieur pour en faire un véritable sanctuaire."},
+    "amour": {"situation": "Votre foyer commun mérite d'être nourri comme le nid précieux de votre relation.", "conseil": "Investissez du temps et de la douceur dans votre espace de vie partagé."},
+    "travail": {"situation": "Un espace de travail harmonieux et ordonné soutiendra votre productivité et votre sérénité.", "conseil": "Prenez le temps de désencombrer et d'organiser votre lieu de travail."},
+    "sante": {"situation": "Votre maison est le reflet de votre état intérieur ; en prendre soin nourrit votre équilibre.", "conseil": "Un environnement apaisé favorise un corps et un esprit apaisés."},
+    "famille": {"situation": "Il est temps d'investir dans votre chez-vous et d'en faire un sanctuaire d'amour pour votre famille.", "conseil": "Nettoyez, désencombrez et purifiez votre foyer pour rétablir l'harmonie familiale."}
+  },
+  {
+    "id": 140, "name": "L'Ange de la Créativité", "keyword": "Créativité et Inspiration", "image": "archcard_140",
+    "spirituel": {"situation": "L'ange de la créativité souffle le vent de l'inspiration sur votre âme et vos aspirations profondes.", "conseil": "Laissez votre créativité s'exprimer librement, sans jugement, comme un canal divin."},
+    "amour": {"situation": "Une créativité renouvelée dans votre façon d'aimer redonne du souffle à votre relation.", "conseil": "Inventez ensemble de nouvelles façons de nourrir votre lien."},
+    "travail": {"situation": "C'est le moment idéal pour créer, exprimer et donner forme à un projet professionnel qui vous tient à cœur.", "conseil": "Commencez imparfaitement plutôt que d'attendre l'inspiration parfaite."},
+    "sante": {"situation": "Exprimer votre créativité est aussi une forme précieuse de soin pour votre équilibre intérieur.", "conseil": "Accordez-vous un temps créatif régulier, il nourrit votre bien-être."},
+    "famille": {"situation": "Un projet créatif partagé en famille renforcerait vos liens et votre complicité.", "conseil": "Créez ensemble, même simplement, pour raviver la joie familiale."}
+  },
+  {
+    "id": 141, "name": "L'Ange du Chemin de Vie", "keyword": "Chemin de Vie et Alignement", "image": "archcard_141",
+    "spirituel": {"situation": "Cet ange vous révèle que vous êtes exactement là où vous devez être sur votre chemin d'âme.", "conseil": "Faites confiance à votre chemin unique, il vous mène vers votre mission profonde."},
+    "amour": {"situation": "Cette relation, quelle que soit son issue, façonne qui vous devenez sur votre chemin de vie.", "conseil": "Accueillez les leçons de cette relation comme des étapes de votre chemin."},
+    "travail": {"situation": "Votre parcours professionnel, même sinueux, vous conduit exactement là où vous devez être.", "conseil": "Réécoutez la voix de votre âme avant de remettre en cause votre direction."},
+    "sante": {"situation": "Chaque étape de votre santé, même difficile, s'inscrit dans le sens plus large de votre chemin de vie.", "conseil": "Faites confiance au sens de ce que vous traversez actuellement."},
+    "famille": {"situation": "Votre histoire familiale a façonné qui vous êtes aujourd'hui, avec ses forces et ses défis.", "conseil": "Vérifiez l'alignement entre vos actions et vos valeurs familiales profondes."}
+  },
+  {
+    "id": 142, "name": "L'Ange de la Prospérité", "keyword": "Prospérité et Abondance", "image": "archcard_142",
+    "spirituel": {"situation": "L'ange de la prospérité affirme que l'abondance est votre droit divin, à recevoir avec foi.", "conseil": "Combinez action inspirée et foi inébranlable pour ouvrir les portes de la prospérité."},
+    "amour": {"situation": "Une abondance de tendresse et d'attention circule ou circulera bientôt dans votre vie sentimentale.", "conseil": "Croyez que vous méritez pleinement cette abondance affective."},
+    "travail": {"situation": "Ce dont vous avez besoin professionnellement est déjà en route vers vous.", "conseil": "Examinez vos croyances profondes sur la réussite pour laisser la prospérité se manifester."},
+    "sante": {"situation": "Une abondance d'énergie vitale et de vitalité vous est accessible dès maintenant.", "conseil": "Nourrissez votre corps avec la conviction qu'il mérite l'abondance."},
+    "famille": {"situation": "La prospérité de votre foyer, matérielle et affective, est soutenue par cet ange bienveillant.", "conseil": "Partagez généreusement l'abondance de votre foyer avec ceux qui en ont besoin."}
+  },
+  {
+    "id": 143, "name": "L'Ange de la Connexion Divine", "keyword": "Connexion divine et Présence", "image": "archcard_143",
+    "spirituel": {"situation": "Vous n'êtes jamais seul — une armée d'anges vous accompagne à chaque instant de votre chemin spirituel.", "conseil": "Renforcez votre pratique spirituelle et vos échanges quotidiens avec le divin."},
+    "amour": {"situation": "Votre relation est soutenue par une connexion plus grande que ce que vous percevez au quotidien.", "conseil": "Priez ou méditez ensemble pour renforcer la dimension sacrée de votre lien."},
+    "travail": {"situation": "Une guidance divine discrète accompagne vos choix professionnels, même quand vous doutez.", "conseil": "Demandez de l'aide au divin avant une décision professionnelle importante."},
+    "sante": {"situation": "La connexion au divin est aussi une ressource précieuse pour votre équilibre et votre guérison.", "conseil": "Intégrez un moment de connexion spirituelle dans votre routine de bien-être."},
+    "famille": {"situation": "Votre famille est entourée d'une présence angélique bienveillante, même dans les moments difficiles.", "conseil": "Cultivez ensemble une pratique spirituelle simple, elle renforce les liens familiaux."}
+  }
+]

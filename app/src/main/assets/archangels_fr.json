@@ -1,0 +1,86 @@
+{
+  "michael": {
+    "name": "Michaël",
+    "keyword": "Protection et Courage",
+    "domain": "Archange de la protection, du courage et de la force intérieure. Chef de la milice céleste, il aide à affirmer sa vérité et à avancer sans peur.",
+    "description": "Votre Chemin de Vie 1 vous place sous la protection de Michaël. Guide des pionniers et des âmes qui initient, il vous soutient dans chaque nouveau départ et vous donne le courage de tracer votre propre voie, même seul(e). Sa présence vous rappelle que vous avez la force d'ouvrir la marche.",
+    "invocation": "Archange Michaël, donne-moi le courage d'oser et la force de rester fidèle à moi-même dans chaque commencement."
+  },
+  "chamuel": {
+    "name": "Chamuel",
+    "keyword": "Amour et Relations",
+    "domain": "Archange de l'amour inconditionnel, des relations et de la paix intérieure.",
+    "description": "Votre Chemin de Vie 2 vous place sous la protection de Chamuel. Gardien des âmes sensibles et des bâtisseurs de ponts, il vous accompagne dans votre quête d'harmonie et de connexion sincère avec les autres. Sa présence vous aide à faire confiance, à coopérer et à cultiver la paix, à commencer par la vôtre.",
+    "invocation": "Archange Chamuel, aide-moi à créer des liens sincères et à cultiver la paix, en moi et autour de moi."
+  },
+  "gabriel": {
+    "name": "Gabriel",
+    "keyword": "Communication et Création",
+    "domain": "Archange messager, associé à la communication, à l'inspiration créatrice et aux arts. Il aide à exprimer sa vérité avec clarté.",
+    "description": "Votre Chemin de Vie 3 vous place sous la protection de Gabriel. Messager par excellence, il vous soutient dans l'expression de votre créativité et vous aide à transformer vos idées en mots, en œuvres ou en projets partagés. Sa présence libère votre joie de créer et votre besoin de vous exprimer pleinement.",
+    "invocation": "Archange Gabriel, inspire mes mots et mes créations. Aide-moi à exprimer ma vérité avec joie et clarté."
+  },
+  "uriel": {
+    "name": "Uriel",
+    "keyword": "Sagesse pratique",
+    "domain": "Archange de la sagesse pratique et de la lumière intérieure. Il apporte des solutions concrètes et une stabilité durable.",
+    "description": "Votre Chemin de Vie 4 vous place sous la protection d'Uriel, dont le nom signifie « Lumière de Dieu ». Il vous accompagne dans la construction de bases solides — matérielles comme intérieures — et vous éclaire lorsque le travail semble long ou ingrat. Sa présence vous rappelle que chaque effort patient porte ses fruits.",
+    "invocation": "Archange Uriel, éclaire mon chemin et donne-moi la patience de construire des bases solides et durables."
+  },
+  "ariel": {
+    "name": "Ariel",
+    "keyword": "Liberté et Nature",
+    "domain": "Archange lié à la nature, à l'aventure et à la liberté d'être pleinement soi. Son nom signifie « Lionne de Dieu ».",
+    "description": "Votre Chemin de Vie 5 vous place sous la protection d'Ariel. Elle vous soutient dans votre besoin de mouvement, de découverte et de changement, et vous aide à vivre vos expériences sans crainte de l'inconnu. Sa présence vous rappelle que la liberté véritable se conjugue avec la confiance.",
+    "invocation": "Archange Ariel, accompagne-moi dans le changement et donne-moi la confiance d'explorer librement ma vie."
+  },
+  "raphael": {
+    "name": "Raphaël",
+    "keyword": "Guérison et Foyer",
+    "domain": "Archange de la guérison physique, émotionnelle et spirituelle. Il veille sur les foyers, les familles et les soignants.",
+    "description": "Votre Chemin de Vie 6 vous place sous la protection de Raphaël, dont le nom signifie « Dieu guérit ». Il vous accompagne dans votre vocation d'amour et de soin envers les autres, tout en vous rappelant l'importance de vous soigner vous-même. Sa présence apaise les foyers et guérit les liens abîmés.",
+    "invocation": "Archange Raphaël, enveloppe mon foyer et mes proches de ta lumière guérisseuse, et aide-moi à prendre soin de moi autant que je prends soin des autres."
+  },
+  "jophiel": {
+    "name": "Jophiel",
+    "keyword": "Beauté et Clarté d'esprit",
+    "domain": "Archange de la beauté, de la clarté d'esprit et de la sagesse intérieure. Il illumine l'esprit et invite à la contemplation.",
+    "description": "Votre Chemin de Vie 7 vous place sous la protection de Jophiel, dont le nom signifie « Beauté de Dieu ». Il vous accompagne dans votre quête de vérité et de compréhension profonde, et vous aide à trouver la beauté et le sens même dans le silence et la solitude. Sa présence éclaire vos introspections.",
+    "invocation": "Archange Jophiel, illumine ma quête de sagesse et aide-moi à trouver la beauté dans le silence et l'introspection."
+  },
+  "raguel": {
+    "name": "Raguel",
+    "keyword": "Justice et Harmonie",
+    "domain": "Archange de la justice, de l'harmonie et de l'ordre. Surnommé « l'Ami de Dieu », il veille à ce que les relations et les affaires restent équitables.",
+    "description": "Votre Chemin de Vie 8 vous place sous la protection de Raguel. Il vous accompagne dans votre rapport au pouvoir, à la réussite et à l'abondance, en vous rappelant que la vraie puissance se construit dans l'intégrité et l'équité. Sa présence rétablit l'harmonie quand les enjeux matériels prennent trop de place.",
+    "invocation": "Archange Raguel, aide-moi à exercer mon pouvoir avec justice et à garder l'harmonie au cœur de ma réussite."
+  },
+  "jeremiel": {
+    "name": "Jeremiel",
+    "keyword": "Bilan et Transformation",
+    "domain": "Archange de la revue de vie et de la transformation spirituelle. Il aide à faire le bilan avec compassion avant d'entamer un nouveau cycle.",
+    "description": "Votre Chemin de Vie 9 vous place sous la protection de Jeremiel. Il vous accompagne dans votre mission d'achèvement et de service, et vous aide à regarder votre chemin parcouru avec compassion plutôt qu'avec jugement. Sa présence vous soutient dans l'art de lâcher prise pour permettre à un nouveau cycle de naître.",
+    "invocation": "Archange Jeremiel, aide-moi à accueillir ce que j'ai accompli avec gratitude et à lâcher prise en douceur."
+  },
+  "haniel": {
+    "name": "Haniel",
+    "keyword": "Grâce et Intuition",
+    "domain": "Archange de la grâce, de l'intuition et de l'illumination spirituelle. Il est lié à l'énergie lunaire et à la sagesse invisible.",
+    "description": "Votre Chemin de Vie 11, nombre maître, vous place sous la protection de Haniel, dont le nom signifie « Grâce de Dieu ». Elle vous accompagne dans votre sensibilité exacerbée et votre rôle d'inspirateur(trice), en vous aidant à transformer votre intuition en une source de guidance claire plutôt qu'un fardeau. Sa présence apaise et éclaire à la fois.",
+    "invocation": "Archange Haniel, éveille mon intuition et aide-moi à porter ma sensibilité comme un don plutôt qu'un poids."
+  },
+  "sandalphon": {
+    "name": "Sandalphon",
+    "keyword": "Ancrage et Manifestation",
+    "domain": "Archange de l'ancrage terrestre et de la manifestation. Il porte les prières des hommes jusqu'au divin et aide à construire du concret.",
+    "description": "Votre Chemin de Vie 22, nombre maître, vous place sous la protection de Sandalphon. Il vous accompagne dans votre capacité rare à transformer une vision immense en réalisation concrète et durable, en gardant les pieds ancrés sur terre. Sa présence vous aide à ne pas vous perdre dans l'ampleur de votre propre potentiel.",
+    "invocation": "Archange Sandalphon, aide-moi à ancrer mes visions dans le concret et à bâtir, pierre après pierre, ce qui doit durer."
+  },
+  "metatron": {
+    "name": "Metatron",
+    "keyword": "Transmission et Haute Vibration",
+    "domain": "Considéré comme le plus élevé des archanges, scribe céleste et enseignant des mystères. Il guide les âmes à très haute vibration.",
+    "description": "Votre Chemin de Vie 33, nombre maître le plus rare, vous place sous la protection de Metatron. Il vous accompagne dans votre vocation d'enseignement et de service inconditionnel, et vous aide à transmettre votre sagesse avec humilité malgré l'intensité de votre mission. Sa présence soutient les âmes qui portent une responsabilité spirituelle élevée.",
+    "invocation": "Archange Metatron, aide-moi à porter ma mission avec humilité et à transmettre ma lumière sans m'épuiser."
+  }
+}

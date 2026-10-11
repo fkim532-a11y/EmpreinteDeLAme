@@ -1,0 +1,1541 @@
+{
+  "_format_note": "Content of the Yi King module for Empreinte de l'Ame. Each hexagram has: numero (1-64), nom, nom_chinois, trigramme_haut, trigramme_bas, image, jugement_general, themes (amour/finance/sante/spirituel/famille), traits (6 generic texts used only when the corresponding trait is changing in the reading). Traits indexed 1 (base) to 6 (top).",
+  "hexagrammes": [
+    {
+      "numero": 1,
+      "nom": "The Creative",
+      "nom_chinois": "Qián",
+      "trigramme_haut": "Heaven",
+      "trigramme_bas": "Heaven",
+      "image": "Heaven's motion is full of power. Thus the noble one makes themselves strong and never falters.",
+      "jugement_general": "The Creative carries supreme success within it. It is favorable to persevere with uprightness. This hexagram announces a time when energy and initiative are right — but strength is only worthwhile if it stays aligned with the common good.",
+      "themes": {
+        "amour": "An energy of conquest and self-assertion. If you're single, this is a favorable time to take the initiative rather than wait. In a couple, be careful not to impose your pace on the other: strength must stay shared, not dominant.",
+        "finance": "A period favorable to entrepreneurial action and bold decisions. Projects launched now carry the momentum of new beginnings. Avoid, however, the rashness of the last trait (overconfidence), which can lead to overly risky choices.",
+        "sante": "Vitality and physical strength are here. It's a good time to start a new program or a new bodily discipline. Stay attentive to signs of fatigue: the Creative's power wears itself out if it never rests.",
+        "spirituel": "A call to fully embody your creative potential, without hiding or apologizing for being strong. Now is the time to dare to be yourself in all your power, with humility.",
+        "famille": "You may be called to take on a leadership role or a pillar's role within your family circle. This responsibility is legitimate, but be sure to also listen to other family members rather than deciding alone for everyone."
+      },
+      "traits": {
+        "1": "Hidden dragon, do not act. The potential exists but isn't yet visible. A time of inner preparation.",
+        "2": "Dragon appearing in the field. Qualities are beginning to show; seek advice from those more experienced.",
+        "3": "Vigilance day and night, danger but no error. An unstable position; clear-headedness avoids mistakes.",
+        "4": "Hesitating over the depths, no error. A legitimate doubt before a decisive leap.",
+        "5": "Flying dragon in the heavens. The peak, the most favorable moment.",
+        "6": "Arrogant dragon will have cause to repent. Too much strength, too high: excess turns against itself."
+      }
+    },
+    {
+      "numero": 2,
+      "nom": "The Receptive",
+      "nom_chinois": "Kūn",
+      "trigramme_haut": "Earth",
+      "trigramme_bas": "Earth",
+      "image": "The earth carries everything that exists with a supporting gentleness. Thus the noble one welcomes and carries others with breadth of soul.",
+      "jugement_general": "The Receptive offers success through gentleness and perseverance. This isn't the moment to force or initiate, but to follow, to welcome, to let things ripen. The quiet strength of patience bears fruit.",
+      "themes": {
+        "amour": "A time to welcome rather than conquer. Let the other come to you; the relationship builds through listening more than through initiative.",
+        "finance": "Caution and patience are recommended. This isn't the time to launch, but to consolidate what already exists and let current projects mature.",
+        "sante": "A need for rest and regeneration. The body asks to be nourished, not pushed; listen to its rhythms rather than forcing them.",
+        "spirituel": "An invitation to receptivity and letting go. The wisdom here isn't in action but in welcoming what comes.",
+        "famille": "A discreet yet essential supporting role. Your stable, welcoming presence carries others, without needing to lead."
+      },
+      "traits": {
+        "1": "On the frost, solid ice is coming. Small signs announce great changes; know how to read them early.",
+        "2": "Straight, square, great: without effort, nothing that isn't favorable. Natural simplicity is enough, without artifice.",
+        "3": "Hidden beauty, one can remain steadfast. Perhaps in service to a king, without seeking the work for oneself. True worth doesn't need to be shown off.",
+        "4": "A tied sack: no blame, no praise. Caution and discretion; this isn't the time to expose yourself.",
+        "5": "Yellow robe, supreme good fortune. The right measure in a modest and sincere position of responsibility.",
+        "6": "Dragons fighting in the meadow, their blood is black and yellow. When Yin wants to rival Yang all the way, conflict becomes destructive for everyone."
+      }
+    },
+    {
+      "numero": 3,
+      "nom": "Difficulty at the Beginning",
+      "nom_chinois": "Zhūn",
+      "trigramme_haut": "Water",
+      "trigramme_bas": "Thunder",
+      "image": "Clouds and thunder: image of initial difficulty. Thus the noble one organizes and structures before acting.",
+      "jugement_general": "Beginnings are always difficult, like a plant piercing through hard ground. Success is possible but requires not moving forward alone: seeking help and structure rather than forcing ahead in haste.",
+      "themes": {
+        "amour": "A budding relationship that needs patience and outside support. Don't stay isolated in the face of early difficulties; surround yourself with caring advice.",
+        "finance": "A project in a delicate launch phase. The beginnings are chaotic but promising; get organized before speeding up, and accept the help that comes your way.",
+        "sante": "A period of setting things up, perhaps a new treatment or a new routine that takes time to find its rhythm. Don't get discouraged by the first obstacles.",
+        "spirituel": "The chaos of beginnings is part of the path. It isn't a failure, it's the very nature of any birth.",
+        "famille": "A budding or unstable family situation that needs structure and outside support rather than facing it alone."
+      },
+      "traits": {
+        "1": "Hesitation to move forward. It's beneficial to remain steadfast, to seek help. Perseverance in initial stillness is wise.",
+        "2": "Difficulties accumulate, but after a while, union happens. Don't force an alliance; wait for the right moment.",
+        "3": "Chasing game without a guide, one sinks into the forest. Better to give up than to advance without clear direction.",
+        "4": "Seeking union is favorable; nothing that isn't beneficial. The time has come to reach out toward an alliance.",
+        "5": "Difficulty in the favor granted; small perseverance brings luck, great perseverance brings misfortune. Move forward in small steps rather than through grand gestures.",
+        "6": "Tears of blood flow. A situation blocked to the point of despair; one must accept letting go so that something finally moves."
+      }
+    },
+    {
+      "numero": 4,
+      "nom": "Youthful Folly",
+      "nom_chinois": "Méng",
+      "trigramme_haut": "Mountain",
+      "trigramme_bas": "Water",
+      "image": "At the foot of the mountain a spring gushes forth: image of inexperienced youth. Thus the noble one nourishes their character through decisive action.",
+      "jugement_general": "Inexperience isn't a fault, it's a state to pass through with humility. It isn't for the student to chase after the teacher, but for the teacher to be available when the student sincerely seeks them. True learning requires respect on both sides.",
+      "themes": {
+        "amour": "A situation that's still unclear, where you lack experience or clarity. Accept not knowing everything; seek advice rather than moving forward blindly.",
+        "finance": "A new field where you're still a beginner. Train yourself before investing; the humility to learn is worth more than haste.",
+        "sante": "A lack of knowledge about your own body or a medical situation. Ask questions, inform yourself sincerely rather than staying in uncertainty.",
+        "spirituel": "The sincere beginner goes further than the one who already claims to know. Stay open to teaching, without false shame about not knowing.",
+        "famille": "A learning role, perhaps in the face of a new family situation. Seek the advice of those with more experience than you."
+      },
+      "traits": {
+        "1": "To dispel folly, it is beneficial to employ discipline. A clear, firm structure, given with kindness, helps one grow.",
+        "2": "Bearing folly with kindness brings good fortune. Patience toward others' inexperience, including one's own, is a virtue.",
+        "3": "Do not marry the woman who sees only the wealthy man: nothing favorable. Beware of superficial or self-interested motives.",
+        "4": "Folly entangled in its own limits: humiliation. Isolating oneself in ignorance out of pride leads to failure.",
+        "5": "Childlike folly: good fortune. The sincere innocence of one who humbly acknowledges their own inexperience is protected.",
+        "6": "Punishing folly; it is not beneficial to commit excesses, it is beneficial to prevent excesses. Correct with measure, never with excessive harshness."
+      }
+    },
+    {
+      "numero": 5,
+      "nom": "Waiting",
+      "nom_chinois": "Xū",
+      "trigramme_haut": "Water",
+      "trigramme_bas": "Heaven",
+      "image": "Clouds rise to heaven: image of waiting. Thus the noble one eats, drinks, and rejoices peacefully while waiting for their hour.",
+      "jugement_general": "The moment hasn't yet come to act. The true strength here is confident patience, not anxious inertia. Nourish yourself, prepare yourself, and the favorable occasion will present itself on its own.",
+      "themes": {
+        "amour": "This isn't the time to force a meeting or a decision. Wait with confidence; the right moment will come without needing to rush things.",
+        "finance": "A project that still needs to ripen before taking shape. Use this time of waiting to prepare yourself rather than to grow impatient.",
+        "sante": "A healing or improvement that takes time. Take care of yourself while waiting, without excessive anxiety over the slowness of the process.",
+        "spirituel": "Active patience is a spiritual practice in its own right. Waiting without anguish is already an inner accomplishment.",
+        "famille": "A family situation that needs to settle on its own. Avoid forcing a reconciliation or a decision before time has done its work."
+      },
+      "traits": {
+        "1": "Waiting in the meadow; it's beneficial to persevere in steadiness, no error. Staying far from a danger that's still distant, keeping calm.",
+        "2": "Waiting on the sand; some slanderous words, but a happy ending. Minor tensions that don't jeopardize the favorable outcome.",
+        "3": "Waiting in the mud, this draws the enemy near. Getting too close to danger too soon creates avoidable complications.",
+        "4": "Waiting in blood; getting out of the cave. A perilous situation from which one can still extract oneself with caution.",
+        "5": "Waiting at the banquet, perseverance brings good fortune. A well-deserved moment of respite at the very heart of uncertainty.",
+        "6": "One enters the cave; three unexpected guests arrive, treating them with respect ultimately brings good fortune. Unforeseen help changes everything if welcomed well."
+      }
+    },
+    {
+      "numero": 6,
+      "nom": "Conflict",
+      "nom_chinois": "Sòng",
+      "trigramme_haut": "Heaven",
+      "trigramme_bas": "Water",
+      "image": "Heaven and water move in opposite directions: image of conflict. Thus the noble one, in any undertaking, carefully considers the beginning.",
+      "jugement_general": "The conflict is real, but engaging in it fully leads to mutual exhaustion. Better to seek mediation than to go all the way to trial or total rupture. Wisdom lies in cutting things short before the situation turns sour.",
+      "themes": {
+        "amour": "A tension or disagreement that threatens to turn sour. Seek dialogue and mediation rather than going all the way to rupture or a test of strength.",
+        "finance": "An ongoing financial dispute or disagreement. An amicable resolution, even an imperfect one, is worth more than a prolonged conflict that exhausts both sides.",
+        "sante": "An inner conflict, between what the body asks for and what you impose on it. Seek balance rather than confrontation with yourself.",
+        "spirituel": "Recognizing that you're wrong, even partly, defuses more suffering than being right at all costs.",
+        "famille": "A family dispute that needs a trusted third party to be resolved. Don't let pride prolong an avoidable conflict."
+      },
+      "traits": {
+        "1": "Do not persist in the matter; some slanderous words, happy ending. Stopping a disagreement early prevents it from worsening.",
+        "2": "Cannot carry on the conflict; he goes home, hides, his community escapes misfortune. Recognizing that one doesn't have the advantage and wisely withdrawing.",
+        "3": "Nourishing oneself on ancient virtues; perseverance in danger, happy ending. Relying on one's deep values rather than on the position of the moment.",
+        "4": "Cannot carry on the conflict; he returns and accepts fate, changes and finds peace in perseverance. Accepting to let go of the confrontation to find serenity again.",
+        "5": "Carrying on the conflict; supreme good fortune. A situation where justice is clearly on one's side and where the clarity of what's right resolves the dispute.",
+        "6": "One may receive a belt of honor, but it will be torn away three times in a day. A victory won through conflict remains unstable and ends up turning against itself."
+      }
+    },
+    {
+      "numero": 7,
+      "nom": "The Army",
+      "nom_chinois": "Shī",
+      "trigramme_haut": "Earth",
+      "trigramme_bas": "Water",
+      "image": "In the middle of the earth, water: image of the army. Thus the noble one nourishes their people through generosity and gathers the masses.",
+      "jugement_general": "An undertaking that requires organization, collective discipline, and an experienced, respected leader. The strength of numbers only has value when directed with justice and clarity of intention.",
+      "themes": {
+        "amour": "A relationship that needs organization and clear direction, perhaps carried by a trusted person who guides it toward harmony.",
+        "finance": "A project that requires an organized team and clear leadership rather than scattered individual action. Collective discipline bears fruit.",
+        "sante": "Mobilizing all your resources — medical, personal, relational — in an organized rather than scattered way, under the guidance of a trusted professional.",
+        "spirituel": "Inner discipline, like that of a well-led army, channels scattered energy toward a single, just goal.",
+        "famille": "A situation that requires one person to clearly take charge, with everyone's agreement and respect, to avoid confusion."
+      },
+      "traits": {
+        "1": "The army must go out in good order; otherwise, whatever its merit, misfortune. Discipline from the very start conditions everything that follows.",
+        "2": "In the midst of the army; good fortune, no error, the king grants three decorations. A position of trust well earned, recognized by a legitimate authority.",
+        "3": "The army carries corpses in its carts; misfortune. A badly started undertaking that accumulates needless losses.",
+        "4": "The army retreats on its flank; no error. Recognizing the moment to retreat strategically, without shame, is wisdom.",
+        "5": "There is game in the field, it's beneficial to capture it; no error. Entrusting command to one with legitimate authority, not to the youngest without experience.",
+        "6": "The great sovereign issues orders, founds states, rewards deserving families; small men must not be employed. After victory, reward fairly without giving power to those who don't deserve it."
+      }
+    },
+    {
+      "numero": 8,
+      "nom": "Holding Together",
+      "nom_chinois": "Bǐ",
+      "trigramme_haut": "Water",
+      "trigramme_bas": "Earth",
+      "image": "On the earth, water: image of holding together. Thus the ancient kings established kingdoms and maintained friendly relations with the lords.",
+      "jugement_general": "Union and mutual support bring good fortune, but only if sincere and coming from the heart. Those who delay joining the movement of fellowship risk being left out of its benefits.",
+      "themes": {
+        "amour": "A sincere, deep union presents itself or grows stronger. Mutual sincerity is key; don't delay committing if your heart is in it.",
+        "finance": "A promising partnership or financial alliance, provided it rests on real trust and not on self-interest alone.",
+        "sante": "Surrounding yourself with a support network — family, friends, caregivers — rather than facing a health trial alone.",
+        "spirituel": "Sincere community nourishes the soul more than isolation, even spiritual isolation. Seeking your tribe is an act of wisdom.",
+        "famille": "A moment favorable to the tightening of family bonds, provided the approach comes from a sincere heart and not from obligation."
+      },
+      "traits": {
+        "1": "Sincere and loyal union, no error; sincerity like a full urn, eventually attracts unexpected good fortune. Authentic sincerity naturally attracts what is good.",
+        "2": "Union that comes from within; perseverance brings good fortune. An alliance founded on deep shared values rather than on opportunism.",
+        "3": "Union with people who aren't suitable. Choosing your alliances well spares many disillusionments.",
+        "4": "Union with those outside; perseverance brings good fortune. Opening up to alliances beyond your usual circle can be beneficial.",
+        "5": "Manifest union: the king only beats the game from three sides, letting the game in front escape; the inhabitants aren't warned; good fortune. True union leaves the freedom to join without constraint.",
+        "6": "Union without a head; misfortune. An alliance without clear direction or real commitment leads nowhere."
+      }
+    },
+    {
+      "numero": 9,
+      "nom": "The Taming Power of the Small",
+      "nom_chinois": "Xiǎo Chù",
+      "trigramme_haut": "Wind",
+      "trigramme_bas": "Heaven",
+      "image": "Wind moves across the heavens: image of the taming power of the small. Thus the noble one refines their inner nature.",
+      "jugement_general": "A gentle, gradual influence, like the wind, prepares the ground without forcing. Great actions aren't yet possible; this is a time for subtle adjustments and patience.",
+      "themes": {
+        "amour": "A discreet, gradual influence gently draws two people closer. This isn't yet the time for grand declarations, but for small gestures that count.",
+        "finance": "Small adjustments bear more fruit than a large-scale action for now. Patience in the details prepares a greater success to come.",
+        "sante": "Small changes in daily habits, applied with consistency, are worth more than a radical upheaval.",
+        "spirituel": "Inner transformation often happens through small touches, invisible at first, like the wind that gradually shapes the landscape.",
+        "famille": "Small attentions and gradual adjustments ease a family tension better than a direct confrontation."
+      },
+      "traits": {
+        "1": "Return to your own path, what harm could there be? Good fortune. Returning to your deep values after a detour is always right.",
+        "2": "Brought back, drawn along by others; good fortune. Drawing inspiration from good examples to get back on the right path.",
+        "3": "The spokes of the wheel come loose; husband and wife roll their eyes. A tension caused by an imbalance that must be gently corrected.",
+        "4": "Sincerity; blood goes away, fear disappears, no error. Sincerity defuses a situation that seemed dangerous.",
+        "5": "Binding sincerity; wealth through the neighbor. The strength of a sincere bond mutually benefits those who share it.",
+        "6": "Rain falls, rest sets in; accumulated virtue is honored; a woman's perseverance is perilous; the moon is nearly full; the noble one who advances meets misfortune. At the peak of accumulation, caution avoids ruining what has been patiently built."
+      }
+    },
+    {
+      "numero": 10,
+      "nom": "Treading",
+      "nom_chinois": "Lǚ",
+      "trigramme_haut": "Heaven",
+      "trigramme_bas": "Lake",
+      "image": "Heaven above, the lake below: image of treading. Thus the noble one distinguishes high and low and settles the minds of the people.",
+      "jugement_general": "Treading on the tiger's tail without being bitten: moving forward with tact and courtesy in a delicate situation. Good conduct and respect allow one to pass through danger unharmed.",
+      "themes": {
+        "amour": "A delicate situation to navigate with tact and gentleness. Courtesy and respect allow you to move forward even on sensitive ground.",
+        "finance": "A risky but achievable move if you proceed with caution and good manners. Tact opens doors that force would close.",
+        "sante": "Moving forward cautiously in a delicate area, respecting the body's limits without forcing them. Restraint protects from danger.",
+        "spirituel": "Right conduct, even in the face of what intimidates, is a form of quiet courage. Respect defuses the threat.",
+        "famille": "A tense family situation to approach with delicacy. Good behavior and respect for roles ease what could otherwise explode."
+      },
+      "traits": {
+        "1": "Simple treading; move forward without error. Simplicity and modesty allow you to advance without hindrance.",
+        "2": "Treading a smooth, quiet path; the solitary, steadfast man is fortunate. Discreet constancy brings happiness.",
+        "3": "A one-eyed man believes he can see, a lame man believes he can walk; he treads on the tiger's tail and it bites him: misfortune. Overestimating your abilities in a dangerous situation leads to failure.",
+        "4": "Treading on the tiger's tail with fear and caution; good fortune in the end. Attentive caution in danger leads to success.",
+        "5": "Resolute treading; perseverance, even in danger. Determination, aware of the risk, is sometimes necessary.",
+        "6": "Observe your path and examine the omens; if all is complete, supreme good fortune. Looking back over your journey to learn from it brings the highest success."
+      }
+    },
+    {
+      "numero": 11,
+      "nom": "Peace",
+      "nom_chinois": "Tài",
+      "trigramme_haut": "Earth",
+      "trigramme_bas": "Heaven",
+      "image": "Heaven and earth unite: image of peace. Thus the sovereign divides and completes the course of heaven and earth.",
+      "jugement_general": "Heaven and earth communicate in harmony: a time of prosperity, flow, and success. Energies circulate freely, the small departs and the great arrives. A blessed period where everything is in accord.",
+      "themes": {
+        "amour": "A period of harmony and flowing communication in the relationship. Hearts truly meet; enjoy this precious understanding.",
+        "finance": "Prosperity and fluidity in business. Circumstances align favorably; it's a good time to thrive, while staying wise.",
+        "sante": "Balance and harmony restored in the body. A period of well-being where energy flows well; nurture this precious state.",
+        "spirituel": "The union of heaven and earth within: a moment of deep inner peace where everything seems to be in its right place.",
+        "famille": "A rare and precious family harmony. Relationships are flowing and warm; savor and nourish this understanding."
+      },
+      "traits": {
+        "1": "Pulling up grass brings up the roots tied to it; undertaking something brings good fortune. A good initiative naturally leads to others.",
+        "2": "Bearing with the uncultivated, crossing the river on foot, not neglecting those far away, not favoring one's companions: thus one finds the middle way. Breadth of spirit and fairness in times of prosperity.",
+        "3": "No plain without a slope, no going without returning; persevering through difficulty, no error. Every peak contains the seed of decline; keep your constancy.",
+        "4": "He flutters down, not boasting of his wealth, together with his neighbor, in complete sincerity. Sincere simplicity despite an elevated position.",
+        "5": "The sovereign gives his daughter in marriage, which brings blessing and supreme good fortune. A noble, sincere union that brings happiness.",
+        "6": "The wall falls back into the moat; do not use the army; announce your orders in your own city; perseverance, humiliation. At the end of peace, accept decline with dignity rather than struggle in vain."
+      }
+    },
+    {
+      "numero": 12,
+      "nom": "Standstill",
+      "nom_chinois": "Pǐ",
+      "trigramme_haut": "Heaven",
+      "trigramme_bas": "Earth",
+      "image": "Heaven and earth do not unite: image of standstill. Thus the noble one withdraws into their inner worth to escape difficulties.",
+      "jugement_general": "Energies no longer communicate; it's a time of blockage and withdrawal. This isn't the moment to undertake anything or expose yourself. Wisdom lies in withdrawing, preserving your values, and waiting for the course of things to turn around.",
+      "themes": {
+        "amour": "A period of blockage or distance in the relationship. Don't force dialogue now; preserve yourself and wait for a more favorable moment.",
+        "finance": "A phase of standstill where projects don't move forward. This isn't the time to invest or force things; consolidate and be patient.",
+        "sante": "A period where nothing seems to progress. Don't exhaust yourself trying to force things; preserve your energy while waiting for the situation to unblock.",
+        "spirituel": "Inner withdrawal in a time of blockage isn't a defeat but a wisdom. Tend your inner garden while waiting for the turnaround.",
+        "famille": "Temporary lack of communication within the family. Avoid forcing exchanges; respecting the distance sometimes allows harmony to return."
+      },
+      "traits": {
+        "1": "Pulling up grass brings up the roots tied together; perseverance brings good fortune and success. Withdrawing with one's own at the start of a standstill is wise.",
+        "2": "They bear and endure; for small men good fortune, for the great man standstill leads to success. Keeping your inner dignity despite unfavorable circumstances.",
+        "3": "They bear their shame. Recognizing one's mistakes is the first step toward recovery.",
+        "4": "One who acts on heaven's order remains without error; their companions share the blessing. The beginning of a favorable turnaround, acting in accord with the moment.",
+        "5": "The standstill ceases; good fortune for the great man. 'What if this should fail!' He ties things to a cluster of mulberry shoots. Careful vigilance as things improve.",
+        "6": "The standstill comes to an end; first standstill, then joy. The blockage finally dissolves, giving way to relief."
+      }
+    },
+    {
+      "numero": 13,
+      "nom": "Fellowship with Men",
+      "nom_chinois": "Tóng Rén",
+      "trigramme_haut": "Heaven",
+      "trigramme_bas": "Fire",
+      "image": "Heaven together with fire rising toward it: image of fellowship with men. Thus the noble one distinguishes things according to their kinds and families.",
+      "jugement_general": "Fellowship and community with others bring success, especially if it opens widely rather than closing in on a narrow circle. Sincere union in the open, founded on shared values, allows for great achievements.",
+      "themes": {
+        "amour": "A relationship founded on shared values and deep mutual understanding. Openness and sincerity strengthen the bond.",
+        "finance": "A collective project or an open, transparent partnership. Broad, sincere collaboration goes further than individual self-interest.",
+        "sante": "The support of a community, a group, on a health journey. Don't stay isolated; fellowship heals too.",
+        "spirituel": "Belonging to a community of the heart nourishes the soul. Seeking those who share your deep values is a right path.",
+        "famille": "A spirit of fellowship and openness within the extended family. Bonds grow stronger when they rest on shared values."
+      },
+      "traits": {
+        "1": "Fellowship at the gate; no error. An open union without ulterior motives from the very start is healthy.",
+        "2": "Fellowship within the clan; humiliation. Limiting yourself to your own circle out of exclusivity impoverishes fellowship.",
+        "3": "Hiding weapons in the thicket, climbing the high hill; for three years he doesn't rise. Hidden mistrust and hostility prevent any true union.",
+        "4": "He climbs onto his rampart, but cannot attack; good fortune. Giving up a conflict you can't win brings you back toward reconciliation.",
+        "5": "Men gathered together first weep and moan, then laugh; after great struggles they meet. A true union that finally triumphs over obstacles.",
+        "6": "Fellowship in the meadow; no regret. A peaceful but still distant fellowship, without regret though without great accomplishment."
+      }
+    },
+    {
+      "numero": 14,
+      "nom": "Possession in Great Measure",
+      "nom_chinois": "Dà Yǒu",
+      "trigramme_haut": "Fire",
+      "trigramme_bas": "Heaven",
+      "image": "Fire high in the heavens: image of great possession. Thus the noble one restrains evil and furthers good, obeying heaven's benevolent will.",
+      "jugement_general": "A time of abundance and great success, where one possesses much. Radiant clarity attracts prosperity. But true greatness lies in remaining humble and generous at the height of success.",
+      "themes": {
+        "amour": "A rich, fulfilled relationship, a time of emotional abundance. Share this fullness generously rather than keeping it for yourself.",
+        "finance": "A period of prosperity and material success. Enjoy it with wisdom and generosity; shared abundance renews itself.",
+        "sante": "A time of full vitality and abundant resources. Use this energy to durably build up your well-being.",
+        "spirituel": "True spiritual wealth radiates and shares itself. At the height of abundance, humility and gratitude are the finest virtues.",
+        "famille": "A period of abundance and family happiness. Generously share this prosperity and joy with all your loved ones."
+      },
+      "traits": {
+        "1": "No dealings with what harms; no error; aware of the difficulty, one remains without error. Staying cautious and upright even in emerging abundance.",
+        "2": "A great cart to carry the load; one may undertake things, no error. Having solid means to carry great projects.",
+        "3": "A prince offers it to the son of heaven; a small man could not do so. Putting your resources to the service of something greater than yourself.",
+        "4": "He distinguishes between himself and his neighbor; no error. Not letting oneself be intoxicated by abundance or compete needlessly.",
+        "5": "His sincerity is approachable yet dignified; good fortune. A benevolent, sincere authority naturally inspires respect.",
+        "6": "Heaven blesses him; good fortune, nothing that isn't favorable. At the summit, humility and accord with heaven attract the highest blessing."
+      }
+    },
+    {
+      "numero": 15,
+      "nom": "Modesty",
+      "nom_chinois": "Qiān",
+      "trigramme_haut": "Earth",
+      "trigramme_bas": "Mountain",
+      "image": "In the middle of the earth, a mountain: image of modesty. Thus the noble one reduces what is excessive and increases what is too little, weighing things and restoring balance.",
+      "jugement_general": "Authentic modesty carries success all the way through. The mountain hidden within the earth: true greatness doesn't show itself off. This is one of the rare hexagrams where every trait is favorable.",
+      "themes": {
+        "amour": "Modesty and simplicity of heart attract true love. Don't try to shine; sincere modesty is deeply touching.",
+        "finance": "Modesty and measure in financial success preserve and grow what you have. Discretion protects.",
+        "sante": "Humbly accepting your limits and listening to your body without pride fosters lasting balance and true healing.",
+        "spirituel": "Modesty is the virtue that crowns all others. Making yourself small paradoxically opens the way to the greatest inner elevation.",
+        "famille": "Modesty in family relationships — knowing how to step back, acknowledging your wrongs — repairs and strengthens bonds more than anything."
+      },
+      "traits": {
+        "1": "Modest upon modest; the noble one can thus cross the great waters; good fortune. Double modesty allows the greatest obstacles to be crossed.",
+        "2": "Modesty that expresses itself; perseverance brings good fortune. A sincere modesty that shines naturally.",
+        "3": "A deserving and modest noble one carries things through; good fortune. Work accomplished in modesty bears true fruit.",
+        "4": "Nothing that isn't favorable in manifesting modesty. Acting with modesty in every circumstance is always right.",
+        "5": "Without boasting of one's wealth to the neighbor; it's beneficial to act with firmness; nothing that isn't favorable. Modesty doesn't exclude firmness when it's needed.",
+        "6": "Modesty that expresses itself; it's beneficial to set armies marching to chastise one's own city. True modesty begins by correcting oneself before wanting to correct the world."
+      }
+    },
+    {
+      "numero": 16,
+      "nom": "Enthusiasm",
+      "nom_chinois": "Yù",
+      "trigramme_haut": "Thunder",
+      "trigramme_bas": "Earth",
+      "image": "Thunder bursts out of the earth with a crash: image of enthusiasm. Thus the ancient kings made music to honor merit.",
+      "jugement_general": "Shared enthusiasm mobilizes energies and carries others along. When the momentum is right and contagious, it's beneficial to set things in motion. But beware the intoxication that makes you lose your sense of measure.",
+      "themes": {
+        "amour": "A joyful, contagious momentum animates the relationship. Let yourself be carried by this enthusiasm, while keeping your feet on the ground.",
+        "finance": "A project carried by a mobilizing momentum that draws others in. Enthusiasm is an asset, provided you stay clear-eyed about realities.",
+        "sante": "A renewed burst of energy and motivation. Take advantage of this momentum to start good habits, without falling into enthusiastic excess.",
+        "spirituel": "Enthusiastic joy, when it's right, elevates the soul and carries others along. But beware the exaltation that makes you lose discernment.",
+        "famille": "A wave of shared joy that brings the family together. Cultivate these moments of collective enthusiasm that bind ties together."
+      },
+      "traits": {
+        "1": "Enthusiasm loudly expressed; misfortune. A vain, boastful enthusiasm leads to a fall.",
+        "2": "Firm as a rock; not a whole day; perseverance brings good fortune. Discerning the right moment without being swept along by collective exaltation.",
+        "3": "Enthusiasm that looks upward brings regret; hesitation also brings regret. Passively waiting for favors from above leads to regret.",
+        "4": "Source of enthusiasm; great things accomplished; have no doubt; friends gather. A sincere, confident enthusiasm gathers people and accomplishes great things.",
+        "5": "Persistently ill, and yet does not die. A persistent constraint that, paradoxically, prevents sinking into excess.",
+        "6": "Blinded enthusiasm; but if one changes after it's fulfilled, no error. Being blinded by exaltation, but being able to catch oneself in time."
+      }
+    },
+    {
+      "numero": 17,
+      "nom": "Following",
+      "nom_chinois": "Suí",
+      "trigramme_haut": "Lake",
+      "trigramme_bas": "Thunder",
+      "image": "Thunder in the middle of the lake: image of following. Thus the noble one, at nightfall, goes home to rest and unwind.",
+      "jugement_general": "Following the right movement, adapting to circumstances, brings great success. But to be followed, one must know how to follow what is right oneself. The art of adjusting to the right moment, without rigidity.",
+      "themes": {
+        "amour": "Knowing how to adapt to the other and follow the natural flow of the relationship. Flexibility and mutual adjustment create harmony.",
+        "finance": "Adapting to changing circumstances rather than clinging to a rigid plan. Smart flexibility opens up opportunities.",
+        "sante": "Following the body's natural rhythms, resting when it asks for it. Flexible listening is worth more than rigid constraint.",
+        "spirituel": "Following the flow of life with confidence, without forcing. Adjusting to what is sometimes takes more wisdom than resisting.",
+        "famille": "Knowing how to follow and adapt to the family's changing needs. Flexibility in roles strengthens the harmony of the home."
+      },
+      "traits": {
+        "1": "The official changes; perseverance brings good fortune; going out of one's door to mix with others brings meritorious works. Opening up to change and new exchanges is beneficial.",
+        "2": "Clinging to the little boy makes one lose the strong man. Choosing to follow what's easy makes you miss the essential.",
+        "3": "Clinging to the strong man makes one lose the little boy; by following, one finds what one seeks; it's beneficial to remain firm and steady. Choosing to follow what has value, even if it means letting go of the superfluous.",
+        "4": "Following leads to gains; perseverance, misfortune; on the path of sincerity, in clarity, what error could there be? Getting followed out of self-interest is perilous; only sincerity justifies influence.",
+        "5": "Sincerity in the good; good fortune. Following what is good with a sincere heart brings happiness.",
+        "6": "Firmly held and bound to it; the king presents it at the western mountain. An attachment so strong and sincere that it becomes consecration."
+      }
+    },
+    {
+      "numero": 18,
+      "nom": "Work on What Has Been Spoiled",
+      "nom_chinois": "Gǔ",
+      "trigramme_haut": "Mountain",
+      "trigramme_bas": "Wind",
+      "image": "Wind blows at the foot of the mountain: image of decay to be repaired. Thus the noble one stirs people up and strengthens their spirit.",
+      "jugement_general": "What has been spoiled or neglected in the past can be repaired. The present disorder is the fruit of old negligence, but it's precisely the occasion for renewal. Repairing requires courage, method, and a time of reflection before and after acting.",
+      "themes": {
+        "amour": "A relationship where old wounds or negligence need to be repaired. The work of healing is possible and carries renewal.",
+        "finance": "A financial situation deteriorated by past negligence, which it's time to set right with method and determination.",
+        "sante": "Repairing the consequences of old neglect toward your body. It isn't too late; recovery requires courage and consistency.",
+        "spirituel": "A work of healing old wounds of the soul. Confronting what has been neglected opens the way to a profound regeneration.",
+        "famille": "Old family tensions or wounds, often inherited, need repair. This courageous work frees the generations."
+      },
+      "traits": {
+        "1": "Repairing what was spoiled by the father; if there's a son, the deceased father remains without error; danger, but a happy end. Repairing the legacy of the past with vigilance leads to good.",
+        "2": "Repairing what was spoiled by the mother; do not be too firm. Correcting old mistakes with gentleness and tact.",
+        "3": "Repairing what was spoiled by the father; a little regret, no great error. An excess of zeal in the repair, but without serious consequence.",
+        "4": "Tolerating what was spoiled by the father; continuing this way meets with humiliation. Turning a blind eye to inherited problems only makes them worse.",
+        "5": "Repairing what was spoiled by the father; one meets with praise. Setting right an inherited situation with competence earns recognition.",
+        "6": "He serves neither kings nor princes; he sets higher goals for himself. Withdrawing from worldly affairs to devote oneself to higher values."
+      }
+    },
+    {
+      "numero": 19,
+      "nom": "Approach",
+      "nom_chinois": "Lín",
+      "trigramme_haut": "Earth",
+      "trigramme_bas": "Lake",
+      "image": "The earth above the lake: image of approach. Thus the noble one is inexhaustible in their intent to teach and boundless in their tolerance of others.",
+      "jugement_general": "Something great is approaching and growing, bringing success. This is a favorable time, but a warning comes with it: this favor won't last forever. Enjoy the good moment while preparing for the change to come.",
+      "themes": {
+        "amour": "A happy coming-together, a relationship that grows and deepens. Enjoy this favorable momentum while staying aware that it must be nurtured.",
+        "finance": "A period of growth and approaching opportunities. Seize them now, for this favorable moment won't last forever.",
+        "sante": "A gradual, encouraging improvement. Take advantage of this momentum to anchor good habits before the energy fluctuates.",
+        "spirituel": "A growing spiritual opening, a drawing closer to meaning. Welcome this grace with gratitude, without taking it for granted.",
+        "famille": "A warm, promising family rapprochement. Cultivate these strengthening bonds, knowing they require ongoing care."
+      },
+      "traits": {
+        "1": "Shared approach; perseverance brings good fortune. Moving forward together with others, in steadiness, brings happiness.",
+        "2": "Shared approach; good fortune, everything is favorable. A shared momentum that meets no obstacle.",
+        "3": "Comfortable approach; nothing is favorable; but if one is distressed about it, no error. Resting too soon on one's gains, but being able to correct it.",
+        "4": "Complete approach; no error. A full and sincere openness toward others, without reservation.",
+        "5": "Wise approach; what suits a great prince; good fortune. Leading wisely by surrounding oneself with the right people.",
+        "6": "Generous, great-hearted approach; good fortune, no error. Benevolence without calculation, even from one who could withdraw, is blessed."
+      }
+    },
+    {
+      "numero": 20,
+      "nom": "Contemplation",
+      "nom_chinois": "Guān",
+      "trigramme_haut": "Wind",
+      "trigramme_bas": "Earth",
+      "image": "Wind blows over the earth: image of contemplation. Thus the ancient kings visited the regions, observed the people, and gave teaching.",
+      "jugement_general": "A time to observe, contemplate, and understand deeply before acting. Stepping back to see the whole picture. Rightly understanding the situation is worth more than rushed action.",
+      "themes": {
+        "amour": "A time to observe and understand the relationship deeply before deciding. Step back to see clearly what's at stake.",
+        "finance": "A period of observation and analysis rather than action. Study the situation as a whole before committing.",
+        "sante": "Taking the time to observe and understand what the body is expressing, before any decision. Attentive contemplation brings clarity.",
+        "spirituel": "Deep contemplation is the way here. Observing, meditating, understanding the hidden meaning of things nourishes the soul.",
+        "famille": "Observing family dynamics with distance and understanding, rather than reacting. Right vision precedes right action."
+      },
+      "traits": {
+        "1": "Childlike contemplation; for a small man no error, for a noble one humiliation. A superficial understanding, acceptable in the ignorant but unworthy of the wise.",
+        "2": "Contemplation through the crack of the door; beneficial for a woman's perseverance. A narrow, partial view of things; sufficient only within a limited setting.",
+        "3": "Contemplation of one's own life decides whether to advance or retreat. Examining yourself honestly to guide your choices.",
+        "4": "Contemplation of the kingdom's light; it's beneficial to be the king's guest. Understanding the deep workings of a situation opens the way to an influential role.",
+        "5": "Contemplation of one's own life; the noble one remains without error. The wise one's lucid self-examination guards against error.",
+        "6": "Contemplation of their life; the noble one remains without error. Seeing your life from very high above, in its universal scope, with complete serenity."
+      }
+    },
+    {
+      "numero": 21,
+      "nom": "Biting Through",
+      "nom_chinois": "Shì Kè",
+      "trigramme_haut": "Fire",
+      "trigramme_bas": "Thunder",
+      "image": "Thunder and lightning: image of biting through. Thus the ancient kings strengthened the laws through clearly defined punishments.",
+      "jugement_general": "An obstacle stands between you and your goal, like something stuck between the teeth. It must be broken through with energy and determination. This is a time when justice and firmness are needed to lift what's blocking.",
+      "themes": {
+        "amour": "An obstacle or misunderstanding is blocking the relationship. It must be faced directly and resolved frankly rather than worked around.",
+        "finance": "A concrete blockage to lift with determination. A firm decision, even a necessary confrontation, unblocks the situation.",
+        "sante": "A health problem that needs to be dealt with head-on, with decisive action, rather than being ignored or tolerated.",
+        "spirituel": "An inner obstacle to cut through with courage. Certain liberations require you to bite firmly through what resists.",
+        "famille": "A family conflict or unspoken tension that's blocking everything. It must be addressed directly and firmly, with fairness, to restore the flow."
+      },
+      "traits": {
+        "1": "Feet in the stocks, toes disappear; no error. An early, light correction prevents worse ills.",
+        "2": "Biting through tender flesh until the nose disappears; no error. A severe but justified punishment in the face of resistance.",
+        "3": "Biting dried meat and encountering poison; slight humiliation, no error. Facing an old problem tougher than expected, without grave consequence.",
+        "4": "Biting dried meat on the bone and finding gold; beneficial to be aware of the difficulty and firm; good fortune. Persevering in a difficult task eventually reveals true worth.",
+        "5": "Biting dried meat and finding gold; perseverance in awareness of danger, no error. Vigilant firmness in resolving a conflict is rewarded.",
+        "6": "He wears the cangue so that his ears disappear; misfortune. Stubbornly refusing to listen and correct oneself leads to disaster."
+      }
+    },
+    {
+      "numero": 22,
+      "nom": "Grace",
+      "nom_chinois": "Bì",
+      "trigramme_haut": "Mountain",
+      "trigramme_bas": "Fire",
+      "image": "Fire at the foot of the mountain illuminates it: image of grace. Thus the noble one puts order into everyday affairs, but doesn't dare settle great questions by the beauty of form alone.",
+      "jugement_general": "Beauty, form, and grace bring success in small things. Elegance embellishes life, but it must not mask substance or replace it. True beauty serves the true, it doesn't replace it.",
+      "themes": {
+        "amour": "A relationship where beauty and refinement of feeling matter. Beautiful and harmonious, it must nonetheless rest on real substance.",
+        "finance": "Success in the details and presentation, but be careful not to mistake the appearance of prosperity for real solidity.",
+        "sante": "Taking care of form and appearance contributes to well-being, but don't neglect substance, deep health.",
+        "spirituel": "Beauty is a path toward the sacred, but it mustn't become an end in itself. Form in service of spirit, never the other way around.",
+        "famille": "Graceful gestures, beautiful traditions embellish family life. Make sure they express real love, not just a facade."
+      },
+      "traits": {
+        "1": "He gives grace to his toes, leaves the carriage and walks on foot. Giving up flashy ease for a more modest but authentic path.",
+        "2": "He gives grace to his beard. Not confusing ornament with the essential; the decoration follows the substance, it doesn't precede it.",
+        "3": "Graceful and moist; constant perseverance brings good fortune. Lasting grace comes from sincerity, not from passing sparkle.",
+        "4": "Grace or simplicity? A white horse comes as if on wings. He is not a bandit, he seeks union. The choice between appearance and true simplicity; authenticity wins out.",
+        "5": "Grace in the hills and gardens; the roll of silk is small and poor; humiliation, but a happy end. Modest simplicity, at first judged poor, ultimately proves right.",
+        "6": "Simple, white grace; no error. The highest beauty is that of the natural, stripped of all ornament."
+      }
+    },
+    {
+      "numero": 23,
+      "nom": "Splitting Apart",
+      "nom_chinois": "Bō",
+      "trigramme_haut": "Mountain",
+      "trigramme_bas": "Earth",
+      "image": "The mountain rests on the earth: image of splitting apart. Thus those above can only secure their position by being generous to those below.",
+      "jugement_general": "A time of decline and disintegration, where negative forces erode what still holds. This isn't the moment to undertake anything; one must wait patiently for this cycle to end. Wisdom lies in not resisting in vain but preserving the essential.",
+      "themes": {
+        "amour": "A relationship that's crumbling or going through a phase of wear. This isn't the time to force things; preserve what can be preserved and wait.",
+        "finance": "A period of losses or erosion. Don't launch anything new; protect your essential assets and be patient for the cycle to turn.",
+        "sante": "A phase of weakening where you need to preserve your strength rather than spend it. Take care of yourself and wait for the upturn.",
+        "spirituel": "Even decline is part of the cycle. Don't fight the inevitable, but preserve the inner seed that will be reborn.",
+        "famille": "A period of tensions eroding bonds. Preserve the essential with patience rather than trying to fix everything at once."
+      },
+      "traits": {
+        "1": "The bed is broken at the foot; those who persist are destroyed; misfortune. The base begins to give way; stubbornness worsens the situation.",
+        "2": "The bed is broken at the edge; those who persist are destroyed; misfortune. The deterioration progresses; isolation makes one vulnerable.",
+        "3": "He separates himself from them; no error. Dissociating from a movement of decline, even alone, preserves from fault.",
+        "4": "The bed is broken down to the skin; misfortune. The danger now touches the quick; the harm is at its peak.",
+        "5": "A school of fish; favor comes through the ladies of the court; everything is favorable. A turnaround begins; order starts to be restored from below.",
+        "6": "A great fruit remains uneaten; the noble one receives a carriage, the small man's house is destroyed. The seed of renewal survives decline; the wise one is carried while what must fall, falls."
+      }
+    },
+    {
+      "numero": 24,
+      "nom": "Return",
+      "nom_chinois": "Fù",
+      "trigramme_haut": "Earth",
+      "trigramme_bas": "Thunder",
+      "image": "Thunder within the earth: image of return. Thus the ancient kings closed the passes at the solstice, so that the new force could regenerate in rest.",
+      "jugement_general": "After decline comes return: light is reborn, the cycle begins again. This is the turning point, the solstice where day begins to reclaim the night. A time of renewal, still fragile: the new force must be allowed to strengthen gently.",
+      "themes": {
+        "amour": "A renewal, a return of harmony or of a person. The flame is reborn, still fragile; nourish it with gentleness and patience.",
+        "finance": "The beginning of a recovery after a difficult period. The upturn is real but still tender; don't rush it.",
+        "sante": "The return of energy and health after an ordeal. Convalescence requires letting the new strength be reborn without rushing it.",
+        "spirituel": "A return to yourself, to the essential, after having strayed. The inner turning point where light begins to grow again.",
+        "famille": "A renewal of bonds, perhaps a return or a reconciliation. Welcome it with gentleness; what's being reborn is still fragile."
+      },
+      "traits": {
+        "1": "Return from a short distance; no need for regret; great good fortune. Correcting a small stray early avoids all regret.",
+        "2": "Peaceful return; good fortune. Returning to the right path calmly and without resistance brings happiness.",
+        "3": "Repeated return; danger, but no error. Hesitating and turning back several times is risky but not blameworthy if the intention remains right.",
+        "4": "Walking in the midst of others, one returns alone. Following your own path even when it differs from the group's.",
+        "5": "Noble, generous return; no regret. A return to yourself made with greatness of soul and sincerity, without regret.",
+        "6": "Missed return; misfortune, calamity. Missing the moment of return, persisting in straying, brings serious consequences."
+      }
+    },
+    {
+      "numero": 25,
+      "nom": "Innocence",
+      "nom_chinois": "Wú Wàng",
+      "trigramme_haut": "Heaven",
+      "trigramme_bas": "Thunder",
+      "image": "Under heaven, thunder moves: all things receive natural innocence. Thus the ancient kings, rich in virtue and in accord with the times, nourished all beings.",
+      "jugement_general": "Innocence and natural spontaneity, acting without ulterior motive or calculation, bring success. But innocence demands uprightness: what isn't on the right path brings misfortune. Follow your natural impulse, provided it is pure.",
+      "themes": {
+        "amour": "A relationship lived with spontaneity and sincerity, without calculation. Purity of intention is your greatest strength here.",
+        "finance": "Acting with uprightness and without ulterior motive. Don't try to manipulate circumstances; naturalness and honesty bear fruit.",
+        "sante": "Trusting the body's natural processes, without anxious interference. Simplicity and naturalness favor healing.",
+        "spirituel": "Recovered innocence, spontaneous action in accord with what is right, is a state of grace. Acting without calculation, guided by inner uprightness.",
+        "famille": "Sincere spontaneity in family relationships, without calculation or manipulation. Purity of intention strengthens trust."
+      },
+      "traits": {
+        "1": "Innocent action; good fortune. Acting spontaneously from a pure heart brings success.",
+        "2": "Not counting on the harvest while plowing, nor on the use of land while clearing it; then it's beneficial to undertake things. Acting without obsessing over the result opens the way to true success.",
+        "3": "Undeserved misfortune of innocence: the cow tied by a passerby becomes his loss, misfortune for the inhabitant. Sometimes misfortune strikes without our being at fault; accepting it is part of life.",
+        "4": "One who can remain steadfast stays without error. Staying true to your upright nature, without letting yourself be led astray, preserves from error.",
+        "5": "Illness of innocence: do not use a remedy, joy will return. Some passing ills resolve themselves; there's no need to fuss over them.",
+        "6": "Innocent action that brings misfortune; nothing is favorable. Even right action, at the wrong time, can cause harm; know also when not to act."
+      }
+    },
+    {
+      "numero": 26,
+      "nom": "The Taming Power of the Great",
+      "nom_chinois": "Dà Chù",
+      "trigramme_haut": "Mountain",
+      "trigramme_bas": "Heaven",
+      "image": "Heaven within the mountain: image of the taming power of the great. Thus the noble one studies the words and deeds of the ancients to strengthen their character.",
+      "jugement_general": "A great, accumulated, and mastered energy becomes a powerful force. Holding back your power, disciplining it, nourishing it with wisdom, allows great things to be accomplished. This is the time to nourish yourself with wisdom and dare great undertakings.",
+      "themes": {
+        "amour": "A relationship rich with powerful potential, which requires mastery and patience to fully blossom. Contained strength prepares great things.",
+        "finance": "Great resources accumulated, ready to be deployed wisely. The moment approaches to dare great undertakings, with discipline.",
+        "sante": "A powerful vital energy to channel with discipline. Well-mastered strength, nourished by good habits, builds solid health.",
+        "spirituel": "Inner strength accumulated through discipline and study becomes a creative power. Nourishing yourself with ancient wisdom fortifies the soul.",
+        "famille": "A family whose strength lies in accumulated and passed-down values. Relying on this wealth for great shared achievements."
+      },
+      "traits": {
+        "1": "There is danger, it's beneficial to stop. Recognizing the moment to hold back your momentum rather than rushing ahead.",
+        "2": "The axle is removed from the carriage. Accepting a forced stop without frustration; the blockage sometimes protects.",
+        "3": "A good horse that follows others; beneficial to be aware of danger and firm; practice every day; it's beneficial to undertake things. The momentum is there; vigilance and constant training allow you to go far.",
+        "4": "The protective board of the young bull; great good fortune. Preventing a danger at its source, before it develops, is very favorable.",
+        "5": "The tusks of a gelded boar; good fortune. Neutralizing a dangerous force at its root rather than facing it head-on.",
+        "6": "One reaches the way of heaven; success. Fully mastered strength, released at the right moment, opens the greatest paths."
+      }
+    },
+    {
+      "numero": 27,
+      "nom": "The Corners of the Mouth",
+      "nom_chinois": "Yí",
+      "trigramme_haut": "Mountain",
+      "trigramme_bas": "Thunder",
+      "image": "Under the mountain, thunder: image of nourishment. Thus the noble one is careful with their words and moderate in eating and drinking.",
+      "jugement_general": "The hexagram of nourishment, in the literal and figurative sense: what one feeds on, body and spirit. Success comes from the attention paid to what one gives and receives as nourishment. Observe what nourishes you and what you nourish.",
+      "themes": {
+        "amour": "Observe what truly nourishes the relationship and what impoverishes it. A healthy relationship feeds on right attention and kind words.",
+        "finance": "Being attentive to what truly feeds your prosperity and what squanders it. Moderation and discernment in spending are key.",
+        "sante": "Particular attention to nourishment, in the broad sense: what you eat, breathe, and let into yourself. Moderation nourishes health.",
+        "spirituel": "What do you nourish your soul with? Thoughts, readings, and company are food for the spirit. Choose them with care.",
+        "famille": "What you nourish the family with — attention, words, values — shapes it. Take care to give a healthy, generous emotional nourishment."
+      },
+      "traits": {
+        "1": "You set aside your sacred turtle and watch me, jaws hanging; misfortune. Envying what others have rather than appreciating your own resources impoverishes you.",
+        "2": "Feeding by turning off the path, addressing the hill to be fed; continuing this way leads to misfortune. Seeking your sustenance in the wrong direction, against your nature, fails.",
+        "3": "Turning away from nourishment; perseverance, misfortune; do not act this way for ten years; nothing is favorable. Feeding on what doesn't suit you leads to a long derangement.",
+        "4": "Turning toward the summit to be fed; good fortune; the tiger watches with a piercing gaze, its desire insatiable; no error. Seeking elevated nourishment, with an ardent but rightful desire, is beneficial.",
+        "5": "Straying from the path; remaining steadfast brings good fortune; one must not cross the great waters. Recognizing your limits and staying in place rather than venturing beyond your strength.",
+        "6": "The source of nourishment; awareness of danger brings good fortune; it's beneficial to cross the great waters. Becoming yourself a source of nourishment for others, with vigilance, allows for great undertakings."
+      }
+    },
+    {
+      "numero": 28,
+      "nom": "Preponderance of the Great",
+      "nom_chinois": "Dà Guò",
+      "trigramme_haut": "Lake",
+      "trigramme_bas": "Wind",
+      "image": "The lake submerges the trees: image of the preponderance of the great. Thus the noble one, when alone, knows no fear, and if they must renounce the world, they remain without sorrow.",
+      "jugement_general": "A load too heavy weighs on supports too weak, like a beam bending. The situation is critical and exceptional, requiring extraordinary action. A moment of crisis that demands courage and decisive measures, but also clear-sightedness so as not to collapse.",
+      "themes": {
+        "amour": "A relationship under great strain, where the weight of things threatens the balance. A critical moment that calls for courageous, sincere decisions.",
+        "finance": "A situation of overload where the foundations are fragile. You must act decisively and exceptionally to avoid collapse.",
+        "sante": "A period where the body or mind is under excessive strain. Don't ignore the signals; lightening the load becomes urgent.",
+        "spirituel": "A moment of inner crisis where the old collapses. Crossing this extraordinary passage with courage prepares a profound transformation.",
+        "famille": "A family under exceptional pressure. The moment calls for strong choices and mutual support so as not to give way under the weight."
+      },
+      "traits": {
+        "1": "Spreading a mat of white reeds underneath; no error. Great caution and delicacy at the start of a risky undertaking.",
+        "2": "An old poplar sprouts new roots; an old man marries a young woman; everything is favorable. An unexpected alliance between the old and the new brings new life.",
+        "3": "The ridgepole bends to the point of breaking; misfortune. Stubbornly refusing to listen, under an excessive load, leads to rupture.",
+        "4": "The ridgepole is reinforced; good fortune; but other ulterior motives would be humiliating. Reinforcing what is fragile is good, provided it's done without selfish calculation.",
+        "5": "An old poplar produces flowers; an old woman takes a husband; no error, no praise. A last flourish without true fruitfulness; neither fault nor glory.",
+        "6": "One must cross the water, it rises above the head; misfortune, but no error. Sacrificing oneself for a just cause, even at extreme peril, is not a fault."
+      }
+    },
+    {
+      "numero": 29,
+      "nom": "The Abysmal, Water",
+      "nom_chinois": "Kǎn",
+      "trigramme_haut": "Water",
+      "trigramme_bas": "Water",
+      "image": "Water flows without interruption and reaches its goal: image of the repeated abyss. Thus the noble one walks in constant virtue and carries on the work of teaching.",
+      "jugement_general": "Repeated danger, the abyss, like water rushing in. But water teaches: it crosses peril while staying true to its nature, filling each hollow before moving on. In danger, sincerity of heart and constancy allow you to pass through.",
+      "themes": {
+        "amour": "A difficult period, a perilous passage in the relationship. The constant sincerity of the heart allows you to cross the ordeal without drowning in it.",
+        "finance": "A risky situation that must be crossed with constancy and composure. Like water, moving forward methodically without forcing allows you to get past the danger.",
+        "sante": "A health trial to get through. Constancy, faithfulness to treatment, and inner calm are your best allies in this passage.",
+        "spirituel": "The abyss is also a place of initiation. Staying true to yourself and sincere at the heart of danger makes the soul grow. Water teaches perseverance.",
+        "famille": "A deep family ordeal to cross together. The sincerity and constancy of bonds allow you to pass through the danger without sinking."
+      },
+      "traits": {
+        "1": "Repeated abyss; one falls into the pit at the bottom of the abyss; misfortune. Letting yourself be caught in the habit of danger, without reacting, sinks you deeper.",
+        "2": "The abyss is dangerous; one should only seek to obtain small things. In danger, aim modestly rather than risking everything.",
+        "3": "Forward and backward, abyss upon abyss; in such danger, stop first. Facing peril that repeats itself, it's better to stand still than to agitate.",
+        "4": "A jug of wine, a bowl of rice besides; earthen vessels simply passed through the window; no error. Simple, direct sincerity creates a true bond even in hardship.",
+        "5": "The abyss doesn't fill to the brim, it only reaches its level; no error. Not aiming for excess; reaching just what's necessary is enough to get through.",
+        "6": "Bound with cords, shut in among thorny walls; for three years one doesn't find the way; misfortune. Having locked oneself so deeply into danger that one loses the way out for a long time."
+      }
+    },
+    {
+      "numero": 30,
+      "nom": "The Clinging, Fire",
+      "nom_chinois": "Lí",
+      "trigramme_haut": "Fire",
+      "trigramme_bas": "Fire",
+      "image": "Brightness rises twice: image of fire. Thus the great man perpetuates this brightness and illuminates the four cardinal points.",
+      "jugement_general": "Fire, light, the clarity that needs a support to shine — like the flame that clings to wood. Success comes from lucidity and attachment to what is right. But clarity requires flexibility and gentleness so as not to consume itself.",
+      "themes": {
+        "amour": "A luminous, warm attachment. The relationship shines, but like the flame, it needs a solid support to last without burning out.",
+        "finance": "Clarity of vision and discernment light up your decisions. Attach your energy to what is solid and right so that it lasts.",
+        "sante": "Vitality shines forth. Take care to tend the source of this energy, for even the brightest flame needs to be fed to last.",
+        "spirituel": "The light of consciousness attaches itself to what elevates it. Cultivating inner clarity, with gentleness, illuminates the path.",
+        "famille": "A luminous warmth radiates in the family. Tend to what nourishes this flame — bonds, rituals — so it shines lastingly."
+      },
+      "traits": {
+        "1": "Traces cross one another; if one is serious and respectful, no error. Approaching each day seriously and respectfully from the morning avoids error.",
+        "2": "Yellow light; supreme good fortune. Balanced clarity, the middle way, brings the greatest happiness.",
+        "3": "In the light of the setting sun, men either beat their pots and sing, or lament old age; misfortune. Facing inevitable decline, choosing serenity rather than lamentation.",
+        "4": "Its arrival is sudden; it flares, dies, is cast off. A too-brutal ardor, without support, burns itself out and disappears quickly.",
+        "5": "Tears flowing, sighs of sadness; good fortune. A sincere, deep emotion that, in expressing itself, ultimately opens the way to happiness.",
+        "6": "The king uses it to march into battle; it is good to kill the leaders and capture the followers; no error. Using your clarity to cut evil at the root while sparing what can be spared."
+      }
+    },
+    {
+      "numero": 31,
+      "nom": "Influence",
+      "nom_chinois": "Xián",
+      "trigramme_haut": "Lake",
+      "trigramme_bas": "Mountain",
+      "image": "The lake on top of the mountain: image of influence. Thus the noble one welcomes others through their inner receptivity.",
+      "jugement_general": "Mutual attraction, reciprocal influence that unites — like the attraction between a young man and a young woman. Success comes from this sincere meeting where each remains open to the other. A time favorable to unions and exchanges of the heart.",
+      "themes": {
+        "amour": "Mutual, sincere attraction is at the heart of this hexagram. A very favorable time for meetings and unions; let your heart open.",
+        "finance": "A favorable reciprocal influence, an attractive partnership. Exchanges founded on sincere, mutual attraction are promising.",
+        "sante": "Harmony between body and mind, their mutual influence. Listening to the body's subtle sensations fosters overall well-being.",
+        "spirituel": "The heart's receptive openness allows the subtle influence of the sacred to touch you. Staying porous to what calls you.",
+        "famille": "A beautiful circulation of affection and mutual influence within the family. Hearts touch each other; cultivate this reciprocal openness."
+      },
+      "traits": {
+        "1": "Influence manifests in the big toe. A beginning of attraction still light, without consequence as long as it stays superficial.",
+        "2": "Influence manifests in the calves; misfortune; staying still brings good fortune. Wanting to move too fast under impulse; better to wait.",
+        "3": "Influence manifests in the thighs, clinging to what follows; continuing this way is humiliating. Letting yourself be passively led by your impulses or by others impoverishes you.",
+        "4": "Perseverance brings good fortune, regret disappears; if you are restless in your comings and goings, only your friends will follow your thoughts. Influencing through the sincere constancy of the heart, not through calculating agitation.",
+        "5": "Influence manifests in the nape of the neck; no regret. A sincere but somewhat rigid firmness; without great momentum but without regret.",
+        "6": "Influence manifests in the jaw, cheeks, and tongue. Influence through words alone, superficial, without real commitment of the heart."
+      }
+    },
+    {
+      "numero": 32,
+      "nom": "Duration",
+      "nom_chinois": "Héng",
+      "trigramme_haut": "Thunder",
+      "trigramme_bas": "Wind",
+      "image": "Thunder and wind: image of duration. Thus the noble one stands firm and does not change direction.",
+      "jugement_general": "Duration, constancy through time, perseverance of what lasts. Success comes from faithfulness to a right direction, maintained over time. Not stillness, but a constant and lasting movement, like that of the stars.",
+      "themes": {
+        "amour": "The duration and constancy of a settled love. Faithfulness through time, renewal within stability, are the strength of the relationship.",
+        "finance": "Constant perseverance in a right direction bears fruit over the long term. Regularity is worth more than flashes of brilliance.",
+        "sante": "Constancy in good habits builds lasting health. It's the regular actions, maintained over time, that count.",
+        "spirituel": "Perseverance in practice, faithfulness to your path over time, is the key to spiritual deepening. Stay the course.",
+        "famille": "The stability and constancy of family bonds over time. Lasting faithfulness, ceaselessly renewed, is the foundation of the home."
+      },
+      "traits": {
+        "1": "Seeking duration too quickly; perseverance, misfortune; nothing is favorable. Wanting deep stability right away, without building it, fails.",
+        "2": "Regret disappears. Holding to the right measure allows constancy to establish itself without regret.",
+        "3": "One who gives no duration to their character meets with shame; perseverance, humiliation. Inconstancy of character, changing moods, leads to humiliation.",
+        "4": "No game in the field. Persevering where there's nothing to find is vain; constancy must bear on what is fitting.",
+        "5": "Giving duration to one's character through perseverance; good fortune for a woman, misfortune for a man. Constant faithfulness suits one who must follow, but one who must decide cannot stay fixed.",
+        "6": "Restlessness as a lasting state; misfortune. Making instability a permanent way of being leads to misfortune."
+      }
+    },
+    {
+      "numero": 33,
+      "nom": "Retreat",
+      "nom_chinois": "Dùn",
+      "trigramme_haut": "Heaven",
+      "trigramme_bas": "Mountain",
+      "image": "Under heaven, the mountain: image of retreat. Thus the noble one keeps the vulgar man at a distance, not through anger, but through reserve.",
+      "jugement_general": "The time to withdraw, to retreat with dignity in the face of rising unfavorable forces. This isn't a flight, but a strategic and dignified withdrawal. Knowing how to retreat at the right moment, without bitterness, preserves your strength for later.",
+      "themes": {
+        "amour": "A time when it's better to take distance, to withdraw with dignity from a situation that isn't favorable, rather than force things.",
+        "finance": "A strategic withdrawal is called for in the face of unfavorable conditions. Withdrawing in time, without bitterness, preserves your resources for the future.",
+        "sante": "The body calls for withdrawal and rest. Withdrawing from agitation, giving yourself space to recover, is the wisdom here.",
+        "spirituel": "Inner retreat, withdrawing from the agitated world to recharge, is sometimes necessary. Stepping back to find yourself again.",
+        "famille": "Taking distance with dignity in the face of a tense family situation. A respectful withdrawal is worth more than a sterile confrontation."
+      },
+      "traits": {
+        "1": "At the tail in the retreat; it's dangerous; undertake nothing. Delaying withdrawal puts you in a risky position; stay still then.",
+        "2": "He holds fast with yellow ox hide; no one can loosen it. A firm, sincere resolve that keeps the right bond even in withdrawal.",
+        "3": "Retreat hindered by attachments; it's painful and dangerous; keeping servants brings good fortune. A withdrawal complicated by attachments; surrounding yourself with reliable support helps.",
+        "4": "Voluntary retreat; good fortune for the noble one, downfall for the small man. Knowing how to withdraw by choice, without clinging, distinguishes the wise.",
+        "5": "Friendly retreat; perseverance brings good fortune. Withdrawing at the right moment, with serenity and kindness, brings happiness.",
+        "6": "Joyful retreat; everything is favorable. A withdrawal accomplished with lightness and without regret, opening the way to freedom."
+      }
+    },
+    {
+      "numero": 34,
+      "nom": "The Power of the Great",
+      "nom_chinois": "Dà Zhuàng",
+      "trigramme_haut": "Thunder",
+      "trigramme_bas": "Heaven",
+      "image": "Thunder is high in the heavens: image of the power of the great. Thus the noble one does not walk on paths that aren't in keeping with order.",
+      "jugement_general": "A great power, a vigorous force at its peak. But true strength doesn't lie in brutal display: it resides in restraint and accord with what is right. Power wrongly used turns against itself.",
+      "themes": {
+        "amour": "A strong energy animates the relationship. Make sure this power expresses itself with respect and restraint, never becoming domination.",
+        "finance": "A position of strength and vigor. Use this power with measure and uprightness; brutality or excess would turn it against you.",
+        "sante": "Great vitality, but one that needs to be channeled. Avoid overexploiting your strength; well-mastered power lasts.",
+        "spirituel": "True inner strength doesn't impose itself, it masters itself. Power in service of what's right, with restraint, is the mark of the wise.",
+        "famille": "A strong position of authority in the family. Exercise it with fairness and restraint rather than force, so that it's respected."
+      },
+      "traits": {
+        "1": "Power in the toes; continuing this way surely brings misfortune. Wanting to advance by strength alone, from the very start, leads to failure.",
+        "2": "Perseverance brings good fortune. Strength joined to measure and constancy brings success.",
+        "3": "The small man uses power, the noble one does not act this way; persisting is dangerous; the goat catches its horns in the hedge. Charging blindly like the ram means getting stuck; the wise refrain from it.",
+        "4": "Perseverance brings good fortune, regret disappears; the hedge opens, no more entanglement; power in the great axle of the carriage. When strength is applied in the right place, obstacles give way on their own.",
+        "5": "Losing the goat with ease; no regret. Giving up stubborn impetuousness becomes easy and frees without regret.",
+        "6": "The goat butting against the hedge can neither retreat nor advance; nothing is favorable; but in the difficulty overcome, fortune arrives. Stuck by your own stubbornness; recognizing the impasse and changing finally unblocks things."
+      }
+    },
+    {
+      "numero": 35,
+      "nom": "Progress",
+      "nom_chinois": "Jìn",
+      "trigramme_haut": "Fire",
+      "trigramme_bas": "Earth",
+      "image": "The sun rises above the earth: image of progress. Thus the noble one causes their own bright virtue to shine forth.",
+      "jugement_general": "Easy, rapid progress, like the sun that rises and shines ever brighter. A time of advancement, recognition, and flourishing. Efforts are rewarded, the ascent is favorable and well received.",
+      "themes": {
+        "amour": "A relationship that progresses and flourishes in the open. A favorable time when feelings advance with clarity and mutual recognition.",
+        "finance": "A period of advancement and recognition. Your efforts are bearing fruit; it's a time favorable to progress and success.",
+        "sante": "Clear, encouraging progress toward well-being. Energy rises like the sun; take advantage of this upward momentum.",
+        "spirituel": "A luminous progression along the path. Clarity grows, understanding rises; let your inner virtue shine.",
+        "famille": "A time of flourishing and recognition within the family. Relationships progress harmoniously, in the open."
+      },
+      "traits": {
+        "1": "Progressing, but pushed back; perseverance brings good fortune; if one doesn't meet with trust, remain serene, no error. Advancing serenely even without immediate recognition.",
+        "2": "Progressing, but in sorrow; perseverance brings good fortune; one receives a great blessing from one's grandmother. After a period of grief, kind and unexpected help arrives.",
+        "3": "Everyone is in agreement; regret disappears. Advancing with the support and consent of others dispels regrets.",
+        "4": "Progress like a hamster; perseverance, danger. Advancing through greed and hidden hoarding is perilous.",
+        "5": "Regret disappears; do not worry about loss or gain; undertaking brings good fortune, everything is favorable. Advancing without clinging to the outcome opens the way to full success.",
+        "6": "Advancing with horns; only good for chastising one's own city; awareness of danger brings good fortune, no error, but perseverance is humiliating. An aggressive advance, tolerable only to correct oneself, never against others."
+      }
+    },
+    {
+      "numero": 36,
+      "nom": "Darkening of the Light",
+      "nom_chinois": "Míng Yí",
+      "trigramme_haut": "Earth",
+      "trigramme_bas": "Fire",
+      "image": "The light has sunk into the earth: image of the darkening of the light. Thus the noble one lives among the great crowd; they veil their brightness while keeping their clarity.",
+      "jugement_general": "A time when the light is hidden, when worth and integrity must conceal themselves in the face of adversity. It's wise to veil your inner clarity, to stay discreet, and to preserve your light rather than expose it to what might extinguish it.",
+      "themes": {
+        "amour": "A period when you need to protect your feelings, staying discreet in an unfavorable environment. Preserving your flame without exposing it.",
+        "finance": "An unfavorable time when it's better to stay discreet about your resources and projects. Protecting your worth rather than exposing it to harm.",
+        "sante": "A phase where you must protect and preserve yourself, without letting a heavy environment affect you. Keeping your inner light warm.",
+        "spirituel": "Preserving your inner light in a hostile context, without denying or exposing it. Discretion protects what is precious.",
+        "famille": "A difficult family climate where you must protect your clarity and inner peace, staying discreet rather than clashing head-on."
+      },
+      "traits": {
+        "1": "The darkening in full flight, he lowers his wings; three days without eating; wherever he goes, his host speaks ill of him. Withdrawing with dignity in the face of adversity, even if it means suffering, without justifying yourself.",
+        "2": "The darkening wounds him in the left thigh; he brings help with the strength of a horse; good fortune. Wounded but able to help others, turning the ordeal into rescue.",
+        "3": "The darkening during the hunt in the south; the great chief is captured; don't expect perseverance too quickly. Striking at the source of the evil, but without wanting to fix everything at once.",
+        "4": "He penetrates the left side of the belly, seizes the heart of the darkening, and leaves through the gate and courtyard. Understanding a harmful situation from within, then moving away from it in time.",
+        "5": "The darkening as with Prince Ji; perseverance is beneficial. Hiding your wisdom under a discreet appearance to survive adversity while keeping your integrity.",
+        "6": "Not light, but darkness; first he rises to heaven, then he sinks into the earth. One who spreads darkness ends up falling from their own height."
+      }
+    },
+    {
+      "numero": 37,
+      "nom": "The Family",
+      "nom_chinois": "Jiā Rén",
+      "trigramme_haut": "Wind",
+      "trigramme_bas": "Fire",
+      "image": "Wind comes out of fire: image of the family. Thus the noble one has substance in their words and duration in their conduct.",
+      "jugement_general": "The right order within the family, where each holds their place with love and responsibility. Success comes when roles are clear and bonds sincere. What holds true for the family holds true for any human group: harmony is born from the rightness of each.",
+      "themes": {
+        "amour": "Harmony founded on clear roles and mutual respect. A relationship where each holds their rightful place with love finds lasting balance.",
+        "finance": "Good management, like that of a well-run household, brings stability and prosperity. Order and clarity of responsibilities are key.",
+        "sante": "Well-being is born from an orderly, harmonious living environment. Taking care of your immediate surroundings supports health.",
+        "spirituel": "Inner harmony reflects right order, where each part of yourself holds its place. Cultivating this inner coherence nourishes the soul.",
+        "famille": "The very heart of this hexagram: family harmony founded on clear roles, love, and everyone's responsibility. A time favorable to the home."
+      },
+      "traits": {
+        "1": "Firmness and restraint within the family; regret disappears. Setting clear boundaries from the start prevents problems.",
+        "2": "She must not follow her whims, but attend to the food; perseverance brings good fortune. Humbly fulfilling one's nurturing role, without seeking to impose oneself.",
+        "3": "When one flares up with severity, there's regret, but good fortune; if wife and child laugh and play too much, humiliation follows in the end. A too-harsh firmness is worth more than a laxity without limits.",
+        "4": "She is the treasure of the house; great good fortune. Whoever truly enriches the home attracts happiness.",
+        "5": "Like a king he approaches his family; no fear, good fortune. Ruling one's home through love and trust rather than fear.",
+        "6": "His work inspires respect; good fortune in the end. Sincerity and constancy in tending the home naturally inspire respect."
+      }
+    },
+    {
+      "numero": 38,
+      "nom": "Opposition",
+      "nom_chinois": "Kuí",
+      "trigramme_haut": "Fire",
+      "trigramme_bas": "Lake",
+      "image": "Fire above, the lake below: image of opposition. Thus the noble one, within general agreement, keeps their individuality.",
+      "jugement_general": "A time of division, misunderstanding, and disagreement, where beings turn their backs on one another. In small matters, success is still possible. Wisdom lies in not forcing union, but recognizing that even in opposition a hidden complementarity remains.",
+      "themes": {
+        "amour": "A time of misunderstandings and disagreements in the relationship. Don't force things; look for small common ground, for opposition often hides a complementarity.",
+        "finance": "Divergences or blockages in business matters. Move forward on the small achievable things, without trying to resolve everything at once.",
+        "sante": "An imbalance, a tension between opposing forces within you. Look for small adjustments rather than a great upheaval.",
+        "spirituel": "Inner contradictions are also part of the path. Welcoming your oppositions, seeing a hidden complementarity in them, brings peace.",
+        "famille": "Family tensions and misunderstandings. Don't try to force reconciliation; small gestures of openness bring people closer little by little."
+      },
+      "traits": {
+        "1": "Regret disappears; if you lose your horse, don't run after it, it will come back on its own; if you see wicked people, guard against error. Don't force the return of what moves away; it comes back naturally.",
+        "2": "One meets one's master in an alleyway; no error. A chance encounter that restores a lost bond, despite the circumstances.",
+        "3": "One sees the cart dragged backward, the ox stopped, the man with hair and nose cut off; not a good start, but a good end. Very difficult and humiliating beginnings that, despite everything, end well.",
+        "4": "Isolated by opposition, one meets a man of like spirit; they exchange in trust; danger, no error. In isolation, finding a kindred spirit who restores trust.",
+        "5": "Regret disappears; the companion bites through the wrapping; going toward him, what fault could there be? Finding a sincere ally lifts the misunderstanding; moving toward him is right.",
+        "6": "Isolated by opposition, one sees one's companion as a pig covered in mud, a cart full of demons; first one draws the bow, then one lowers it; it isn't a bandit, he comes to join; as one advances, rain falls and fortune comes. Overcoming illusory suspicion to recognize the friend; the misunderstanding dissolves and union is made."
+      }
+    },
+    {
+      "numero": 39,
+      "nom": "Obstruction",
+      "nom_chinois": "Jiǎn",
+      "trigramme_haut": "Water",
+      "trigramme_bas": "Mountain",
+      "image": "On the mountain, water: image of obstruction. Thus the noble one turns back toward themselves and shapes their character.",
+      "jugement_general": "An obstacle, a difficulty that blocks the path, like water before the mountain. Facing the obstacle, there's no use rushing ahead: better to pause, seek advice, turn back to yourself. Difficulty is also an occasion for inner growth.",
+      "themes": {
+        "amour": "An obstacle on the path of the relationship. Rather than forcing your way through, step back, reflect, and possibly seek support.",
+        "finance": "A difficulty blocking progress. Don't push relentlessly; take a pause, reassess, and seek help or another way.",
+        "sante": "An obstacle on the road to healing. Don't force things; this pause invites you to turn back to yourself and adjust your approach.",
+        "spirituel": "The obstacle is an invitation to turn back to yourself, to transform inwardly. External difficulty becomes an occasion for growth.",
+        "famille": "A family difficulty that seems insurmountable head-on. Pausing, seeking advice, and reconsidering your own attitude opens up ways forward."
+      },
+      "traits": {
+        "1": "Going leads to obstruction, coming leads to praise. Facing difficulty, knowing how to step back rather than push forward.",
+        "2": "The king's servant meets obstacle after obstacle, but it isn't his fault. Facing difficulties out of duty, without being blamed for it.",
+        "3": "Going leads to obstruction, so he comes back. Recognizing that moving forward is impossible and returning to what is safe.",
+        "4": "Going leads to obstruction, coming leads to union. Not facing the difficulty alone, but returning to seek allies.",
+        "5": "In the midst of the greatest obstruction, friends arrive. At the heart of the greatest trial, decisive support appears.",
+        "6": "Going leads to obstruction, coming leads to greatness; good fortune; it's beneficial to see the great man. Returning to put your experience of the ordeal at the service of others brings true greatness."
+      }
+    },
+    {
+      "numero": 40,
+      "nom": "Deliverance",
+      "nom_chinois": "Xiè",
+      "trigramme_haut": "Thunder",
+      "trigramme_bas": "Water",
+      "image": "Thunder and rain arise: image of deliverance. Thus the noble one forgives faults and pardons transgressions.",
+      "jugement_general": "Tension dissolves, the storm bursts and releases: a time of deliverance after difficulty. What was blocked finally unblocks. It's fitting then to quickly return to the ordinary, to forgive, and to settle without delay what needs settling.",
+      "themes": {
+        "amour": "A resolution, a release after a period of tension. Forgiveness and a return to simplicity restore harmony; don't dwell on the past.",
+        "finance": "A blockage that finally unblocks. Take advantage of this release to settle what was lingering and return to a calm, normal management.",
+        "sante": "Relief, a deliverance after an ordeal. Take advantage of this improvement to find a peaceful rhythm again, without falling back into tension.",
+        "spirituel": "An inner liberation, the untangling of an old knot. Forgiveness — toward yourself and others — is the key to this deliverance.",
+        "famille": "A calm after a period of conflict. Forgiveness and a return to simple life heal the wounds; turn the page without dwelling on it."
+      },
+      "traits": {
+        "1": "No error. After deliverance, rest; there's no need to act, calm is enough.",
+        "2": "One kills three foxes in the fields and receives a yellow arrow; perseverance brings good fortune. Casting off misleading influences with uprightness restores balance.",
+        "3": "One who carries a burden on their back and yet travels by carriage attracts bandits; perseverance, humiliation. Displaying what you've gained, out of your rightful place, attracts trouble.",
+        "4": "Free yourself of your big toe; then comes the friend you can trust. Freeing yourself from bad attachments opens the way to sincere relationships.",
+        "5": "Only the noble one can free themselves; good fortune; it proves to small men their seriousness. Freeing yourself inwardly first, which naturally keeps harmful influences away.",
+        "6": "The prince shoots at a hawk atop a high wall; he hits it; everything is favorable. Eliminating, with one decisive and well-prepared move, the major obstacle that remained."
+      }
+    },
+    {
+      "numero": 41,
+      "nom": "Decrease",
+      "nom_chinois": "Sǔn",
+      "trigramme_haut": "Mountain",
+      "trigramme_bas": "Lake",
+      "image": "At the foot of the mountain, the lake: image of decrease. Thus the noble one curbs their anger and restrains their instincts.",
+      "jugement_general": "Decreasing, reducing, simplifying: sometimes removing is worth more than adding. What seems a loss can be a beneficial purification. Simple sincerity is worth more than rich offerings. A time to be content with little and master your excesses.",
+      "themes": {
+        "amour": "A time of simplification, where lightening the relationship of what weighs it down strengthens it. Simple sincerity is worth more than grand displays.",
+        "finance": "A period of restriction or reduction. Accepting to decrease, to simplify, can be a purification that prepares better financial health.",
+        "sante": "Reducing, lightening, being content with less — in food, in excess — can be deeply beneficial. Less, but better.",
+        "spirituel": "Voluntary stripping away, ridding yourself of the superfluous, elevates the soul. Mastering your excesses and passions is a path of purification.",
+        "famille": "Simplifying, lightening expectations and tensions within the family. Sometimes asking for less and giving more sincerely strengthens bonds."
+      },
+      "traits": {
+        "1": "Going quickly when the matter is finished isn't a fault; but think about how much you can decrease others. Helping others promptly, but without depriving them of what they need.",
+        "2": "It's beneficial to persevere; undertaking brings misfortune; one can increase others without decreasing oneself. Keeping your own integrity while helping; not sacrificing yourself to excess.",
+        "3": "When three people travel together, their number decreases by one; a man traveling alone finds a companion. The right balance is found in twos; the surplus reduces itself naturally.",
+        "4": "If one decreases their faults, the other hurries to bring their joy; no error. Reducing your own flaws quickly attracts the help and joy of others.",
+        "5": "Someone enriches him, ten pairs of tortoises cannot oppose it; supreme good fortune. A blessing so evident that no doubt can contest it.",
+        "6": "If he is increased without being decreased, no error; perseverance brings good fortune; it's beneficial to undertake things; one gains servants, but no longer has a separate house. Enriching others without impoverishing yourself: true abundance benefits everyone."
+      }
+    },
+    {
+      "numero": 42,
+      "nom": "Increase",
+      "nom_chinois": "Yì",
+      "trigramme_haut": "Wind",
+      "trigramme_bas": "Thunder",
+      "image": "Wind and thunder: image of increase. Thus the noble one, upon seeing good, imitates it; if they have faults, they correct them.",
+      "jugement_general": "Increase, growth, the time when one gives from above toward below and everything flourishes. A favorable moment for great undertakings and generous actions. What is given generously comes back multiplied. It's beneficial to undertake things.",
+      "themes": {
+        "amour": "A time of growth and mutual enrichment in the relationship. Generosity and self-giving make love grow; it's a favorable moment.",
+        "finance": "A period of growth and favorable opportunities. It's the right time to undertake and invest with generosity and vision.",
+        "sante": "An increase in vitality and energy. Take advantage of this momentum to strengthen your well-being and cultivate good habits.",
+        "spirituel": "A time of inner growth, of enrichment of the soul. Giving generously, improving by imitating the good, makes the light grow.",
+        "famille": "A period of enrichment of family bonds. Generosity, mutual giving, and mutual aid make the harmony of the home flourish."
+      },
+      "traits": {
+        "1": "It's beneficial to accomplish great works; supreme good fortune, no error. The favorable momentum allows great things to be undertaken with success.",
+        "2": "Someone enriches him, ten pairs of tortoises cannot oppose it; constant perseverance brings good fortune; the king presents him to God; good fortune. An undeniable blessing which, received with constancy and humility, rises to the sacred.",
+        "3": "One is enriched by unfortunate events; no error if one is sincere and walks the middle way. Even hardship can enrich the one who remains sincere and just.",
+        "4": "If you walk the middle way and inform the prince, he will follow you; it's beneficial to be used to move the capital. Serving as a fair, trustworthy mediator for great decisions.",
+        "5": "Sincere kindness of heart; do not question, supreme good fortune; kindness will recognize your kindness. True benevolence, without calculation, is recognized and rewarded.",
+        "6": "He enriches no one, someone even strikes him; he gives no constancy to his heart; misfortune. Selfishness and inconstancy of heart that gives nothing bring misfortune."
+      }
+    },
+    {
+      "numero": 43,
+      "nom": "Breakthrough",
+      "nom_chinois": "Guài",
+      "trigramme_haut": "Lake",
+      "trigramme_bas": "Heaven",
+      "image": "The lake has risen up to heaven: image of breakthrough. Thus the noble one distributes their wealth downward and refrains from resting on their virtue.",
+      "jugement_general": "A decisive breakthrough, the moment to cut through and resolutely denounce what must be denounced. But resolution must rest on sincerity, not brute force. One must clearly state one's position, without resorting to weapons, with a determination founded on what is right.",
+      "themes": {
+        "amour": "The moment to clarify, to say things openly, to resolve an ambiguous situation. Sincere frankness, not brutality, unblocks things.",
+        "finance": "The moment to make a firm decision, to resolve things decisively. Act with determination, but on fair and transparent grounds.",
+        "sante": "The moment to resolutely break with a bad habit or to face a problem frankly. A firm, clear decision brings liberation.",
+        "spirituel": "Cutting through with determination what must be cut through within yourself. The inner breakthrough requires courage and sincerity, not violence against yourself.",
+        "famille": "The moment to openly clarify a family situation, to speak frankly. Sincere transparency resolves what festers in the unspoken."
+      },
+      "traits": {
+        "1": "Powerful in the advancing toes; going forward without being up to it becomes a fault. Launching forward with force without being ready leads to failure.",
+        "2": "Cry of alarm; arm yourself evening and night; fear nothing. Prudent vigilance wards off danger without needing to panic.",
+        "3": "Powerful in the cheekbones; misfortune; the noble one is resolute, walks alone, is caught in rain, soiled, people murmur, but no error. Keeping your inner resolve despite appearances and criticism.",
+        "4": "No skin on the thighs, one walks with difficulty; if one let oneself be led like a sheep, regret would disappear; but one doesn't listen to these words. The stubbornness of advancing alone when one should let oneself be guided.",
+        "5": "Against the weeds, firm resolve is necessary; walking in the middle, no error. Resolutely eliminating what is harmful, while staying in the right measure.",
+        "6": "No cry; misfortune comes in the end. Believing the evil eliminated and relaxing your vigilance too soon lets danger return."
+      }
+    },
+    {
+      "numero": 44,
+      "nom": "Coming to Meet",
+      "nom_chinois": "Gòu",
+      "trigramme_haut": "Heaven",
+      "trigramme_bas": "Wind",
+      "image": "Under heaven, wind: image of coming to meet. Thus the prince spreads his orders and makes them known to the four cardinal points.",
+      "jugement_general": "An unforeseen encounter, an influence that insinuates itself discreetly. An apparently weak element slips in and could, if unheeded, grow in scope. Caution toward what seduces or insinuates itself: not everything that comes to meet you is good to welcome.",
+      "themes": {
+        "amour": "An unexpected encounter, a temptation or an influence that insinuates itself. Stay clear-eyed: not everything that seduces is necessarily good for you.",
+        "finance": "An opportunity or influence that presents itself discreetly. Examine it with caution; what seems harmless may hide a trap.",
+        "sante": "A small harmful influence that could take hold if not watched. Stay alert to budding bad habits.",
+        "spirituel": "A subtle temptation or an influence trying to insinuate itself. Vigilant discernment protects your inner integrity.",
+        "famille": "An outside influence introducing itself into the family. Welcome it with caution and discernment, without letting in what could divide."
+      },
+      "traits": {
+        "1": "It must be restrained with a bronze brake; perseverance brings good fortune; letting it go leads to misfortune. Firmly stopping a budding harmful influence from the start.",
+        "2": "A fish in the bag; no error; but not favorable for guests. Discreetly containing an influence without letting it spread to others.",
+        "3": "No skin on the thighs, one walks with difficulty; awareness of danger, no great error. Hesitating, hindered, but caution avoids the worst.",
+        "4": "No fish in the bag; this brings misfortune. Neglecting or pushing away what should have been kept close creates misfortune.",
+        "5": "A melon covered with willow leaves; hidden qualities; then it falls from heaven. Discreet, patient virtue eventually receives its reward from above.",
+        "6": "He comes to meet with horns; humiliation, but no error. A haughty pride that isolates; humiliating, but without great consequence."
+      }
+    },
+    {
+      "numero": 45,
+      "nom": "Gathering Together",
+      "nom_chinois": "Cuì",
+      "trigramme_haut": "Lake",
+      "trigramme_bas": "Earth",
+      "image": "The lake above the earth: image of gathering together. Thus the noble one renews their weapons to guard against the unexpected.",
+      "jugement_general": "Gathering, the reunion of beings and energies around a common center. A time favorable to the union of forces, to great assemblies, to shared causes. But any gathering needs a clear, sincere center so as not to degenerate into confusion.",
+      "themes": {
+        "amour": "A time of reunion and deep rapprochement. Hearts gather around a sincere feeling; a moment favorable to commitment.",
+        "finance": "A moment favorable to gathering resources and forces around a shared project. Union is strength, provided the goal is clear.",
+        "sante": "Gathering your strength and your circle around your well-being. Don't stay isolated; collective support strengthens you.",
+        "spirituel": "Gathering around what has meaning, joining a community of the heart. Spiritual union around a sincere center elevates.",
+        "famille": "A time of reunion and warm, unifying family gathering. These reunions around shared values deeply strengthen bonds."
+      },
+      "traits": {
+        "1": "Sincerity that doesn't last; sometimes gathering, sometimes confusion; if you call out, a handshake is enough to find laughter again; don't worry, move forward without error. An initial hesitation that sincerity and a call for help dispel.",
+        "2": "Letting yourself be drawn brings good fortune, no error; sincerity makes even a small offering worthwhile. Joining the gathering wholeheartedly, with even modest sincerity.",
+        "3": "Gathering amid sighs; nothing is favorable; going brings no error, slight humiliation. Feeling excluded from the group; seeking union elsewhere, with slight discomfort.",
+        "4": "Great good fortune, no error. Gathering others in the service of something greater than yourself, without ulterior motive.",
+        "5": "Gathering around a position; no error; but those not yet sincerely won over... lasting constancy makes regret disappear. Gathering through official position, gradually winning hearts through constancy.",
+        "6": "Lamentations and sighs, floods of tears; no error. A sincere distress that, in expressing itself, ultimately opens the way to union and is not a fault."
+      }
+    },
+    {
+      "numero": 46,
+      "nom": "Pushing Upward",
+      "nom_chinois": "Shēng",
+      "trigramme_haut": "Earth",
+      "trigramme_bas": "Wind",
+      "image": "Within the earth wood grows: image of pushing upward. Thus the noble one, with attentive virtue, accumulates the small to arrive at the great and the high.",
+      "jugement_general": "A gradual, steady ascent, like a tree that grows slowly but surely upward. Success comes from constant effort, without jolts. A time favorable to progressing toward your goals, provided you advance step by step, without rushing.",
+      "themes": {
+        "amour": "A relationship that grows gradually, rising gently toward greater depth. Patience and constancy in small steps bear fruit.",
+        "finance": "A steady, promising progression. Advance step by step toward your goals; constant, patient effort leads to elevation.",
+        "sante": "A gradual, lasting improvement. Like the tree that grows, your well-being builds patiently, gesture after gesture.",
+        "spirituel": "A gradual inner elevation. The patient accumulation of small spiritual efforts leads, over time, to a great height of soul.",
+        "famille": "A harmonious, steady growth of family bonds. Constancy in small attentions gradually elevates the whole family."
+      },
+      "traits": {
+        "1": "Pushing upward welcomed with confidence; great good fortune. A start supported by others' trust promises a beautiful ascent.",
+        "2": "If one is sincere, even a small offering is accepted; no error. Authentic sincerity matters more than the scale of the means.",
+        "3": "One climbs toward an empty city. An ascent without resistance, almost too easy; move forward without asking false questions.",
+        "4": "The king introduces him at the sacred mountain; good fortune, no error. Reaching an elevated position in accord with what is sacred and right.",
+        "5": "Perseverance brings good fortune; one climbs the steps. Progressing steadily, step by step, without skipping stages, brings success.",
+        "6": "Pushing upward in the dark; it's beneficial to persevere without letting up. At the summit, no longer pushing blindly; it's time for vigilant constancy, not raw ambition."
+      }
+    },
+    {
+      "numero": 47,
+      "nom": "Oppression",
+      "nom_chinois": "Kùn",
+      "trigramme_haut": "Lake",
+      "trigramme_bas": "Water",
+      "image": "The lake without water: image of oppression. Thus the noble one stakes their life to follow their will.",
+      "jugement_general": "Exhaustion, oppression, a time of adversity where energy and resources seem to run dry. But it's precisely in hardship that the true strength of character is revealed. Staying true to yourself and keeping your inner serenity, even without being heard, is here the way of the great man.",
+      "themes": {
+        "amour": "A trying period where the relationship seems dried up, where you feel misunderstood. Keeping your dignity and inner faith, without pouring out reproaches.",
+        "finance": "A time of restriction and lack. The ordeal tests your resilience; stay true to your values and be patient, for this trough will pass.",
+        "sante": "A period of exhaustion where strength is lacking. Take care of yourself, don't push relentlessly, and keep faith: this difficult phase is temporary. (Sensitive topic: if you're going through a personally difficult time, don't hesitate to talk to a loved one or a professional.)",
+        "spirituel": "The trial of inner dryness, the crossing of the desert. It's in this stripping away that true faith is forged. Staying faithful without being seen.",
+        "famille": "A time of trial where support seems absent. Keeping your serenity and dignity, without reproach, preserves the essential until the turnaround."
+      },
+      "traits": {
+        "1": "One sits oppressed under a dead tree, sinking into a dark valley; for three years one sees nothing. Letting yourself sink into discouragement prolongs the darkness.",
+        "2": "Oppressed while eating and drinking; the royal insignia arrive; beneficial to offer a sacrifice; leaving brings misfortune, no error. Even in apparent ease, an inner oppression; sincere patience is eventually recognized.",
+        "3": "Oppressed by the stone, leaning on thorns; he enters his house and doesn't see his wife; misfortune. Persisting on supports that hurt and neglecting the essential leads to misfortune.",
+        "4": "He comes very slowly, oppressed in a golden carriage; humiliation, but a happy end. Help that's delayed by material hindrances, but that finally arrives.",
+        "5": "Nose and feet cut off; oppressed by the man in purple knee-bands; joy comes slowly; it's beneficial to offer sacrifices. A severe ordeal crossed with faith eventually resolves itself little by little.",
+        "6": "Oppressed by vines, on unstable ground; if one tells oneself that movement brings regret and one repents, then moving forward brings good fortune. Recognizing that you're a prisoner of your own hesitations, finally deciding to move, brings liberation."
+      }
+    },
+    {
+      "numero": 48,
+      "nom": "The Well",
+      "nom_chinois": "Jǐng",
+      "trigramme_haut": "Water",
+      "trigramme_bas": "Wind",
+      "image": "Water above wood: image of the well. Thus the noble one encourages the people to work and urges them to help one another.",
+      "jugement_general": "The well, an inexhaustible source that nourishes all who come to draw from it. Cities change, but the well remains: image of what is essential and permanent. True nourishment, spiritual and material, is always available; one still has to go draw it and tend the source.",
+      "themes": {
+        "amour": "A deep, lasting source of love, provided you go draw from it and tend it. What truly nourishes the relationship is permanent and accessible.",
+        "finance": "The fundamental resources are there, like a well; one still has to make use of them and maintain them. Don't neglect what is your lasting source.",
+        "sante": "Your deep vitality is an inexhaustible source, provided you draw from it and maintain it. Take care of your fundamentals.",
+        "spirituel": "The inner source, the well of the soul, is always there, inexhaustible. One must learn to descend into it and draw up its living water.",
+        "famille": "The family as a shared nourishing well, a permanent resource for all. Tending this source and drawing from it together maintains its richness."
+      },
+      "traits": {
+        "1": "One doesn't drink the mud of the well; no animal comes to an old well. What is neglected and left abandoned loses all nourishing value.",
+        "2": "At the bottom of the well one only catches fish; the jug is broken and leaks. A potential wasted through lack of care and maintenance.",
+        "3": "The well is cleaned but no one drinks from it; the heart is grieved, for one could draw from it; if the king were clear-sighted, all would receive its benefit. A precious resource restored but ignored; the sadness of good unrecognized.",
+        "4": "The well is being lined with stone; no error. Taking the time to repair and strengthen the source before benefiting from it.",
+        "5": "The well has clear, cool water that one drinks. The source is pure and nourishing, offering its benefits to whoever comes to draw from it.",
+        "6": "One draws from the well without hindrance; in complete sincerity, supreme good fortune. A source accessible to all, without reserve: inexhaustible generosity is the highest fortune."
+      }
+    },
+    {
+      "numero": 49,
+      "nom": "Revolution",
+      "nom_chinois": "Gé",
+      "trigramme_haut": "Lake",
+      "trigramme_bas": "Fire",
+      "image": "In the lake there is fire: image of revolution. Thus the noble one puts order into the calendar and clarifies the times and seasons.",
+      "jugement_general": "Radical change, molting, deep transformation — like skin renewing itself. A necessary upheaval, but one that only succeeds if it comes at the right moment and for just reasons. Trust is only established once the change is accomplished and justified.",
+      "themes": {
+        "amour": "A deep transformation of the relationship, a change of cycle. If it comes at the right moment and for good reasons, this molting is liberating.",
+        "finance": "A radical change is called for or looms ahead. Make sure it comes at the right time and for just reasons before overturning everything.",
+        "sante": "A deep renewal, a change of lifestyle. The transformation is beneficial if it has matured and is carried out at the right moment.",
+        "spirituel": "An inner molting, a deep transformation of being. Like the snake that sheds its skin, letting the old die so as to be reborn.",
+        "famille": "An important change in family dynamics. Well conducted and justified, this renewal can cleanse and regenerate bonds."
+      },
+      "traits": {
+        "1": "Wrapped in the hide of a yellow cow. At the beginning, do not act; consolidate your position before any change.",
+        "2": "When the day comes, then one can make the revolution; undertaking brings good fortune, no error. When the moment is ripe, act resolutely for change.",
+        "3": "Undertaking brings misfortune; perseverance in danger; when words of change come back three times, one can trust them. Neither haste nor stubbornness; change must be carefully weighed and confirmed.",
+        "4": "Regret disappears; men have trust; changing the established order brings good fortune. A change founded on sincere trust and the right moment succeeds.",
+        "5": "The great man changes like the tiger; even before the oracle, he has trust. A transformation so clear and striking that it naturally wins over support.",
+        "6": "The noble one changes like the panther; the small man just changes his face; undertaking brings misfortune; remaining firm brings good fortune. After the great change, being content with a surface adjustment and stabilizing, without overdoing it."
+      }
+    },
+    {
+      "numero": 50,
+      "nom": "The Cauldron",
+      "nom_chinois": "Dǐng",
+      "trigramme_haut": "Fire",
+      "trigramme_bas": "Wind",
+      "image": "Above wood, fire: image of the cauldron. Thus the noble one consolidates their destiny by making their position upright.",
+      "jugement_general": "The sacred cauldron, which transforms raw food into refined nourishment: image of culture, refinement, and spiritual nourishment. A time of great success, favorable to nourishing and elevating, to transforming raw matter into something noble and nourishing.",
+      "themes": {
+        "amour": "A relationship that nourishes and elevates, transforms and refines those in it. A favorable time when love becomes a source of mutual growth.",
+        "finance": "A time favorable to the transformation and refinement of your resources. What is raw can become precious; cultivate and nourish your projects.",
+        "sante": "Good nourishment, in the noble sense: what transforms and elevates you. A favorable time to refine your way of life.",
+        "spirituel": "The alchemical cauldron of inner transformation. A time favorable to refining your being, to transforming the raw into spiritual gold.",
+        "famille": "The family as a nourishing cauldron that transforms and elevates each member. A favorable time to cultivate and refine shared bonds and values."
+      },
+      "traits": {
+        "1": "A cauldron with overturned feet; beneficial to remove the bad; one takes a concubine for one's son; no error. Overturning to empty out the old and make room for the good is sometimes necessary at the start.",
+        "2": "There is food in the cauldron; my companions are envious, but cannot harm me; good fortune. A real wealth that, well guarded, resists the envy of others.",
+        "3": "The handle of the cauldron is changed, one is hindered in one's progress; the pheasant's fat is not eaten; rain is coming, regret fades, good fortune in the end. A temporarily unused talent that ends up being recognized and employed.",
+        "4": "The cauldron's feet break, the prince's meal is spilled, his person soiled; misfortune. A responsibility too heavy for fragile supports leads to failure and shame.",
+        "5": "The cauldron has yellow handles, golden rings; perseverance is beneficial. A fair and solid position, combining inner worth and openness, brings success.",
+        "6": "The cauldron has jade rings; great good fortune, everything is favorable. The highest success, combining firmness and gentleness, nobility and accessibility."
+      }
+    },
+    {
+      "numero": 51,
+      "nom": "The Arousing, Thunder",
+      "nom_chinois": "Zhèn",
+      "trigramme_haut": "Thunder",
+      "trigramme_bas": "Thunder",
+      "image": "Repeated thunder: image of shock. Thus the noble one, in fear and trembling, sets their life in order and examines themselves.",
+      "jugement_general": "Shock, sudden upheaval, like the thunderclap that makes everything tremble. An abrupt event that shakes and awakens. One who keeps their inner calm amid the commotion, who doesn't drop the sacrificial spoon, comes through the ordeal and emerges stronger.",
+      "themes": {
+        "amour": "A shock, a sudden event that shakes the relationship. Keeping your inner calm amid the commotion allows you to come out of it more lucid and stronger.",
+        "finance": "A sudden, unforeseen upheaval. Don't panic; the one who keeps their composure in the shock gets through the jolt without losing everything.",
+        "sante": "A jolt, an alarm signal from the body that wakes you up. Take it seriously as an invitation to reconsider your balance, without giving in to panic.",
+        "spirituel": "A salutary shock that awakens and pushes toward self-examination. Keeping inner peace at the heart of upheaval is the mark of a solid soul.",
+        "famille": "A sudden event that shakes the family. Keeping your calm and your center amid the commotion helps reassure everyone and get through the ordeal together."
+      },
+      "traits": {
+        "1": "The shock arrives: oh, oh! then laughing words: ha, ha! good fortune. The initial fright followed by relief; the ordeal ultimately brings joy and caution.",
+        "2": "The shock comes with danger; one loses great possessions and must climb nine hills; don't chase after them, in seven days they'll be found again. Facing a sudden loss, don't insist on pursuing it; what is right returns in its own time.",
+        "3": "The shock leaves one stunned; if the shock pushes one to act, no misfortune. Letting yourself be shaken to the point of finally acting helps avoid the worst.",
+        "4": "The shock gets stuck in the mud. Letting yourself be paralyzed and mired by the shock, unable to react.",
+        "5": "The shock comes and goes, danger; but nothing is lost, there are things to do. Repeated jolts, but by keeping your center, you preserve the essential and stay the course.",
+        "6": "The shock brings ruin and a terrified look; undertaking brings misfortune; if the shock reaches the neighbor and not oneself, no error; those close by murmur. Staying lucid when the shock strikes around you, learning the lesson before being struck yourself."
+      }
+    },
+    {
+      "numero": 52,
+      "nom": "Keeping Still, Mountain",
+      "nom_chinois": "Gèn",
+      "trigramme_haut": "Mountain",
+      "trigramme_bas": "Mountain",
+      "image": "Mountains, one upon the other: image of stillness. Thus the noble one does not let their thoughts go beyond their situation.",
+      "jugement_general": "Stopping, resting, stillness — like the stable, silent mountain. A time to stop, to become calm inside, to meditate. Knowing how to stop at the right moment, calming the agitation of the mind, finding rest of the heart. True rest is born of inner quiet.",
+      "themes": {
+        "amour": "A time of pause and stepping back in the relationship. Calm and stillness allow you to find serenity again and see clearly, without agitation.",
+        "finance": "A time to pause and consolidate rather than act. Knowing how to stand still, not rushing anything, letting things rest, is wise here.",
+        "sante": "The rest, the stopping, the calm that body and mind need. Meditation and stillness regenerate deeply.",
+        "spirituel": "Meditative quiet, the stillness of the inner mountain. Knowing how to stop the flow of thoughts to find the deep peace of the heart.",
+        "famille": "A time of calm and peace at home. Letting tensions rest, cultivating tranquility, allows harmony to restore itself on its own."
+      },
+      "traits": {
+        "1": "Keeping the toes still; no error; beneficial to persevere constantly. Stopping right at the very start, before committing, preserves from error.",
+        "2": "Keeping the calves still; he cannot save the one he follows; his heart is not content. Having to stop when one would want to help another; frustration but necessity.",
+        "3": "Keeping the loins still, stiffening the back; danger, the heart suffocates. A forced, rigid stillness, against nature, creates painful tension.",
+        "4": "Keeping the trunk still; no error. Achieving mastery and rest of one's whole being, in serenity.",
+        "5": "Keeping the jaws still; words have order, regret disappears. Mastering your words, saying only what is right, dispels regrets.",
+        "6": "Generous and accomplished stillness; good fortune. Perfect rest, inner peace fully attained, brings happiness."
+      }
+    },
+    {
+      "numero": 53,
+      "nom": "Development",
+      "nom_chinois": "Jiàn",
+      "trigramme_haut": "Wind",
+      "trigramme_bas": "Mountain",
+      "image": "On the mountain, a tree: image of gradual development. Thus the noble one abides in virtue and wisdom to improve the ways of the world.",
+      "jugement_general": "Slow, gradual development, like the tree that grows on the mountain or the steady flight of wild geese. True, lasting progress happens by stages, without skipping steps. It's especially favorable to unions and commitments built to last.",
+      "themes": {
+        "amour": "A relationship that builds gradually, step by step, over time. This is a very favorable time for well-matured, solid commitments.",
+        "finance": "Slow but sure growth. Lasting success builds through patient stages; resist the temptation of shortcuts.",
+        "sante": "A gradual, solid improvement. Lasting health progress happens step by step, in patience and constancy.",
+        "spirituel": "The spiritual path unfolds in gradual stages, without haste. Each level prepares the next; honor the natural rhythm of growth.",
+        "famille": "Family bonds develop and strengthen gradually. Patient, step-by-step construction creates lasting harmony."
+      },
+      "traits": {
+        "1": "Wild geese gradually approach the shore; the young is in danger, people murmur, no error. Cautious beginnings exposed to criticism, but no real fault.",
+        "2": "The geese gradually approach the rock; they eat and drink in peace; good fortune. Reaching a safe place and sharing tranquility with your own.",
+        "3": "The geese gradually approach the plateau; the man leaves and doesn't return, the woman conceives but doesn't raise the child; misfortune; beneficial to repel bandits. Venturing too far too fast breaks the harmony; you must protect yourself.",
+        "4": "The geese gradually approach the tree; perhaps they find a flat branch; no error. Finding a temporary but safe support in an uncomfortable position.",
+        "5": "The geese gradually approach the summit; for three years the woman has no child, but in the end nothing can prevent it; good fortune. Despite prolonged obstacles and misunderstandings, the right union ends up being fulfilled.",
+        "6": "The geese gradually approach the heights of heaven; their feathers can be used for the sacred dance; good fortune. The highest accomplishment, whose example becomes an inspiration to all."
+      }
+    },
+    {
+      "numero": 54,
+      "nom": "The Marrying Maiden",
+      "nom_chinois": "Guī Mèi",
+      "trigramme_haut": "Thunder",
+      "trigramme_bas": "Lake",
+      "image": "Thunder above the lake: image of the marrying maiden. Thus the noble one understands the transient in the light of the eternal end.",
+      "jugement_general": "A union or a situation where one occupies a subordinate, dependent, or irregular position. Undertaking things in this spirit can bring misfortune. This is a reminder to stay clear-eyed: to understand your true place in a relationship, not to indulge in illusions, and to see beyond the transient.",
+      "themes": {
+        "amour": "A relationship where your position may be unbalanced or dependent. Stay clear-eyed about the real dynamics, without indulging in illusions.",
+        "finance": "A subordinate or irregular situation. Don't commit blindly; understand your true position before acting, without illusions.",
+        "sante": "Lucidly accepting a transient situation, without expecting more from it than it can give. Clear-sightedness about your limits protects you.",
+        "spirituel": "Understanding the transient in the light of the eternal. Seeing beyond the appearances of a situation, accepting your rightful place with wisdom.",
+        "famille": "An unbalanced or delicate family dynamic. Clear-sightedness about the real roles, without illusion or idealization, helps you find the right attitude."
+      },
+      "traits": {
+        "1": "The marrying maiden as a companion; the lame can walk; undertaking brings good fortune. Humbly accepting a modest position and doing it well brings happiness.",
+        "2": "The one-eyed can see; beneficial for the perseverance of a solitary man. Staying faithful and steady even in a limited or disappointing situation.",
+        "3": "The marrying maiden as a servant; she marries as a concubine. Accepting an unworthy position out of impatience; better to wait for a fairer place.",
+        "4": "The marrying maiden goes past the term; a late marriage comes in its own time. Not rushing; waiting for the right union, even if it's delayed, is wise.",
+        "5": "The sovereign gives his daughter in marriage; the princess's adornments are not as beautiful as those of her attendant; the moon nearly full; good fortune. True inner nobility surpasses finery; sincere modesty is the finest adornment.",
+        "6": "The woman holds the basket, but there's no fruit in it; the man cuts the sheep, but there's no blood; nothing is favorable. A union or commitment empty of real substance leads nowhere."
+      }
+    },
+    {
+      "numero": 55,
+      "nom": "Abundance",
+      "nom_chinois": "Fēng",
+      "trigramme_haut": "Thunder",
+      "trigramme_bas": "Fire",
+      "image": "Thunder and lightning arrive together: image of abundance. Thus the noble one settles lawsuits and carries out punishments.",
+      "jugement_general": "Abundance, fullness, the culminating point where everything is at its peak. A time of great wealth and radiance, like the sun at noon. But the peak already contains decline: one must know how to enjoy this fullness without sadness, while knowing it's fleeting.",
+      "themes": {
+        "amour": "A time of fullness and emotional abundance, a peak in the relationship. Savor this moment of radiance fully without anxiety about the future.",
+        "finance": "A period of abundance and success at its height. Enjoy it wisely, while knowing that every peak one day calls for an adjustment.",
+        "sante": "Full vitality, a peak of energy. Enjoy this fullness while maintaining it, for the cycles of life are ever-moving.",
+        "spirituel": "A moment of fullness and inner illumination. Living this peak fully with gratitude, without clinging to it, for everything is movement.",
+        "famille": "A time of family happiness at its height, an abundance of shared joy. Savor these precious moments without tarnishing them with worry."
+      },
+      "traits": {
+        "1": "One meets the master who suits us; though it's between equals, no error; going has value. A meeting between equals at the start of abundance, a source of fulfillment.",
+        "2": "The abundance is so great that the bushel veils the sun at noon; if one advances, one meets with suspicion and hatred; sincerity opens it; good fortune. When darkness veils clarity, inner sincerity eventually shines through.",
+        "3": "The abundance is such that light rain veils the sun; one sees the small stars at noon; the right arm breaks; no error. An occultation so complete that one is paralyzed; not a fault, but a time of powerlessness.",
+        "4": "The abundance is so great that the bushel veils the sun at noon; one meets the master who resembles us; good fortune. After the darkness, finding again a soul who shares their light brings back happiness.",
+        "5": "Lines come, blessing and glory arrive; good fortune. Surrounding yourself with people of worth and listening to wise counsel attracts recognition.",
+        "6": "His house is in abundance, but he shuts his family away; he looks through the door, all is quiet, no one there; for three years he sees no one; misfortune. Isolating yourself proudly in your abundance leads to solitude and decline."
+      }
+    },
+    {
+      "numero": 56,
+      "nom": "The Wanderer",
+      "nom_chinois": "Lǚ",
+      "trigramme_haut": "Fire",
+      "trigramme_bas": "Mountain",
+      "image": "Fire on the mountain: image of the wanderer. Thus the noble one is clear and cautious in applying punishments and doesn't let lawsuits drag on.",
+      "jugement_general": "The wanderer, the stranger passing through, who is at home nowhere and must move forward with caution and reserve. In small matters, success is possible. The wisdom of the wanderer is to stay modest, courteous, not to become attached, and to keep their inner dignity far from their usual bearings.",
+      "themes": {
+        "amour": "A situation of passage, a transient relationship or one far from your usual bearings. Move forward with caution and without becoming attached too quickly.",
+        "finance": "An unstable or transitional situation, outside your usual ground. Stay cautious and modest; don't commit as if you were on familiar territory.",
+        "sante": "A period of transition, of displacement, outside your usual bearings. Take care of yourself with caution in this shifting context.",
+        "spirituel": "The inner wanderer, the soul passing through on earth. Cultivating detachment, modesty, and inner dignity far from any anchor.",
+        "famille": "A situation where you feel like you're passing through or a stranger, perhaps far from your loved ones. Keep your dignity and courtesy while seeking secure support."
+      },
+      "traits": {
+        "1": "If the wanderer occupies himself with petty trifles, he draws misfortune upon himself. Losing yourself in petty concerns degrades the wanderer's position.",
+        "2": "The wanderer arrives at an inn, he has his belongings with him, he wins the loyalty of a young servant. Finding shelter, keeping your resources, and gaining a faithful support.",
+        "3": "The wanderer's inn burns down, he loses his servant's loyalty; perseverance, danger. Carelessness or harshness costs one their refuge and their support.",
+        "4": "The wanderer finds shelter, his belongings and an axe; but his heart isn't content. Finding what's needed to survive and defend oneself, without yet feeling at home.",
+        "5": "He shoots down a pheasant; an arrow is lost, but ultimately this brings praise and a position. An effort that first seems wasted eventually brings recognition and honor.",
+        "6": "The bird burns its nest; the wanderer laughs first, then moans and cries; he loses his cow carelessly; misfortune. The wanderer's carelessness and arrogance, neglecting their shelter, lead to loss."
+      }
+    },
+    {
+      "numero": 57,
+      "nom": "The Gentle, Wind",
+      "nom_chinois": "Xùn",
+      "trigramme_haut": "Wind",
+      "trigramme_bas": "Wind",
+      "image": "Winds that follow one another: image of gentle penetration. Thus the noble one spreads their orders and has their affairs carried out.",
+      "jugement_general": "Gentle penetration, subtle and persistent influence, like the wind that penetrates everywhere without violence. Success comes not through force, but through a gentle, constant, discreet action that ends up permeating everything. Constancy in gentleness is more powerful than constraint.",
+      "themes": {
+        "amour": "A gentle, persistent influence draws hearts closer. Constant, discreet tenderness penetrates more deeply than grand gestures.",
+        "finance": "Success through gentle, constant, persistent action rather than force. Patient, discreet influence eventually bears fruit.",
+        "sante": "Gentle, gradual changes, applied with constancy, transform lastingly. Subtle regularity is worth more than brutal efforts.",
+        "spirituel": "The subtle influence of the breath, the gentle penetration of wisdom. Inner transformation happens through patient permeation, not force.",
+        "famille": "A gentle, persistent influence soothes and harmonizes the family. Acting with constancy and delicacy penetrates hearts more surely than authority."
+      },
+      "traits": {
+        "1": "Advancing and retreating; beneficial the perseverance of a warrior. Excessive hesitation calls for firm, disciplined resolve.",
+        "2": "Penetration under the bed; priests and magicians are employed in great numbers; good fortune, no error. Flushing out hidden influences with the help needed, without excess.",
+        "3": "Repeated penetration; humiliation. Endlessly reflecting without ever deciding becomes sterile and humiliating.",
+        "4": "Regret disappears; in the hunt one catches three kinds of game. A right, well-conducted action brings a triple success without regret.",
+        "5": "Perseverance brings good fortune, regret disappears; nothing that isn't favorable; not a good beginning, but a good end; three days before the change, three days after the change; good fortune. A well-prepared, well-followed change, despite difficult beginnings, succeeds.",
+        "6": "Penetration under the bed; he loses his belongings and his axe; perseverance, misfortune. Pushing investigation or submission too far causes one to lose one's means and strength."
+      }
+    },
+    {
+      "numero": 58,
+      "nom": "The Joyous, Lake",
+      "nom_chinois": "Duì",
+      "trigramme_haut": "Lake",
+      "trigramme_bas": "Lake",
+      "image": "Lakes resting one upon the other: image of the joyous. Thus the noble one gathers with friends to discuss and practice together.",
+      "jugement_general": "Joy, contentment, happy exchange — like two lakes that nourish each other. True joy comes from within and is shared. It brings success when accompanied by inner firmness and sincerity. Joy shared with uprightness makes you strong and encourages you to overcome difficulties.",
+      "themes": {
+        "amour": "A time of shared joy and happy exchanges in the relationship. Sincere gaiety and complicity deeply nourish the bond.",
+        "finance": "A favorable period where the pleasure of collaborating and exchanging bears fruit. Sincere joy at work attracts success.",
+        "sante": "Joy and inner contentment nourish health. Cultivating healthy pleasure, happy exchanges, revitalizes body and mind.",
+        "spirituel": "Deep joy that comes from within, serene and radiant. Joyful sharing with other sincere souls elevates and strengthens.",
+        "famille": "A time of joy and family closeness. Shared happy moments, warm exchanges, strengthen and delight bonds."
+      },
+      "traits": {
+        "1": "Serene joy; good fortune. A calm joy without dependence, a source of true happiness.",
+        "2": "Sincere joy; good fortune, regret disappears. Joy founded on inner sincerity dissipates all regret.",
+        "3": "Joy that comes from outside; misfortune. Seeking your happiness in outside distractions and superficial pleasures disappoints.",
+        "4": "Joy weighed and not yet peaceful; after reflection comes joy. After choosing between higher and lower pleasures, one finds true joy.",
+        "5": "Sincerity toward what disintegrates; danger. Staying clear-eyed in the face of seductive but corrupting influences that quietly undermine.",
+        "6": "Seductive joy. Joy that only seeks to seduce and draw others in, without substance, remains hollow."
+      }
+    },
+    {
+      "numero": 59,
+      "nom": "Dispersion",
+      "nom_chinois": "Huàn",
+      "trigramme_haut": "Wind",
+      "trigramme_bas": "Water",
+      "image": "Wind blows above water: image of dispersion. Thus the ancient kings offered sacrifices to the Lord and built temples.",
+      "jugement_general": "Dispersion, the scattering of what had hardened and frozen — like the wind that melts ice or disperses mist. A time to untie rigidities, melt blockages, reunite what was divided. What blocked the heart dissolves; selfishness fades in favor of a broader momentum.",
+      "themes": {
+        "amour": "A time when rigidities and grudges dissolve. The heart's blockages melt, allowing what was divided to reunite and fluidity to return.",
+        "finance": "A necessary dispersal, or the dissolution of old blockages. What was frozen unties itself; it's a time to make things fluid and reorganize.",
+        "sante": "The dissolution of accumulated tensions and blockages. Letting tightness melt away, finding fluidity again, favors healing.",
+        "spirituel": "The dissolution of the rigid ego, the dispersal of illusions that separate. Opening up to a momentum larger than yourself dissolves inner barriers.",
+        "famille": "A time when family rigidities and misunderstandings dissolve. Hardened hearts open up, allowing what was separated to reunite."
+      },
+      "traits": {
+        "1": "He brings help with the strength of a horse; good fortune. Acting quickly and vigorously to dissolve a budding misunderstanding.",
+        "2": "In dispersion, he runs to his support; regret disappears. At the moment of scattering, drawing closer to what sustains dissipates regrets.",
+        "3": "He dissolves his own self; no regret. Ridding yourself of selfishness, surpassing yourself, leaves no regret.",
+        "4": "He dissolves his ties with his group; supreme good fortune; dispersion leads to accumulation; something ordinary people don't think of. Detaching from narrow clans for a broader union: a rare and fruitful wisdom.",
+        "5": "The dispersion: great cries as in sweating; dissolving, a king remains without error. A right and strong word that gathers back together what was scattering.",
+        "6": "He dissolves his blood, moves away, keeps his distance, goes out; no error. Moving away from danger and from what hurts, keeping your distance, preserves from harm."
+      }
+    },
+    {
+      "numero": 60,
+      "nom": "Limitation",
+      "nom_chinois": "Jié",
+      "trigramme_haut": "Water",
+      "trigramme_bas": "Lake",
+      "image": "Above the lake there is water: image of limitation. Thus the noble one creates number and measure and examines what virtue and right conduct are.",
+      "jugement_general": "Limitation, the right measure, the boundaries that structure and give shape — like the banks that contain the lake. Just limits bring success; but a limitation that's too harsh and bitter cannot last. Wisdom lies in finding the balanced measure, neither excess nor excessive restriction.",
+      "themes": {
+        "amour": "The importance of fair, healthy limits in the relationship. Balanced boundaries structure and protect the bond; but excessive rigidity smothers it.",
+        "finance": "Discipline and measure in management. Reasonable limits bring order and security; but excessive restriction becomes counterproductive.",
+        "sante": "Moderation and the right measure in life habits. Healthy limits protect, but overly severe restriction is untenable and harmful.",
+        "spirituel": "Right discipline as the framework of inner life. Chosen limits structure the soul; but excessive, bitter asceticism dries it out.",
+        "famille": "Fair limits and rules harmoniously structure family life. The right measure protects, without falling into a stifling rigidity."
+      },
+      "traits": {
+        "1": "Not going out of one's courtyard and enclosure; no error. Knowing how to stay within your limits at the right time, without forcing the passage.",
+        "2": "Not going out of the gate and courtyard; misfortune. Conversely, hesitating and staying shut in when one should act causes one to miss the opportunity.",
+        "3": "One who knows no limits will have to lament it; no error. The absence of measure leads to regret; acknowledging it spares one from blaming others.",
+        "4": "Content, accepted limitation; success. Serenely accepting fair limits, in accord with the nature of things, brings success.",
+        "5": "Gentle limitation; good fortune; going brings esteem. Practicing the right measure yourself with gentleness inspires and attracts respect.",
+        "6": "Bitter limitation; perseverance, misfortune; but regret disappears. A discipline too harsh cannot last, but acknowledging its excess avoids the worst."
+      }
+    },
+    {
+      "numero": 61,
+      "nom": "Inner Truth",
+      "nom_chinois": "Zhōng Fú",
+      "trigramme_haut": "Wind",
+      "trigramme_bas": "Lake",
+      "image": "Above the lake there is wind: image of inner truth. Thus the noble one examines criminal cases to defer executions.",
+      "jugement_general": "Inner truth, the deep sincerity of the heart that touches and transforms, even the most stubborn beings. When sincerity is total, it radiates and influences even pigs and fish. It's the force that allows one to cross the great waters: the trust born of a true heart.",
+      "themes": {
+        "amour": "The deep sincerity of the heart at the center of the relationship. A true, mutual trust touches and transforms; it's the most solid foundation.",
+        "finance": "Authentic sincerity and trust in business dealings. It's by acting from a true heart that one inspires trust and succeeds.",
+        "sante": "Sincerely and deeply listening to yourself, to your inner truth. Being honest with yourself about your real needs is a source of healing.",
+        "spirituel": "Inner truth, the absolute sincerity of the heart, is the royal path here. This deep authenticity radiates and transforms everything around it.",
+        "famille": "Deep sincerity at the heart of family bonds. True trust, without mask or calculation, touches hearts and lastingly unites the family."
+      },
+      "traits": {
+        "1": "Being ready brings good fortune; if there are ulterior motives, one loses inner peace. Quiet sincerity is enough; hidden calculations trouble the heart.",
+        "2": "A crane singing in the shade, its young answers it; I have a good cup, I share it with you. The secret resonance of sincere hearts that call and answer each other from a distance.",
+        "3": "He finds a companion; sometimes he beats the drum, sometimes he stops, sometimes he cries, sometimes he sings. A joy dependent on another, following the ups and downs of the relationship.",
+        "4": "The moon nearly full; the team horse breaks free; no error. Detaching from partisan attachments to turn toward what is higher.",
+        "5": "He possesses the truth that binds; no error. A radiant sincerity that connects hearts and maintains union.",
+        "6": "The rooster's crow rising to heaven; perseverance, misfortune. Wanting fine words to rise higher than inner reality allows rings hollow."
+      }
+    },
+    {
+      "numero": 62,
+      "nom": "Preponderance of the Small",
+      "nom_chinois": "Xiǎo Guò",
+      "trigramme_haut": "Thunder",
+      "trigramme_bas": "Mountain",
+      "image": "On the mountain, thunder: image of the preponderance of the small. Thus the noble one, in their conduct, gives preponderance to respect; in mourning, to grief; in spending, to economy.",
+      "jugement_general": "The preponderance of the small: a time to be content with small things and modest adjustments, not grand ambitions. Like the bird that mustn't fly too high, wisdom lies in staying humble, attentive to detail, and not aiming beyond your means.",
+      "themes": {
+        "amour": "A time for small attentions rather than grand gestures. Modesty, care for detail, and restraint suit better than oversized ambitions.",
+        "finance": "A time for economy, caution, and small steps, not great undertakings. Stay modest and attentive to detail to avoid setbacks.",
+        "sante": "Attention to the small adjustments of daily life rather than upheavals. Small, constant care makes all the difference here.",
+        "spirituel": "Humility and attention to small things are the path of the moment. Don't aim too high, but tend to the sincere detail of everyday inner life.",
+        "famille": "A time for small, attentive gestures and modesty. Great family ambitions are to be deferred; care for daily details comes first."
+      },
+      "traits": {
+        "1": "The bird flies and meets misfortune. Wanting to rise too high too fast, beyond your measure, attracts misfortune.",
+        "2": "She passes her grandfather and meets her grandmother; he doesn't reach his prince and meets the official; no error. Being rightly content with what is accessible, without aiming above.",
+        "3": "If he isn't extremely careful, someone could strike him from behind; misfortune. Neglecting caution in a time of weakness exposes to danger.",
+        "4": "No error; he meets him without surpassing him; going is dangerous, one must be on guard; do not act, be constantly persevering. Staying within the right measure without forcing, while keeping your vigilance.",
+        "5": "Dense clouds without rain coming from the western regions; the prince shoots and hits the one in the cave. A potential not yet fully realized; acting with precision on what's within reach.",
+        "6": "He surpasses him without meeting him; the flying bird moves away; misfortune, it is calamity and disaster. Excess and lack of measure, going too far beyond all bounds, lead to disaster."
+      }
+    },
+    {
+      "numero": 63,
+      "nom": "After Completion",
+      "nom_chinois": "Jì Jì",
+      "trigramme_haut": "Water",
+      "trigramme_bas": "Fire",
+      "image": "Water above fire: image of the state after completion. Thus the noble one reflects on misfortune and guards against it in advance.",
+      "jugement_general": "Completion, the finished work, the perfect order where everything is in its place. But this state of perfection is unstable: as soon as a peak is reached, decline looms. Success is present in small things, but one must remain vigilant, for after perfect order, disorder inevitably comes.",
+      "themes": {
+        "amour": "An accomplishment, a balance reached in the relationship. Savor this harmony while staying attentive, for every perfect balance needs tending.",
+        "finance": "A goal reached, an order established. But don't let your guard down: it's precisely at the peak that one must anticipate and prevent decline.",
+        "sante": "A balance found again, an accomplished well-being. Stay vigilant to maintain this state, for it requires constant upkeep so as not to unravel.",
+        "spirituel": "An inner accomplishment, an order reached. But the path never stops; staying vigilant and humble prevents falling back into disorder.",
+        "famille": "An accomplished family harmony, a balance reached. Savor it while staying attentive, for this precious order requires ongoing care to last."
+      },
+      "traits": {
+        "1": "He brakes his wheels, he wets his tail; no error. Knowing how to hold back your momentum right after success, out of caution, avoids error.",
+        "2": "The woman loses the curtain of her carriage; don't run after it, in seven days you'll find it again. Not panicking over a passing loss; what is right returns in its own time.",
+        "3": "The great ancestor chastises the land of demons; in three years he conquers it; small men must not be employed. Great undertakings require endurance and good collaborators, not mediocre people.",
+        "4": "Fine clothes become rags; be careful all day long. Even in success, keeping awareness of the fragility of things and staying alert.",
+        "5": "The neighbor to the east who kills an ox doesn't obtain as much real blessing as the neighbor to the west with his small offering; sincerity receives the blessing. Modest sincerity is worth more than heartless splendor.",
+        "6": "He has his head in the water; danger. Lingering and dwelling at the end of a completed cycle, without knowing how to move on, becomes perilous."
+      }
+    },
+    {
+      "numero": 64,
+      "nom": "Before Completion",
+      "nom_chinois": "Wèi Jì",
+      "trigramme_haut": "Fire",
+      "trigramme_bas": "Water",
+      "image": "Fire above water: image of the state before completion. Thus the noble one is careful in distinguishing things, so that each finds its place.",
+      "jugement_general": "Before completion: the transition, the moment just before order is established, when everything is still in the making. The last hexagram, it doesn't close but reopens: the end of a cycle is the threshold of a new one. Success is near, but the last step must be crossed with the caution of the old fox crossing the ice.",
+      "themes": {
+        "amour": "A relationship in the making, on the threshold of an accomplishment still to come. Everything is possible; cross this last step with care and discernment.",
+        "finance": "A project close to completion but not yet realized. Success is within reach; the last step requires caution and discernment to conclude well.",
+        "sante": "A transition, a well-being in the making but not yet established. You're on the right track; cross the last steps with attention and patience.",
+        "spirituel": "The threshold of a new cycle, the eternal renewal. Nothing is ever definitively finished; every ending opens a new beginning to approach with care.",
+        "famille": "A family harmony under construction, close but not yet complete. Cross the last steps with care; renewal is within reach."
+      },
+      "traits": {
+        "1": "He wets his tail; humiliation. Wanting to move forward too fast before being ready leads to an embarrassing setback.",
+        "2": "He brakes his wheels; perseverance brings good fortune. Knowing how to hold back your momentum and wait for the right moment brings success.",
+        "3": "Before completion, undertaking brings misfortune; beneficial to cross the great waters. The moment isn't yet ripe for decisive action, but one must prepare for the great crossing.",
+        "4": "Perseverance brings good fortune, regret disappears; a shock to chastise the land of demons; in three years, great rewards. A long, vigorous effort, carried out with constancy, ends up being greatly rewarded.",
+        "5": "Perseverance brings good fortune, no regret; the light of the noble one is true; good fortune. Clarity and sincerity at the moment of completion radiate and attract happiness.",
+        "6": "In full confidence one drinks wine; no error; but if one wets one's head, one loses this in truth. Sincerely celebrating success is right, but excess and immoderation spoil everything, even at the end."
+      }
+    }
+  ]
+}
