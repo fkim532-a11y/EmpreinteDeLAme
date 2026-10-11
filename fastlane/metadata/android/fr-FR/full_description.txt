@@ -16,7 +16,16 @@ Ton Archange Gardien selon ta date de naissance, et un tirage quotidien parmi 44
 Type, Stratégie, Autorité, Profil, et un schéma visuel du Bodygraph — avec des prédictions personnalisées (Porte du Jour, cycles de vie).
 
 🕐 HEURES MIROIRS
-42 heures miroirs, doubles, inversées et triples, avec leur signification.
+50 heures miroirs, doubles, inversées et triples, avec leur ange gardien et leur signification.
+
+💞 COMPATIBILITÉ
+Compare deux profils (numérologie et Human Design) et partage le résultat en PDF.
+
+📈 BIORYTHMES
+Tes cycles physique, émotionnel et intellectuel sur un graphique que tu parcours au doigt.
+
+🪞 MIROIR DE L'ÂME
+Une question et une énergie du jour selon ton Chemin de Vie.
 
 🧘 MÉDITATION
 Minuteur avec ambiance sonore pour un moment de calme.
