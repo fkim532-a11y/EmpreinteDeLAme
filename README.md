@@ -21,7 +21,7 @@ Android 7.0 (API 24) minimum.
 
 ## Licence
 
-Code sous licence [GPL-3.0](LICENSE). Sons d'ambiance sous CC0, sources dans
+Code sous licence [GPL-3.0](LICENSE) ou toute version ultérieure (GPL-3.0-or-later). Sons d'ambiance sous CC0, sources dans
 [CREDITS.md](CREDITS.md).
 
 ---
@@ -34,4 +34,4 @@ notifications, works offline: no data is sent anywhere.
 
 - Install from [Google Play](https://play.google.com/store/apps/details?id=com.francekim.empreintedelame); F-Droid coming soon.
 - Build with `./gradlew assembleRelease` (unsigned APK without `keystore.properties`). Android 7.0 (API 24) or later.
-- Code licensed under [GPL-3.0](LICENSE); ambient sounds under CC0, see [CREDITS.md](CREDITS.md).
+- Code licensed under [GPL-3.0](LICENSE) or any later version (GPL-3.0-or-later); ambient sounds under CC0, see [CREDITS.md](CREDITS.md).
