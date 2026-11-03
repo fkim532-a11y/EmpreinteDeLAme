@@ -27,6 +27,7 @@
     <string name="more_links_section">Autres applications</string>
     <string name="more_privacy_section">Confidentialité</string>
     <string name="more_privacy_label">Politique de confidentialité</string>
+    <string name="more_version">Version %1$s</string>
     <string name="language_fr">Français</string>
     <string name="language_en">English</string>
     <string name="donation_description">Empreinte de l\'Âme est entièrement gratuite. Si elle t\'apporte quelque chose, un don libre est toujours le bienvenu pour soutenir son développement.</string>

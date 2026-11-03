@@ -1,0 +1,2 @@
+• Application plus légère et plus rapide à installer
+• Le numéro de version s'affiche dans « À propos »

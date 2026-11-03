@@ -1,0 +1,2 @@
+• Lighter app, faster to install
+• The version number is now shown in "About"

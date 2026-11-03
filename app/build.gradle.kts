@@ -23,8 +23,8 @@ android {
         applicationId = "com.francekim.empreintedelame"
         minSdk = 24
         targetSdk = 36
-        versionCode = 7
-        versionName = "1.6"
+        versionCode = 8
+        versionName = "1.7"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
@@ -40,9 +40,13 @@ android {
 
     buildTypes {
         release {
-            optimization {
-                enable = false
-            }
+            // R8 : exigé par Play au-delà de 10 Mo de DEX (échéance février 2027)
+            isMinifyEnabled = true
+            isShrinkResources = true
+            proguardFiles(
+                getDefaultProguardFile("proguard-android-optimize.txt"),
+                "proguard-rules.pro"
+            )
             // Sans keystore.properties (compilation F-Droid), l'APK sort non signé
             signingConfig = if (keystoreProperties.isEmpty()) null
                             else signingConfigs.getByName("release")
@@ -50,6 +54,15 @@ android {
             vcsInfo {
                 include = false
             }
+        }
+        // Copie du release (R8 compris), signée avec la clé debug : s'installe
+        // à côté de la version Play pour tester sans effacer les données
+        create("r8test") {
+            initWith(getByName("release"))
+            applicationIdSuffix = ".r8test"
+            versionNameSuffix = "-r8test"
+            signingConfig = signingConfigs.getByName("debug")
+            matchingFallbacks += listOf("release")
         }
     }
     compileOptions {

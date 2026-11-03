@@ -133,6 +133,19 @@ fun MoreScreen(navController: NavController, languageVm: AppLanguageViewModel) {
                     label   = stringResource(R.string.more_privacy_label),
                     onClick = { context.startActivity(Intent(Intent.ACTION_VIEW, Uri.parse(PRIVACY_URL)).addFlags(Intent.FLAG_ACTIVITY_NEW_TASK)) }
                 )
+
+                Spacer(Modifier.height(40.dp))
+
+                Text(
+                    text      = stringResource(
+                        R.string.more_version,
+                        context.packageManager.getPackageInfo(context.packageName, 0).versionName ?: ""
+                    ),
+                    style     = MaterialTheme.typography.labelSmall,
+                    color     = BlancNacre.copy(alpha = 0.5f),
+                    textAlign = TextAlign.Center,
+                    modifier  = Modifier.fillMaxWidth()
+                )
             }
         }
     }
