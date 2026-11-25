@@ -1,0 +1,1 @@
+• The profile form and the note being typed are no longer cleared when the screen rotates

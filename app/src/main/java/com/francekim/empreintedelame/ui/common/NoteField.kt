@@ -23,6 +23,7 @@ import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
+import androidx.compose.runtime.saveable.rememberSaveable
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
@@ -39,7 +40,7 @@ import kotlinx.coroutines.delay
  * Zone de prise de note personnelle. Sauvegarde automatique quelques secondes après la frappe,
  * et bouton "Enregistrer" pour une confirmation immédiate et explicite.
  * `initialNote` change quand on regarde un tirage différent (nouveau tirage ou historique) :
- * le remember(initialNote) réinitialise alors le buffer local sur la bonne valeur.
+ * le rememberSaveable(initialNote) réinitialise alors le buffer local sur la bonne valeur.
  */
 @Composable
 fun NoteField(
@@ -49,7 +50,7 @@ fun NoteField(
     label: String = stringResource(R.string.note_field_label),
     placeholder: String = stringResource(R.string.note_field_placeholder)
 ) {
-    var text by remember(initialNote) { mutableStateOf(initialNote) }
+    var text by rememberSaveable(initialNote) { mutableStateOf(initialNote) }
     var justSaved by remember(initialNote) { mutableStateOf(false) }
 
     LaunchedEffect(text) {

@@ -15,6 +15,7 @@ import androidx.compose.foundation.text.KeyboardOptions
 import androidx.compose.foundation.verticalScroll
 import androidx.compose.material3.*
 import androidx.compose.runtime.*
+import androidx.compose.runtime.saveable.rememberSaveable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
@@ -287,16 +288,16 @@ private fun ProfileFieldsForm(
 ) {
     val context = LocalContext.current
 
-    var firstName  by remember(existingProfile) { mutableStateOf(existingProfile?.firstName  ?: "") }
-    var lastName   by remember(existingProfile) { mutableStateOf(existingProfile?.lastName   ?: "") }
-    var birthDay   by remember(existingProfile) { mutableStateOf(existingProfile?.birthDay?.toString()   ?: "") }
-    var birthMonth by remember(existingProfile) { mutableStateOf(existingProfile?.birthMonth?.toString() ?: "") }
-    var birthYear  by remember(existingProfile) { mutableStateOf(existingProfile?.birthYear?.toString()  ?: "") }
-    var birthHour  by remember(existingProfile) { mutableStateOf(if ((existingProfile?.birthHour ?: 0) > 0) existingProfile!!.birthHour.toString() else "") }
-    var birthMin   by remember(existingProfile) { mutableStateOf(if ((existingProfile?.birthMinute ?: 0) > 0) existingProfile!!.birthMinute.toString() else "") }
-    var birthCity  by remember(existingProfile) { mutableStateOf(existingProfile?.birthCity  ?: "") }
-    var utcOffset  by remember(existingProfile) { mutableStateOf(existingProfile?.let { formatUtcOffset(it.birthUtcOffsetMinutes) } ?: "") }
-    var error      by remember { mutableStateOf("") }
+    var firstName  by rememberSaveable(existingProfile) { mutableStateOf(existingProfile?.firstName  ?: "") }
+    var lastName   by rememberSaveable(existingProfile) { mutableStateOf(existingProfile?.lastName   ?: "") }
+    var birthDay   by rememberSaveable(existingProfile) { mutableStateOf(existingProfile?.birthDay?.toString()   ?: "") }
+    var birthMonth by rememberSaveable(existingProfile) { mutableStateOf(existingProfile?.birthMonth?.toString() ?: "") }
+    var birthYear  by rememberSaveable(existingProfile) { mutableStateOf(existingProfile?.birthYear?.toString()  ?: "") }
+    var birthHour  by rememberSaveable(existingProfile) { mutableStateOf(if ((existingProfile?.birthHour ?: 0) > 0) existingProfile!!.birthHour.toString() else "") }
+    var birthMin   by rememberSaveable(existingProfile) { mutableStateOf(if ((existingProfile?.birthMinute ?: 0) > 0) existingProfile!!.birthMinute.toString() else "") }
+    var birthCity  by rememberSaveable(existingProfile) { mutableStateOf(existingProfile?.birthCity  ?: "") }
+    var utcOffset  by rememberSaveable(existingProfile) { mutableStateOf(existingProfile?.let { formatUtcOffset(it.birthUtcOffsetMinutes) } ?: "") }
+    var error      by rememberSaveable { mutableStateOf("") }
 
     ProfileField(stringResource(R.string.profile_field_firstname), firstName, KeyboardCapitalization.Words) { firstName = it; onFieldChanged() }
     Spacer(Modifier.height(14.dp))

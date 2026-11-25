@@ -1,0 +1,1 @@
+• Le formulaire de profil et la note en cours de saisie ne s'effacent plus quand on tourne l'écran
